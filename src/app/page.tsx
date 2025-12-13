@@ -1,35 +1,11 @@
 import Image from "next/image";
+import { Button } from "@/components";
 
 export default function Home() {
   return (
-    <main className="min-h-screen bg-white">
-      {/* Header */}
-      <header className="fixed top-0 left-0 right-0 bg-black z-50">
-        <div className="max-w-6xl mx-auto px-4 py-4 flex items-center justify-between">
-          <Image
-            src="/images/logos/freegeek-logo.svg"
-            alt="Free Geek"
-            width={120}
-            height={40}
-            className="invert"
-          />
-          <nav className="hidden md:flex gap-6 text-sm">
-            <a href="https://freegeek.org/about" className="text-gray-300 hover:text-white">About</a>
-            <a href="https://freegeek.org/community-programs" className="text-gray-300 hover:text-white">Programs</a>
-            <a href="https://freegeek.org/shop" className="text-gray-300 hover:text-white">Shop</a>
-            <a href="https://freegeek.org/contact" className="text-gray-300 hover:text-white">Contact</a>
-          </nav>
-          <a
-            href="https://freegeek.org/donatetech"
-            className="bg-blue-600 hover:bg-blue-700 text-white px-4 py-2 rounded-lg text-sm font-semibold transition-colors"
-          >
-            Donate Tech
-          </a>
-        </div>
-      </header>
-
+    <div className="pt-[72px]">
       {/* Hero Section */}
-      <div className="pt-20 flex flex-col md:flex-row items-center justify-center min-h-screen px-4 py-16 bg-black">
+      <section className="flex flex-col md:flex-row items-center justify-center min-h-[calc(100vh-72px)] px-4 py-16 bg-black">
         <div className="max-w-xl text-center md:text-left md:mr-8">
           {/* Coming Soon Badge */}
           <div className="inline-block bg-blue-600 text-white px-4 py-1 rounded-full text-xs font-bold mb-6 uppercase tracking-wide">
@@ -50,18 +26,12 @@ export default function Home() {
 
           {/* CTA Buttons */}
           <div className="flex flex-col sm:flex-row gap-4">
-            <a
-              href="https://freegeek.org/donatetech"
-              className="px-8 py-4 bg-blue-600 hover:bg-blue-700 text-white font-bold rounded-lg transition-colors text-center"
-            >
+            <Button href="/donate-tech" size="lg">
               Donate Your Tech
-            </a>
-            <a
-              href="https://freegeek.org/community-programs"
-              className="px-8 py-4 bg-white hover:bg-gray-100 text-black font-bold rounded-lg transition-colors text-center"
-            >
+            </Button>
+            <Button href="/programs" variant="secondary" size="lg">
               Get a Computer
-            </a>
+            </Button>
           </div>
         </div>
 
@@ -76,7 +46,7 @@ export default function Home() {
             priority
           />
         </div>
-      </div>
+      </section>
 
       {/* Impact Stats */}
       <section className="py-16 px-4 bg-gray-50">
@@ -238,12 +208,9 @@ export default function Home() {
                 The digital divide hits hardest for low-income families, immigrants, seniors,
                 people with disabilities, and communities of color. We&apos;re here to change that.
               </p>
-              <a
-                href="https://freegeek.org/community-programs"
-                className="inline-block px-6 py-3 bg-blue-600 hover:bg-blue-700 text-white font-bold rounded-lg transition-colors"
-              >
+              <Button href="/programs">
                 Explore Our Programs
-              </a>
+              </Button>
             </div>
           </div>
         </div>
@@ -260,18 +227,12 @@ export default function Home() {
             off, and we&apos;ll handle the rest.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
-            <a
-              href="https://freegeek.org/donatetech"
-              className="inline-block px-10 py-4 bg-white hover:bg-gray-100 text-black font-bold rounded-lg transition-colors"
-            >
+            <Button href="/donate-tech" variant="secondary" size="lg">
               Donate Now
-            </a>
-            <a
-              href="https://freegeek.org/take-action-donate-technology/volunteer"
-              className="inline-block px-10 py-4 bg-transparent hover:bg-blue-700 text-white font-bold rounded-lg border-2 border-white transition-colors"
-            >
+            </Button>
+            <Button href="/volunteer" variant="outline" size="lg">
               Volunteer With Us
-            </a>
+            </Button>
           </div>
         </div>
       </section>
@@ -291,61 +252,6 @@ export default function Home() {
           </p>
         </div>
       </section>
-
-      {/* Footer */}
-      <footer className="bg-black text-white py-12 px-4">
-        <div className="max-w-5xl mx-auto">
-          <div className="flex flex-col md:flex-row justify-between items-start gap-8 mb-8">
-            <div>
-              <Image
-                src="/images/logos/freegeek-logo.svg"
-                alt="Free Geek"
-                width={150}
-                height={50}
-                className="invert mb-4"
-              />
-              <p className="text-gray-400 text-sm max-w-xs">
-                Sustainably reusing technology, enabling digital access,
-                and empowering communities since 2000.
-              </p>
-            </div>
-            <div className="grid grid-cols-2 md:grid-cols-3 gap-8">
-              <div>
-                <h3 className="font-bold mb-4">Programs</h3>
-                <ul className="space-y-2 text-sm text-gray-400">
-                  <li><a href="https://freegeek.org/community-programs" className="hover:text-white">Get a Computer</a></li>
-                  <li><a href="https://freegeek.org/our-work/hardware-grants" className="hover:text-white">Hardware Grants</a></li>
-                  <li><a href="https://freegeek.org/education" className="hover:text-white">Digital Skills</a></li>
-                </ul>
-              </div>
-              <div>
-                <h3 className="font-bold mb-4">Get Involved</h3>
-                <ul className="space-y-2 text-sm text-gray-400">
-                  <li><a href="https://freegeek.org/donatetech" className="hover:text-white">Donate Tech</a></li>
-                  <li><a href="https://freegeek.org/take-action-donate-technology/volunteer" className="hover:text-white">Volunteer</a></li>
-                  <li><a href="https://freegeek.org/about/bridge" className="hover:text-white">Donate Money</a></li>
-                </ul>
-              </div>
-              <div>
-                <h3 className="font-bold mb-4">Connect</h3>
-                <ul className="space-y-2 text-sm text-gray-400">
-                  <li><a href="https://instagram.com/freegeekmothership" className="hover:text-white">Instagram</a></li>
-                  <li><a href="https://linkedin.com/company/free-geek" className="hover:text-white">LinkedIn</a></li>
-                  <li><a href="https://twitter.com/FreeGeekPDX" className="hover:text-white">Twitter</a></li>
-                </ul>
-              </div>
-            </div>
-          </div>
-          <div className="border-t border-gray-800 pt-8 flex flex-col md:flex-row justify-between items-center gap-4">
-            <p className="text-gray-500 text-sm">
-              &copy; {new Date().getFullYear()} Free Geek. 501(c)(3) Nonprofit Organization.
-            </p>
-            <p className="text-gray-600 text-sm">
-              Turning e-waste into opportunity since Earth Day, 2000.
-            </p>
-          </div>
-        </div>
-      </footer>
-    </main>
+    </div>
   );
 }

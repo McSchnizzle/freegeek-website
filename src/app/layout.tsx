@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import "./globals.css";
+import { Header, Footer } from "@/components";
 
 export const metadata: Metadata = {
   title: "Free Geek Portland | Digital Equity & E-Waste Recycling",
@@ -33,7 +34,13 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body className="antialiased">{children}</body>
+      <body className="antialiased">
+        <Header />
+        <main id="main-content">
+          {children}
+        </main>
+        <Footer />
+      </body>
     </html>
   );
 }
