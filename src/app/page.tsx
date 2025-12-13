@@ -1,7 +1,9 @@
 import Image from "next/image";
 import { Button } from "@/components";
+import { getTranslations } from "next-intl/server";
 
-export default function Home() {
+export default async function Home() {
+  const t = await getTranslations("home");
   return (
     <div className="pt-[72px]">
       {/* Hero Section */}
@@ -9,19 +11,17 @@ export default function Home() {
         <div className="max-w-xl text-center md:text-left md:mr-8">
           {/* Coming Soon Badge */}
           <div className="inline-block bg-blue-600 text-white px-4 py-1 rounded-full text-xs font-bold mb-6 uppercase tracking-wide">
-            New Website Coming Soon
+            {t("hero.badge")}
           </div>
 
           {/* Tagline */}
           <h1 className="text-4xl md:text-6xl font-bold text-white leading-tight mb-4">
-            Your old tech.
+            {t("hero.title1")}
             <br />
-            <span className="text-blue-500">Someone&apos;s new future.</span>
+            <span className="text-blue-500">{t("hero.title2")}</span>
           </h1>
           <p className="text-lg text-gray-300 mb-8">
-            We turn e-waste into opportunity. For 25 years, we&apos;ve been
-            keeping tech out of landfills and putting it into the hands of
-            people who need it most.
+            {t("hero.description")}
           </p>
 
           {/* CTA Buttons */}
@@ -57,7 +57,7 @@ export default function Home() {
                 82M+
               </div>
               <div className="text-sm text-gray-600 mt-2">
-                Pounds of e-waste saved from landfills
+                {t("stats.ewaste")}
               </div>
             </div>
             <div className="text-center p-6">
@@ -65,7 +65,7 @@ export default function Home() {
                 75K+
               </div>
               <div className="text-sm text-gray-600 mt-2">
-                Devices given to people in need
+                {t("stats.devices")}
               </div>
             </div>
             <div className="text-center p-6">
@@ -73,7 +73,7 @@ export default function Home() {
                 150K+
               </div>
               <div className="text-sm text-gray-600 mt-2">
-                Community members connected
+                {t("stats.community")}
               </div>
             </div>
             <div className="text-center p-6">
@@ -81,7 +81,7 @@ export default function Home() {
                 25
               </div>
               <div className="text-sm text-gray-600 mt-2">
-                Years bridging the digital divide
+                {t("stats.years")}
               </div>
             </div>
           </div>
@@ -103,7 +103,7 @@ export default function Home() {
             </div>
             <div className="md:w-1/2">
               <h2 className="text-3xl md:text-4xl font-bold text-black mb-6">
-                Two crises. One solution.
+                {t("problem.title")}
               </h2>
               <div className="space-y-6">
                 <div className="flex items-start gap-4">
@@ -134,7 +134,7 @@ export default function Home() {
       <section className="py-20 px-4 bg-black text-white">
         <div className="max-w-5xl mx-auto text-center">
           <h2 className="text-3xl md:text-4xl font-bold mb-16">
-            Here&apos;s how it works
+            {t("howItWorks.title")}
           </h2>
           <div className="grid md:grid-cols-3 gap-12">
             <div className="flex flex-col items-center">
@@ -145,10 +145,9 @@ export default function Home() {
                 height={120}
                 className="mb-6"
               />
-              <h3 className="text-xl font-bold mb-3">You donate</h3>
+              <h3 className="text-xl font-bold mb-3">{t("howItWorks.donate.title")}</h3>
               <p className="text-gray-400">
-                Drop off laptops, desktops, phones—anything with a plug.
-                We wipe your data securely.
+                {t("howItWorks.donate.description")}
               </p>
             </div>
             <div className="flex flex-col items-center">
@@ -159,10 +158,9 @@ export default function Home() {
                 height={120}
                 className="mb-6"
               />
-              <h3 className="text-xl font-bold mb-3">We refurbish</h3>
+              <h3 className="text-xl font-bold mb-3">{t("howItWorks.refurbish.title")}</h3>
               <p className="text-gray-400">
-                Our team rebuilds what can be saved (~30%). What can&apos;t gets
-                responsibly recycled for materials recovery (~70%).
+                {t("howItWorks.refurbish.description")}
               </p>
             </div>
             <div className="flex flex-col items-center">
@@ -173,10 +171,9 @@ export default function Home() {
                 height={120}
                 className="mb-6"
               />
-              <h3 className="text-xl font-bold mb-3">They thrive</h3>
+              <h3 className="text-xl font-bold mb-3">{t("howItWorks.distribute.title")}</h3>
               <p className="text-gray-400">
-                A student gets a laptop for school. A job seeker sends their
-                first resume. A grandma video-calls her family.
+                {t("howItWorks.distribute.description")}
               </p>
             </div>
           </div>
@@ -198,15 +195,13 @@ export default function Home() {
             </div>
             <div className="md:w-1/2">
               <h2 className="text-3xl md:text-4xl font-bold text-black mb-6">
-                Digital inclusion is a social justice issue
+                {t("community.title")}
               </h2>
               <p className="text-lg text-gray-600 mb-6">
-                Without technology access, full participation in American society is impossible.
-                Jobs, education, healthcare, civic engagement—all require being connected.
+                {t("community.p1")}
               </p>
               <p className="text-lg text-gray-600 mb-6">
-                The digital divide hits hardest for low-income families, immigrants, seniors,
-                people with disabilities, and communities of color. We&apos;re here to change that.
+                {t("community.p2")}
               </p>
               <Button href="/programs">
                 Explore Our Programs
@@ -220,11 +215,10 @@ export default function Home() {
       <section className="py-20 px-4 bg-blue-600">
         <div className="max-w-4xl mx-auto text-center">
           <h2 className="text-3xl md:text-4xl font-bold text-white mb-4">
-            Got old tech collecting dust?
+            {t("cta.title")}
           </h2>
           <p className="text-xl text-blue-100 mb-8 max-w-2xl mx-auto">
-            That laptop in your closet could change someone&apos;s life. Drop it
-            off, and we&apos;ll handle the rest.
+            {t("cta.description")}
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Button href="/donate-tech" variant="secondary" size="lg">
@@ -240,7 +234,7 @@ export default function Home() {
       {/* Location */}
       <section className="py-16 px-4 bg-gray-50">
         <div className="max-w-4xl mx-auto text-center">
-          <h2 className="text-2xl font-bold text-black mb-4">Visit Us</h2>
+          <h2 className="text-2xl font-bold text-black mb-4">{t("visit.title")}</h2>
           <p className="text-lg text-gray-600 mb-2">
             <strong>1731 SE 10th Avenue, Portland, OR 97214</strong>
           </p>
