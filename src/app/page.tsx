@@ -161,8 +161,8 @@ export default function Home() {
               />
               <h3 className="text-xl font-bold mb-3">We refurbish</h3>
               <p className="text-gray-400">
-                Our team rebuilds what can be saved. What can&apos;t gets
-                responsibly recycled—zero landfill.
+                Our team rebuilds what can be saved (~30%). What can&apos;t gets
+                responsibly recycled for materials recovery (~70%).
               </p>
             </div>
             <div className="flex flex-col items-center">
@@ -198,7 +198,7 @@ export default function Home() {
             </div>
             <div className="md:w-1/2">
               <h2 className="text-3xl md:text-4xl font-bold text-black mb-6">
-                Digital inclusion is a civil rights issue
+                Digital inclusion is a social justice issue
               </h2>
               <p className="text-lg text-gray-600 mb-6">
                 Without technology access, full participation in American society is impossible.

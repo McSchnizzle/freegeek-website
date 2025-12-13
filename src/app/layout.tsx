@@ -1,6 +1,8 @@
 import type { Metadata } from "next";
 import "./globals.css";
 import { Header, Footer } from "@/components";
+import { NextIntlClientProvider } from "next-intl";
+import { getMessages, getLocale } from "next-intl/server";
 
 export const metadata: Metadata = {
   title: "Free Geek Portland | Digital Equity & E-Waste Recycling",
@@ -27,19 +29,24 @@ export const metadata: Metadata = {
   },
 };
 
-export default function RootLayout({
+export default async function RootLayout({
   children,
 }: {
   children: React.ReactNode;
 }) {
+  const locale = await getLocale();
+  const messages = await getMessages();
+
   return (
-    <html lang="en">
+    <html lang={locale}>
       <body className="antialiased">
-        <Header />
-        <main id="main-content">
-          {children}
-        </main>
-        <Footer />
+        <NextIntlClientProvider messages={messages}>
+          <Header />
+          <main id="main-content" role="main">
+            {children}
+          </main>
+          <Footer />
+        </NextIntlClientProvider>
       </body>
     </html>
   );

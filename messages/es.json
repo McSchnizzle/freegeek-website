@@ -1,0 +1,90 @@
+{
+  "common": {
+    "learnMore": "Más información",
+    "contactUs": "Contáctenos",
+    "donateTech": "Donar tecnología",
+    "getComputer": "Obtener una computadora",
+    "volunteer": "Voluntariado",
+    "donate": "Donar",
+    "about": "Acerca de",
+    "programs": "Programas",
+    "shop": "Tienda",
+    "contact": "Contacto",
+    "opensNewTab": "(se abre en nueva pestaña)",
+    "email": "Correo electrónico",
+    "phone": "Teléfono",
+    "address": "Dirección",
+    "hours": "Horario"
+  },
+  "nav": {
+    "skipToContent": "Saltar al contenido principal",
+    "openMenu": "Abrir menú",
+    "closeMenu": "Cerrar menú",
+    "mainNav": "Navegación principal",
+    "mobileNav": "Navegación móvil"
+  },
+  "footer": {
+    "newsletter": {
+      "title": "Mantente informado",
+      "description": "Recibe noticias, historias de impacto y oportunidades de voluntariado en tu correo.",
+      "placeholder": "Ingresa tu correo",
+      "subscribe": "Suscribirse",
+      "note": "Nota: El registro al boletín aún no está conectado. Para actualizaciones, síguenos en redes sociales."
+    },
+    "tagline": "Reutilizando tecnología de manera sostenible, habilitando el acceso digital y empoderando comunidades desde el año 2000.",
+    "copyright": "Free Geek. Organización sin fines de lucro 501(c)(3).",
+    "since": "Convirtiendo desechos electrónicos en oportunidades desde el Día de la Tierra, 2000."
+  },
+  "home": {
+    "hero": {
+      "badge": "Nuevo sitio web próximamente",
+      "title1": "Tu vieja tecnología.",
+      "title2": "El nuevo futuro de alguien.",
+      "description": "Convertimos los desechos electrónicos en oportunidades. Durante 25 años, hemos mantenido la tecnología fuera de los vertederos y la hemos puesto en manos de quienes más la necesitan."
+    },
+    "stats": {
+      "ewaste": "Libras de desechos electrónicos salvados de vertederos",
+      "devices": "Dispositivos entregados a personas necesitadas",
+      "community": "Miembros de la comunidad conectados",
+      "years": "Años cerrando la brecha digital"
+    },
+    "problem": {
+      "title": "Dos crisis. Una solución.",
+      "ewaste": "Los desechos electrónicos son solo el 2% de la basura de Estados Unidos, pero el 70% de sus desechos tóxicos. La mayoría termina en vertederos, envenenando el suelo y el agua.",
+      "access": "Los hogares estadounidenses no tienen computadora. Sin computadora no hay solicitudes de empleo, no hay tareas, no hay telemedicina, no hay conexión.",
+      "solution": "Tomamos dispositivos que la gente ya no necesita y se los damos a quienes sí los necesitan. No es caridad, es sentido común."
+    },
+    "howItWorks": {
+      "title": "Así funciona",
+      "donate": {
+        "title": "Tú donas",
+        "description": "Deja laptops, computadoras de escritorio, teléfonos—cualquier cosa con enchufe. Borramos tus datos de forma segura."
+      },
+      "refurbish": {
+        "title": "Nosotros restauramos",
+        "description": "Nuestro equipo reconstruye lo que se puede salvar (~30%). Lo que no, se recicla responsablemente para recuperar materiales (~70%)."
+      },
+      "distribute": {
+        "title": "Ellos prosperan",
+        "description": "Un estudiante obtiene una laptop para la escuela. Un buscador de empleo envía su primer currículum. Una abuela hace videollamadas con su familia."
+      }
+    },
+    "community": {
+      "title": "La inclusión digital es un tema de justicia social",
+      "p1": "Sin acceso a la tecnología, la participación plena en la sociedad estadounidense es imposible. Empleos, educación, atención médica, participación cívica—todo requiere estar conectado.",
+      "p2": "La brecha digital afecta más a las familias de bajos ingresos, inmigrantes, personas mayores, personas con discapacidades y comunidades de color. Estamos aquí para cambiar eso."
+    },
+    "cta": {
+      "title": "¿Tienes tecnología vieja acumulando polvo?",
+      "description": "Esa laptop en tu armario podría cambiar la vida de alguien. Déjala con nosotros y nos encargamos del resto."
+    },
+    "visit": {
+      "title": "Visítanos"
+    }
+  },
+  "language": {
+    "en": "Inglés",
+    "es": "Español",
+    "switchTo": "Cambiar idioma"
+  }
+}

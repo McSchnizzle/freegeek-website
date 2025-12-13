@@ -1,0 +1,90 @@
+{
+  "common": {
+    "learnMore": "Learn More",
+    "contactUs": "Contact Us",
+    "donateTech": "Donate Tech",
+    "getComputer": "Get a Computer",
+    "volunteer": "Volunteer",
+    "donate": "Donate",
+    "about": "About",
+    "programs": "Programs",
+    "shop": "Shop",
+    "contact": "Contact",
+    "opensNewTab": "(opens in new tab)",
+    "email": "Email",
+    "phone": "Phone",
+    "address": "Address",
+    "hours": "Hours"
+  },
+  "nav": {
+    "skipToContent": "Skip to main content",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "mainNav": "Main navigation",
+    "mobileNav": "Mobile navigation"
+  },
+  "footer": {
+    "newsletter": {
+      "title": "Stay in the loop",
+      "description": "Get news, impact stories, and volunteer opportunities delivered to your inbox.",
+      "placeholder": "Enter your email",
+      "subscribe": "Subscribe",
+      "note": "Note: Newsletter signup is not yet connected. For updates, follow us on social media."
+    },
+    "tagline": "Sustainably reusing technology, enabling digital access, and empowering communities since 2000.",
+    "copyright": "Free Geek. 501(c)(3) Nonprofit Organization.",
+    "since": "Turning e-waste into opportunity since Earth Day, 2000."
+  },
+  "home": {
+    "hero": {
+      "badge": "New Website Coming Soon",
+      "title1": "Your old tech.",
+      "title2": "Someone's new future.",
+      "description": "We turn e-waste into opportunity. For 25 years, we've been keeping tech out of landfills and putting it into the hands of people who need it most."
+    },
+    "stats": {
+      "ewaste": "Pounds of e-waste saved from landfills",
+      "devices": "Devices given to people in need",
+      "community": "Community members connected",
+      "years": "Years bridging the digital divide"
+    },
+    "problem": {
+      "title": "Two crises. One solution.",
+      "ewaste": "E-waste is just 2% of America's trash—but 70% of its toxic waste. Most ends up in landfills, poisoning soil and water.",
+      "access": "American households don't have a computer. No computer means no job applications, no homework, no telehealth, no connection.",
+      "solution": "We take devices people no longer need and give them to people who do. It's not charity—it's common sense."
+    },
+    "howItWorks": {
+      "title": "Here's how it works",
+      "donate": {
+        "title": "You donate",
+        "description": "Drop off laptops, desktops, phones—anything with a plug. We wipe your data securely."
+      },
+      "refurbish": {
+        "title": "We refurbish",
+        "description": "Our team rebuilds what can be saved (~30%). What can't gets responsibly recycled for materials recovery (~70%)."
+      },
+      "distribute": {
+        "title": "They thrive",
+        "description": "A student gets a laptop for school. A job seeker sends their first resume. A grandma video-calls her family."
+      }
+    },
+    "community": {
+      "title": "Digital inclusion is a social justice issue",
+      "p1": "Without technology access, full participation in American society is impossible. Jobs, education, healthcare, civic engagement—all require being connected.",
+      "p2": "The digital divide hits hardest for low-income families, immigrants, seniors, people with disabilities, and communities of color. We're here to change that."
+    },
+    "cta": {
+      "title": "Got old tech collecting dust?",
+      "description": "That laptop in your closet could change someone's life. Drop it off, and we'll handle the rest."
+    },
+    "visit": {
+      "title": "Visit Us"
+    }
+  },
+  "language": {
+    "en": "English",
+    "es": "Spanish",
+    "switchTo": "Switch language"
+  }
+}

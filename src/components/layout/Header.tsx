@@ -4,6 +4,7 @@ import Image from 'next/image';
 import Link from 'next/link';
 import { useState } from 'react';
 import { Button } from '../ui/Button';
+import { LanguageSwitcher } from '../ui/LanguageSwitcher';
 
 const navLinks = [
   { href: '/about', label: 'About' },
@@ -40,7 +41,7 @@ export function Header() {
         </Link>
 
         {/* Desktop Navigation */}
-        <nav className="hidden md:flex items-center gap-6">
+        <nav className="hidden md:flex items-center gap-6" aria-label="Main navigation">
           {navLinks.map((link) => (
             link.external ? (
               <a
@@ -51,6 +52,7 @@ export function Header() {
                 className="text-gray-300 hover:text-white text-sm font-medium transition-colors"
               >
                 {link.label}
+                <span className="sr-only"> (opens in new tab)</span>
               </a>
             ) : (
               <Link
@@ -64,8 +66,9 @@ export function Header() {
           ))}
         </nav>
 
-        {/* CTA Button */}
-        <div className="hidden md:block">
+        {/* CTA Button and Language Switcher */}
+        <div className="hidden md:flex items-center gap-4">
+          <LanguageSwitcher />
           <Button href="/donate-tech" size="sm">
             Donate Tech
           </Button>
@@ -78,6 +81,7 @@ export function Header() {
           onClick={() => setMobileMenuOpen(!mobileMenuOpen)}
           aria-label={mobileMenuOpen ? 'Close menu' : 'Open menu'}
           aria-expanded={mobileMenuOpen}
+          aria-controls="mobile-menu"
         >
           {mobileMenuOpen ? (
             <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -93,8 +97,8 @@ export function Header() {
 
       {/* Mobile Menu */}
       {mobileMenuOpen && (
-        <div className="md:hidden bg-black border-t border-gray-800">
-          <nav className="px-4 py-4 space-y-2">
+        <div id="mobile-menu" className="md:hidden bg-black border-t border-gray-800">
+          <nav className="px-4 py-4 space-y-2" aria-label="Mobile navigation">
             {navLinks.map((link) => (
               link.external ? (
                 <a
@@ -106,6 +110,7 @@ export function Header() {
                   onClick={() => setMobileMenuOpen(false)}
                 >
                   {link.label}
+                  <span className="sr-only"> (opens in new tab)</span>
                 </a>
               ) : (
                 <Link
@@ -118,7 +123,10 @@ export function Header() {
                 </Link>
               )
             ))}
-            <div className="pt-4">
+            <div className="pt-4 flex flex-col gap-4">
+              <div className="flex justify-center">
+                <LanguageSwitcher />
+              </div>
               <Button href="/donate-tech" className="w-full">
                 Donate Tech
               </Button>

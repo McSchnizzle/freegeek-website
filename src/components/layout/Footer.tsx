@@ -23,8 +23,39 @@ export function Footer() {
   const currentYear = new Date().getFullYear();
 
   return (
-    <footer className="bg-black text-white py-12 px-4">
+    <footer className="bg-black text-white py-12 px-4" role="contentinfo" aria-label="Site footer">
       <div className="max-w-5xl mx-auto">
+        {/* Newsletter Signup */}
+        <div className="border-b border-gray-800 pb-8 mb-8">
+          <div className="flex flex-col md:flex-row md:items-center justify-between gap-4">
+            <div>
+              <h2 className="text-xl font-bold mb-1">Stay in the loop</h2>
+              <p className="text-gray-400 text-sm">Get news, impact stories, and volunteer opportunities delivered to your inbox.</p>
+            </div>
+            <form className="flex flex-col sm:flex-row gap-2 w-full md:w-auto">
+              <label htmlFor="newsletter-email" className="sr-only">Email address</label>
+              <input
+                type="email"
+                id="newsletter-email"
+                name="email"
+                placeholder="Enter your email"
+                className="px-4 py-2 bg-gray-900 border border-gray-700 rounded-lg text-white placeholder-gray-500 focus:ring-2 focus:ring-blue-500 focus:border-blue-500 outline-none transition w-full sm:w-64"
+                required
+                aria-required="true"
+              />
+              <button
+                type="submit"
+                className="px-6 py-2 bg-blue-600 hover:bg-blue-700 text-white font-semibold rounded-lg transition focus:ring-2 focus:ring-blue-500 focus:ring-offset-2 focus:ring-offset-black"
+              >
+                Subscribe
+              </button>
+            </form>
+          </div>
+          <p className="text-xs text-gray-500 mt-2">
+            Note: Newsletter signup is not yet connected. For updates, follow us on social media.
+          </p>
+        </div>
+
         <div className="flex flex-col md:flex-row justify-between items-start gap-8 mb-8">
           {/* Logo and Mission */}
           <div className="max-w-xs">
@@ -86,6 +117,7 @@ export function Footer() {
                       className="hover:text-white transition-colors"
                     >
                       {link.label}
+                      <span className="sr-only"> (opens in new tab)</span>
                     </a>
                   </li>
                 ))}
