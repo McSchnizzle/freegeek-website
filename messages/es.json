@@ -14,7 +14,18 @@
     "email": "Correo electrónico",
     "phone": "Teléfono",
     "address": "Dirección",
-    "hours": "Horario"
+    "hours": "Horario",
+    "explorePrograms": "Explorar nuestros programas",
+    "donateNow": "Donar ahora",
+    "volunteerWithUs": "Ser voluntario",
+    "viewAllPrograms": "Ver todos los programas",
+    "getStarted": "Comenzar",
+    "applyNow": "Aplicar ahora",
+    "schedulePickup": "Programar una recolección",
+    "dropOffAnytime": "Dejar en cualquier momento",
+    "scheduleDropOff": "Programar entrega",
+    "makeFinancialDonation": "Hacer una donación financiera",
+    "getDirections": "Obtener direcciones"
   },
   "nav": {
     "skipToContent": "Saltar al contenido principal",
@@ -80,6 +91,509 @@
     },
     "visit": {
       "title": "Visítanos"
+    }
+  },
+  "about": {
+    "hero": {
+      "title1": "Creemos que la tecnología",
+      "title2": "debería ser para todos.",
+      "description": "Desde el Día de la Tierra del 2000, hemos estado convirtiendo desechos electrónicos en oportunidades—manteniendo la tecnología fuera de los vertederos y poniéndola en manos de quienes más la necesitan."
+    },
+    "origin": {
+      "title": "Nuestra Historia",
+      "p1": "Free Geek se lanzó en Pioneer Courthouse Square el Día de la Tierra del 2000. Ese septiembre, abrimos nuestras puertas en SE 10th Avenue como un punto de entrega de desechos electrónicos—salvando tecnología antes de que llegara a los vertederos.",
+      "p2": "Durante 25 años, hemos evolucionado de un centro de reciclaje a una potencia de inclusión digital. Nuestros programas de reutilización y reciclaje siguen siendo nuestra columna vertebral, proporcionando los dispositivos restaurados que devolvemos a la comunidad.",
+      "p3": "Pero hoy, nuestra misión principal es reducir la brecha digital—asegurando que todos tengan acceso a la tecnología y las habilidades para usarla."
+    },
+    "mission": {
+      "title": "Nuestra Misión",
+      "text": "Reutilizar tecnología de manera sostenible, habilitar el acceso digital y proporcionar educación para crear una comunidad que empodere a las personas a realizar su potencial."
+    },
+    "problems": {
+      "title": "Dos Problemas. Una Solución.",
+      "digitalDivide": {
+        "stat": "27%",
+        "title": "La Brecha Digital",
+        "p1": "El 27% de los estadounidenses no poseen una computadora. Una de cada diez familias carece de internet en casa. Esta brecha afecta más a las familias de bajos ingresos, inmigrantes, personas mayores y comunidades de color.",
+        "p2": "Sin acceso a la tecnología, la participación plena en la sociedad estadounidense—empleos, educación, atención médica, participación cívica—se ve comprometida. Este es un tema de justicia social."
+      },
+      "ewaste": {
+        "stat": "70%",
+        "title": "La Crisis de los Desechos Electrónicos",
+        "p1": "Solo el 27% de los desechos electrónicos se recicla a nivel nacional. Los desechos electrónicos son solo el 2% de la basura en los vertederos de Estados Unidos, pero el 70% de sus desechos tóxicos.",
+        "p2": "La mayoría de los \"desechos electrónicos\" no son desechos en absoluto. Son equipos perfectamente buenos que pueden ser reparados, restaurados y tener una nueva vida."
+      }
+    },
+    "circular": {
+      "title": "El Modelo Circular",
+      "description": "Apuntamos estos dos problemas uno hacia el otro. Las computadoras que otorgamos a los participantes de Inclusión Digital se salvan de los vertederos y ayudan a las poblaciones más vulnerables de nuestra comunidad a desarrollar las habilidades digitales que necesitan para prosperar."
+    },
+    "impact": {
+      "title": "Nuestro Impacto",
+      "years": "Años de servicio",
+      "diverted": "Libras desviadas de vertederos",
+      "granted": "Dispositivos otorgados",
+      "served": "Miembros de la comunidad atendidos"
+    },
+    "cta": {
+      "title": "¿Listo para participar?",
+      "description": "Ya sea que dones tecnología, ofrezcas tu tiempo como voluntario o nos apoyes financieramente, estás ayudando a cerrar la brecha digital."
+    }
+  },
+  "programs": {
+    "hero": {
+      "title1": "¿Necesitas una computadora?",
+      "title2": "Te tenemos cubierto.",
+      "description": "El 27% de los estadounidenses no poseen una computadora. Estamos trabajando para cambiar eso con tecnología gratuita y de bajo costo para individuos y organizaciones."
+    },
+    "individuals": {
+      "badge": "Para Individuos",
+      "title": "Plug Into Portland",
+      "p1": "Nuestro programa principal para individuos que necesitan una computadora. Aplica para entrar en la lista de espera para una laptop gratuita con Linux Mint, con garantía de un año y soporte de Navegación Digital.",
+      "p2": "Actualmente, 75,000 estudiantes de Oregón no tienen una computadora personal para completar sus tareas. Estamos aquí para cerrar esa brecha.",
+      "cta": "Aplicar para una Laptop Gratuita",
+      "questions": "¿Preguntas? Envíanos un correo a"
+    },
+    "receive": {
+      "title": "Lo que recibirás",
+      "laptop": {
+        "title": "Laptop Restaurada",
+        "description": "Una laptop restaurada de calidad con Linux Mint, lista para usar"
+      },
+      "warranty": {
+        "title": "Garantía de Un Año",
+        "description": "Cobertura completa de garantía para que uses tu dispositivo con confianza"
+      },
+      "support": {
+        "title": "Soporte de Navegación Digital",
+        "description": "Ayuda para configurar y aprender a usar tu nueva computadora"
+      }
+    },
+    "organizations": {
+      "badge": "Para Organizaciones",
+      "title": "Becas de Hardware y Tecnología Asequible",
+      "description": "Free Geek apoya a organizaciones sin fines de lucro y comunitarias con tecnología. Ya sea que necesites dispositivos para tu personal o las comunidades que sirves, tenemos programas para ayudar.",
+      "orgGrants": {
+        "title": "Becas de Hardware Organizacional",
+        "description": "Tecnología restaurada gratuita para uso organizacional sin fines de lucro"
+      },
+      "communityGrants": {
+        "title": "Becas de Hardware Comunitario",
+        "description": "Tecnología gratuita para los miembros de la comunidad que tu organización sirve"
+      },
+      "affordable": {
+        "title": "Programa de Tecnología Asequible",
+        "description": "Oportunidades de asociación para necesidades tecnológicas a mayor escala a precios asequibles",
+        "badge": "Consultar Disponibilidad"
+      },
+      "cta": "Más Información y Aplicar"
+    },
+    "shop": {
+      "title": "¿Necesitas una computadora ahora?",
+      "description": "Si no eres elegible para nuestros programas gratuitos o no puedes esperar en la lista de espera, puedes comprar computadoras restauradas de calidad en nuestra tienda en línea a precios asequibles.",
+      "cta": "Visitar Nuestra Tienda"
+    },
+    "gap": {
+      "title": "La brecha de tareas es real",
+      "p1": "La \"brecha de tareas\" describe la dificultad que enfrentan los estudiantes para completar sus asignaciones sin acceso a un dispositivo o internet en casa. Solo en Oregón, 75,000 estudiantes carecen de una computadora personal para hacer sus tareas.",
+      "p2": "Cuando ponemos una computadora en las manos de un estudiante, no solo les damos un dispositivo—les damos la capacidad de hacer sus tareas, solicitar empleos, conectarse con su familia y participar plenamente en nuestro mundo digital.",
+      "cta": "Ayúdanos a Cerrar la Brecha"
+    },
+    "finalCta": {
+      "title": "¿No estás seguro de qué programa es el adecuado para ti?",
+      "description": "Contáctanos y te ayudaremos a encontrar el mejor camino para conectarte."
+    }
+  },
+  "donateTech": {
+    "hero": {
+      "title1": "Tu vieja tecnología",
+      "title2": "merece una segunda vida.",
+      "description": "¿Esa laptop acumulando polvo en tu armario? Podría ayudar a un estudiante a hacer sus tareas, a un buscador de empleo a conseguir una entrevista, o a un abuelo a conectarse con su familia.",
+      "dropOff": "Dejar en Persona",
+      "schedulePickup": "Programar una Recolección"
+    },
+    "dropOff": {
+      "title": "Deja tu donación",
+      "location": "Ubicación",
+      "address": "1731 SE 10th Avenue, Portland, OR 97214",
+      "parking": "Estacionamiento exterior en el lado noreste de nuestro edificio",
+      "hours": "Horario",
+      "days": "Miércoles - Sábado",
+      "times": "11:00 AM - 4:00 PM",
+      "noAppointment": "No se necesita cita para donaciones pequeñas. Solo conduce durante nuestro horario de entrega y nuestro equipo te ayudará a descargar."
+    },
+    "options": {
+      "title": "Opciones de donación",
+      "small": {
+        "title": "Pequeña",
+        "subtitle": "Menos de 20 dispositivos",
+        "description": "Perfecto para donaciones personales. Solo conduce durante nuestro horario de entrega—no necesitas cita.",
+        "cta": "Dejar en Cualquier Momento"
+      },
+      "large": {
+        "title": "Grande",
+        "subtitle": "20+ dispositivos",
+        "description": "¿Tienes una donación más grande? Programa con anticipación para que podamos asegurarnos de tener espacio y personal listo para ti.",
+        "cta": "Programar Entrega"
+      },
+      "corporate": {
+        "title": "Corporativa",
+        "subtitle": "Donaciones empresariales",
+        "description": "¿Retirando equipo de TI? Ofrecemos servicios de recolección y podemos proporcionar documentación para tus registros.",
+        "cta": "Contáctanos"
+      }
+    },
+    "security": {
+      "title": "Tus datos están seguros con nosotros",
+      "description": "Tomamos la seguridad de datos en serio. Cada dispositivo con datos va directamente a nuestra área segura, solo para personal, para una sanitización adecuada.",
+      "nist": "Sanitización de datos conforme a NIST SP800-88",
+      "sigma": "Procesos certificados por i-SIGMA",
+      "certificate": "Certificado de Destrucción de Datos disponible ($10/dispositivo)",
+      "cta": "Más Información sobre Seguridad de Datos"
+    },
+    "accept": {
+      "title": "¿Qué puedes donar?",
+      "laptops": "Laptops",
+      "desktops": "Computadoras de escritorio",
+      "smartphones": "Teléfonos inteligentes",
+      "tablets": "Tabletas",
+      "monitors": "Monitores",
+      "printers": "Impresoras",
+      "keyboards": "Teclados",
+      "cables": "Cables y Accesorios",
+      "notSure": "¿No estás seguro si aceptamos tu artículo? Consulta nuestras",
+      "faq": "Preguntas Frecuentes",
+      "orContact": "o contáctanos en"
+    },
+    "cta": {
+      "title": "¿Listo para hacer la diferencia?",
+      "description": "Cada dispositivo que donas ayuda a cerrar la brecha digital en nuestra comunidad."
+    }
+  },
+  "donate": {
+    "hero": {
+      "title1": "Impulsa la misión.",
+      "title2": "Cierra la brecha.",
+      "description": "Tu apoyo financiero nos ayuda a poner tecnología en manos de quienes más la necesitan mientras mantenemos los desechos electrónicos fuera de los vertederos."
+    },
+    "ways": {
+      "title": "Formas de Donar",
+      "description": "Cada dólar nos ayuda a restaurar computadoras, proporcionar capacitación en habilidades digitales y conectar a miembros de la comunidad con oportunidades.",
+      "oneTime": {
+        "title": "Donación Única",
+        "description": "Haz un impacto inmediato con una sola donación de cualquier cantidad.",
+        "cta": "Donar Ahora"
+      },
+      "monthly": {
+        "title": "Donación Mensual",
+        "description": "Conviértete en un donante recurrente con una donación mensual.",
+        "cta": "Donar Mensualmente"
+      },
+      "legacy": {
+        "title": "Corporativo y Legado",
+        "description": "Asóciate con nosotros o incluye a Free Geek en tu planificación patrimonial.",
+        "cta": "Contáctanos"
+      }
+    },
+    "impact": {
+      "title": "Tu Impacto",
+      "amount25": "Cubre la sanitización de datos y suministros de restauración para un dispositivo",
+      "amount100": "Proporciona capacitación en habilidades digitales para un miembro de la comunidad",
+      "amount250": "Financia completamente una computadora restaurada para un estudiante o buscador de empleo"
+    },
+    "other": {
+      "title": "Otras Formas de Apoyar",
+      "donateTech": {
+        "title": "Donar Tecnología",
+        "description": "¿Tienes dispositivos viejos? Los restauraremos para miembros de la comunidad que los necesitan."
+      },
+      "volunteer": {
+        "title": "Dona Tu Tiempo",
+        "description": "Únete a nuestro equipo y ayuda a cerrar la brecha digital de manera práctica."
+      },
+      "techDrive": {
+        "title": "Organiza una Colecta de Tecnología",
+        "description": "Organiza una colección en tu lugar de trabajo, escuela o comunidad."
+      },
+      "ambassador": {
+        "title": "Conviértete en Embajador",
+        "description": "Difunde información sobre Free Geek en tu comunidad y redes."
+      }
+    },
+    "tax": {
+      "title": "Donaciones Deducibles de Impuestos",
+      "description": "Free Geek es una organización sin fines de lucro 501(c)(3). Tu donación es deducible de impuestos en la medida permitida por la ley.",
+      "ein": "EIN: 93-1243063"
+    },
+    "cta": {
+      "title": "¿Listo para hacer la diferencia?",
+      "description": "Únete a miles de donantes que creen que la tecnología debería ser accesible para todos."
+    }
+  },
+  "contact": {
+    "hero": {
+      "title": "Hablemos.",
+      "description": "¿Tienes una pregunta sobre donar, ser voluntario u obtener una computadora? Estamos aquí para ayudar."
+    },
+    "visit": {
+      "title": "Visítanos",
+      "address": "1731 SE 10th Avenue",
+      "city": "Portland, OR 97214",
+      "parking": "Entregas aceptadas en el estacionamiento exterior en el lado noreste de nuestro edificio.",
+      "directions": "Obtener Direcciones →"
+    },
+    "hours": {
+      "title": "Horario",
+      "wed": "Miércoles",
+      "thu": "Jueves",
+      "fri": "Viernes",
+      "sat": "Sábado",
+      "sunTue": "Dom - Mar",
+      "open": "11 AM - 4 PM",
+      "closed": "Cerrado"
+    },
+    "email": {
+      "title": "Envíanos un Correo",
+      "description": "Consultas generales, preguntas sobre programas o simplemente para saludar."
+    },
+    "questions": {
+      "title": "Preguntas Comunes",
+      "donateTech": {
+        "title": "Donar Tecnología",
+        "description": "Horarios de entrega, qué aceptamos y programación de donaciones grandes."
+      },
+      "getComputer": {
+        "title": "Obtener una Computadora",
+        "description": "Aprende sobre Plug Into Portland y programas de becas de hardware."
+      },
+      "volunteer": {
+        "title": "Voluntariado",
+        "description": "Únete a nuestro equipo y ayuda a cerrar la brecha digital."
+      },
+      "faq": {
+        "title": "Preguntas Frecuentes",
+        "description": "Encuentra respuestas a nuestras preguntas más frecuentes."
+      }
+    },
+    "form": {
+      "title": "Envíanos un Mensaje",
+      "description": "Completa el formulario a continuación y te responderemos lo antes posible.",
+      "name": "Tu Nombre",
+      "email": "Tu Correo Electrónico",
+      "subject": "¿De qué se trata tu consulta?",
+      "selectTopic": "Selecciona un tema...",
+      "topics": {
+        "digitalInclusion": "Servicios de Inclusión Digital",
+        "donation": "Reciclaje / Donación de Tecnología",
+        "business": "Asociaciones Empresariales",
+        "volunteering": "Voluntariado",
+        "shop": "Tienda en Línea",
+        "fundraising": "Recaudación de Fondos",
+        "press": "Prensa / Medios",
+        "hr": "Recursos Humanos",
+        "other": "Otro"
+      },
+      "message": "Mensaje",
+      "submit": "Enviar Mensaje",
+      "note": "Nota: Este formulario aún no está conectado. Para asistencia inmediata, envíanos un correo directamente a"
+    },
+    "social": {
+      "title": "Síguenos",
+      "description": "Mantente al día con noticias, eventos e historias de impacto de Free Geek."
+    },
+    "cta": {
+      "title": "¿Listo para hacer la diferencia?",
+      "description": "Ya sea que dones tecnología, seas voluntario o apoyes nuestra misión, cada contribución ayuda a cerrar la brecha digital."
+    }
+  },
+  "volunteer": {
+    "hero": {
+      "title1": "Únete a nuestra misión.",
+      "title2": "Haz un impacto.",
+      "description": "Desde el 2000, más de 35,000 voluntarios han ayudado a Free Geek a convertir desechos electrónicos en oportunidades. También hay un lugar para ti."
+    },
+    "opportunities": {
+      "title": "Formas de Participar",
+      "description": "Ya sea que tengas una hora o un mes, hay una manera para que contribuyas a la equidad digital en nuestra comunidad.",
+      "ambassador": {
+        "title": "Programa de Embajadores",
+        "description": "Comparte la visión de Free Geek con tu comunidad a través de redes sociales, correo electrónico, recaudación de fondos y más.",
+        "cta": "Convertirse en Embajador"
+      },
+      "techDrive": {
+        "title": "Organiza una Colecta de Tecnología",
+        "description": "Organiza una colección de tecnología en tu lugar de trabajo, escuela o vecindario para ayudarnos a llegar a más donantes.",
+        "cta": "Iniciar una Colecta"
+      },
+      "warehouse": {
+        "title": "Voluntariado en Almacén",
+        "description": "Obtén experiencia práctica recibiendo, clasificando y procesando tecnología donada en nuestras instalaciones.",
+        "cta": "Aplicar para Voluntariado"
+      },
+      "fundraise": {
+        "title": "Recauda Fondos para Free Geek",
+        "description": "Organiza una recaudación de fondos—ya sea una campaña de Facebook, evento comunitario, venta de pasteles o caminata benéfica.",
+        "cta": "Iniciar una Recaudación"
+      }
+    },
+    "impact": {
+      "title": "Tu impacto se suma",
+      "volunteers": {
+        "stat": "35K+",
+        "description": "Voluntarios han contribuido su tiempo y habilidades a Free Geek durante 25 años."
+      },
+      "ewaste": {
+        "stat": "82M",
+        "description": "Libras de desechos electrónicos desviados de vertederos gracias a nuestros esfuerzos colectivos."
+      },
+      "devices": {
+        "stat": "75K+",
+        "description": "Dispositivos restaurados y entregados a personas que más los necesitan."
+      }
+    },
+    "form": {
+      "title": "¿Interesado en ser voluntario?",
+      "description": "Cuéntanos sobre ti y nos pondremos en contacto con oportunidades que coincidan con tus intereses.",
+      "name": "Tu Nombre",
+      "email": "Correo Electrónico",
+      "interests": "¿Qué te interesa?",
+      "interestsHint": "(selecciona todos los que apliquen)",
+      "options": {
+        "ambassador": "Programa de Embajadores",
+        "techDrives": "Colectas de Tecnología",
+        "warehouse": "Voluntariado en Almacén",
+        "fundraising": "Recaudación de Fondos",
+        "internship": "Pasantía",
+        "other": "Otro"
+      },
+      "about": "Cuéntanos sobre ti",
+      "aboutPlaceholder": "Comparte cualquier experiencia relevante, disponibilidad o preguntas...",
+      "submit": "Enviar Formulario de Interés",
+      "note": "Nota: Este formulario aún no está conectado. Para asistencia inmediata, envíanos un correo a"
+    },
+    "internship": {
+      "title": "¿Buscas una pasantía?",
+      "description": "Free Geek ofrece oportunidades de pasantía para estudiantes y personas que cambian de carrera interesadas en tecnología, gestión de organizaciones sin fines de lucro y sostenibilidad.",
+      "cta": "Ver Posiciones Disponibles"
+    },
+    "cta": {
+      "title": "¿No puedes ser voluntario ahora?",
+      "description": "Aún puedes hacer la diferencia. Dona tu vieja tecnología o apoya nuestra misión financieramente."
+    }
+  },
+  "hardwareGrants": {
+    "hero": {
+      "title1": "Becas de Hardware",
+      "title2": "para Organizaciones",
+      "description": "Tecnología restaurada gratuita y de bajo costo para organizaciones sin fines de lucro y comunitarias que sirven a quienes lo necesitan."
+    },
+    "status": {
+      "title": "Estado de Aplicaciones",
+      "description": "El programa de Becas de Hardware abre y cierra periódicamente según la disponibilidad de inventario. Por favor contáctanos para verificar el estado actual y disponibilidad.",
+      "cta": "Contactar al Equipo de Inclusión Digital"
+    },
+    "grants": {
+      "title": "Programas de Becas",
+      "organizational": {
+        "title": "Becas de Hardware Organizacional",
+        "description": "Tecnología restaurada gratuita y de bajo costo para uso organizacional sin fines de lucro—equipando a tu personal y voluntarios con las herramientas que necesitan.",
+        "item1": "Computadoras de escritorio y laptops",
+        "item2": "Monitores y periféricos",
+        "item3": "Equipo de redes"
+      },
+      "community": {
+        "title": "Becas de Hardware Comunitario",
+        "description": "Tecnología gratuita para los miembros de la comunidad que tu organización sirve—ayudándote a extender el acceso digital a quienes más lo necesitan.",
+        "item1": "Laptops para clientes y participantes de programas",
+        "item2": "Distribución a través de tus programas existentes",
+        "item3": "Apoyo para iniciativas de inclusión digital"
+      }
+    },
+    "eligibility": {
+      "title": "Elegibilidad",
+      "intro": "Para calificar para Becas de Hardware, las organizaciones deben:",
+      "req1": "Ser una organización sin fines de lucro 501(c)(3) registrada",
+      "req2": "Servir a comunidades en el área metropolitana de Portland",
+      "req3": "Demostrar necesidad de tecnología para cumplir su misión"
+    },
+    "testimonial": {
+      "quote": "En A Family for Every Child apoyamos incondicionalmente a Free Geek; desempeñan un papel irremplazable en nuestra comunidad. Sin las generosas donaciones pasadas de Free Geek, no podríamos funcionar durante esta crisis de salud ni cumplir nuestra misión en general.",
+      "author": "— Andrew Hampton, A Family for Every Child"
+    },
+    "impact": {
+      "title": "Nuestro Impacto",
+      "orgs": "Organizaciones atendidas anualmente",
+      "devices": "Total de dispositivos otorgados",
+      "years": "Años de servicio comunitario"
+    },
+    "cta": {
+      "title": "¿Interesado en una Beca de Hardware?",
+      "description": "Contacta a nuestro equipo de Inclusión Digital para conocer la disponibilidad actual y los requisitos de elegibilidad."
+    }
+  },
+  "digitalSkills": {
+    "hero": {
+      "title1": "Habilidades Digitales",
+      "title2": "para Todos",
+      "description": "Desarrolla confianza con la tecnología a través de nuestra capacitación gratuita en habilidades digitales y soporte personalizado de navegación digital."
+    },
+    "services": {
+      "title": "Nuestros Servicios",
+      "navigation": {
+        "title": "Navegación Digital",
+        "description": "Obtén apoyo personalizado de un Navegador Digital que puede ayudarte con:",
+        "item1": "Configurar y usar tu dispositivo",
+        "item2": "Navegar internet de forma segura",
+        "item3": "Encontrar servicios de conectividad asequibles",
+        "item4": "Desarrollar habilidades digitales esenciales",
+        "cta": "Programar una Cita"
+      },
+      "skills": {
+        "title": "Desarrollo de Habilidades Digitales",
+        "description": "Currículo y clases gratuitas para ayudarte a usar la tecnología efectivamente. Nuestros cursos fundamentales incluyen:",
+        "item1": "Conceptos Básicos de Computación",
+        "item2": "Conceptos Básicos de Internet",
+        "item3": "Conceptos Básicos de Teclado",
+        "item4": "Seguridad en Internet",
+        "item5": "Capacitación en G-Suite",
+        "cta": "Ver Currículo"
+      }
+    },
+    "equity": {
+      "title": "¿Qué es la Equidad Digital?",
+      "description": "La equidad digital es una condición en la que todos los individuos y comunidades tienen la capacidad de tecnología de información necesaria para la participación plena en nuestra sociedad, democracia y economía. Es necesaria para la participación cívica y cultural, el empleo, el aprendizaje permanente y el acceso a servicios esenciales."
+    },
+    "resources": {
+      "title": "Recursos Comunitarios",
+      "description": "Nos asociamos con organizaciones en Portland para expandir el acceso digital y desarrollar habilidades digitales en nuestra comunidad.",
+      "communityTech": {
+        "title": "Grupo de Tecnología Comunitaria",
+        "org": "Oficina de Planificación y Sostenibilidad de Portland"
+      },
+      "library": {
+        "title": "Biblioteca del Condado de Multnomah",
+        "description": "Acceso gratuito a computadoras y recursos digitales"
+      },
+      "digitunity": {
+        "title": "Digitunity",
+        "description": "Programas nacionales de acceso a dispositivos"
+      },
+      "ndia": {
+        "title": "Alianza Nacional de Inclusión Digital",
+        "description": "Defensa de la equidad digital y recursos"
+      },
+      "xfinity": {
+        "title": "Xfinity Internet Essentials",
+        "description": "Internet de bajo costo para hogares elegibles"
+      },
+      "pcs": {
+        "title": "PCs for People",
+        "description": "Computadoras e internet asequibles"
+      }
+    },
+    "cta": {
+      "title": "¿Listo para desarrollar tus habilidades digitales?",
+      "description": "Programa una cita con un Navegador Digital o explora nuestro currículo gratuito para comenzar."
     }
   },
   "language": {

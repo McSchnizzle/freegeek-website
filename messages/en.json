@@ -14,7 +14,18 @@
     "email": "Email",
     "phone": "Phone",
     "address": "Address",
-    "hours": "Hours"
+    "hours": "Hours",
+    "explorePrograms": "Explore Our Programs",
+    "donateNow": "Donate Now",
+    "volunteerWithUs": "Volunteer With Us",
+    "viewAllPrograms": "View All Programs",
+    "getStarted": "Get Started",
+    "applyNow": "Apply Now",
+    "schedulePickup": "Schedule a Pickup",
+    "dropOffAnytime": "Drop Off Anytime",
+    "scheduleDropOff": "Schedule Drop-Off",
+    "makeFinancialDonation": "Make a Financial Donation",
+    "getDirections": "Get Directions"
   },
   "nav": {
     "skipToContent": "Skip to main content",
@@ -80,6 +91,509 @@
     },
     "visit": {
       "title": "Visit Us"
+    }
+  },
+  "about": {
+    "hero": {
+      "title1": "We believe technology",
+      "title2": "should be for everyone.",
+      "description": "Since Earth Day 2000, we've been turning e-waste into opportunity—keeping tech out of landfills and putting it into the hands of people who need it most."
+    },
+    "origin": {
+      "title": "Our Origin Story",
+      "p1": "Free Geek launched at Pioneer Courthouse Square on Earth Day 2000. That September, we opened our doors on SE 10th Avenue as a drop-off for electronic waste—salvaging technology before it hit landfills.",
+      "p2": "Over 25 years, we've evolved from a recycling center into a digital inclusion powerhouse. Our reuse and recycling programs still form our backbone, providing the refurbished devices we put back into the community.",
+      "p3": "But today, our core mission is narrowing the digital divide—ensuring everyone has access to technology and the skills to use it."
+    },
+    "mission": {
+      "title": "Our Mission",
+      "text": "To sustainably reuse technology, enable digital access, and provide education to create a community that empowers people to realize their potential."
+    },
+    "problems": {
+      "title": "Two Problems. One Solution.",
+      "digitalDivide": {
+        "stat": "27%",
+        "title": "The Digital Divide",
+        "p1": "27% of Americans don't own a computer. One in ten families lack home internet. This gap falls hardest on low-income families, immigrants, seniors, and communities of color.",
+        "p2": "Without technology access, full participation in American society—jobs, education, healthcare, civic engagement—is compromised. This is a social justice issue."
+      },
+      "ewaste": {
+        "stat": "70%",
+        "title": "The E-Waste Crisis",
+        "p1": "Only 27% of e-waste gets recycled nationally. E-waste is just 2% of America's landfill trash—but 70% of its toxic waste.",
+        "p2": "Most \"e-waste\" isn't waste at all. It's perfectly good equipment that can be repaired, refurbished, and given new life."
+      }
+    },
+    "circular": {
+      "title": "The Circular Model",
+      "description": "We point these two problems at each other. The computers we grant to Digital Inclusion participants are saved from landfills and go on to help our community's most vulnerable populations build the digital skills they need to thrive."
+    },
+    "impact": {
+      "title": "Our Impact",
+      "years": "Years of service",
+      "diverted": "Pounds diverted from landfills",
+      "granted": "Devices granted",
+      "served": "Community members served"
+    },
+    "cta": {
+      "title": "Ready to get involved?",
+      "description": "Whether you donate tech, volunteer your time, or support us financially, you're helping bridge the digital divide."
+    }
+  },
+  "programs": {
+    "hero": {
+      "title1": "Need a computer?",
+      "title2": "We've got you.",
+      "description": "27% of Americans don't own a computer. We're working to change that with free and low-cost technology for individuals and organizations."
+    },
+    "individuals": {
+      "badge": "For Individuals",
+      "title": "Plug Into Portland",
+      "p1": "Our flagship program for individuals who need a computer. Apply to get on the waitlist for a free laptop running Linux Mint, with a one-year warranty and Digital Navigation Support.",
+      "p2": "Currently, 75,000 Oregon students don't have a personal computer to complete their assignments. We're here to close that gap.",
+      "cta": "Apply for a Free Laptop",
+      "questions": "Questions? Email us at"
+    },
+    "receive": {
+      "title": "What you'll receive",
+      "laptop": {
+        "title": "Refurbished Laptop",
+        "description": "A quality refurbished laptop running Linux Mint, ready to use"
+      },
+      "warranty": {
+        "title": "One-Year Warranty",
+        "description": "Full warranty coverage so you can use your device with confidence"
+      },
+      "support": {
+        "title": "Digital Navigation Support",
+        "description": "Help getting set up and learning to use your new computer"
+      }
+    },
+    "organizations": {
+      "badge": "For Organizations",
+      "title": "Hardware Grants & Affordable Tech",
+      "description": "Free Geek supports nonprofits and community organizations with technology. Whether you need devices for your staff or the communities you serve, we have programs to help.",
+      "orgGrants": {
+        "title": "Organizational Hardware Grants",
+        "description": "Free refurbished technology for nonprofit organizational use"
+      },
+      "communityGrants": {
+        "title": "Community Hardware Grants",
+        "description": "Free technology for the community members your nonprofit serves"
+      },
+      "affordable": {
+        "title": "Affordable Tech Program",
+        "description": "Partnership opportunities for larger-scale technology needs at affordable prices",
+        "badge": "Inquire for Availability"
+      },
+      "cta": "Learn More & Apply"
+    },
+    "shop": {
+      "title": "Need a computer now?",
+      "description": "If you're not eligible for our free programs or can't wait for the waitlist, you can purchase quality refurbished computers from our online shop at affordable prices.",
+      "cta": "Visit Our Shop"
+    },
+    "gap": {
+      "title": "The homework gap is real",
+      "p1": "The \"homework gap\" describes the difficulty students face completing assignments without access to a device or internet at home. In Oregon alone, 75,000 students lack a personal computer for schoolwork.",
+      "p2": "When we put a computer in a student's hands, we're not just giving them a device—we're giving them the ability to do their homework, apply for jobs, connect with family, and participate fully in our digital world.",
+      "cta": "Help Us Close the Gap"
+    },
+    "finalCta": {
+      "title": "Not sure which program is right for you?",
+      "description": "Reach out and we'll help you find the best path to getting connected."
+    }
+  },
+  "donateTech": {
+    "hero": {
+      "title1": "Your old tech",
+      "title2": "deserves a second life.",
+      "description": "That laptop collecting dust in your closet? It could help a student do their homework, a job seeker land an interview, or a senior connect with family.",
+      "dropOff": "Drop Off In Person",
+      "schedulePickup": "Schedule a Pickup"
+    },
+    "dropOff": {
+      "title": "Drop off your donation",
+      "location": "Location",
+      "address": "1731 SE 10th Avenue, Portland, OR 97214",
+      "parking": "Outdoor parking lot on the northeast side of our building",
+      "hours": "Hours",
+      "days": "Wednesday - Saturday",
+      "times": "11:00 AM - 4:00 PM",
+      "noAppointment": "No appointment needed for small donations. Just drive up during our drop-off hours and our team will help you unload."
+    },
+    "options": {
+      "title": "Donation options",
+      "small": {
+        "title": "Small",
+        "subtitle": "Under 20 devices",
+        "description": "Perfect for personal donations. Just drive up during our drop-off hours—no appointment needed.",
+        "cta": "Drop Off Anytime"
+      },
+      "large": {
+        "title": "Large",
+        "subtitle": "20+ devices",
+        "description": "Have a bigger donation? Schedule ahead so we can make sure we have space and staff ready for you.",
+        "cta": "Schedule Drop-Off"
+      },
+      "corporate": {
+        "title": "Corporate",
+        "subtitle": "Business donations",
+        "description": "Retiring IT equipment? We offer pickup services and can provide documentation for your records.",
+        "cta": "Contact Us"
+      }
+    },
+    "security": {
+      "title": "Your data is safe with us",
+      "description": "We take data security seriously. Every data-bearing device goes directly to our secure, staff-only area for proper sanitization.",
+      "nist": "NIST SP800-88 compliant data sanitization",
+      "sigma": "i-SIGMA certified processes",
+      "certificate": "Certificate of Data Destruction available ($10/device)",
+      "cta": "Learn More About Data Security"
+    },
+    "accept": {
+      "title": "What can you donate?",
+      "laptops": "Laptops",
+      "desktops": "Desktops",
+      "smartphones": "Smartphones",
+      "tablets": "Tablets",
+      "monitors": "Monitors",
+      "printers": "Printers",
+      "keyboards": "Keyboards",
+      "cables": "Cables & Accessories",
+      "notSure": "Not sure if we accept your item? Check our",
+      "faq": "FAQ",
+      "orContact": "or contact us at"
+    },
+    "cta": {
+      "title": "Ready to make a difference?",
+      "description": "Every device you donate helps bridge the digital divide in our community."
+    }
+  },
+  "donate": {
+    "hero": {
+      "title1": "Fuel the mission.",
+      "title2": "Bridge the divide.",
+      "description": "Your financial support helps us put technology into the hands of those who need it most while keeping e-waste out of landfills."
+    },
+    "ways": {
+      "title": "Ways to Give",
+      "description": "Every dollar helps us refurbish computers, provide digital skills training, and connect community members to opportunity.",
+      "oneTime": {
+        "title": "One-Time Gift",
+        "description": "Make an immediate impact with a single donation of any amount.",
+        "cta": "Donate Now"
+      },
+      "monthly": {
+        "title": "Monthly Giving",
+        "description": "Become a sustaining supporter with a recurring monthly gift.",
+        "cta": "Give Monthly"
+      },
+      "legacy": {
+        "title": "Corporate & Legacy",
+        "description": "Partner with us or include Free Geek in your estate planning.",
+        "cta": "Contact Us"
+      }
+    },
+    "impact": {
+      "title": "Your Impact",
+      "amount25": "Covers data sanitization and refurbishment supplies for one device",
+      "amount100": "Provides digital skills training for one community member",
+      "amount250": "Fully funds one refurbished computer for a student or job seeker"
+    },
+    "other": {
+      "title": "Other Ways to Support",
+      "donateTech": {
+        "title": "Donate Technology",
+        "description": "Have old devices? We'll refurbish them for community members in need."
+      },
+      "volunteer": {
+        "title": "Volunteer Your Time",
+        "description": "Join our team and help bridge the digital divide hands-on."
+      },
+      "techDrive": {
+        "title": "Host a Tech Drive",
+        "description": "Organize a collection at your workplace, school, or community."
+      },
+      "ambassador": {
+        "title": "Become an Ambassador",
+        "description": "Spread the word about Free Geek in your community and networks."
+      }
+    },
+    "tax": {
+      "title": "Tax-Deductible Giving",
+      "description": "Free Geek is a 501(c)(3) nonprofit organization. Your donation is tax-deductible to the fullest extent allowed by law.",
+      "ein": "EIN: 93-1243063"
+    },
+    "cta": {
+      "title": "Ready to make a difference?",
+      "description": "Join thousands of supporters who believe technology should be accessible to everyone."
+    }
+  },
+  "contact": {
+    "hero": {
+      "title": "Let's talk.",
+      "description": "Have a question about donating, volunteering, or getting a computer? We're here to help."
+    },
+    "visit": {
+      "title": "Visit Us",
+      "address": "1731 SE 10th Avenue",
+      "city": "Portland, OR 97214",
+      "parking": "Drop-offs accepted in the outdoor parking lot on the northeast side of our building.",
+      "directions": "Get Directions →"
+    },
+    "hours": {
+      "title": "Hours",
+      "wed": "Wednesday",
+      "thu": "Thursday",
+      "fri": "Friday",
+      "sat": "Saturday",
+      "sunTue": "Sun - Tue",
+      "open": "11 AM - 4 PM",
+      "closed": "Closed"
+    },
+    "email": {
+      "title": "Email Us",
+      "description": "General inquiries, questions about programs, or just want to say hi."
+    },
+    "questions": {
+      "title": "Common Questions",
+      "donateTech": {
+        "title": "Donate Technology",
+        "description": "Drop-off hours, what we accept, and scheduling large donations."
+      },
+      "getComputer": {
+        "title": "Get a Computer",
+        "description": "Learn about Plug Into Portland and hardware grant programs."
+      },
+      "volunteer": {
+        "title": "Volunteer",
+        "description": "Join our team and help bridge the digital divide."
+      },
+      "faq": {
+        "title": "FAQs",
+        "description": "Find answers to our most frequently asked questions."
+      }
+    },
+    "form": {
+      "title": "Send Us a Message",
+      "description": "Fill out the form below and we'll get back to you as soon as we can.",
+      "name": "Your Name",
+      "email": "Your Email",
+      "subject": "What is your inquiry about?",
+      "selectTopic": "Select a topic...",
+      "topics": {
+        "digitalInclusion": "Digital Inclusion Services",
+        "donation": "Recycling / Tech Donation",
+        "business": "Business Partnerships",
+        "volunteering": "Volunteering",
+        "shop": "Online Shop",
+        "fundraising": "Fundraising",
+        "press": "Press / Media",
+        "hr": "Human Resources",
+        "other": "Other"
+      },
+      "message": "Message",
+      "submit": "Send Message",
+      "note": "Note: This form is not yet connected. For immediate assistance, please email us directly at"
+    },
+    "social": {
+      "title": "Follow Us",
+      "description": "Stay up to date with Free Geek news, events, and impact stories."
+    },
+    "cta": {
+      "title": "Ready to make a difference?",
+      "description": "Whether you're donating tech, volunteering, or supporting our mission, every contribution helps bridge the digital divide."
+    }
+  },
+  "volunteer": {
+    "hero": {
+      "title1": "Join our mission.",
+      "title2": "Make an impact.",
+      "description": "Since 2000, over 35,000 volunteers have helped Free Geek turn e-waste into opportunity. There's a place for you too."
+    },
+    "opportunities": {
+      "title": "Ways to Get Involved",
+      "description": "Whether you have an hour or a month, there's a way for you to contribute to digital equity in our community.",
+      "ambassador": {
+        "title": "Ambassador Program",
+        "description": "Share Free Geek's vision with your community through social media, email, fundraising, and more.",
+        "cta": "Become an Ambassador"
+      },
+      "techDrive": {
+        "title": "Host a Tech Drive",
+        "description": "Organize a tech collection at your workplace, school, or neighborhood to help us reach more donors.",
+        "cta": "Start a Tech Drive"
+      },
+      "warehouse": {
+        "title": "Warehouse Volunteering",
+        "description": "Get hands-on experience receiving, sorting, and processing donated technology in our facility.",
+        "cta": "Apply to Volunteer"
+      },
+      "fundraise": {
+        "title": "Fundraise for Free Geek",
+        "description": "Host a fundraiser—whether it's a Facebook campaign, community event, bake sale, or walk-a-thon.",
+        "cta": "Start a Fundraiser"
+      }
+    },
+    "impact": {
+      "title": "Your impact adds up",
+      "volunteers": {
+        "stat": "35K+",
+        "description": "Volunteers have contributed their time and skills to Free Geek over 25 years."
+      },
+      "ewaste": {
+        "stat": "82M",
+        "description": "Pounds of e-waste diverted from landfills thanks to our collective efforts."
+      },
+      "devices": {
+        "stat": "75K+",
+        "description": "Devices refurbished and given to people who need them most."
+      }
+    },
+    "form": {
+      "title": "Interested in volunteering?",
+      "description": "Tell us about yourself and we'll be in touch with opportunities that match your interests.",
+      "name": "Your Name",
+      "email": "Email",
+      "interests": "What interests you?",
+      "interestsHint": "(select all that apply)",
+      "options": {
+        "ambassador": "Ambassador Program",
+        "techDrives": "Tech Drives",
+        "warehouse": "Warehouse Volunteering",
+        "fundraising": "Fundraising",
+        "internship": "Internship",
+        "other": "Other"
+      },
+      "about": "Tell us about yourself",
+      "aboutPlaceholder": "Share any relevant experience, availability, or questions...",
+      "submit": "Submit Interest Form",
+      "note": "Note: This form is not yet connected. For immediate assistance, please email us at"
+    },
+    "internship": {
+      "title": "Looking for an internship?",
+      "description": "Free Geek offers internship opportunities for students and career-changers interested in technology, nonprofit management, and sustainability.",
+      "cta": "View Open Positions"
+    },
+    "cta": {
+      "title": "Can't volunteer right now?",
+      "description": "You can still make a difference. Donate your old tech or support our mission financially."
+    }
+  },
+  "hardwareGrants": {
+    "hero": {
+      "title1": "Hardware Grants",
+      "title2": "for Organizations",
+      "description": "Free and low-cost refurbished technology for nonprofits and community organizations serving those in need."
+    },
+    "status": {
+      "title": "Application Status",
+      "description": "The Hardware Grants program is periodically open and closed based on inventory availability. Please contact us to check current status and availability.",
+      "cta": "Contact Digital Inclusion Team"
+    },
+    "grants": {
+      "title": "Grant Programs",
+      "organizational": {
+        "title": "Organizational Hardware Grants",
+        "description": "Free and low-cost refurbished technology for nonprofit organizational use—equipping your staff and volunteers with the tools they need.",
+        "item1": "Desktop and laptop computers",
+        "item2": "Monitors and peripherals",
+        "item3": "Networking equipment"
+      },
+      "community": {
+        "title": "Community Hardware Grants",
+        "description": "Free technology for the community members your nonprofit serves—helping you extend digital access to those who need it most.",
+        "item1": "Laptops for clients and program participants",
+        "item2": "Distribution through your existing programs",
+        "item3": "Support for digital inclusion initiatives"
+      }
+    },
+    "eligibility": {
+      "title": "Eligibility",
+      "intro": "To qualify for Hardware Grants, organizations must:",
+      "req1": "Be a registered 501(c)(3) nonprofit organization",
+      "req2": "Serve communities in the Portland metro area",
+      "req3": "Demonstrate need for technology to fulfill your mission"
+    },
+    "testimonial": {
+      "quote": "We at A Family for Every Child unconditionally support Free Geek; they serve an irreplaceable role in our community. Were it not for the generous past donations of Free Geek, we would neither be able to function during this health crisis, nor serve our mission as a whole.",
+      "author": "— Andrew Hampton, A Family for Every Child"
+    },
+    "impact": {
+      "title": "Our Impact",
+      "orgs": "Organizations served annually",
+      "devices": "Total devices granted",
+      "years": "Years of community service"
+    },
+    "cta": {
+      "title": "Interested in a Hardware Grant?",
+      "description": "Contact our Digital Inclusion team to learn about current availability and eligibility requirements."
+    }
+  },
+  "digitalSkills": {
+    "hero": {
+      "title1": "Digital Skills",
+      "title2": "for Everyone",
+      "description": "Build confidence with technology through our free digital skills training and one-on-one digital navigation support."
+    },
+    "services": {
+      "title": "Our Services",
+      "navigation": {
+        "title": "Digital Navigation",
+        "description": "Get personalized, one-on-one support from a Digital Navigator who can help you with:",
+        "item1": "Setting up and using your device",
+        "item2": "Navigating the internet safely",
+        "item3": "Finding affordable connectivity services",
+        "item4": "Building essential digital skills",
+        "cta": "Schedule an Appointment"
+      },
+      "skills": {
+        "title": "Digital Skills Building",
+        "description": "Free curriculum and classes to help you effectively use technology. Our foundational courses include:",
+        "item1": "Computer Basics",
+        "item2": "Internet Basics",
+        "item3": "Keyboard Basics",
+        "item4": "Internet Safety",
+        "item5": "G-Suite Training",
+        "cta": "View Curriculum"
+      }
+    },
+    "equity": {
+      "title": "What is Digital Equity?",
+      "description": "Digital equity is a condition in which all individuals and communities have the information technology capacity needed for full participation in our society, democracy, and economy. It is necessary for civic and cultural participation, employment, lifelong learning, and access to essential services."
+    },
+    "resources": {
+      "title": "Community Resources",
+      "description": "We partner with organizations across Portland to expand digital access and build digital skills in our community.",
+      "communityTech": {
+        "title": "Community Technology Group",
+        "org": "Portland Bureau of Planning & Sustainability"
+      },
+      "library": {
+        "title": "Multnomah County Library",
+        "description": "Free computer access and digital resources"
+      },
+      "digitunity": {
+        "title": "Digitunity",
+        "description": "National device access programs"
+      },
+      "ndia": {
+        "title": "National Digital Inclusion Alliance",
+        "description": "Digital equity advocacy and resources"
+      },
+      "xfinity": {
+        "title": "Xfinity Internet Essentials",
+        "description": "Low-cost internet for eligible households"
+      },
+      "pcs": {
+        "title": "PCs for People",
+        "description": "Affordable computers and internet"
+      }
+    },
+    "cta": {
+      "title": "Ready to build your digital skills?",
+      "description": "Schedule an appointment with a Digital Navigator or explore our free curriculum to get started."
     }
   },
   "language": {

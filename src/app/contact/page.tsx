@@ -1,23 +1,26 @@
 import { Metadata } from 'next';
 import { Button, Section } from '@/components';
+import { getTranslations } from 'next-intl/server';
 
 export const metadata: Metadata = {
   title: 'Contact Us | Free Geek',
   description: 'Get in touch with Free Geek Portland. Visit us, email us, or fill out our contact form.',
 };
 
-export default function ContactPage() {
+export default async function ContactPage() {
+  const t = await getTranslations('contact');
+  const common = await getTranslations('common');
+
   return (
     <div className="pt-[72px]">
       {/* Hero */}
       <section className="bg-black text-white py-20 px-4">
         <div className="max-w-5xl mx-auto">
           <h1 className="text-4xl md:text-6xl font-bold mb-6">
-            Let&apos;s talk.
+            {t('hero.title')}
           </h1>
           <p className="text-xl text-gray-300 max-w-2xl">
-            Have a question about donating, volunteering, or getting a computer?
-            We&apos;re here to help.
+            {t('hero.description')}
           </p>
         </div>
       </section>
@@ -33,13 +36,13 @@ export default function ContactPage() {
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
               </svg>
             </div>
-            <h2 className="text-xl font-bold mb-2">Visit Us</h2>
+            <h2 className="text-xl font-bold mb-2">{t('visit.title')}</h2>
             <p className="text-gray-600 mb-2">
               <strong>1731 SE 10th Avenue</strong><br />
               Portland, OR 97214
             </p>
             <p className="text-gray-500 text-sm mb-4">
-              Drop-offs accepted in the outdoor parking lot on the northeast side of our building.
+              {t('visit.dropoffNote')}
             </p>
             <a
               href="https://maps.google.com/?q=1731+SE+10th+Avenue+Portland+OR+97214"
@@ -47,7 +50,7 @@ export default function ContactPage() {
               rel="noopener noreferrer"
               className="text-blue-600 hover:underline text-sm font-semibold"
             >
-              Get Directions →
+              {common('getDirections')} →
             </a>
           </div>
 
@@ -58,27 +61,27 @@ export default function ContactPage() {
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z" />
               </svg>
             </div>
-            <h2 className="text-xl font-bold mb-2">Hours</h2>
+            <h2 className="text-xl font-bold mb-2">{common('hours')}</h2>
             <div className="space-y-2 text-gray-600">
               <div className="flex justify-between">
-                <span>Wednesday</span>
+                <span>{t('hours.wednesday')}</span>
                 <span>11 AM - 4 PM</span>
               </div>
               <div className="flex justify-between">
-                <span>Thursday</span>
+                <span>{t('hours.thursday')}</span>
                 <span>11 AM - 4 PM</span>
               </div>
               <div className="flex justify-between">
-                <span>Friday</span>
+                <span>{t('hours.friday')}</span>
                 <span>11 AM - 4 PM</span>
               </div>
               <div className="flex justify-between">
-                <span>Saturday</span>
+                <span>{t('hours.saturday')}</span>
                 <span>11 AM - 4 PM</span>
               </div>
               <div className="flex justify-between text-gray-400">
-                <span>Sun - Tue</span>
-                <span>Closed</span>
+                <span>{t('hours.sunTue')}</span>
+                <span>{t('hours.closed')}</span>
               </div>
             </div>
           </div>
@@ -90,9 +93,9 @@ export default function ContactPage() {
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" />
               </svg>
             </div>
-            <h2 className="text-xl font-bold mb-2">Email Us</h2>
+            <h2 className="text-xl font-bold mb-2">{t('email.title')}</h2>
             <p className="text-gray-600 mb-4">
-              General inquiries, questions about programs, or just want to say hi.
+              {t('email.description')}
             </p>
             <a
               href="mailto:computerfriends@freegeek.org"
@@ -106,42 +109,42 @@ export default function ContactPage() {
 
       {/* Quick Links */}
       <Section background="gray">
-        <h2 className="text-3xl font-bold mb-8 text-center">Common Questions</h2>
+        <h2 className="text-3xl font-bold mb-8 text-center">{t('quickLinks.title')}</h2>
         <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-4">
           <a
             href="/donate-tech"
             className="bg-white rounded-xl p-6 hover:shadow-lg transition-shadow"
           >
-            <h3 className="font-bold mb-2">Donate Technology</h3>
+            <h3 className="font-bold mb-2">{t('quickLinks.donateTech.title')}</h3>
             <p className="text-gray-600 text-sm">
-              Drop-off hours, what we accept, and scheduling large donations.
+              {t('quickLinks.donateTech.description')}
             </p>
           </a>
           <a
             href="/programs"
             className="bg-white rounded-xl p-6 hover:shadow-lg transition-shadow"
           >
-            <h3 className="font-bold mb-2">Get a Computer</h3>
+            <h3 className="font-bold mb-2">{t('quickLinks.getComputer.title')}</h3>
             <p className="text-gray-600 text-sm">
-              Learn about Plug Into Portland and hardware grant programs.
+              {t('quickLinks.getComputer.description')}
             </p>
           </a>
           <a
             href="/volunteer"
             className="bg-white rounded-xl p-6 hover:shadow-lg transition-shadow"
           >
-            <h3 className="font-bold mb-2">Volunteer</h3>
+            <h3 className="font-bold mb-2">{t('quickLinks.volunteer.title')}</h3>
             <p className="text-gray-600 text-sm">
-              Join our team and help bridge the digital divide.
+              {t('quickLinks.volunteer.description')}
             </p>
           </a>
           <a
             href="https://freegeek.org/faqs"
             className="bg-white rounded-xl p-6 hover:shadow-lg transition-shadow"
           >
-            <h3 className="font-bold mb-2">FAQs</h3>
+            <h3 className="font-bold mb-2">{t('quickLinks.faqs.title')}</h3>
             <p className="text-gray-600 text-sm">
-              Find answers to our most frequently asked questions.
+              {t('quickLinks.faqs.description')}
             </p>
           </a>
         </div>
@@ -150,15 +153,15 @@ export default function ContactPage() {
       {/* Contact Form */}
       <Section background="white">
         <div className="max-w-2xl mx-auto">
-          <h2 className="text-3xl font-bold mb-4 text-center">Send Us a Message</h2>
+          <h2 className="text-3xl font-bold mb-4 text-center">{t('form.title')}</h2>
           <p className="text-gray-600 text-center mb-8">
-            Fill out the form below and we&apos;ll get back to you as soon as we can.
+            {t('form.description')}
           </p>
           <form className="space-y-6">
             <div className="grid md:grid-cols-2 gap-6">
               <div>
                 <label htmlFor="name" className="block text-sm font-semibold mb-2">
-                  Your Name
+                  {t('form.name')}
                 </label>
                 <input
                   type="text"
@@ -170,7 +173,7 @@ export default function ContactPage() {
               </div>
               <div>
                 <label htmlFor="email" className="block text-sm font-semibold mb-2">
-                  Your Email
+                  {t('form.email')}
                 </label>
                 <input
                   type="email"
@@ -183,7 +186,7 @@ export default function ContactPage() {
             </div>
             <div>
               <label htmlFor="subject" className="block text-sm font-semibold mb-2">
-                What is your inquiry about?
+                {t('form.subject')}
               </label>
               <select
                 id="subject"
@@ -191,21 +194,21 @@ export default function ContactPage() {
                 className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-blue-500 outline-none transition bg-white"
                 required
               >
-                <option value="">Select a topic...</option>
-                <option value="digital-inclusion">Digital Inclusion Services</option>
-                <option value="donation">Recycling / Tech Donation</option>
-                <option value="business">Business Partnerships</option>
-                <option value="volunteering">Volunteering</option>
-                <option value="shop">Online Shop</option>
-                <option value="fundraising">Fundraising</option>
-                <option value="press">Press / Media</option>
-                <option value="hr">Human Resources</option>
-                <option value="other">Other</option>
+                <option value="">{t('form.selectTopic')}</option>
+                <option value="digital-inclusion">{t('form.topics.digitalInclusion')}</option>
+                <option value="donation">{t('form.topics.donation')}</option>
+                <option value="business">{t('form.topics.business')}</option>
+                <option value="volunteering">{t('form.topics.volunteering')}</option>
+                <option value="shop">{t('form.topics.shop')}</option>
+                <option value="fundraising">{t('form.topics.fundraising')}</option>
+                <option value="press">{t('form.topics.press')}</option>
+                <option value="hr">{t('form.topics.hr')}</option>
+                <option value="other">{t('form.topics.other')}</option>
               </select>
             </div>
             <div>
               <label htmlFor="message" className="block text-sm font-semibold mb-2">
-                Message
+                {t('form.message')}
               </label>
               <textarea
                 id="message"
@@ -217,16 +220,12 @@ export default function ContactPage() {
             </div>
             <div className="text-center">
               <Button type="submit" size="lg">
-                Send Message
+                {t('form.submit')}
               </Button>
             </div>
           </form>
           <p className="text-sm text-gray-500 text-center mt-6">
-            Note: This form is not yet connected. For immediate assistance,
-            please email us directly at{' '}
-            <a href="mailto:computerfriends@freegeek.org" className="text-blue-600 hover:underline">
-              computerfriends@freegeek.org
-            </a>
+            {t('form.note')}
           </p>
         </div>
       </Section>
@@ -234,9 +233,9 @@ export default function ContactPage() {
       {/* Social Media */}
       <Section background="black">
         <div className="text-center">
-          <h2 className="text-3xl font-bold mb-4">Follow Us</h2>
+          <h2 className="text-3xl font-bold mb-4">{t('social.title')}</h2>
           <p className="text-gray-300 mb-8">
-            Stay up to date with Free Geek news, events, and impact stories.
+            {t('social.description')}
           </p>
           <div className="flex justify-center gap-6">
             <a
@@ -290,17 +289,16 @@ export default function ContactPage() {
       {/* CTA */}
       <Section background="blue">
         <div className="text-center">
-          <h2 className="text-3xl font-bold mb-4">Ready to make a difference?</h2>
+          <h2 className="text-3xl font-bold mb-4">{t('cta.title')}</h2>
           <p className="text-xl text-blue-100 mb-8 max-w-2xl mx-auto">
-            Whether you&apos;re donating tech, volunteering, or supporting our mission,
-            every contribution helps bridge the digital divide.
+            {t('cta.description')}
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Button href="/donate-tech" variant="secondary" size="lg">
-              Donate Tech
+              {common('donateTech')}
             </Button>
             <Button href="/donate" variant="outline" size="lg">
-              Make a Financial Donation
+              {common('makeFinancialDonation')}
             </Button>
           </div>
         </div>
