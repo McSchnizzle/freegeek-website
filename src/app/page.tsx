@@ -2,13 +2,13 @@ export default function Home() {
   return (
     <main className="min-h-screen bg-white">
       {/* Hero Section */}
-      <div className="flex flex-col items-center justify-center min-h-screen px-4 py-16 bg-gradient-to-b from-slate-900 via-slate-800 to-slate-900">
+      <div className="flex flex-col items-center justify-center min-h-screen px-4 py-16 bg-black">
         {/* Logo/Brand */}
         <div className="text-center mb-6">
           <h1 className="text-5xl md:text-7xl font-black text-white tracking-tight mb-2">
             FREE GEEK
           </h1>
-          <p className="text-cyan-400 font-medium tracking-widest uppercase text-sm">
+          <p className="text-blue-500 font-medium tracking-widest uppercase text-sm">
             Portland, Oregon
           </p>
         </div>
@@ -18,9 +18,9 @@ export default function Home() {
           <p className="text-3xl md:text-5xl font-bold text-white leading-tight mb-4">
             Your old tech.
             <br />
-            <span className="text-cyan-400">Someone&apos;s new future.</span>
+            <span className="text-blue-500">Someone&apos;s new future.</span>
           </p>
-          <p className="text-lg md:text-xl text-slate-300 max-w-2xl mx-auto">
+          <p className="text-lg md:text-xl text-gray-300 max-w-2xl mx-auto">
             We turn e-waste into opportunity. For 25 years, we&apos;ve been
             keeping tech out of landfills and putting it into the hands of
             people who need it most.
@@ -28,41 +28,41 @@ export default function Home() {
         </div>
 
         {/* Coming Soon Badge */}
-        <div className="bg-cyan-500 text-slate-900 px-6 py-2 rounded-full text-sm font-bold mb-12 shadow-lg shadow-cyan-500/30 uppercase tracking-wide">
+        <div className="bg-blue-600 text-white px-6 py-2 rounded-full text-sm font-bold mb-12 shadow-lg uppercase tracking-wide">
           New Website Coming Soon
         </div>
 
         {/* Impact Stats */}
         <div className="grid grid-cols-2 md:grid-cols-4 gap-4 md:gap-6 mb-12 w-full max-w-4xl">
-          <div className="text-center p-6 bg-white/5 backdrop-blur rounded-2xl border border-white/10">
-            <div className="text-3xl md:text-4xl font-black text-cyan-400">
+          <div className="text-center p-6 bg-white/10 rounded-2xl border border-white/10">
+            <div className="text-3xl md:text-4xl font-black text-white">
               82M+
             </div>
-            <div className="text-sm text-slate-400 mt-1">
+            <div className="text-sm text-gray-400 mt-1">
               Pounds of e-waste saved from landfills
             </div>
           </div>
-          <div className="text-center p-6 bg-white/5 backdrop-blur rounded-2xl border border-white/10">
-            <div className="text-3xl md:text-4xl font-black text-fuchsia-400">
+          <div className="text-center p-6 bg-white/10 rounded-2xl border border-white/10">
+            <div className="text-3xl md:text-4xl font-black text-white">
               75K+
             </div>
-            <div className="text-sm text-slate-400 mt-1">
+            <div className="text-sm text-gray-400 mt-1">
               Devices given to people in need
             </div>
           </div>
-          <div className="text-center p-6 bg-white/5 backdrop-blur rounded-2xl border border-white/10">
-            <div className="text-3xl md:text-4xl font-black text-amber-400">
+          <div className="text-center p-6 bg-white/10 rounded-2xl border border-white/10">
+            <div className="text-3xl md:text-4xl font-black text-white">
               150K+
             </div>
-            <div className="text-sm text-slate-400 mt-1">
+            <div className="text-sm text-gray-400 mt-1">
               Community members connected
             </div>
           </div>
-          <div className="text-center p-6 bg-white/5 backdrop-blur rounded-2xl border border-white/10">
-            <div className="text-3xl md:text-4xl font-black text-emerald-400">
+          <div className="text-center p-6 bg-white/10 rounded-2xl border border-white/10">
+            <div className="text-3xl md:text-4xl font-black text-white">
               25
             </div>
-            <div className="text-sm text-slate-400 mt-1">
+            <div className="text-sm text-gray-400 mt-1">
               Years bridging the digital divide
             </div>
           </div>
@@ -74,7 +74,7 @@ export default function Home() {
             href="https://freegeek.org"
             target="_blank"
             rel="noopener noreferrer"
-            className="px-8 py-4 bg-cyan-500 hover:bg-cyan-400 text-slate-900 font-bold rounded-xl shadow-lg shadow-cyan-500/30 transition-all hover:scale-105 text-center"
+            className="px-8 py-4 bg-blue-600 hover:bg-blue-700 text-white font-bold rounded-lg transition-colors text-center"
           >
             Visit Current Site
           </a>
@@ -82,14 +82,14 @@ export default function Home() {
             href="https://freegeek.org/donatetech"
             target="_blank"
             rel="noopener noreferrer"
-            className="px-8 py-4 bg-white/10 hover:bg-white/20 text-white font-bold rounded-xl border border-white/20 transition-all hover:scale-105 text-center"
+            className="px-8 py-4 bg-white hover:bg-gray-100 text-black font-bold rounded-lg transition-colors text-center"
           >
             Donate Your Tech
           </a>
         </div>
 
         {/* Location & Hours */}
-        <div className="text-center text-slate-400">
+        <div className="text-center text-gray-400">
           <p className="font-semibold text-white">
             1731 SE 10th Avenue, Portland, OR 97214
           </p>
@@ -102,7 +102,7 @@ export default function Home() {
             href="https://instagram.com/freegeekmothership"
             target="_blank"
             rel="noopener noreferrer"
-            className="text-slate-500 hover:text-cyan-400 transition-colors"
+            className="text-gray-500 hover:text-blue-500 transition-colors"
             aria-label="Instagram"
           >
             <svg
@@ -122,7 +122,7 @@ export default function Home() {
             href="https://linkedin.com/company/free-geek"
             target="_blank"
             rel="noopener noreferrer"
-            className="text-slate-500 hover:text-cyan-400 transition-colors"
+            className="text-gray-500 hover:text-blue-500 transition-colors"
             aria-label="LinkedIn"
           >
             <svg
@@ -138,7 +138,7 @@ export default function Home() {
             href="https://twitter.com/FreeGeekPDX"
             target="_blank"
             rel="noopener noreferrer"
-            className="text-slate-500 hover:text-cyan-400 transition-colors"
+            className="text-gray-500 hover:text-blue-500 transition-colors"
             aria-label="Twitter"
           >
             <svg
@@ -156,28 +156,28 @@ export default function Home() {
       {/* Problem Section */}
       <section className="py-20 px-4 bg-white">
         <div className="max-w-4xl mx-auto text-center">
-          <h2 className="text-3xl md:text-4xl font-bold text-slate-900 mb-8">
+          <h2 className="text-3xl md:text-4xl font-bold text-black mb-8">
             Two crises. One solution.
           </h2>
           <div className="grid md:grid-cols-2 gap-8 mb-12">
-            <div className="p-8 bg-slate-50 rounded-2xl">
-              <div className="text-5xl font-black text-red-500 mb-4">70%</div>
-              <p className="text-slate-700">
+            <div className="p-8 bg-gray-50 rounded-2xl border border-gray-100">
+              <div className="text-5xl font-black text-blue-600 mb-4">70%</div>
+              <p className="text-gray-700">
                 E-waste is just 2% of America&apos;s trash—but{" "}
                 <strong>70% of its toxic waste</strong>. Most of it ends up in
                 landfills, leaching poison into our soil and water.
               </p>
             </div>
-            <div className="p-8 bg-slate-50 rounded-2xl">
-              <div className="text-5xl font-black text-red-500 mb-4">1 in 5</div>
-              <p className="text-slate-700">
+            <div className="p-8 bg-gray-50 rounded-2xl border border-gray-100">
+              <div className="text-5xl font-black text-blue-600 mb-4">1 in 5</div>
+              <p className="text-gray-700">
                 American households don&apos;t have a computer.{" "}
                 <strong>No computer means no job applications</strong>, no
                 homework, no telehealth, no connection.
               </p>
             </div>
           </div>
-          <p className="text-xl text-slate-600 max-w-2xl mx-auto">
+          <p className="text-xl text-gray-600 max-w-2xl mx-auto">
             We take the devices companies and families no longer need, refurbish
             them, and give them to people who do. It&apos;s not charity—it&apos;s
             common sense.
@@ -186,38 +186,38 @@ export default function Home() {
       </section>
 
       {/* How It Works */}
-      <section className="py-20 px-4 bg-slate-900 text-white">
+      <section className="py-20 px-4 bg-black text-white">
         <div className="max-w-4xl mx-auto text-center">
           <h2 className="text-3xl md:text-4xl font-bold mb-12">
             Here&apos;s how it works
           </h2>
           <div className="grid md:grid-cols-3 gap-8">
             <div>
-              <div className="w-16 h-16 bg-cyan-500 rounded-2xl flex items-center justify-center mx-auto mb-4">
-                <span className="text-2xl font-bold text-slate-900">1</span>
+              <div className="w-16 h-16 bg-blue-600 rounded-full flex items-center justify-center mx-auto mb-4">
+                <span className="text-2xl font-bold text-white">1</span>
               </div>
               <h3 className="text-xl font-bold mb-2">You donate</h3>
-              <p className="text-slate-400">
+              <p className="text-gray-400">
                 Drop off your old laptops, desktops, phones—anything with a
                 plug. We wipe your data securely.
               </p>
             </div>
             <div>
-              <div className="w-16 h-16 bg-fuchsia-500 rounded-2xl flex items-center justify-center mx-auto mb-4">
-                <span className="text-2xl font-bold text-slate-900">2</span>
+              <div className="w-16 h-16 bg-blue-600 rounded-full flex items-center justify-center mx-auto mb-4">
+                <span className="text-2xl font-bold text-white">2</span>
               </div>
               <h3 className="text-xl font-bold mb-2">We refurbish</h3>
-              <p className="text-slate-400">
+              <p className="text-gray-400">
                 Our team rebuilds what can be saved. What can&apos;t gets
                 responsibly recycled—zero landfill.
               </p>
             </div>
             <div>
-              <div className="w-16 h-16 bg-amber-500 rounded-2xl flex items-center justify-center mx-auto mb-4">
-                <span className="text-2xl font-bold text-slate-900">3</span>
+              <div className="w-16 h-16 bg-blue-600 rounded-full flex items-center justify-center mx-auto mb-4">
+                <span className="text-2xl font-bold text-white">3</span>
               </div>
               <h3 className="text-xl font-bold mb-2">They thrive</h3>
-              <p className="text-slate-400">
+              <p className="text-gray-400">
                 A student gets a laptop for school. A job seeker sends their
                 first resume. A grandma video-calls her family.
               </p>
@@ -227,12 +227,12 @@ export default function Home() {
       </section>
 
       {/* CTA Section */}
-      <section className="py-20 px-4 bg-cyan-500">
+      <section className="py-20 px-4 bg-blue-600">
         <div className="max-w-4xl mx-auto text-center">
-          <h2 className="text-3xl md:text-4xl font-bold text-slate-900 mb-4">
+          <h2 className="text-3xl md:text-4xl font-bold text-white mb-4">
             Got old tech collecting dust?
           </h2>
-          <p className="text-xl text-slate-800 mb-8 max-w-2xl mx-auto">
+          <p className="text-xl text-blue-100 mb-8 max-w-2xl mx-auto">
             That laptop in your closet could change someone&apos;s life. Drop it
             off, and we&apos;ll handle the rest.
           </p>
@@ -240,7 +240,7 @@ export default function Home() {
             href="https://freegeek.org/donatetech"
             target="_blank"
             rel="noopener noreferrer"
-            className="inline-block px-10 py-4 bg-slate-900 hover:bg-slate-800 text-white font-bold rounded-xl shadow-lg transition-all hover:scale-105"
+            className="inline-block px-10 py-4 bg-white hover:bg-gray-100 text-black font-bold rounded-lg transition-colors"
           >
             Donate Now
           </a>
@@ -248,23 +248,23 @@ export default function Home() {
       </section>
 
       {/* Footer */}
-      <footer className="bg-slate-900 text-white py-12 px-4">
+      <footer className="bg-black text-white py-12 px-4">
         <div className="max-w-4xl mx-auto">
           <div className="grid md:grid-cols-3 gap-8 mb-8">
             <div>
               <h3 className="font-bold text-lg mb-4">Visit Us</h3>
-              <p className="text-slate-400">
+              <p className="text-gray-400">
                 1731 SE 10th Avenue
                 <br />
                 Portland, OR 97214
               </p>
-              <p className="text-slate-400 mt-2">Wed - Sat, 11 AM - 4 PM</p>
+              <p className="text-gray-400 mt-2">Wed - Sat, 11 AM - 4 PM</p>
             </div>
             <div>
               <h3 className="font-bold text-lg mb-4">Contact</h3>
               <a
                 href="mailto:computerfriends@freegeek.org"
-                className="text-cyan-400 hover:text-cyan-300"
+                className="text-blue-500 hover:text-blue-400"
               >
                 computerfriends@freegeek.org
               </a>
@@ -276,7 +276,7 @@ export default function Home() {
                   href="https://instagram.com/freegeekmothership"
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="text-slate-400 hover:text-cyan-400"
+                  className="text-gray-400 hover:text-blue-500"
                 >
                   Instagram
                 </a>
@@ -284,18 +284,18 @@ export default function Home() {
                   href="https://linkedin.com/company/free-geek"
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="text-slate-400 hover:text-cyan-400"
+                  className="text-gray-400 hover:text-blue-500"
                 >
                   LinkedIn
                 </a>
               </div>
             </div>
           </div>
-          <div className="border-t border-slate-800 pt-8 text-center">
-            <p className="text-slate-500">
+          <div className="border-t border-gray-800 pt-8 text-center">
+            <p className="text-gray-500">
               &copy; {new Date().getFullYear()} Free Geek. 501(c)(3) Nonprofit.
             </p>
-            <p className="text-slate-600 text-sm mt-2">
+            <p className="text-gray-600 text-sm mt-2">
               Turning e-waste into opportunity since April 22, 2000.
             </p>
           </div>
