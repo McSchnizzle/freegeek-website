@@ -1,0 +1,30 @@
+{
+  "url": "https://freegeek.org/join-our-team",
+  "title": "Join Our Team! | Free Geek",
+  "content": "At Free Geek we’re passionate about creating a better future by sustainably reusing technology, enabling digital access, and providing education to create a community that empowers people to realize their potential.\n\n \n\nWe're aren't hiring at this time.",
+  "images": [
+    {
+      "src": "https://freegeek.org/themes/custom/bene_frgk/logo.svg",
+      "alt": "Site Logo"
+    },
+    {
+      "src": "https://www.freegeek.org/sites/default/files/2025-08/unnamed%20%288%29.png",
+      "alt": ""
+    },
+    {
+      "src": "https://freegeek.org/sites/default/files/2024-03/Oregon100BestGreenWorkplaces2024.png",
+      "alt": ""
+    },
+    {
+      "src": "https://freegeek.org/sites/default/files/2021-12/i-Sigma_Member_Gray_Square.png",
+      "alt": ""
+    },
+    {
+      "src": "https://freegeek.org/sites/default/files/2019/05/affiliate-badge_large.png",
+      "alt": ""
+    }
+  ],
+  "links": [],
+  "meta": {},
+  "html": "\n\n  \n      <span property=\"schema:name\" content=\"Join Our Team!\" class=\"rdf-meta hidden\"></span>\n\n\n  \n  <div class=\"node__content\">\n    \n      <div class=\"field field--name-bene-content field--type-entity-reference-revisions field--label-hidden field__items\">\n              <div class=\"field__item\">  <div class=\"paragraph paragraph--type--rich-text paragraph--view-mode--default\">\n          \n            <div class=\"clearfix text-formatted field field--name-field-text field--type-text-long field--label-hidden field__item\"><h3 dir=\"ltr\">At Free Geek&nbsp;we’re passionate about creating a better future by sustainably reusing technology, enabling digital access, and providing education to create a community that empowers people to realize their potential.</h3>\n\n<p dir=\"ltr\">&nbsp;</p>\n\n\n<details><summary id=\"collapsible-section-title-0-0\">We're aren't hiring at this time.</summary><div class=\"details-wrapper\"><p class=\"collapsible-section-child-0-0\">&nbsp;</p><h2 class=\"collapsible-section-child-0-0\">Your professional development is important to us</h2><p class=\"collapsible-section-child-0-0\">We believe that career and personal development are essential for job satisfaction. That’s why our staff is encouraged to explore work areas outside of their normal job duties. Whether it’s taking an on-site class or attending a conference, we make sure that you have the training and education you need to do your job to the best of your abilities.</p><h2 class=\"collapsible-section-child-0-0\">We take care of each other</h2><p class=\"collapsible-section-child-0-0\">We’re serious about letting our employees share in Free Geek’s successes. Our generous benefits package includes paid vacation, holiday and sick leave, health care, vision and dental benefits, and much more. But the benefits don’t stop there — we’ll keep you powered up at work with a constant stream of snacks, coffee, and tea.&nbsp;</p><h2 class=\"collapsible-section-child-0-0\">We prioritize justice, equity, diversity, and inclusion</h2><p class=\"collapsible-section-child-0-0\">At Free Geek, we are committed to the equity work necessary to protect our diverse staff and community. We’re passionate about being the bridge that connects people of <em>all</em> backgrounds to understand, benefit from, and feel empowered in this Tech dependent world. The mission that we’ve committed to when serving the public starts with each other. Our staff deserves the same intention and passion that we deliver to our community. Imposter syndrome is real, especially within marginalized communities, and here at Free Geek, we aim to help bridge any gaps of knowledge one may have with development opportunities. We have our very own JEDI (Justice, Equity, Diversity, &amp; Inclusion) committee, run by our staff to ensure the cultivation of the best environment possible for YOU to thrive in.</p></div></details>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</div>\n      \n      </div>\n</div>\n          </div>\n  \n  </div>\n\n"
+}

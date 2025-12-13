@@ -1,0 +1,36 @@
+# Dependencies
+node_modules/
+
+# Beads database (synced via JSONL)
+.beads/*.db
+.beads/*.db-journal
+.beads/*.db-shm
+.beads/*.db-wal
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Build outputs
+dist/
+build/
+.next/
+.vercel/
+
+# Logs
+*.log
+npm-debug.log*
+
+# AI planning documents (ephemeral)
+history/

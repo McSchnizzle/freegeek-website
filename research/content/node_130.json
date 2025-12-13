@@ -1,0 +1,30 @@
+{
+  "url": "https://freegeek.org/node/130",
+  "title": "404 Page Not Found | Free Geek",
+  "content": "Whoops! We can't find the page you seek.\n\nPlease tell the humans by emailing info@freegeek.org.",
+  "images": [
+    {
+      "src": "https://freegeek.org/themes/custom/bene_frgk/logo.svg",
+      "alt": "Site Logo"
+    },
+    {
+      "src": "https://www.freegeek.org/sites/default/files/2025-08/unnamed%20%288%29.png",
+      "alt": ""
+    },
+    {
+      "src": "https://freegeek.org/sites/default/files/2024-03/Oregon100BestGreenWorkplaces2024.png",
+      "alt": ""
+    },
+    {
+      "src": "https://freegeek.org/sites/default/files/2021-12/i-Sigma_Member_Gray_Square.png",
+      "alt": ""
+    },
+    {
+      "src": "https://freegeek.org/sites/default/files/2019/05/affiliate-badge_large.png",
+      "alt": ""
+    }
+  ],
+  "links": [],
+  "meta": {},
+  "html": "\n\n  \n      <span property=\"schema:name\" content=\"404 Page Not Found\" class=\"rdf-meta hidden\"></span>\n\n\n  \n  <div class=\"node__content\">\n    \n      <div class=\"field field--name-bene-content field--type-entity-reference-revisions field--label-hidden field__items\">\n              <div class=\"field__item\">  <div class=\"paragraph paragraph--type--rich-text paragraph--view-mode--default\">\n          \n            <div class=\"clearfix text-formatted field field--name-field-text field--type-text-long field--label-hidden field__item\"><h2>Whoops! We can't find&nbsp;the page you seek.</h2>\n\n<p>Please tell the humans by emailing <a href=\"mailto:info@freegeek.org\">info@freegeek.org</a>.</p></div>\n      \n      </div>\n</div>\n          </div>\n  \n  </div>\n\n"
+}

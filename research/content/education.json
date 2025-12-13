@@ -1,0 +1,43 @@
+{
+  "url": "https://freegeek.org/education",
+  "title": "Education | Free Geek",
+  "content": "In Oregon, only 55% of suburban high schools teach Computer Science at all-- and often, it’s an elective. But when 82% of middle-skill positions (positions that require more than a HS diploma but less than a 4 year degree) require digital skills, more than basic technological training is a rapidly developing need. This is why at Free Geek, we created a no experience necessary educational experience.  Click the links below to check out our educational courses and tutorials.\n\nNeed Assistance?\nHEAD TO OUR EDUCATIONAL PLATFORM!\nDigital Navigation\nCLICK TO WATCH OUR TUTORIALS",
+  "images": [
+    {
+      "src": "https://freegeek.org/themes/custom/bene_frgk/logo.svg",
+      "alt": "Site Logo"
+    },
+    {
+      "src": "https://www.freegeek.org/sites/default/files/2025-08/unnamed%20%288%29.png",
+      "alt": ""
+    },
+    {
+      "src": "https://freegeek.org/sites/default/files/2024-03/Oregon100BestGreenWorkplaces2024.png",
+      "alt": ""
+    },
+    {
+      "src": "https://freegeek.org/sites/default/files/2021-12/i-Sigma_Member_Gray_Square.png",
+      "alt": ""
+    },
+    {
+      "src": "https://freegeek.org/sites/default/files/2019/05/affiliate-badge_large.png",
+      "alt": ""
+    }
+  ],
+  "links": [
+    {
+      "url": "https://freegeek.org/donatetech",
+      "text": "DONATE TECH"
+    },
+    {
+      "url": "https://freegeek.org/take-action-donate-technology/volunteer",
+      "text": "VOLUNTEER"
+    },
+    {
+      "url": "https://freegeek.org/colophon",
+      "text": "Colophon"
+    }
+  ],
+  "meta": {},
+  "html": "\n\n  \n      <span property=\"schema:name\" content=\"Education\" class=\"rdf-meta hidden\"></span>\n\n\n  \n  <div class=\"node__content\">\n    \n      <div class=\"field field--name-bene-content field--type-entity-reference-revisions field--label-hidden field__items\">\n              <div class=\"field__item\">  <div class=\"paragraph paragraph--type--rich-text paragraph--view-mode--default\">\n          \n            <div class=\"clearfix text-formatted field field--name-field-text field--type-text-long field--label-hidden field__item\"><p class=\"text-align-center\"><strong>In Oregon, only 55% of suburban high schools teach Computer Science at all-- and often, it’s an elective.</strong>&nbsp;But when 82%&nbsp;of middle-skill positions (positions that require more than a HS diploma but less than a 4 year degree) require digital skills, more than basic technological training is&nbsp;a rapidly developing need. This is why at Free Geek, we created a no experience necessary educational experience.&nbsp; <strong>Click the links below to check out our educational courses and tutorials.</strong></p></div>\n      \n      </div>\n</div>\n              <div class=\"field__item\">  <div class=\"paragraph paragraph--type--feature-full-width paragraph--view-mode--default paragraph-467 image\">\n          \n            <div class=\"field field--name-field-title field--type-string field--label-hidden field__item\">Need Assistance?</div>\n      \n            <div class=\"field field--name-field-link field--type-link field--label-hidden field__item\"><a href=\"https://sites.google.com/freegeek.org/gettingstarted/home?authuser=0\">Head to our educational platform!</a></div>\n      \n      </div>\n\n</div>\n              <div class=\"field__item\">  <div class=\"paragraph paragraph--type--feature-full-width paragraph--view-mode--default paragraph-654 image\">\n          \n            <div class=\"field field--name-field-title field--type-string field--label-hidden field__item\">Digital Navigation</div>\n      \n            <div class=\"field field--name-field-link field--type-link field--label-hidden field__item\"><a href=\"https://www.youtube.com/@FreeGeekMothership/videos\">Click to Watch Our Tutorials</a></div>\n      \n      </div>\n\n</div>\n          </div>\n  \n  </div>\n\n"
+}

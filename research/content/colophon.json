@@ -1,0 +1,38 @@
+{
+  "url": "https://freegeek.org/colophon",
+  "title": "Colophon | Free Geek",
+  "content": "We would like to extend a huge thank you to the incredible photographers who provided in-kind photography:\n\nAngela Holm Photography\nAnother Look\nWojtek Rajski\nWomen of Color in Tech Chat #WOCinTechChat",
+  "images": [
+    {
+      "src": "https://freegeek.org/themes/custom/bene_frgk/logo.svg",
+      "alt": "Site Logo"
+    },
+    {
+      "src": "https://freegeek.org/sites/default/files/styles/embed_half_s/public/2017/11/AHP-Photo-logo-artwork-2016.jpg?itok=7hSfGHPz",
+      "alt": "Angela Holm Photography"
+    },
+    {
+      "src": "https://freegeek.org/sites/default/files/styles/embed_half_s/public/2017/11/Anotherlook%20Logo%20For%20PRINT.jpg?itok=dNMxbakE",
+      "alt": "Another Look Photography"
+    },
+    {
+      "src": "https://www.freegeek.org/sites/default/files/2025-08/unnamed%20%288%29.png",
+      "alt": ""
+    },
+    {
+      "src": "https://freegeek.org/sites/default/files/2024-03/Oregon100BestGreenWorkplaces2024.png",
+      "alt": ""
+    },
+    {
+      "src": "https://freegeek.org/sites/default/files/2021-12/i-Sigma_Member_Gray_Square.png",
+      "alt": ""
+    },
+    {
+      "src": "https://freegeek.org/sites/default/files/2019/05/affiliate-badge_large.png",
+      "alt": ""
+    }
+  ],
+  "links": [],
+  "meta": {},
+  "html": "\n\n  \n      <span property=\"schema:name\" content=\"Colophon\" class=\"rdf-meta hidden\"></span>\n\n\n  \n  <div class=\"node__content\">\n    \n      <div class=\"field field--name-bene-content field--type-entity-reference-revisions field--label-hidden field__items\">\n              <div class=\"field__item\">  <div class=\"paragraph paragraph--type--rich-text paragraph--view-mode--default\">\n          \n            <div class=\"clearfix text-formatted field field--name-field-text field--type-text-long field--label-hidden field__item\"><p>We would like to extend a huge thank you to the incredible photographers who provided in-kind photography:</p>\n\n<p><a href=\"http://www.angelaholmphotography.com/\">Angela Holm Photography</a><br><a href=\"http://www.anotherlook.co/\">Another Look</a><br><a href=\"https://www.flickr.com/photos/chicktech_org/albums/72157687884030451\">Wojtek Rajski</a><br><a href=\"https://www.wocintechchat.com/\">Women of Color in Tech Chat</a>&nbsp;#WOCinTechChat</p>\n\n<div data-embed-button=\"media_browser\" data-entity-embed-display=\"view_mode:media.embedded_half\" data-entity-type=\"media\" data-entity-uuid=\"42705f65-8259-47f6-822a-51f465a0f858\" data-langcode=\"en\" data-entity-embed-display-settings=\"[]\" class=\"embedded-entity image align-center\"><article class=\"media media--type-image media--view-mode-embedded-half\"><div class=\"field field--name-field-media-image field--type-image field--label-hidden field__item\">    <picture><source srcset=\"/sites/default/files/styles/embed_half_l/public/2017/11/AHP-Photo-logo-artwork-2016.jpg?itok=AkISo5p9 1x\" media=\"(min-width: 769px)\" type=\"image/jpeg\"><source srcset=\"/sites/default/files/styles/embed_half_m/public/2017/11/AHP-Photo-logo-artwork-2016.jpg?itok=Iwyf3syd 1x\" media=\"(min-width: 376px)\" type=\"image/jpeg\"><source srcset=\"/sites/default/files/styles/embed_half_s/public/2017/11/AHP-Photo-logo-artwork-2016.jpg?itok=7hSfGHPz 1x\" media=\"(min-width: 0)\" type=\"image/jpeg\"><img src=\"/sites/default/files/styles/embed_half_s/public/2017/11/AHP-Photo-logo-artwork-2016.jpg?itok=7hSfGHPz\" alt=\"Angela Holm Photography\" typeof=\"foaf:Image\"></picture></div>\n      \n  </article></div>\n<div data-embed-button=\"media_browser\" data-entity-embed-display=\"view_mode:media.embedded_half\" data-entity-type=\"media\" data-entity-uuid=\"bd0c963a-d47b-4410-81e4-df19b4e87d7e\" data-langcode=\"en\" data-entity-embed-display-settings=\"[]\" class=\"embedded-entity image align-center\"><article class=\"media media--type-image media--view-mode-embedded-half\"><div class=\"field field--name-field-media-image field--type-image field--label-hidden field__item\">    <picture><source srcset=\"/sites/default/files/styles/embed_half_l/public/2017/11/Anotherlook%20Logo%20For%20PRINT.jpg?itok=ae8QU4cM 1x\" media=\"(min-width: 769px)\" type=\"image/jpeg\"><source srcset=\"/sites/default/files/styles/embed_half_m/public/2017/11/Anotherlook%20Logo%20For%20PRINT.jpg?itok=UOFxAp0r 1x\" media=\"(min-width: 376px)\" type=\"image/jpeg\"><source srcset=\"/sites/default/files/styles/embed_half_s/public/2017/11/Anotherlook%20Logo%20For%20PRINT.jpg?itok=dNMxbakE 1x\" media=\"(min-width: 0)\" type=\"image/jpeg\"><img src=\"/sites/default/files/styles/embed_half_s/public/2017/11/Anotherlook%20Logo%20For%20PRINT.jpg?itok=dNMxbakE\" alt=\"Another Look Photography\" typeof=\"foaf:Image\"></picture></div>\n      \n  </article></div>\n</div>\n      \n      </div>\n</div>\n          </div>\n  \n  </div>\n\n"
+}

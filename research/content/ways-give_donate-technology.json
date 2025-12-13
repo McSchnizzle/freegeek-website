@@ -1,0 +1,71 @@
+{
+  "url": "https://freegeek.org/ways-give/donate-technology",
+  "title": "Donate Technology | Free Geek",
+  "content": "Public drop offs of technology donations are welcomed Wednesdays through Saturdays, 11:00 AM - 4:00 PM, outdoors in the parking lot on the northeast side of our building.\n \nSmall Donations\n\nFor donations under 20 devices\n\nLarge Donation\n\nFor donations above 20 devices\n\nCorporate Donation\n\nFor businesses looking to donate used or new technology",
+  "images": [
+    {
+      "src": "https://freegeek.org/themes/custom/bene_frgk/logo.svg",
+      "alt": "Site Logo"
+    },
+    {
+      "src": "https://freegeek.org/sites/default/files/styles/tile_s/public/2022-02/6.png?h=1d6672d9&itok=6WsFpQ4q",
+      "alt": "Employee at donation station"
+    },
+    {
+      "src": "https://freegeek.org/sites/default/files/styles/tile_s/public/2022-02/5.png?h=10144aec&itok=sazkMwVP",
+      "alt": "free geek staff in front of pickup truck"
+    },
+    {
+      "src": "https://freegeek.org/sites/default/files/styles/tile_s/public/2022-02/4.png?itok=QC1J9Pwj",
+      "alt": "employees holding donated hp laptops"
+    },
+    {
+      "src": "https://www.freegeek.org/sites/default/files/2025-08/unnamed%20%288%29.png",
+      "alt": ""
+    },
+    {
+      "src": "https://freegeek.org/sites/default/files/2024-03/Oregon100BestGreenWorkplaces2024.png",
+      "alt": ""
+    },
+    {
+      "src": "https://freegeek.org/sites/default/files/2021-12/i-Sigma_Member_Gray_Square.png",
+      "alt": ""
+    },
+    {
+      "src": "https://freegeek.org/sites/default/files/2019/05/affiliate-badge_large.png",
+      "alt": ""
+    }
+  ],
+  "links": [
+    {
+      "url": "https://freegeek.org/small-donation",
+      "text": ""
+    },
+    {
+      "url": "https://freegeek.org/small-donation",
+      "text": "Small Donations"
+    },
+    {
+      "url": "https://freegeek.org/pickups",
+      "text": ""
+    },
+    {
+      "url": "https://freegeek.org/pickups",
+      "text": "Large Donation"
+    },
+    {
+      "url": "https://freegeek.org/donatetech",
+      "text": "DONATE TECH"
+    },
+    {
+      "url": "https://freegeek.org/take-action-donate-technology/volunteer",
+      "text": "VOLUNTEER"
+    },
+    {
+      "url": "https://freegeek.org/colophon",
+      "text": "Colophon"
+    }
+  ],
+  "meta": {},
+  "html": "\n\n  \n      <span property=\"schema:name\" content=\"Donate Technology\" class=\"rdf-meta hidden\"></span>\n\n\n  \n  <div class=\"node__content\">\n    \n      <div class=\"field field--name-bene-content field--type-entity-reference-revisions field--label-hidden field__items\">\n              <div class=\"field__item\">  <div class=\"paragraph paragraph--type--rich-text paragraph--view-mode--default\">\n          \n            <div class=\"clearfix text-formatted field field--name-field-text field--type-text-long field--label-hidden field__item\"><h2 class=\"text-align-center\" dir=\"ltr\"><strong>Public drop offs of technology donations are welcomed&nbsp;Wednesdays through Saturdays,&nbsp;11:00 AM - 4:00 PM</strong>, outdoors in the parking lot on the northeast side of our building.<br>\n&nbsp;</h2>\n</div>\n      \n      </div>\n</div>\n              <div class=\"field__item\">  <div class=\"paragraph paragraph--type--tiles paragraph--view-mode--default\">\n          \n      <div class=\"field field--name-field-tiles field--type-entity-reference-revisions field--label-hidden field__items\">\n              <div class=\"field__item\">        <div class=\"paragraph paragraph--type--tile paragraph--view-mode--default paragraph-585\">\n                                    <a href=\"/small-donation\">\n                        \n            <div class=\"field field--name-field-image field--type-entity-reference field--label-hidden field__item\"><article class=\"media media--type-image media--view-mode-tile\">\n  \n      \n            <div class=\"field field--name-field-media-image field--type-image field--label-hidden field__item\">    <picture>\n                  <source srcset=\"/sites/default/files/styles/tile_l/public/2022-02/6.png?h=1d6672d9&amp;itok=Z7uwryt7 1x\" media=\"(min-width: 769px)\" type=\"image/png\">\n              <source srcset=\"/sites/default/files/styles/tile_m/public/2022-02/6.png?h=1d6672d9&amp;itok=hBthA_2m 1x\" media=\"(min-width: 376px)\" type=\"image/png\">\n              <source srcset=\"/sites/default/files/styles/tile_s/public/2022-02/6.png?h=1d6672d9&amp;itok=6WsFpQ4q 1x\" media=\"(min-width: 0)\" type=\"image/png\">\n                  <img src=\"/sites/default/files/styles/tile_s/public/2022-02/6.png?h=1d6672d9&amp;itok=6WsFpQ4q\" alt=\"Employee at donation station\" typeof=\"foaf:Image\">\n\n  </picture>\n\n</div>\n      \n  </article>\n</div>\n      \n                            </a>\n                        <div class=\"tile-text\">\n                \n                                <a href=\"/small-donation\">\n                                \n            <div class=\"field field--name-field-title field--type-string field--label-hidden field__item\">Small Donations</div>\n      \n                                </a>\n                                \n            <div class=\"clearfix text-formatted field field--name-field-text field--type-text-long field--label-hidden field__item\"><p>For donations under 20 devices</p></div>\n      \n                            </div>\n            </div>\n</div>\n              <div class=\"field__item\">        <div class=\"paragraph paragraph--type--tile paragraph--view-mode--default paragraph-586\">\n                                    <a href=\"/pickups\">\n                        \n            <div class=\"field field--name-field-image field--type-entity-reference field--label-hidden field__item\"><article class=\"media media--type-image media--view-mode-tile\">\n  \n      \n            <div class=\"field field--name-field-media-image field--type-image field--label-hidden field__item\">    <picture>\n                  <source srcset=\"/sites/default/files/styles/tile_l/public/2022-02/5.png?h=10144aec&amp;itok=lYwxMcVT 1x\" media=\"(min-width: 769px)\" type=\"image/png\">\n              <source srcset=\"/sites/default/files/styles/tile_m/public/2022-02/5.png?h=10144aec&amp;itok=8YZkQnMI 1x\" media=\"(min-width: 376px)\" type=\"image/png\">\n              <source srcset=\"/sites/default/files/styles/tile_s/public/2022-02/5.png?h=10144aec&amp;itok=sazkMwVP 1x\" media=\"(min-width: 0)\" type=\"image/png\">\n                  <img src=\"/sites/default/files/styles/tile_s/public/2022-02/5.png?h=10144aec&amp;itok=sazkMwVP\" alt=\"free geek staff in front of pickup truck\" typeof=\"foaf:Image\">\n\n  </picture>\n\n</div>\n      \n  </article>\n</div>\n      \n                            </a>\n                        <div class=\"tile-text\">\n                \n                                <a href=\"/pickups\">\n                                \n            <div class=\"field field--name-field-title field--type-string field--label-hidden field__item\">Large Donation</div>\n      \n                                </a>\n                                \n            <div class=\"clearfix text-formatted field field--name-field-text field--type-text-long field--label-hidden field__item\"><p>For donations above 20 devices</p></div>\n      \n                            </div>\n            </div>\n</div>\n              <div class=\"field__item\">        <div class=\"paragraph paragraph--type--tile paragraph--view-mode--default paragraph-587\">\n                                    <a href=\"/take-action/corporate-donation\">\n                        \n            <div class=\"field field--name-field-image field--type-entity-reference field--label-hidden field__item\"><article class=\"media media--type-image media--view-mode-tile\">\n  \n      \n            <div class=\"field field--name-field-media-image field--type-image field--label-hidden field__item\">    <picture>\n                  <source srcset=\"/sites/default/files/styles/tile_l/public/2022-02/4.png?itok=4XNFXlOF 1x\" media=\"(min-width: 769px)\" type=\"image/png\">\n              <source srcset=\"/sites/default/files/styles/tile_m/public/2022-02/4.png?itok=x-mAZ9tP 1x\" media=\"(min-width: 376px)\" type=\"image/png\">\n              <source srcset=\"/sites/default/files/styles/tile_s/public/2022-02/4.png?itok=QC1J9Pwj 1x\" media=\"(min-width: 0)\" type=\"image/png\">\n                  <img src=\"/sites/default/files/styles/tile_s/public/2022-02/4.png?itok=QC1J9Pwj\" alt=\"employees holding donated hp laptops\" typeof=\"foaf:Image\">\n\n  </picture>\n\n</div>\n      \n  </article>\n</div>\n      \n                            </a>\n                        <div class=\"tile-text\">\n                \n                                <a href=\"/take-action/corporate-donation\">\n                                \n            <div class=\"field field--name-field-title field--type-string field--label-hidden field__item\">Corporate Donation</div>\n      \n                                </a>\n                                \n            <div class=\"clearfix text-formatted field field--name-field-text field--type-text-long field--label-hidden field__item\"><p>For businesses looking to donate used or new technology</p></div>\n      \n                            </div>\n            </div>\n</div>\n          </div>\n  \n      </div>\n</div>\n          </div>\n  \n  </div>\n\n"
+}

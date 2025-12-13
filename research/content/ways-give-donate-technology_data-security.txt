@@ -1,0 +1,29 @@
+URL: https://freegeek.org/ways-give-donate-technology/data-security
+Title: Data Security | Free Geek
+
+Your data is safe with us
+
+At Free Geek, we take care to ensure the safety of your data-containing devices. Our data security promise extends to desktops, laptops, smartphones, tablets, and all other data-containing devices.
+
+Why choose Free Geek for data sanitization and destruction?
+Data-bearing devices we receive are routed to our secure data area for data destruction.
+National Institute Standards and Technology (NIST) SP800-88 data sanitization.
+Strict adherence to the International Secure Information & Governance Management Association (i-SIGMA) bylaws and i-SIGMA membership code of ethics.
+Certificate of Data Destruction available upon request (see below, some restrictions may apply).
+Our Process
+
+ 
+
+ 
+
+When you donate data-bearing devices, they are routed directly to our secure data area; an enclosed, locked, and staff-only area. Computer hard drives that meet our reuse specifications are wiped clean in our hard drive sanitation banks using random data to overwrite the entire drive and rendering the data unrecoverable. The drive is then overwritten again, and finally, batch checked for quality control.
+
+If a data bearing item is unable to be wiped or is below our specifications for reuse, we will physically damage the drive rendering the data unrecoverable. Some devices have integrated storage chips that can be difficult to wipe or find to physically damage. As a last resort, we partner with highly vetted downstream vendors that hold data security compliance certifications, to shred the devices we are unable to wipe or damage ourselves.
+
+If you would like to wipe the device drive yourself before donating to Free Geek, we recommend using a program like DBAN.
+
+Get Proof of Destruction
+
+For a fee of $10 per device or data-containing drive, Free Geek can provide donors with an itemized Certificate of Data Destruction. This is a perfect option for donors who specifically require documentation of data erasure and destruction. A Certificate of Data Destruction on some devices may result in us not being able to reuse the device.
+
+If you need this extra level of documentation, please ask for this service when making a donation or scheduling a pickup.

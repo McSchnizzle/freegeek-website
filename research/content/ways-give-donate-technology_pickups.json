@@ -1,0 +1,35 @@
+{
+  "url": "https://freegeek.org/ways-give-donate-technology/pickups",
+  "title": "Large Donation | Free Geek",
+  "content": "Do you have a donation of over 20 devices and are interested in finding a good time to drop off your technology? Please email dropoffs@freegeek.org to schedule a time.\n\nNeed help transporting your donation?  While you’re welcome to bring items directly to our facility for donation, Free Geek provides a paid pickup service for donations over 20 devices throughout the Portland metro area. Our friendly staff will pick up your technology with minimal disruption to your day. By scheduling your electronics recycling pickup with Free Geek, you'll know that your technology is being recycled according to the highest ethical standards or reused in one of our valuable community programs. Please fill out the form below.\n\n**If you have less than 20 devices to donate to Free Geek, please see our Small Donation page.\nIf you are looking to donate corporate technology, please see our Corporate Donation page.\n\nIs my data secure?\nWhat technology do you accept?\nHow much does pickup cost?\nWhen do pickups occur?",
+  "images": [
+    {
+      "src": "https://freegeek.org/themes/custom/bene_frgk/logo.svg",
+      "alt": "Site Logo"
+    },
+    {
+      "src": "https://www.freegeek.org/sites/default/files/2025-08/unnamed%20%288%29.png",
+      "alt": ""
+    },
+    {
+      "src": "https://freegeek.org/sites/default/files/2024-03/Oregon100BestGreenWorkplaces2024.png",
+      "alt": ""
+    },
+    {
+      "src": "https://freegeek.org/sites/default/files/2021-12/i-Sigma_Member_Gray_Square.png",
+      "alt": ""
+    },
+    {
+      "src": "https://freegeek.org/sites/default/files/2019/05/affiliate-badge_large.png",
+      "alt": ""
+    }
+  ],
+  "links": [
+    {
+      "url": "https://freegeek.org/ways-give-donate-technology/data-security",
+      "text": ""
+    }
+  ],
+  "meta": {},
+  "html": "\n\n  \n      <span property=\"schema:name\" content=\"Large Donation\" class=\"rdf-meta hidden\"></span>\n\n\n  \n  <div class=\"node__content\">\n    \n      <div class=\"field field--name-bene-content field--type-entity-reference-revisions field--label-hidden field__items\">\n              <div class=\"field__item\">  <div class=\"paragraph paragraph--type--rich-text paragraph--view-mode--default\">\n          \n            <div class=\"clearfix text-formatted field field--name-field-text field--type-text-long field--label-hidden field__item\"><p><strong>Do you have a donation of over 20 devices and are interested in finding a good time to drop off your technology? Please email <a href=\"emailto:dropoffs@freegeek.org\">dropoffs@freegeek.org</a> to schedule a time.</strong></p>\n\n<p>Need help transporting your donation?&nbsp; While you’re welcome to bring items directly to our facility for donation, <strong>Free Geek&nbsp;provides a paid pickup service for donations over 20 devices throughout the Portland metro area</strong>. Our friendly staff will pick up your technology with minimal disruption to your day.&nbsp;By scheduling your electronics recycling pickup with Free Geek, you'll know that your technology is being recycled according to the highest ethical standards or reused in one of our valuable&nbsp;community programs. Please fill out the form below.</p>\n\n<p>**If you have <strong>less than 20 devices to donate to Free Geek</strong>, please see our <a href=\"https://www.freegeek.org/small-donation\">Small Donation</a> page.<br>\nIf you are looking to <strong>donate corporate technology</strong>, please see our <a href=\"https://www.freegeek.org/take-action/corporate-donation\">Corporate Donation</a> page.</p>\n\n<p class=\"text-align-center\"><iframe frameborder=\"0\" height=\"520\" marginheight=\"0\" marginwidth=\"0\" src=\"https://docs.google.com/forms/d/e/1FAIpQLSfKRMH8vOAmjmCUKDzqvnuhVJa611jkM7Z6WDOefTtzTgi66A/viewform?embedded=true\" width=\"700\">Loading…</iframe></p>\n</div>\n      \n      </div>\n</div>\n              <div class=\"field__item\">  <div class=\"paragraph paragraph--type--rich-text paragraph--view-mode--default\">\n          \n            <div class=\"clearfix text-formatted field field--name-field-text field--type-text-long field--label-hidden field__item\">\n<details><summary id=\"collapsible-section-title-0-0\">Is my data secure?</summary><div class=\"details-wrapper\"><p class=\"collapsible-section-child-0-0\">We’re committed to ensuring the data security of all the devices we receive.</p><p class=\"collapsible-section-child-0-0\"><a href=\"/ways-give-donate-technology/data-security\">Learn more about our secure data practices</a>.</p></div></details>\n\n\n\n\n\n\n\n<details><summary id=\"collapsible-section-title-1-0\">What technology do you accept?</summary><div class=\"details-wrapper\"><p class=\"collapsible-section-child-1-0\">Free Geek accepts nearly everything that plugs into a computer or uses electricity, <a href=\"/ways-give/donate-technology#what-we-dont-accept\">with some exceptions</a>.</p></div></details>\n\n\n\n\n\n<details><summary id=\"collapsible-section-title-2-0\">How much does pickup cost?</summary><div class=\"details-wrapper\"><p dir=\"ltr\" class=\"collapsible-section-child-2-0\">We keep it simple with a flat&nbsp;fee of $150 for all pick-ups of accepted items. Please have a check ready at pickup.</p><p dir=\"ltr\" class=\"collapsible-section-child-2-0\">We can also process payments via credit card or invoice you. If you opt to receive an invoice, please let us know who to contact for accounts payable so we can get the invoice to them directly.</p></div></details>\n\n\n\n\n\n\n\n<details><summary id=\"collapsible-section-title-3-0\">When do pickups occur?</summary><div class=\"details-wrapper\"><p class=\"collapsible-section-child-3-0\">Pickups are generally scheduled for Tuesday and Thursday mornings between 10am-1pm.</p></div></details>\n\n\n\n</div>\n      \n      </div>\n</div>\n          </div>\n  \n  </div>\n\n"
+}

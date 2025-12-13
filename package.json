@@ -1,0 +1,23 @@
+{
+  "name": "freegeek-website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/McSchnizzle/freegeek-website.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/McSchnizzle/freegeek-website/issues"
+  },
+  "homepage": "https://github.com/McSchnizzle/freegeek-website#readme",
+  "dependencies": {
+    "playwright": "^1.57.0"
+  }
+}
