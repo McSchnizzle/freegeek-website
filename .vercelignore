@@ -1,0 +1,20 @@
+# Beads issue tracking
+.beads/
+
+# Research data (not needed for deployment)
+research/
+
+# Scripts
+scripts/
+
+# History
+history/
+
+# Claude config
+.claude/
+
+# MCP config
+.mcp.json
+
+# Agents doc
+AGENTS.md

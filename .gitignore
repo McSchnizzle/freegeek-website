@@ -34,3 +34,4 @@ npm-debug.log*
 
 # AI planning documents (ephemeral)
 history/
+.vercel
