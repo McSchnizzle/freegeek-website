@@ -68,7 +68,7 @@ export async function Footer() {
     {
       nameKey: 'mostAdmiredTech',
       href: 'https://www.bizjournals.com/portland/news/most-admired-companies',
-      image: '/images/badges/pbj-most-admired.png',
+      image: '/images/badges/pbj-most-admired.jpg',
     },
   ];
 
