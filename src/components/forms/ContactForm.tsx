@@ -24,6 +24,8 @@ interface ContactFormProps {
     submit: string;
     sending: string;
     success: string;
+    successDescription: string;
+    sendAnother: string;
     error: string;
   };
 }
@@ -43,6 +45,7 @@ export function ContactForm({ translations: t }: ContactFormProps) {
       email: formData.get('email'),
       subject: formData.get('subject'),
       message: formData.get('message'),
+      website: formData.get('website'), // Honeypot field
     };
 
     try {
@@ -68,19 +71,19 @@ export function ContactForm({ translations: t }: ContactFormProps) {
 
   if (status === 'success') {
     return (
-      <div className="bg-green-50 border border-green-200 rounded-xl p-8 text-center">
+      <div className="bg-green-50 border border-green-200 rounded-xl p-8 text-center" role="status" aria-live="polite">
         <div className="w-16 h-16 bg-green-100 rounded-full flex items-center justify-center mx-auto mb-4">
-          <svg className="w-8 h-8 text-green-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <svg className="w-8 h-8 text-green-600" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
           </svg>
         </div>
         <h3 className="text-xl font-bold text-green-800 mb-2">{t.success}</h3>
-        <p className="text-green-700">We&apos;ll get back to you as soon as possible.</p>
+        <p className="text-green-700">{t.successDescription}</p>
         <button
           onClick={() => setStatus('idle')}
           className="mt-4 text-green-600 hover:text-green-800 font-medium"
         >
-          Send another message
+          {t.sendAnother}
         </button>
       </div>
     );
@@ -88,8 +91,14 @@ export function ContactForm({ translations: t }: ContactFormProps) {
 
   return (
     <form onSubmit={handleSubmit} className="space-y-6">
+      {/* Honeypot field for spam protection - hidden from users */}
+      <div className="absolute -left-[9999px]" aria-hidden="true">
+        <label htmlFor="website">Website</label>
+        <input type="text" id="website" name="website" tabIndex={-1} autoComplete="off" />
+      </div>
+
       {status === 'error' && (
-        <div className="bg-red-50 border border-red-200 rounded-lg p-4 text-red-700">
+        <div className="bg-red-50 border border-red-200 rounded-lg p-4 text-red-700" role="alert" aria-live="assertive">
           <p className="font-medium">{t.error}</p>
           {errorMessage && <p className="text-sm mt-1">{errorMessage}</p>}
         </div>

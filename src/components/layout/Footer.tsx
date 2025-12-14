@@ -47,6 +47,10 @@ export async function Footer() {
       nameKey: 'bestNonprofits',
       href: null,
     },
+    {
+      nameKey: 'greenWorkplaces',
+      href: null,
+    },
   ];
 
   return (

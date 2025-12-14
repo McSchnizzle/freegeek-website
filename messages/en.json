@@ -86,6 +86,10 @@
       "bestNonprofits": {
         "name": "100 Best Nonprofits",
         "description": "Oregon Business 100 Best Nonprofits to Work For"
+      },
+      "greenWorkplaces": {
+        "name": "100 Best Green Workplaces",
+        "description": "Oregon Business 100 Best Green Workplaces in Oregon 2024"
       }
     }
   },
@@ -711,6 +715,8 @@
       "submit": "Send Message",
       "sending": "Sending...",
       "success": "Message Sent!",
+      "successDescription": "We'll get back to you as soon as possible.",
+      "sendAnother": "Send another message",
       "error": "Failed to send message",
       "note": "We typically respond within 1-2 business days."
     },
@@ -802,6 +808,8 @@
       "submit": "Submit Interest Form",
       "sending": "Submitting...",
       "success": "Interest Form Submitted!",
+      "successDescription": "We'll be in touch soon about volunteer opportunities!",
+      "submitAnother": "Submit another interest form",
       "error": "Failed to submit form",
       "note": "We'll reach out within a few days about volunteer opportunities."
     },
@@ -1207,39 +1215,23 @@
     "leadership": {
       "title": "Leadership",
       "description": "Our executive team guides Free Geek's strategic direction and ensures we stay true to our mission.",
-      "comingSoon": "Leadership profiles coming soon"
+      "managementTeam": "Management Team"
     },
     "board": {
       "title": "Board of Directors",
-      "description": "Our volunteer board provides governance and oversight, bringing diverse expertise to guide Free Geek's future.",
-      "placeholder1": "Board Member",
-      "placeholder2": "Board Member",
-      "placeholder3": "Board Member",
-      "comingSoon": "Full board profiles coming soon"
-    },
-    "teams": {
-      "title": "Our Teams",
-      "description": "From operations to programs to development, our teams collaborate to deliver on our mission.",
-      "comingSoon": "Full team profiles coming soon"
-    },
-    "departments": {
-      "operations": {
-        "name": "Operations",
-        "member1": "Team Member"
-      },
-      "programs": {
-        "name": "Programs & Digital Inclusion",
-        "member1": "Team Member"
-      },
-      "development": {
-        "name": "Development & Communications",
-        "member1": "Team Member"
-      }
+      "description": "Our volunteer board provides governance and oversight, bringing diverse expertise to guide Free Geek's future."
     },
     "roles": {
       "executiveDirector": "Executive Director",
-      "boardMember": "Board Member",
-      "manager": "Manager"
+      "directorOperations": "Director of Operations",
+      "directorBusinessDev": "Director of Business Development",
+      "managerRefurbishment": "Manager of Reuse & Technology Refurbishment",
+      "managerDigitalEquity": "Manager of Digital Equity",
+      "managerSales": "Manager of Sales",
+      "managerReceiving": "Manager of Receiving & Recycling",
+      "boardChair": "Board Chair",
+      "boardSecretary": "Board Secretary",
+      "boardMember": "Board Member"
     },
     "cta": {
       "title": "Want to join our team?",

@@ -179,6 +179,8 @@ export default async function ContactPage() {
               submit: t('form.submit'),
               sending: t('form.sending'),
               success: t('form.success'),
+              successDescription: t('form.successDescription'),
+              sendAnother: t('form.sendAnother'),
               error: t('form.error'),
             }}
           />

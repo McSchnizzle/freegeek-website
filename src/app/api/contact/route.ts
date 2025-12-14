@@ -3,7 +3,16 @@ import { NextRequest, NextResponse } from 'next/server';
 export async function POST(request: NextRequest) {
   try {
     const body = await request.json();
-    const { name, email, subject, message } = body;
+    const { name, email, subject, message, website } = body;
+
+    // Honeypot spam check - if website field is filled, it's likely a bot
+    if (website) {
+      // Return success to not reveal spam detection
+      return NextResponse.json(
+        { success: true, message: 'Message sent successfully' },
+        { status: 200 }
+      );
+    }
 
     // Validate required fields
     if (!name || !email || !subject || !message) {

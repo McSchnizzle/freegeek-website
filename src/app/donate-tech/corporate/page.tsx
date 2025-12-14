@@ -25,7 +25,7 @@ export default async function CorporateDonationsPage() {
             {t('hero.description')}
           </p>
           <div className="flex flex-col sm:flex-row gap-4">
-            <Button href="https://freegeek.org/take-action-donate-technology/corporate" variant="primary" size="lg">
+            <Button href="/contact" variant="primary" size="lg">
               {common('schedulePickup')}
             </Button>
             <Button href="/contact" variant="outline" size="lg">
@@ -229,7 +229,7 @@ export default async function CorporateDonationsPage() {
             {t('cta.description')}
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
-            <Button href="https://freegeek.org/take-action-donate-technology/corporate" variant="secondary" size="lg">
+            <Button href="/contact" variant="secondary" size="lg">
               {common('schedulePickup')}
             </Button>
             <Button href="/contact" variant="outline" size="lg">

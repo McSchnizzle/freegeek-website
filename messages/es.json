@@ -86,6 +86,10 @@
       "bestNonprofits": {
         "name": "100 mejores organizaciones sin fines de lucro",
         "description": "100 mejores organizaciones sin fines de lucro para trabajar de Oregon Business"
+      },
+      "greenWorkplaces": {
+        "name": "100 mejores lugares de trabajo ecológicos",
+        "description": "100 mejores lugares de trabajo ecológicos en Oregon 2024 de Oregon Business"
       }
     }
   },
@@ -711,6 +715,8 @@
       "submit": "Enviar Mensaje",
       "sending": "Enviando...",
       "success": "¡Mensaje Enviado!",
+      "successDescription": "Te responderemos lo antes posible.",
+      "sendAnother": "Enviar otro mensaje",
       "error": "Error al enviar el mensaje",
       "note": "Normalmente respondemos en 1-2 días hábiles."
     },
@@ -802,6 +808,8 @@
       "submit": "Enviar Formulario de Interés",
       "sending": "Enviando...",
       "success": "¡Formulario de Interés Enviado!",
+      "successDescription": "¡Nos pondremos en contacto pronto sobre oportunidades de voluntariado!",
+      "submitAnother": "Enviar otro formulario de interés",
       "error": "Error al enviar el formulario",
       "note": "Nos comunicaremos contigo en unos días sobre oportunidades de voluntariado."
     },
@@ -1207,39 +1215,23 @@
     "leadership": {
       "title": "Liderazgo",
       "description": "Nuestro equipo ejecutivo guía la dirección estratégica de Free Geek y asegura que nos mantengamos fieles a nuestra misión.",
-      "comingSoon": "Perfiles de liderazgo próximamente"
+      "managementTeam": "Equipo de Gestión"
     },
     "board": {
       "title": "Junta Directiva",
-      "description": "Nuestra junta voluntaria proporciona gobernanza y supervisión, aportando experiencia diversa para guiar el futuro de Free Geek.",
-      "placeholder1": "Miembro de la Junta",
-      "placeholder2": "Miembro de la Junta",
-      "placeholder3": "Miembro de la Junta",
-      "comingSoon": "Perfiles completos de la junta próximamente"
-    },
-    "teams": {
-      "title": "Nuestros Equipos",
-      "description": "Desde operaciones hasta programas y desarrollo, nuestros equipos colaboran para cumplir nuestra misión.",
-      "comingSoon": "Perfiles completos del equipo próximamente"
-    },
-    "departments": {
-      "operations": {
-        "name": "Operaciones",
-        "member1": "Miembro del Equipo"
-      },
-      "programs": {
-        "name": "Programas e Inclusión Digital",
-        "member1": "Miembro del Equipo"
-      },
-      "development": {
-        "name": "Desarrollo y Comunicaciones",
-        "member1": "Miembro del Equipo"
-      }
+      "description": "Nuestra junta voluntaria proporciona gobernanza y supervisión, aportando experiencia diversa para guiar el futuro de Free Geek."
     },
     "roles": {
       "executiveDirector": "Director Ejecutivo",
-      "boardMember": "Miembro de la Junta",
-      "manager": "Gerente"
+      "directorOperations": "Director de Operaciones",
+      "directorBusinessDev": "Director de Desarrollo de Negocios",
+      "managerRefurbishment": "Gerente de Reutilización y Reacondicionamiento Tecnológico",
+      "managerDigitalEquity": "Gerente de Equidad Digital",
+      "managerSales": "Gerente de Ventas",
+      "managerReceiving": "Gerente de Recepción y Reciclaje",
+      "boardChair": "Presidente de la Junta",
+      "boardSecretary": "Secretario de la Junta",
+      "boardMember": "Miembro de la Junta"
     },
     "cta": {
       "title": "¿Quieres unirte a nuestro equipo?",

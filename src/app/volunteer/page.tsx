@@ -163,6 +163,8 @@ export default async function VolunteerPage() {
               submit: t('form.submit'),
               sending: t('form.sending'),
               success: t('form.success'),
+              successDescription: t('form.successDescription'),
+              submitAnother: t('form.submitAnother'),
               error: t('form.error'),
             }}
           />

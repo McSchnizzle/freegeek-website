@@ -93,7 +93,7 @@ export default async function DonateTechPage() {
             <p className="text-gray-600 mb-6">
               {t('types.small.description')}
             </p>
-            <Button href="https://freegeek.org/donatetech" className="w-full">
+            <Button href="#drop-off" className="w-full">
               {common('dropOffAnytime')}
             </Button>
           </div>
@@ -103,7 +103,7 @@ export default async function DonateTechPage() {
             <p className="text-gray-600 mb-6">
               {t('types.large.description')}
             </p>
-            <Button href="https://freegeek.org/take-action-donate-technology/large-donation" className="w-full">
+            <Button href="/contact" className="w-full">
               {common('scheduleDropOff')}
             </Button>
           </div>
@@ -170,8 +170,8 @@ export default async function DonateTechPage() {
         <div className="grid grid-cols-2 md:grid-cols-4 gap-6 mb-8">
           {['laptops', 'desktops', 'smartphones', 'tablets', 'monitors', 'printers', 'keyboards', 'cables'].map((item) => (
             <div key={item} className="text-center p-4">
-              <div className="w-16 h-16 bg-green-100 rounded-full flex items-center justify-center mx-auto mb-3">
-                <svg className="w-8 h-8 text-green-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <div className="w-16 h-16 bg-blue-100 rounded-full flex items-center justify-center mx-auto mb-3">
+                <svg className="w-8 h-8 text-blue-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
                 </svg>
               </div>

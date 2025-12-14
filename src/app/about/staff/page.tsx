@@ -62,36 +62,29 @@ export default async function StaffPage() {
   const t = await getTranslations('staff');
   const common = await getTranslations('common');
 
-  // Note: In production, this data would come from a CMS or API
-  const leadership: TeamMember[] = [
-    { name: 'Executive Director', title: t('roles.executiveDirector'), pronouns: 'they/them' },
+  const executiveDirector: TeamMember = {
+    name: 'Juan Muro Jr.',
+    title: t('roles.executiveDirector'),
+    pronouns: 'he/him',
+  };
+
+  const managementTeam: TeamMember[] = [
+    { name: 'Cali Avila', title: t('roles.directorOperations'), pronouns: 'he/they' },
+    { name: 'Dwindell Joseph Feeley', title: t('roles.directorBusinessDev'), pronouns: 'he/him' },
+    { name: 'Adrian León', title: t('roles.managerRefurbishment'), pronouns: 'he/him' },
+    { name: 'Ashley Martinez', title: t('roles.managerDigitalEquity'), pronouns: 'she/her' },
+    { name: 'Amir Torkzadeh', title: t('roles.managerSales'), pronouns: 'he/they' },
+    { name: 'Ron Spray', title: t('roles.managerReceiving'), pronouns: 'he/him' },
   ];
 
   const boardMembers: TeamMember[] = [
-    { name: t('board.placeholder1'), title: t('roles.boardMember') },
-    { name: t('board.placeholder2'), title: t('roles.boardMember') },
-    { name: t('board.placeholder3'), title: t('roles.boardMember') },
-  ];
-
-  const departments = [
-    {
-      name: t('departments.operations.name'),
-      members: [
-        { name: t('departments.operations.member1'), title: t('roles.manager') },
-      ],
-    },
-    {
-      name: t('departments.programs.name'),
-      members: [
-        { name: t('departments.programs.member1'), title: t('roles.manager') },
-      ],
-    },
-    {
-      name: t('departments.development.name'),
-      members: [
-        { name: t('departments.development.member1'), title: t('roles.manager') },
-      ],
-    },
+    { name: 'Marcus Carter II', title: t('roles.boardChair') },
+    { name: 'Paul Brown', title: t('roles.boardSecretary') },
+    { name: 'Fidel Ferrer', title: t('roles.boardMember') },
+    { name: 'Sydnie Hinds', title: t('roles.boardMember') },
+    { name: 'Maria Lara', title: t('roles.boardMember') },
+    { name: 'Benny Kuo', title: t('roles.boardMember') },
+    { name: 'Lynise Fleming', title: t('roles.boardMember') },
   ];
 
   return (
@@ -115,7 +108,9 @@ export default async function StaffPage() {
         <p className="text-gray-600 text-center max-w-2xl mx-auto mb-12">
           {t('leadership.description')}
         </p>
-        <div className="flex justify-center">
+
+        {/* Executive Director */}
+        <div className="flex justify-center mb-12">
           <div className="bg-gray-50 rounded-2xl p-8 text-center max-w-sm">
             <div className="w-32 h-32 bg-gray-200 rounded-full mx-auto mb-6 overflow-hidden">
               <div className="w-full h-full flex items-center justify-center">
@@ -124,8 +119,18 @@ export default async function StaffPage() {
                 </svg>
               </div>
             </div>
-            <p className="text-gray-500 text-sm italic">{t('leadership.comingSoon')}</p>
+            <h3 className="font-bold text-xl">{executiveDirector.name}</h3>
+            <p className="text-gray-500 text-sm">({executiveDirector.pronouns})</p>
+            <p className="text-gray-600 mt-1">{executiveDirector.title}</p>
           </div>
+        </div>
+
+        {/* Management Team */}
+        <h3 className="text-2xl font-bold mb-6 text-center">{t('leadership.managementTeam')}</h3>
+        <div className="grid md:grid-cols-3 gap-6 max-w-4xl mx-auto">
+          {managementTeam.map((member, index) => (
+            <TeamMemberCard key={index} member={member} />
+          ))}
         </div>
       </Section>
 
@@ -135,37 +140,11 @@ export default async function StaffPage() {
         <p className="text-gray-600 text-center max-w-2xl mx-auto mb-12">
           {t('board.description')}
         </p>
-        <div className="grid md:grid-cols-3 gap-6 max-w-4xl mx-auto">
+        <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-6 max-w-5xl mx-auto">
           {boardMembers.map((member, index) => (
             <TeamMemberCard key={index} member={member} />
           ))}
         </div>
-        <p className="text-center text-gray-500 text-sm mt-8 italic">
-          {t('board.comingSoon')}
-        </p>
-      </Section>
-
-      {/* Department Teams */}
-      <Section background="white">
-        <h2 className="text-3xl font-bold mb-4 text-center">{t('teams.title')}</h2>
-        <p className="text-gray-600 text-center max-w-2xl mx-auto mb-12">
-          {t('teams.description')}
-        </p>
-        <div className="space-y-12">
-          {departments.map((dept, deptIndex) => (
-            <div key={deptIndex}>
-              <h3 className="text-2xl font-bold mb-6 text-center">{dept.name}</h3>
-              <div className="grid md:grid-cols-3 gap-6 max-w-4xl mx-auto">
-                {dept.members.map((member, memberIndex) => (
-                  <TeamMemberCard key={memberIndex} member={member} />
-                ))}
-              </div>
-            </div>
-          ))}
-        </div>
-        <p className="text-center text-gray-500 text-sm mt-8 italic">
-          {t('teams.comingSoon')}
-        </p>
       </Section>
 
       {/* Join the Team CTA */}
