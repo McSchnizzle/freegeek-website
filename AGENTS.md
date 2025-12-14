@@ -79,6 +79,53 @@ AI assistants often create planning and design documents during development. Sto
 
 Run `bd <command> --help` to see all available flags for any command.
 
+### Production Parity Audit Workflow
+
+When working on any page, ensure feature parity with the production freegeek.org site. This prevents incomplete work and missing content.
+
+**Before Building/Modifying a Page:**
+
+1. **Fetch production content** - Use WebFetch to retrieve the corresponding page from freegeek.org
+2. **Inventory what exists:**
+   - Actual content (names, facts, contact details, specific data)
+   - Trust signals (certifications, badges like i-SIGMA, NDIA, 100 Best)
+   - CTAs and where they lead
+   - Forms or interactive elements
+   - Images and their purposes
+3. **Create a checklist** of items that must be covered
+
+**During Implementation:**
+
+1. **Track covered vs deferred items** - Check off inventory items as implemented
+2. **No silent placeholders** - If you use placeholder data (e.g., "Board Member 1"), immediately create a bd issue to populate with real data
+3. **No silent skips** - If you skip something, create a bd issue explaining why and what's needed
+
+**Before Marking Complete:**
+
+1. **Parity check** - Does this page cover all essential content from production?
+2. **i18n complete** - Are all strings in EN/ES? No hardcoded English?
+3. **Links audit** - Are external links necessary, or should they be local pages?
+4. **Placeholders audit** - Any placeholder content remaining? If so, issue created?
+5. **Trust signals** - Are relevant certifications/badges displayed?
+
+**Proactive Issue Creation:**
+
+When you discover gaps, create bd issues immediately rather than leaving silent technical debt:
+```bash
+bd create --title="Populate [component] with real data" --type=task --priority=P1
+bd create --title="Add missing [content] to [page]" --type=task --priority=P2
+```
+
+**Review Related History:**
+
+Before starting work on a component/page, search for related past issues:
+```bash
+bd list --status=closed | grep -i [component-name]
+bd show <id>  # Review what was done and why
+```
+
+This helps understand evolution, past decisions, and avoid repeating mistakes.
+
 ### Important Rules
 
 - Use bd for ALL task tracking
