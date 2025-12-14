@@ -1,5 +1,5 @@
 import Image from "next/image";
-import { Button } from "@/components";
+import { Button, Section } from "@/components";
 import { getTranslations } from "next-intl/server";
 
 export default async function Home() {
@@ -27,10 +27,10 @@ export default async function Home() {
           {/* CTA Buttons */}
           <div className="flex flex-col sm:flex-row gap-4">
             <Button href="/donate-tech" size="lg">
-              Donate Your Tech
+              {t("cta.donateYourTech")}
             </Button>
             <Button href="/programs" variant="secondary" size="lg">
-              Get a Computer
+              {t("cta.getAComputer")}
             </Button>
           </div>
         </div>
@@ -39,7 +39,7 @@ export default async function Home() {
         <div className="mt-12 md:mt-0">
           <Image
             src="/images/hero/hero-donate.png"
-            alt="Diverse community members donating technology"
+            alt={t("alt.heroDonate")}
             width={500}
             height={500}
             className="rounded-2xl"
@@ -49,90 +49,83 @@ export default async function Home() {
       </section>
 
       {/* Impact Stats */}
-      <section className="py-16 px-4 bg-gray-50">
-        <div className="max-w-5xl mx-auto">
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-6">
-            <div className="text-center p-6">
-              <div className="text-4xl md:text-5xl font-black text-blue-600">
-                82M+
-              </div>
-              <div className="text-sm text-gray-600 mt-2">
-                {t("stats.ewaste")}
-              </div>
+      <Section background="gray">
+        <div className="grid grid-cols-2 md:grid-cols-4 gap-6">
+          <div className="text-center p-6">
+            <div className="text-4xl md:text-5xl font-black text-blue-600">
+              82M+
             </div>
-            <div className="text-center p-6">
-              <div className="text-4xl md:text-5xl font-black text-blue-600">
-                75K+
-              </div>
-              <div className="text-sm text-gray-600 mt-2">
-                {t("stats.devices")}
-              </div>
+            <div className="text-sm text-gray-600 mt-2">
+              {t("stats.ewaste")}
             </div>
-            <div className="text-center p-6">
-              <div className="text-4xl md:text-5xl font-black text-blue-600">
-                150K+
-              </div>
-              <div className="text-sm text-gray-600 mt-2">
-                {t("stats.community")}
-              </div>
+          </div>
+          <div className="text-center p-6">
+            <div className="text-4xl md:text-5xl font-black text-blue-600">
+              75K+
             </div>
-            <div className="text-center p-6">
-              <div className="text-4xl md:text-5xl font-black text-blue-600">
-                25
-              </div>
-              <div className="text-sm text-gray-600 mt-2">
-                {t("stats.years")}
-              </div>
+            <div className="text-sm text-gray-600 mt-2">
+              {t("stats.devices")}
+            </div>
+          </div>
+          <div className="text-center p-6">
+            <div className="text-4xl md:text-5xl font-black text-blue-600">
+              150K+
+            </div>
+            <div className="text-sm text-gray-600 mt-2">
+              {t("stats.community")}
+            </div>
+          </div>
+          <div className="text-center p-6">
+            <div className="text-4xl md:text-5xl font-black text-blue-600">
+              25
+            </div>
+            <div className="text-sm text-gray-600 mt-2">
+              {t("stats.years")}
             </div>
           </div>
         </div>
-      </section>
+      </Section>
 
       {/* Problem Section */}
-      <section className="py-20 px-4 bg-white">
-        <div className="max-w-5xl mx-auto">
-          <div className="flex flex-col md:flex-row items-center gap-12">
-            <div className="md:w-1/2">
-              <Image
-                src="/images/hero/digital-divide.png"
-                alt="Bridging the digital divide - people connected through technology"
-                width={500}
-                height={500}
-                className="rounded-2xl"
-              />
-            </div>
-            <div className="md:w-1/2">
-              <h2 className="text-3xl md:text-4xl font-bold text-black mb-6">
-                {t("problem.title")}
-              </h2>
-              <div className="space-y-6">
-                <div className="flex items-start gap-4">
-                  <div className="text-3xl font-black text-blue-600">70%</div>
-                  <p className="text-gray-700">
-                    E-waste is just 2% of America&apos;s trash—but <strong>70% of its toxic waste</strong>.
-                    Most ends up in landfills, poisoning soil and water.
-                  </p>
-                </div>
-                <div className="flex items-start gap-4">
-                  <div className="text-3xl font-black text-blue-600 whitespace-nowrap">1 in 5</div>
-                  <p className="text-gray-700">
-                    American households don&apos;t have a computer. <strong>No computer means no job applications</strong>,
-                    no homework, no telehealth, no connection.
-                  </p>
-                </div>
+      <Section background="white">
+        <div className="flex flex-col md:flex-row items-center gap-12">
+          <div className="md:w-1/2">
+            <Image
+              src="/images/hero/digital-divide.png"
+              alt={t("alt.digitalDivide")}
+              width={500}
+              height={500}
+              className="rounded-2xl"
+            />
+          </div>
+          <div className="md:w-1/2">
+            <h2 className="text-3xl md:text-4xl font-bold text-black mb-6">
+              {t("problem.title")}
+            </h2>
+            <div className="space-y-6">
+              <div className="flex items-start gap-4">
+                <div className="text-3xl font-black text-blue-600">{t("problem.stat1")}</div>
+                <p className="text-gray-700">
+                  {t("problem.stat1Text")}
+                </p>
               </div>
-              <p className="text-lg text-gray-600 mt-6">
-                We take devices people no longer need and give them to people who do.
-                It&apos;s not charity—it&apos;s common sense.
-              </p>
+              <div className="flex items-start gap-4">
+                <div className="text-3xl font-black text-blue-600 whitespace-nowrap">{t("problem.stat2")}</div>
+                <p className="text-gray-700">
+                  {t("problem.stat2Text")}
+                </p>
+              </div>
             </div>
+            <p className="text-lg text-gray-600 mt-6">
+              {t("problem.solution")}
+            </p>
           </div>
         </div>
-      </section>
+      </Section>
 
       {/* How It Works */}
-      <section className="py-20 px-4 bg-black text-white">
-        <div className="max-w-5xl mx-auto text-center">
+      <Section background="black">
+        <div className="text-center">
           <h2 className="text-3xl md:text-4xl font-bold mb-16">
             {t("howItWorks.title")}
           </h2>
@@ -140,7 +133,7 @@ export default async function Home() {
             <div className="flex flex-col items-center">
               <Image
                 src="/images/icons/icon-donate.png"
-                alt="Donate"
+                alt={t("alt.iconDonate")}
                 width={120}
                 height={120}
                 className="mb-6"
@@ -153,7 +146,7 @@ export default async function Home() {
             <div className="flex flex-col items-center">
               <Image
                 src="/images/icons/icon-refurbish.png"
-                alt="Refurbish"
+                alt={t("alt.iconRefurbish")}
                 width={120}
                 height={120}
                 className="mb-6"
@@ -166,7 +159,7 @@ export default async function Home() {
             <div className="flex flex-col items-center">
               <Image
                 src="/images/icons/icon-distribute.png"
-                alt="Distribute"
+                alt={t("alt.iconDistribute")}
                 width={120}
                 height={120}
                 className="mb-6"
@@ -178,43 +171,41 @@ export default async function Home() {
             </div>
           </div>
         </div>
-      </section>
+      </Section>
 
       {/* Community Section */}
-      <section className="py-20 px-4 bg-white">
-        <div className="max-w-5xl mx-auto">
-          <div className="flex flex-col md:flex-row-reverse items-center gap-12">
-            <div className="md:w-1/2">
-              <Image
-                src="/images/hero/hero-community.png"
-                alt="Diverse community members connected through technology"
-                width={500}
-                height={500}
-                className="rounded-2xl"
-              />
-            </div>
-            <div className="md:w-1/2">
-              <h2 className="text-3xl md:text-4xl font-bold text-black mb-6">
-                {t("community.title")}
-              </h2>
-              <p className="text-lg text-gray-600 mb-6">
-                {t("community.p1")}
-              </p>
-              <p className="text-lg text-gray-600 mb-6">
-                {t("community.p2")}
-              </p>
-              <Button href="/programs">
-                Explore Our Programs
-              </Button>
-            </div>
+      <Section background="white">
+        <div className="flex flex-col md:flex-row-reverse items-center gap-12">
+          <div className="md:w-1/2">
+            <Image
+              src="/images/hero/hero-community.png"
+              alt={t("alt.community")}
+              width={500}
+              height={500}
+              className="rounded-2xl"
+            />
+          </div>
+          <div className="md:w-1/2">
+            <h2 className="text-3xl md:text-4xl font-bold text-black mb-6">
+              {t("community.title")}
+            </h2>
+            <p className="text-lg text-gray-600 mb-6">
+              {t("community.p1")}
+            </p>
+            <p className="text-lg text-gray-600 mb-6">
+              {t("community.p2")}
+            </p>
+            <Button href="/programs">
+              {t("cta.explorePrograms")}
+            </Button>
           </div>
         </div>
-      </section>
+      </Section>
 
       {/* CTA Section */}
-      <section className="py-20 px-4 bg-blue-600">
-        <div className="max-w-4xl mx-auto text-center">
-          <h2 className="text-3xl md:text-4xl font-bold text-white mb-4">
+      <Section background="blue">
+        <div className="text-center max-w-4xl mx-auto">
+          <h2 className="text-3xl md:text-4xl font-bold mb-4">
             {t("cta.title")}
           </h2>
           <p className="text-xl text-blue-100 mb-8 max-w-2xl mx-auto">
@@ -222,30 +213,30 @@ export default async function Home() {
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Button href="/donate-tech" variant="secondary" size="lg">
-              Donate Now
+              {t("cta.donateNow")}
             </Button>
             <Button href="/volunteer" variant="outline" size="lg">
-              Volunteer With Us
+              {t("cta.volunteerWithUs")}
             </Button>
           </div>
         </div>
-      </section>
+      </Section>
 
       {/* Location */}
-      <section className="py-16 px-4 bg-gray-50">
-        <div className="max-w-4xl mx-auto text-center">
+      <Section background="gray">
+        <div className="text-center max-w-4xl mx-auto">
           <h2 className="text-2xl font-bold text-black mb-4">{t("visit.title")}</h2>
           <p className="text-lg text-gray-600 mb-2">
-            <strong>1731 SE 10th Avenue, Portland, OR 97214</strong>
+            <strong>{t("visit.address")}</strong>
           </p>
-          <p className="text-gray-500">Wednesday - Saturday, 11 AM - 4 PM</p>
+          <p className="text-gray-500">{t("visit.hours")}</p>
           <p className="text-gray-500 mt-4">
             <a href="mailto:computerfriends@freegeek.org" className="text-blue-600 hover:text-blue-700">
               computerfriends@freegeek.org
             </a>
           </p>
         </div>
-      </section>
+      </Section>
     </div>
   );
 }

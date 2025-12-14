@@ -32,7 +32,12 @@
     "openMenu": "Open menu",
     "closeMenu": "Close menu",
     "mainNav": "Main navigation",
-    "mobileNav": "Mobile navigation"
+    "mobileNav": "Mobile navigation",
+    "about": "About",
+    "programs": "Programs",
+    "donateTech": "Donate Tech",
+    "shop": "Shop",
+    "contact": "Contact"
   },
   "footer": {
     "newsletter": {
@@ -44,7 +49,45 @@
     },
     "tagline": "Sustainably reusing technology, enabling digital access, and empowering communities since 2000.",
     "copyright": "Free Geek. 501(c)(3) Nonprofit Organization.",
-    "since": "Turning e-waste into opportunity since Earth Day, 2000."
+    "since": "Turning e-waste into opportunity since Earth Day, 2000.",
+    "sections": {
+      "programs": "Programs",
+      "getInvolved": "Get Involved",
+      "about": "About",
+      "connect": "Connect"
+    },
+    "links": {
+      "getComputer": "Get a Computer",
+      "hardwareGrants": "Hardware Grants",
+      "digitalSkills": "Digital Skills",
+      "donateTech": "Donate Tech",
+      "volunteer": "Volunteer",
+      "donateMoney": "Donate Money",
+      "bridgeGiving": "BRIDGE Monthly Giving",
+      "ourStory": "Our Story",
+      "ourTeam": "Our Team",
+      "ourImpact": "Our Impact",
+      "careers": "Careers",
+      "contact": "Contact",
+      "instagram": "Instagram",
+      "linkedin": "LinkedIn",
+      "twitter": "Twitter"
+    },
+    "recognition": {
+      "title": "Memberships & Recognition",
+      "isigma": {
+        "name": "i-SIGMA Member",
+        "description": "Certified member of the International Secure Information Governance & Management Association"
+      },
+      "ndia": {
+        "name": "NDIA Affiliate",
+        "description": "National Digital Inclusion Alliance affiliate organization"
+      },
+      "bestNonprofits": {
+        "name": "100 Best Nonprofits",
+        "description": "Oregon Business 100 Best Nonprofits to Work For"
+      }
+    }
   },
   "home": {
     "hero": {
@@ -61,8 +104,10 @@
     },
     "problem": {
       "title": "Two crises. One solution.",
-      "ewaste": "E-waste is just 2% of America's trash—but 70% of its toxic waste. Most ends up in landfills, poisoning soil and water.",
-      "access": "American households don't have a computer. No computer means no job applications, no homework, no telehealth, no connection.",
+      "stat1": "70%",
+      "stat1Text": "E-waste is just 2% of America's trash—but 70% of its toxic waste. Most ends up in landfills, poisoning soil and water.",
+      "stat2": "1 in 5",
+      "stat2Text": "American households don't have a computer. No computer means no job applications, no homework, no telehealth, no connection.",
       "solution": "We take devices people no longer need and give them to people who do. It's not charity—it's common sense."
     },
     "howItWorks": {
@@ -87,10 +132,25 @@
     },
     "cta": {
       "title": "Got old tech collecting dust?",
-      "description": "That laptop in your closet could change someone's life. Drop it off, and we'll handle the rest."
+      "description": "That laptop in your closet could change someone's life. Drop it off, and we'll handle the rest.",
+      "donateYourTech": "Donate Your Tech",
+      "getAComputer": "Get a Computer",
+      "donateNow": "Donate Now",
+      "volunteerWithUs": "Volunteer With Us",
+      "explorePrograms": "Explore Our Programs"
     },
     "visit": {
-      "title": "Visit Us"
+      "title": "Visit Us",
+      "address": "1731 SE 10th Avenue, Portland, OR 97214",
+      "hours": "Wednesday - Saturday, 11 AM - 4 PM"
+    },
+    "alt": {
+      "heroDonate": "Diverse community members donating technology",
+      "digitalDivide": "Bridging the digital divide - people connected through technology",
+      "community": "Diverse community members connected through technology",
+      "iconDonate": "Donate icon",
+      "iconRefurbish": "Refurbish icon",
+      "iconDistribute": "Distribute icon"
     }
   },
   "about": {
@@ -217,6 +277,169 @@
     "finalCta": {
       "title": "Not sure which program is right for you?",
       "description": "Reach out and we'll help you find the best path to getting connected."
+    },
+    "alt": {
+      "personReceiving": "Person receiving a computer",
+      "organizations": "Organizations receiving computers"
+    }
+  },
+  "plugIntoPdx": {
+    "hero": {
+      "title1": "Plug Into Portland",
+      "title2": "Application",
+      "description": "Apply for a free refurbished laptop through our flagship digital inclusion program. We provide computers to individuals and families in need throughout the Portland metro area."
+    },
+    "eligibility": {
+      "title": "Who Can Apply",
+      "description": "The Plug Into Portland program is designed for individuals and families who:",
+      "item1": "Reside in the Portland metro area",
+      "item2": "Currently do not have access to a working computer at home",
+      "item3": "Are experiencing financial hardship",
+      "item4": "Need a computer for education, employment, or essential services"
+    },
+    "receive": {
+      "title": "What You'll Receive",
+      "laptop": {
+        "title": "Refurbished Laptop",
+        "description": "A quality refurbished laptop running Linux Mint, ready to use for school, work, and staying connected."
+      },
+      "warranty": {
+        "title": "One-Year Warranty",
+        "description": "Full warranty coverage so you can use your device with confidence. If something goes wrong, we'll help."
+      },
+      "support": {
+        "title": "Digital Navigation Support",
+        "description": "Free support to help you get set up, learn to use your new computer, and troubleshoot any issues."
+      }
+    },
+    "process": {
+      "title": "Application Process",
+      "step1": {
+        "title": "Submit Application",
+        "description": "Fill out the application form below with your contact information and needs."
+      },
+      "step2": {
+        "title": "Wait for Contact",
+        "description": "We'll review your application and contact you when a computer becomes available."
+      },
+      "step3": {
+        "title": "Pick Up Your Computer",
+        "description": "Visit our location to pick up your computer and receive a brief orientation."
+      }
+    },
+    "form": {
+      "title": "Apply Now",
+      "description": "Complete the form below to apply for a free computer. We typically respond within 2-4 weeks depending on availability.",
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "email": "Email Address",
+      "phone": "Phone Number",
+      "address": "Street Address",
+      "city": "City",
+      "state": "State",
+      "zip": "ZIP Code",
+      "householdSize": "Household Size",
+      "needReason": "Why do you need a computer?",
+      "needReasonPlaceholder": "Please describe your situation and how a computer would help you...",
+      "referral": "How did you hear about us?",
+      "referralOptions": {
+        "friend": "Friend or Family",
+        "socialMedia": "Social Media",
+        "communityOrg": "Community Organization",
+        "school": "School",
+        "other": "Other"
+      },
+      "submit": "Submit Application",
+      "submitting": "Submitting...",
+      "success": "Application Submitted!",
+      "successMessage": "Thank you for applying! We'll review your application and contact you when a computer becomes available.",
+      "error": "Failed to submit application"
+    },
+    "note": {
+      "title": "Important Information",
+      "waitlist": "Due to high demand, there may be a waitlist. We process applications in the order received and prioritize based on need.",
+      "pickup": "Computers must be picked up in person at our Portland location.",
+      "contact": "Questions? Contact us at"
+    },
+    "cta": {
+      "title": "Can't wait for the waitlist?",
+      "description": "You can also purchase affordable refurbished computers from our online shop."
+    }
+  },
+  "digitalEquity": {
+    "hero": {
+      "title1": "Digital Equity",
+      "title2": "Enrollment",
+      "description": "Enroll in our Digital Equity program to access digital skills training, one-on-one support, and resources to help you thrive in the digital world."
+    },
+    "services": {
+      "title": "Program Services",
+      "description": "Our Digital Equity program provides comprehensive support to help you build confidence with technology.",
+      "navigation": {
+        "title": "Digital Navigation",
+        "description": "Work one-on-one with a Digital Navigator who can help you set up devices, navigate online services, and build essential digital skills."
+      },
+      "training": {
+        "title": "Skills Training",
+        "description": "Access free classes and curriculum covering computer basics, internet safety, email, video conferencing, and productivity tools."
+      },
+      "connectivity": {
+        "title": "Connectivity Resources",
+        "description": "Learn about affordable internet programs and get help applying for discounted connectivity services."
+      },
+      "ongoing": {
+        "title": "Ongoing Support",
+        "description": "Get continued support as you grow your digital skills. We're here to help whenever you have questions."
+      }
+    },
+    "eligibility": {
+      "title": "Who Can Enroll",
+      "description": "Our Digital Equity program is open to anyone who wants to improve their digital skills, with priority given to:",
+      "item1": "Seniors and older adults",
+      "item2": "Individuals with limited technology experience",
+      "item3": "Job seekers needing digital skills for employment",
+      "item4": "Community members facing barriers to technology access"
+    },
+    "form": {
+      "title": "Enroll in Digital Equity",
+      "description": "Fill out the form below to enroll in our Digital Equity program. A Digital Navigator will contact you to schedule your first session.",
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "email": "Email Address",
+      "phone": "Phone Number",
+      "preferredContact": "Preferred Contact Method",
+      "contactOptions": {
+        "email": "Email",
+        "phone": "Phone",
+        "either": "Either"
+      },
+      "interests": "What would you like help with?",
+      "interestOptions": {
+        "basics": "Computer Basics",
+        "internet": "Internet & Email",
+        "safety": "Online Safety",
+        "productivity": "Productivity Tools (Word, Excel, etc.)",
+        "connectivity": "Finding Affordable Internet",
+        "other": "Other"
+      },
+      "experience": "Current Technology Experience",
+      "experienceOptions": {
+        "none": "No experience",
+        "beginner": "Beginner - I can turn on a computer",
+        "intermediate": "Intermediate - I can browse the web and send email",
+        "advanced": "Advanced - I'm comfortable but want to learn more"
+      },
+      "goals": "What are your goals?",
+      "goalsPlaceholder": "Tell us what you hope to accomplish with improved digital skills...",
+      "submit": "Enroll Now",
+      "submitting": "Submitting...",
+      "success": "Enrollment Submitted!",
+      "successMessage": "Thank you for enrolling! A Digital Navigator will contact you within 5 business days to schedule your first session.",
+      "error": "Failed to submit enrollment"
+    },
+    "cta": {
+      "title": "Need a computer first?",
+      "description": "If you don't have a computer, apply for our Plug Into Portland program to get a free refurbished laptop."
     }
   },
   "donateTech": {

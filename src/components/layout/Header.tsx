@@ -3,19 +3,22 @@
 import Image from 'next/image';
 import Link from 'next/link';
 import { useState } from 'react';
+import { useTranslations } from 'next-intl';
 import { Button } from '../ui/Button';
 import { LanguageSwitcher } from '../ui/LanguageSwitcher';
 
-const navLinks = [
-  { href: '/about', label: 'About' },
-  { href: '/programs', label: 'Programs' },
-  { href: '/donate-tech', label: 'Donate Tech' },
-  { href: '/shop', label: 'Shop' },
-  { href: '/contact', label: 'Contact' },
-];
-
 export function Header() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
+  const t = useTranslations('nav');
+  const common = useTranslations('common');
+
+  const navLinks = [
+    { href: '/about', labelKey: 'about' },
+    { href: '/programs', labelKey: 'programs' },
+    { href: '/donate-tech', labelKey: 'donateTech' },
+    { href: '/shop', labelKey: 'shop' },
+    { href: '/contact', labelKey: 'contact' },
+  ];
 
   return (
     <header className="fixed top-0 left-0 right-0 bg-black z-50">
@@ -24,7 +27,7 @@ export function Header() {
         href="#main-content"
         className="skip-link sr-only focus:not-sr-only focus:absolute focus:top-0 focus:left-0 focus:z-50 focus:px-4 focus:py-2 focus:bg-blue-600 focus:text-white"
       >
-        Skip to main content
+        {t('skipToContent')}
       </a>
 
       <div className="max-w-6xl mx-auto px-4 py-4 flex items-center justify-between">
@@ -41,14 +44,14 @@ export function Header() {
         </Link>
 
         {/* Desktop Navigation */}
-        <nav className="hidden md:flex items-center gap-6" aria-label="Main navigation">
+        <nav className="hidden md:flex items-center gap-6" aria-label={t('mainNav')}>
           {navLinks.map((link) => (
             <Link
               key={link.href}
               href={link.href}
               className="text-gray-300 hover:text-white text-sm font-medium transition-colors"
             >
-              {link.label}
+              {t(link.labelKey)}
             </Link>
           ))}
         </nav>
@@ -57,7 +60,7 @@ export function Header() {
         <div className="hidden md:flex items-center gap-4">
           <LanguageSwitcher />
           <Button href="/donate-tech" size="sm">
-            Donate Tech
+            {common('donateTech')}
           </Button>
         </div>
 
@@ -66,7 +69,7 @@ export function Header() {
           type="button"
           className="md:hidden text-white p-2"
           onClick={() => setMobileMenuOpen(!mobileMenuOpen)}
-          aria-label={mobileMenuOpen ? 'Close menu' : 'Open menu'}
+          aria-label={mobileMenuOpen ? t('closeMenu') : t('openMenu')}
           aria-expanded={mobileMenuOpen}
           aria-controls="mobile-menu"
         >
@@ -85,7 +88,7 @@ export function Header() {
       {/* Mobile Menu */}
       {mobileMenuOpen && (
         <div id="mobile-menu" className="md:hidden bg-black border-t border-gray-800">
-          <nav className="px-4 py-4 space-y-2" aria-label="Mobile navigation">
+          <nav className="px-4 py-4 space-y-2" aria-label={t('mobileNav')}>
             {navLinks.map((link) => (
               <Link
                 key={link.href}
@@ -93,7 +96,7 @@ export function Header() {
                 className="block text-gray-300 hover:text-white py-2 text-base font-medium"
                 onClick={() => setMobileMenuOpen(false)}
               >
-                {link.label}
+                {t(link.labelKey)}
               </Link>
             ))}
             <div className="pt-4 flex flex-col gap-4">
@@ -101,7 +104,7 @@ export function Header() {
                 <LanguageSwitcher />
               </div>
               <Button href="/donate-tech" className="w-full">
-                Donate Tech
+                {common('donateTech')}
               </Button>
             </div>
           </nav>

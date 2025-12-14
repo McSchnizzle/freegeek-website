@@ -33,7 +33,7 @@ export default async function ProgramsPage() {
           <div className="md:w-1/2">
             <Image
               src="/images/hero/hero-receive.png"
-              alt="Person receiving a computer"
+              alt={t('alt.personReceiving')}
               width={500}
               height={500}
               className="rounded-2xl"
@@ -51,7 +51,7 @@ export default async function ProgramsPage() {
               {t('individuals.stats')}
             </p>
             <div className="space-y-3">
-              <Button href="https://freegeek.org/free-computers/plug-portland" size="lg">
+              <Button href="/programs/plug-into-portland" size="lg">
                 {t('individuals.cta')}
               </Button>
               <p className="text-sm text-gray-500">
@@ -108,7 +108,7 @@ export default async function ProgramsPage() {
           <div className="md:w-1/2">
             <Image
               src="/images/hero/hero-community.png"
-              alt="Organizations receiving computers"
+              alt={t('alt.organizations')}
               width={500}
               height={500}
               className="rounded-2xl"

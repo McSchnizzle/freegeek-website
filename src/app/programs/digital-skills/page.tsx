@@ -67,7 +67,7 @@ export default async function DigitalSkillsPage() {
                 {t('services.navigation.item4')}
               </li>
             </ul>
-            <Button href="https://freegeek.org/digitalequity" className="w-full">
+            <Button href="/programs/digital-equity" className="w-full">
               {t('services.navigation.cta')}
             </Button>
           </div>
@@ -115,7 +115,7 @@ export default async function DigitalSkillsPage() {
                 {t('services.skills.item5')}
               </li>
             </ul>
-            <Button href="https://freegeek.org/digitalequity" className="w-full">
+            <Button href="/programs/digital-equity" className="w-full">
               {t('services.skills.cta')}
             </Button>
           </div>
@@ -219,7 +219,7 @@ export default async function DigitalSkillsPage() {
               </div>
             </div>
             <div className="mt-8 pt-6 border-t border-gray-200 text-center">
-              <Button href="https://freegeek.org/digitalequity" variant="primary">
+              <Button href="/programs/digital-equity" variant="primary">
                 {t('schedule.cta')}
               </Button>
             </div>
@@ -334,7 +334,7 @@ export default async function DigitalSkillsPage() {
             {t('cta.description')}
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
-            <Button href="https://freegeek.org/digitalequity" variant="secondary" size="lg">
+            <Button href="/programs/digital-equity" variant="secondary" size="lg">
               {common('getStarted')}
             </Button>
             <Button href="/contact" variant="outline" size="lg">

@@ -32,7 +32,12 @@
     "openMenu": "Abrir menú",
     "closeMenu": "Cerrar menú",
     "mainNav": "Navegación principal",
-    "mobileNav": "Navegación móvil"
+    "mobileNav": "Navegación móvil",
+    "about": "Acerca de",
+    "programs": "Programas",
+    "donateTech": "Donar tecnología",
+    "shop": "Tienda",
+    "contact": "Contacto"
   },
   "footer": {
     "newsletter": {
@@ -44,7 +49,45 @@
     },
     "tagline": "Reutilizando tecnología de manera sostenible, habilitando el acceso digital y empoderando comunidades desde el año 2000.",
     "copyright": "Free Geek. Organización sin fines de lucro 501(c)(3).",
-    "since": "Convirtiendo desechos electrónicos en oportunidades desde el Día de la Tierra, 2000."
+    "since": "Convirtiendo desechos electrónicos en oportunidades desde el Día de la Tierra, 2000.",
+    "sections": {
+      "programs": "Programas",
+      "getInvolved": "Participa",
+      "about": "Acerca de",
+      "connect": "Conectar"
+    },
+    "links": {
+      "getComputer": "Obtener una computadora",
+      "hardwareGrants": "Donaciones de hardware",
+      "digitalSkills": "Habilidades digitales",
+      "donateTech": "Donar tecnología",
+      "volunteer": "Voluntariado",
+      "donateMoney": "Donar dinero",
+      "bridgeGiving": "Donación mensual BRIDGE",
+      "ourStory": "Nuestra historia",
+      "ourTeam": "Nuestro equipo",
+      "ourImpact": "Nuestro impacto",
+      "careers": "Carreras",
+      "contact": "Contacto",
+      "instagram": "Instagram",
+      "linkedin": "LinkedIn",
+      "twitter": "Twitter"
+    },
+    "recognition": {
+      "title": "Membresías y reconocimientos",
+      "isigma": {
+        "name": "Miembro i-SIGMA",
+        "description": "Miembro certificado de la Asociación Internacional de Gobernanza y Gestión de Información Segura"
+      },
+      "ndia": {
+        "name": "Afiliado NDIA",
+        "description": "Organización afiliada a la Alianza Nacional de Inclusión Digital"
+      },
+      "bestNonprofits": {
+        "name": "100 mejores organizaciones sin fines de lucro",
+        "description": "100 mejores organizaciones sin fines de lucro para trabajar de Oregon Business"
+      }
+    }
   },
   "home": {
     "hero": {
@@ -61,8 +104,10 @@
     },
     "problem": {
       "title": "Dos crisis. Una solución.",
-      "ewaste": "Los desechos electrónicos son solo el 2% de la basura de Estados Unidos, pero el 70% de sus desechos tóxicos. La mayoría termina en vertederos, envenenando el suelo y el agua.",
-      "access": "Los hogares estadounidenses no tienen computadora. Sin computadora no hay solicitudes de empleo, no hay tareas, no hay telemedicina, no hay conexión.",
+      "stat1": "70%",
+      "stat1Text": "Los desechos electrónicos son solo el 2% de la basura de Estados Unidos, pero el 70% de sus desechos tóxicos. La mayoría termina en vertederos, envenenando el suelo y el agua.",
+      "stat2": "1 de 5",
+      "stat2Text": "Los hogares estadounidenses no tienen computadora. Sin computadora no hay solicitudes de empleo, no hay tareas, no hay telemedicina, no hay conexión.",
       "solution": "Tomamos dispositivos que la gente ya no necesita y se los damos a quienes sí los necesitan. No es caridad, es sentido común."
     },
     "howItWorks": {
@@ -87,10 +132,25 @@
     },
     "cta": {
       "title": "¿Tienes tecnología vieja acumulando polvo?",
-      "description": "Esa laptop en tu armario podría cambiar la vida de alguien. Déjala con nosotros y nos encargamos del resto."
+      "description": "Esa laptop en tu armario podría cambiar la vida de alguien. Déjala con nosotros y nos encargamos del resto.",
+      "donateYourTech": "Dona tu tecnología",
+      "getAComputer": "Obtener una computadora",
+      "donateNow": "Donar ahora",
+      "volunteerWithUs": "Ser voluntario",
+      "explorePrograms": "Explorar nuestros programas"
     },
     "visit": {
-      "title": "Visítanos"
+      "title": "Visítanos",
+      "address": "1731 SE 10th Avenue, Portland, OR 97214",
+      "hours": "Miércoles - Sábado, 11 AM - 4 PM"
+    },
+    "alt": {
+      "heroDonate": "Diversos miembros de la comunidad donando tecnología",
+      "digitalDivide": "Cerrando la brecha digital - personas conectadas a través de la tecnología",
+      "community": "Diversos miembros de la comunidad conectados a través de la tecnología",
+      "iconDonate": "Icono de donar",
+      "iconRefurbish": "Icono de restaurar",
+      "iconDistribute": "Icono de distribuir"
     }
   },
   "about": {
@@ -217,6 +277,169 @@
     "finalCta": {
       "title": "¿No estás seguro de qué programa es el adecuado para ti?",
       "description": "Contáctanos y te ayudaremos a encontrar el mejor camino para conectarte."
+    },
+    "alt": {
+      "personReceiving": "Persona recibiendo una computadora",
+      "organizations": "Organizaciones recibiendo computadoras"
+    }
+  },
+  "plugIntoPdx": {
+    "hero": {
+      "title1": "Plug Into Portland",
+      "title2": "Solicitud",
+      "description": "Solicita una laptop restaurada gratuita a través de nuestro programa principal de inclusión digital. Proporcionamos computadoras a individuos y familias necesitadas en el área metropolitana de Portland."
+    },
+    "eligibility": {
+      "title": "Quién puede aplicar",
+      "description": "El programa Plug Into Portland está diseñado para individuos y familias que:",
+      "item1": "Residen en el área metropolitana de Portland",
+      "item2": "Actualmente no tienen acceso a una computadora funcional en casa",
+      "item3": "Están experimentando dificultades financieras",
+      "item4": "Necesitan una computadora para educación, empleo o servicios esenciales"
+    },
+    "receive": {
+      "title": "Lo que recibirás",
+      "laptop": {
+        "title": "Laptop restaurada",
+        "description": "Una laptop restaurada de calidad con Linux Mint, lista para usar en la escuela, el trabajo y mantenerte conectado."
+      },
+      "warranty": {
+        "title": "Garantía de un año",
+        "description": "Cobertura completa de garantía para que puedas usar tu dispositivo con confianza. Si algo sale mal, te ayudaremos."
+      },
+      "support": {
+        "title": "Soporte de navegación digital",
+        "description": "Soporte gratuito para ayudarte a configurar, aprender a usar tu nueva computadora y solucionar cualquier problema."
+      }
+    },
+    "process": {
+      "title": "Proceso de solicitud",
+      "step1": {
+        "title": "Enviar solicitud",
+        "description": "Completa el formulario de solicitud a continuación con tu información de contacto y necesidades."
+      },
+      "step2": {
+        "title": "Esperar contacto",
+        "description": "Revisaremos tu solicitud y te contactaremos cuando haya una computadora disponible."
+      },
+      "step3": {
+        "title": "Recoger tu computadora",
+        "description": "Visita nuestra ubicación para recoger tu computadora y recibir una breve orientación."
+      }
+    },
+    "form": {
+      "title": "Aplicar ahora",
+      "description": "Completa el formulario a continuación para solicitar una computadora gratuita. Generalmente respondemos dentro de 2-4 semanas dependiendo de la disponibilidad.",
+      "firstName": "Nombre",
+      "lastName": "Apellido",
+      "email": "Correo electrónico",
+      "phone": "Número de teléfono",
+      "address": "Dirección",
+      "city": "Ciudad",
+      "state": "Estado",
+      "zip": "Código postal",
+      "householdSize": "Tamaño del hogar",
+      "needReason": "¿Por qué necesitas una computadora?",
+      "needReasonPlaceholder": "Por favor describe tu situación y cómo te ayudaría una computadora...",
+      "referral": "¿Cómo te enteraste de nosotros?",
+      "referralOptions": {
+        "friend": "Amigo o familiar",
+        "socialMedia": "Redes sociales",
+        "communityOrg": "Organización comunitaria",
+        "school": "Escuela",
+        "other": "Otro"
+      },
+      "submit": "Enviar solicitud",
+      "submitting": "Enviando...",
+      "success": "¡Solicitud enviada!",
+      "successMessage": "¡Gracias por aplicar! Revisaremos tu solicitud y te contactaremos cuando haya una computadora disponible.",
+      "error": "Error al enviar la solicitud"
+    },
+    "note": {
+      "title": "Información importante",
+      "waitlist": "Debido a la alta demanda, puede haber una lista de espera. Procesamos las solicitudes en el orden recibido y priorizamos según la necesidad.",
+      "pickup": "Las computadoras deben recogerse en persona en nuestra ubicación de Portland.",
+      "contact": "¿Preguntas? Contáctanos en"
+    },
+    "cta": {
+      "title": "¿No puedes esperar la lista de espera?",
+      "description": "También puedes comprar computadoras restauradas asequibles en nuestra tienda en línea."
+    }
+  },
+  "digitalEquity": {
+    "hero": {
+      "title1": "Equidad Digital",
+      "title2": "Inscripción",
+      "description": "Inscríbete en nuestro programa de Equidad Digital para acceder a capacitación en habilidades digitales, soporte personalizado y recursos para ayudarte a prosperar en el mundo digital."
+    },
+    "services": {
+      "title": "Servicios del programa",
+      "description": "Nuestro programa de Equidad Digital proporciona apoyo integral para ayudarte a ganar confianza con la tecnología.",
+      "navigation": {
+        "title": "Navegación digital",
+        "description": "Trabaja uno a uno con un Navegador Digital que puede ayudarte a configurar dispositivos, navegar servicios en línea y desarrollar habilidades digitales esenciales."
+      },
+      "training": {
+        "title": "Capacitación en habilidades",
+        "description": "Accede a clases gratuitas y currículo que cubren conceptos básicos de computadora, seguridad en internet, correo electrónico, videoconferencias y herramientas de productividad."
+      },
+      "connectivity": {
+        "title": "Recursos de conectividad",
+        "description": "Aprende sobre programas de internet asequible y obtén ayuda para solicitar servicios de conectividad con descuento."
+      },
+      "ongoing": {
+        "title": "Soporte continuo",
+        "description": "Obtén apoyo continuo mientras desarrollas tus habilidades digitales. Estamos aquí para ayudarte cuando tengas preguntas."
+      }
+    },
+    "eligibility": {
+      "title": "Quién puede inscribirse",
+      "description": "Nuestro programa de Equidad Digital está abierto a cualquier persona que quiera mejorar sus habilidades digitales, con prioridad para:",
+      "item1": "Personas mayores y adultos mayores",
+      "item2": "Personas con experiencia limitada en tecnología",
+      "item3": "Buscadores de empleo que necesitan habilidades digitales",
+      "item4": "Miembros de la comunidad que enfrentan barreras para acceder a la tecnología"
+    },
+    "form": {
+      "title": "Inscribirse en Equidad Digital",
+      "description": "Completa el formulario a continuación para inscribirte en nuestro programa de Equidad Digital. Un Navegador Digital te contactará para programar tu primera sesión.",
+      "firstName": "Nombre",
+      "lastName": "Apellido",
+      "email": "Correo electrónico",
+      "phone": "Número de teléfono",
+      "preferredContact": "Método de contacto preferido",
+      "contactOptions": {
+        "email": "Correo electrónico",
+        "phone": "Teléfono",
+        "either": "Cualquiera"
+      },
+      "interests": "¿Con qué te gustaría recibir ayuda?",
+      "interestOptions": {
+        "basics": "Conceptos básicos de computadora",
+        "internet": "Internet y correo electrónico",
+        "safety": "Seguridad en línea",
+        "productivity": "Herramientas de productividad (Word, Excel, etc.)",
+        "connectivity": "Encontrar internet asequible",
+        "other": "Otro"
+      },
+      "experience": "Experiencia actual con tecnología",
+      "experienceOptions": {
+        "none": "Sin experiencia",
+        "beginner": "Principiante - Puedo encender una computadora",
+        "intermediate": "Intermedio - Puedo navegar por internet y enviar correos",
+        "advanced": "Avanzado - Me siento cómodo pero quiero aprender más"
+      },
+      "goals": "¿Cuáles son tus metas?",
+      "goalsPlaceholder": "Cuéntanos qué esperas lograr con mejores habilidades digitales...",
+      "submit": "Inscribirse ahora",
+      "submitting": "Enviando...",
+      "success": "¡Inscripción enviada!",
+      "successMessage": "¡Gracias por inscribirte! Un Navegador Digital te contactará dentro de 5 días hábiles para programar tu primera sesión.",
+      "error": "Error al enviar la inscripción"
+    },
+    "cta": {
+      "title": "¿Necesitas una computadora primero?",
+      "description": "Si no tienes computadora, aplica a nuestro programa Plug Into Portland para obtener una laptop restaurada gratuita."
     }
   },
   "donateTech": {
