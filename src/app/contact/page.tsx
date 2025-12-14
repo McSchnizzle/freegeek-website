@@ -140,7 +140,7 @@ export default async function ContactPage() {
             </p>
           </a>
           <a
-            href="https://freegeek.org/faqs"
+            href="/faq"
             className="bg-white rounded-xl p-6 hover:shadow-lg transition-shadow"
           >
             <h3 className="font-bold mb-2">{t('quickLinks.faqs.title')}</h3>

@@ -10,7 +10,7 @@ const navLinks = [
   { href: '/about', label: 'About' },
   { href: '/programs', label: 'Programs' },
   { href: '/donate-tech', label: 'Donate Tech' },
-  { href: '/shop', label: 'Shop', external: true, url: 'https://freegeek.org/shop' },
+  { href: '/shop', label: 'Shop' },
   { href: '/contact', label: 'Contact' },
 ];
 

@@ -131,7 +131,7 @@ export default async function DonatePage() {
             </p>
           </a>
           <a
-            href="https://freegeek.org/take-action/host-tech-drive"
+            href="/volunteer/tech-drive"
             className="bg-gray-50 rounded-xl p-6 hover:shadow-lg transition-shadow block"
           >
             <h3 className="font-bold text-lg mb-2">{t('otherWays.techDrive.title')}</h3>
@@ -140,7 +140,7 @@ export default async function DonatePage() {
             </p>
           </a>
           <a
-            href="https://freegeek.org/take-action/ambassador-program"
+            href="/volunteer/ambassador"
             className="bg-gray-50 rounded-xl p-6 hover:shadow-lg transition-shadow block"
           >
             <h3 className="font-bold text-lg mb-2">{t('otherWays.ambassador.title')}</h3>

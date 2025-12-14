@@ -141,7 +141,7 @@ export default async function ProgramsPage() {
               </div>
             </div>
 
-            <Button href="https://freegeek.org/our-work/hardware-grants" size="lg">
+            <Button href="/programs/hardware-grants" size="lg">
               {t('organizations.cta')}
             </Button>
           </div>
@@ -155,7 +155,7 @@ export default async function ProgramsPage() {
           <p className="text-xl text-gray-300 mb-8">
             {t('shop.description')}
           </p>
-          <Button href="https://freegeek.org/shop" variant="secondary" size="lg">
+          <Button href="/shop" variant="secondary" size="lg">
             {t('shop.cta')}
           </Button>
         </div>

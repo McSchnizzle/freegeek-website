@@ -113,7 +113,7 @@ export default async function DonateTechPage() {
             <p className="text-gray-600 mb-6">
               {t('types.corporate.description')}
             </p>
-            <Button href="https://freegeek.org/take-action-donate-technology/corporate" className="w-full">
+            <Button href="/donate-tech/corporate" className="w-full">
               {common('contactUs')}
             </Button>
           </div>
@@ -157,7 +157,7 @@ export default async function DonateTechPage() {
                 <span className="text-gray-300">{t('security.certificate')}</span>
               </li>
             </ul>
-            <Button href="https://freegeek.org/data-security" variant="secondary">
+            <Button href="/data-security" variant="secondary">
               {t('security.cta')}
             </Button>
           </div>

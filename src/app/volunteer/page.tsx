@@ -18,7 +18,7 @@ export default async function VolunteerPage() {
       titleKey: 'opportunities.ambassador.title',
       descriptionKey: 'opportunities.ambassador.description',
       ctaKey: 'opportunities.ambassador.cta',
-      href: 'https://freegeek.org/take-action/ambassador-program',
+      href: '/volunteer/ambassador',
       icon: (
         <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
           <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M11 5.882V19.24a1.76 1.76 0 01-3.417.592l-2.147-6.15M18 13a3 3 0 100-6M5.436 13.683A4.001 4.001 0 017 6h1.832c4.1 0 7.625-1.234 9.168-3v14c-1.543-1.766-5.067-3-9.168-3H7a3.988 3.988 0 01-1.564-.317z" />
@@ -29,7 +29,7 @@ export default async function VolunteerPage() {
       titleKey: 'opportunities.techDrive.title',
       descriptionKey: 'opportunities.techDrive.description',
       ctaKey: 'opportunities.techDrive.cta',
-      href: 'https://freegeek.org/take-action/host-tech-drive',
+      href: '/volunteer/tech-drive',
       icon: (
         <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
           <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 11H5m14 0a2 2 0 012 2v6a2 2 0 01-2 2H5a2 2 0 01-2-2v-6a2 2 0 012-2m14 0V9a2 2 0 00-2-2M5 11V9a2 2 0 012-2m0 0V5a2 2 0 012-2h6a2 2 0 012 2v2M7 7h10" />
@@ -40,7 +40,7 @@ export default async function VolunteerPage() {
       titleKey: 'opportunities.warehouse.title',
       descriptionKey: 'opportunities.warehouse.description',
       ctaKey: 'opportunities.warehouse.cta',
-      href: 'https://freegeek.org/take-action-donate-technology/volunteer',
+      href: '#interest-form',
       icon: (
         <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
           <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M20 7l-8-4-8 4m16 0l-8 4m8-4v10l-8 4m0-10L4 7m8 4v10M4 7v10l8 4" />
@@ -51,7 +51,7 @@ export default async function VolunteerPage() {
       titleKey: 'opportunities.fundraise.title',
       descriptionKey: 'opportunities.fundraise.description',
       ctaKey: 'opportunities.fundraise.cta',
-      href: 'https://freegeek.org/donate',
+      href: '/donate',
       icon: (
         <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
           <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z" />
@@ -145,7 +145,7 @@ export default async function VolunteerPage() {
       </Section>
 
       {/* Interest Form */}
-      <Section background="white">
+      <Section background="white" id="interest-form">
         <div className="max-w-2xl mx-auto">
           <h2 className="text-3xl font-bold mb-4 text-center">{t('form.title')}</h2>
           <p className="text-gray-600 text-center mb-8">
@@ -179,7 +179,7 @@ export default async function VolunteerPage() {
           <p className="text-xl text-gray-300 mb-8">
             {t('internship.description')}
           </p>
-          <Button href="https://freegeek.org/about/careers" variant="secondary" size="lg">
+          <Button href="/careers" variant="secondary" size="lg">
             {t('internship.cta')}
           </Button>
         </div>
