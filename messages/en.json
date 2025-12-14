@@ -1095,6 +1095,7 @@
       "title": "Free Local Pickup",
       "description": "Portland-area buyers can pick up their purchases at our location for free. Just select local pickup at checkout and come by during our hours.",
       "location": "Pickup Location",
+      "address": "1731 SE 10th Avenue, Portland, OR 97214",
       "days": "Wednesday - Saturday",
       "times": "11:00 AM - 4:00 PM"
     },

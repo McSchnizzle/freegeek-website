@@ -39,8 +39,8 @@ export default async function ContactPage() {
             </div>
             <h2 className="text-xl font-bold mb-2">{t('visit.title')}</h2>
             <p className="text-gray-600 mb-2">
-              <strong>1731 SE 10th Avenue</strong><br />
-              Portland, OR 97214
+              <strong>{t('visit.address')}</strong><br />
+              {t('visit.city')}
             </p>
             <p className="text-gray-500 text-sm mb-4">
               {t('visit.dropoffNote')}

@@ -59,7 +59,7 @@ export default async function DonateTechPage() {
                 </div>
                 <div>
                   <h3 className="font-bold">{t('dropOff.location')}</h3>
-                  <p className="text-gray-600">1731 SE 10th Avenue, Portland, OR 97214</p>
+                  <p className="text-gray-600">{t('dropOff.address')}</p>
                   <p className="text-sm text-gray-500">{t('dropOff.locationNote')}</p>
                 </div>
               </div>

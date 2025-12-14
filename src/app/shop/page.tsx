@@ -126,7 +126,7 @@ export default async function ShopPage() {
                 </div>
                 <div>
                   <h3 className="font-bold">{t('pickup.location')}</h3>
-                  <p className="text-gray-600">1731 SE 10th Avenue, Portland, OR 97214</p>
+                  <p className="text-gray-600">{t('pickup.address')}</p>
                 </div>
               </div>
               <div className="flex items-start gap-4">

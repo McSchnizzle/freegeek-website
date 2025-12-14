@@ -1095,6 +1095,7 @@
       "title": "Recolección Local Gratuita",
       "description": "Los compradores del área de Portland pueden recoger sus compras en nuestra ubicación de forma gratuita. Solo selecciona recolección local al pagar y ven durante nuestro horario.",
       "location": "Ubicación de Recolección",
+      "address": "1731 SE 10th Avenue, Portland, OR 97214",
       "days": "Miércoles - Sábado",
       "times": "11:00 AM - 4:00 PM"
     },
