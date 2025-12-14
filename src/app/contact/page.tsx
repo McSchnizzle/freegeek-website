@@ -1,5 +1,5 @@
 import { Metadata } from 'next';
-import { Section } from '@/components';
+import { Button, Section } from '@/components';
 import { getTranslations } from 'next-intl/server';
 import { ContactForm } from '@/components/forms/ContactForm';
 

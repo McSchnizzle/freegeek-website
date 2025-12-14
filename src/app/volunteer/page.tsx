@@ -1,6 +1,6 @@
 import Image from 'next/image';
 import { Metadata } from 'next';
-import { Section } from '@/components';
+import { Button, Section } from '@/components';
 import { getTranslations } from 'next-intl/server';
 import { VolunteerForm } from '@/components/forms/VolunteerForm';
 
