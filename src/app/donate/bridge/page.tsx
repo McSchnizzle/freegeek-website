@@ -27,7 +27,7 @@ export default async function BridgePage() {
           <p className="text-xl text-gray-300 max-w-2xl mb-8">
             {t('hero.description')}
           </p>
-          <Button href="https://freegeek.org/donate" variant="primary" size="lg">
+          <Button href="/contact" variant="primary" size="lg">
             {t('hero.cta')}
           </Button>
         </div>
@@ -185,7 +185,7 @@ export default async function BridgePage() {
             {t('cta.description')}
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
-            <Button href="https://freegeek.org/donate" variant="secondary" size="lg">
+            <Button href="/contact" variant="secondary" size="lg">
               {t('cta.joinBridge')}
             </Button>
             <Button href="/donate" variant="outline" size="lg">

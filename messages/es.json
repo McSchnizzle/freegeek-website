@@ -75,7 +75,8 @@
       "contact": "Contacto",
       "instagram": "Instagram",
       "linkedin": "LinkedIn",
-      "twitter": "Twitter"
+      "twitter": "Twitter",
+      "github": "GitHub"
     },
     "recognition": {
       "title": "Membresías y reconocimientos",
@@ -219,11 +220,22 @@
     },
     "individuals": {
       "badge": "Para Individuos",
-      "title": "Plug Into Portland",
-      "p1": "Nuestro programa principal para individuos que necesitan una computadora. Aplica para entrar en la lista de espera para una laptop gratuita con Linux Mint, con garantía de un año y soporte de Navegación Digital.",
-      "p2": "Actualmente, 75,000 estudiantes de Oregón no tienen una computadora personal para completar sus tareas. Estamos aquí para cerrar esa brecha.",
-      "description": "Nuestro programa principal para individuos que necesitan una computadora. Aplica para entrar en la lista de espera para una laptop gratuita con Linux Mint, con garantía de un año y soporte de Navegación Digital.",
+      "title": "Obtén una Computadora Gratis",
+      "description": "Free Geek tiene múltiples programas para que individuos reciban computadoras gratis. Vea las opciones abajo para encontrar la adecuada para usted.",
       "stats": "Actualmente, 75,000 estudiantes de Oregón no tienen una computadora personal para completar sus tareas. Estamos aquí para cerrar esa brecha.",
+      "plugIntoPdx": {
+        "title": "Plug Into Portland (Lista de Espera)",
+        "description": "Aplica para entrar en la lista de espera para una laptop gratuita con Linux Mint, con garantía de un año y soporte de Navegación Digital."
+      },
+      "giftAGeekbox": {
+        "title": "Gift a Geekbox",
+        "description": "Programa de computadoras de escritorio para individuos mayores de 18 años.",
+        "badge": "Actualmente Cerrado"
+      },
+      "shop": {
+        "title": "Opción de Tienda de Bajo Costo",
+        "description": "¿No puede esperar la lista de espera? Compre computadoras restauradas de calidad a precios accesibles."
+      },
       "cta": "Aplicar para una Laptop Gratuita",
       "questions": "¿Preguntas? Envíanos un correo a"
     },
@@ -974,6 +986,22 @@
     "equity": {
       "title": "¿Qué es la Equidad Digital?",
       "description": "La equidad digital es una condición en la que todos los individuos y comunidades tienen la capacidad de tecnología de información necesaria para la participación plena en nuestra sociedad, democracia y economía. Es necesaria para la participación cívica y cultural, el empleo, el aprendizaje permanente y el acceso a servicios esenciales."
+    },
+    "educationPlatforms": {
+      "title": "Recursos de Aprendizaje Gratuitos",
+      "stat": "82%",
+      "statDescription": "de los puestos de habilidad media requieren habilidades digitales, pero solo el 55% de las escuelas secundarias suburbanas de Oregón enseñan Ciencias de la Computación.",
+      "description": "Por eso creamos recursos de aprendizaje sin experiencia necesaria. Explore nuestra plataforma educativa y tutoriales en video a continuación.",
+      "platform": {
+        "title": "Plataforma Educativa",
+        "description": "Guías paso a paso y cursos en Google Sites",
+        "cta": "Comenzar a Aprender"
+      },
+      "youtube": {
+        "title": "Tutoriales en Video",
+        "description": "Vea tutoriales en nuestro canal de YouTube",
+        "cta": "Ver Videos"
+      }
     },
     "resources": {
       "title": "Recursos Comunitarios",

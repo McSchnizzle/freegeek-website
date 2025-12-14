@@ -44,7 +44,7 @@ export default async function DonatePage() {
             <p className="text-gray-600 text-sm mb-6">
               {t('ways.oneTime.description')}
             </p>
-            <Button href="https://freegeek.org/donate" className="w-full">
+            <Button href="/donate/bridge" className="w-full">
               {common('donateNow')}
             </Button>
           </div>
@@ -60,7 +60,7 @@ export default async function DonatePage() {
             <p className="text-gray-600 text-sm mb-6">
               {t('ways.monthly.description')}
             </p>
-            <Button href="https://freegeek.org/donate" className="w-full">
+            <Button href="/donate/bridge" className="w-full">
               {t('ways.monthly.cta')}
             </Button>
           </div>
@@ -171,7 +171,7 @@ export default async function DonatePage() {
           <p className="text-xl text-blue-100 mb-8 max-w-2xl mx-auto">
             {t('cta.description')}
           </p>
-          <Button href="https://freegeek.org/donate" variant="secondary" size="lg">
+          <Button href="/donate/bridge" variant="secondary" size="lg">
             {common('donateNow')}
           </Button>
         </div>

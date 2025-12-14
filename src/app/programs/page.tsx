@@ -44,20 +44,31 @@ export default async function ProgramsPage() {
               {t('individuals.badge')}
             </div>
             <h2 className="text-3xl font-bold mb-6">{t('individuals.title')}</h2>
-            <p className="text-gray-600 mb-4">
+            <p className="text-gray-600 mb-6">
               {t('individuals.description')}
             </p>
-            <p className="text-gray-600 mb-6">
-              {t('individuals.stats')}
-            </p>
-            <div className="space-y-3">
-              <Button href="/programs/plug-into-portland" size="lg">
-                {t('individuals.cta')}
-              </Button>
-              <p className="text-sm text-gray-500">
-                {t('individuals.questions')}
-              </p>
+
+            <div className="space-y-4 mb-6">
+              <div className="border-l-4 border-blue-600 pl-4">
+                <h3 className="font-bold">{t('individuals.plugIntoPdx.title')}</h3>
+                <p className="text-gray-600 text-sm">{t('individuals.plugIntoPdx.description')}</p>
+              </div>
+              <div className="border-l-4 border-gray-300 pl-4 opacity-75">
+                <h3 className="font-bold">{t('individuals.giftAGeekbox.title')}</h3>
+                <p className="text-gray-600 text-sm">{t('individuals.giftAGeekbox.description')}</p>
+                <span className="inline-block bg-gray-200 text-gray-600 px-2 py-0.5 rounded text-xs font-semibold mt-1">
+                  {t('individuals.giftAGeekbox.badge')}
+                </span>
+              </div>
+              <div className="border-l-4 border-blue-600 pl-4">
+                <h3 className="font-bold">{t('individuals.shop.title')}</h3>
+                <p className="text-gray-600 text-sm">{t('individuals.shop.description')}</p>
+              </div>
             </div>
+
+            <Button href="/programs/plug-into-portland" size="lg">
+              {t('individuals.cta')}
+            </Button>
           </div>
         </div>
       </Section>

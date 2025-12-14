@@ -161,7 +161,7 @@ export default async function ImpactPage() {
                 </div>
               </div>
               <Button
-                href="https://freegeek.org/annualreport"
+                href="/contact"
                 variant="primary"
               >
                 {t('report.cta')}

@@ -75,7 +75,8 @@
       "contact": "Contact",
       "instagram": "Instagram",
       "linkedin": "LinkedIn",
-      "twitter": "Twitter"
+      "twitter": "Twitter",
+      "github": "GitHub"
     },
     "recognition": {
       "title": "Memberships & Recognition",
@@ -219,11 +220,22 @@
     },
     "individuals": {
       "badge": "For Individuals",
-      "title": "Plug Into Portland",
-      "p1": "Our flagship program for individuals who need a computer. Apply to get on the waitlist for a free laptop running Linux Mint, with a one-year warranty and Digital Navigation Support.",
-      "p2": "Currently, 75,000 Oregon students don't have a personal computer to complete their assignments. We're here to close that gap.",
-      "description": "Our flagship program for individuals who need a computer. Apply to get on the waitlist for a free laptop running Linux Mint, with a one-year warranty and Digital Navigation Support.",
+      "title": "Get a Free Computer",
+      "description": "Free Geek has multiple programs for individuals to receive free computers. See the options below to find the right fit for you.",
       "stats": "Currently, 75,000 Oregon students don't have a personal computer to complete their assignments. We're here to close that gap.",
+      "plugIntoPdx": {
+        "title": "Plug Into Portland (Laptop Waitlist)",
+        "description": "Apply to get on the waitlist for a free laptop running Linux Mint, with a one-year warranty and Digital Navigation Support."
+      },
+      "giftAGeekbox": {
+        "title": "Gift a Geekbox",
+        "description": "Desktop computer program for individuals ages 18+.",
+        "badge": "Currently Closed"
+      },
+      "shop": {
+        "title": "Low-Cost Shop Option",
+        "description": "Can't wait for the waitlist? Purchase quality refurbished computers at affordable prices."
+      },
       "cta": "Apply for a Free Laptop",
       "questions": "Questions? Email us at"
     },
@@ -974,6 +986,22 @@
     "equity": {
       "title": "What is Digital Equity?",
       "description": "Digital equity is a condition in which all individuals and communities have the information technology capacity needed for full participation in our society, democracy, and economy. It is necessary for civic and cultural participation, employment, lifelong learning, and access to essential services."
+    },
+    "educationPlatforms": {
+      "title": "Free Learning Resources",
+      "stat": "82%",
+      "statDescription": "of middle-skill positions require digital skills—yet only 55% of Oregon suburban high schools teach Computer Science at all.",
+      "description": "That's why we created no-experience-necessary learning resources. Explore our educational platform and video tutorials below.",
+      "platform": {
+        "title": "Educational Platform",
+        "description": "Step-by-step guides and courses on Google Sites",
+        "cta": "Start Learning"
+      },
+      "youtube": {
+        "title": "Video Tutorials",
+        "description": "Watch tutorials on our YouTube channel",
+        "cta": "Watch Videos"
+      }
     },
     "resources": {
       "title": "Community Resources",

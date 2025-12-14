@@ -262,6 +262,64 @@ export default async function DigitalSkillsPage() {
         </div>
       </Section>
 
+      {/* Education Platforms */}
+      <Section background="black">
+        <div className="max-w-4xl mx-auto">
+          <div className="text-center mb-12">
+            <div className="text-6xl md:text-7xl font-black text-blue-500 mb-4">{t('educationPlatforms.stat')}</div>
+            <p className="text-xl text-gray-300 max-w-2xl mx-auto">
+              {t('educationPlatforms.statDescription')}
+            </p>
+          </div>
+          <h2 className="text-3xl font-bold mb-4 text-center">{t('educationPlatforms.title')}</h2>
+          <p className="text-gray-300 text-center mb-12 max-w-2xl mx-auto">
+            {t('educationPlatforms.description')}
+          </p>
+          <div className="grid md:grid-cols-2 gap-8">
+            <a
+              href="https://sites.google.com/freegeek.org/gettingstarted/home"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="bg-gray-800 rounded-2xl p-8 hover:bg-gray-700 transition-colors group"
+            >
+              <div className="w-14 h-14 bg-blue-600 rounded-full flex items-center justify-center mb-6">
+                <svg className="w-7 h-7 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253" />
+                </svg>
+              </div>
+              <h3 className="text-xl font-bold mb-2 group-hover:text-blue-400 transition-colors">{t('educationPlatforms.platform.title')}</h3>
+              <p className="text-gray-400 mb-4">{t('educationPlatforms.platform.description')}</p>
+              <span className="text-blue-400 font-semibold inline-flex items-center gap-2">
+                {t('educationPlatforms.platform.cta')}
+                <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" />
+                </svg>
+              </span>
+            </a>
+            <a
+              href="https://www.youtube.com/@FreeGeekMothership/videos"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="bg-gray-800 rounded-2xl p-8 hover:bg-gray-700 transition-colors group"
+            >
+              <div className="w-14 h-14 bg-red-600 rounded-full flex items-center justify-center mb-6">
+                <svg className="w-7 h-7 text-white" fill="currentColor" viewBox="0 0 24 24">
+                  <path d="M19.615 3.184c-3.604-.246-11.631-.245-15.23 0-3.897.266-4.356 2.62-4.385 8.816.029 6.185.484 8.549 4.385 8.816 3.6.245 11.626.246 15.23 0 3.897-.266 4.356-2.62 4.385-8.816-.029-6.185-.484-8.549-4.385-8.816zm-10.615 12.816v-8l8 3.993-8 4.007z" />
+                </svg>
+              </div>
+              <h3 className="text-xl font-bold mb-2 group-hover:text-red-400 transition-colors">{t('educationPlatforms.youtube.title')}</h3>
+              <p className="text-gray-400 mb-4">{t('educationPlatforms.youtube.description')}</p>
+              <span className="text-red-400 font-semibold inline-flex items-center gap-2">
+                {t('educationPlatforms.youtube.cta')}
+                <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" />
+                </svg>
+              </span>
+            </a>
+          </div>
+        </div>
+      </Section>
+
       {/* Community Resources */}
       <Section background="gray">
         <h2 className="text-3xl font-bold mb-8 text-center">{t('resources.title')}</h2>

@@ -40,6 +40,7 @@ export async function Footer() {
       { href: 'https://instagram.com/freegeekmothership', labelKey: 'instagram', external: true },
       { href: 'https://linkedin.com/company/free-geek', labelKey: 'linkedin', external: true },
       { href: 'https://twitter.com/FreeGeekPDX', labelKey: 'twitter', external: true },
+      { href: 'https://github.com/freegeek-pdx', labelKey: 'github', external: true },
     ],
   };
 
