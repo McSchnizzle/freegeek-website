@@ -28,6 +28,7 @@ const config: Config = {
         },
       },
       fontFamily: {
+        // Includes fallbacks for CJK (Chinese/Japanese/Korean) and Cyrillic (Russian)
         sans: [
           'Inter',
           'system-ui',
@@ -35,6 +36,16 @@ const config: Config = {
           'BlinkMacSystemFont',
           'Segoe UI',
           'Roboto',
+          // CJK fallbacks
+          'Noto Sans SC',
+          'Noto Sans TC',
+          'PingFang SC',
+          'PingFang TC',
+          'Microsoft YaHei',
+          'Hiragino Sans GB',
+          // Cyrillic-friendly fallbacks
+          'Noto Sans',
+          'Helvetica Neue',
           'sans-serif',
         ],
       },

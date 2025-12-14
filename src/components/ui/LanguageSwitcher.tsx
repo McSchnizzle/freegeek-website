@@ -16,7 +16,7 @@ const LOCALE_CONFIG: Record<string, { nativeName: string; shortName: string }> =
 // Get available locales from the config
 function getAvailableLocales() {
   // Available locales that have translations in messages/{locale}.json
-  return ['en', 'es', 'vi'] as const;
+  return ['en', 'es', 'vi', 'zh', 'ru'] as const;
 }
 
 export function LanguageSwitcher() {

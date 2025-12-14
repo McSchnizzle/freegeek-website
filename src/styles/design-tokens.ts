@@ -49,7 +49,7 @@ export const colors = {
 } as const;
 
 export const typography = {
-  // Font families
+  // Font families - includes fallbacks for CJK (Chinese/Japanese/Korean) and Cyrillic (Russian)
   fontFamily: {
     sans: [
       'Inter',
@@ -58,6 +58,16 @@ export const typography = {
       'BlinkMacSystemFont',
       'Segoe UI',
       'Roboto',
+      // CJK fallbacks
+      'Noto Sans SC',
+      'Noto Sans TC',
+      'PingFang SC',
+      'PingFang TC',
+      'Microsoft YaHei',
+      'Hiragino Sans GB',
+      // Cyrillic-friendly fallbacks
+      'Noto Sans',
+      'Helvetica Neue',
       'sans-serif',
     ],
     mono: [

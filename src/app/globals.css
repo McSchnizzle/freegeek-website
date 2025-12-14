@@ -23,8 +23,13 @@
   --background: #FFFFFF;
   --foreground: #000000;
 
-  /* Typography */
-  --font-sans: 'Inter', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  /* Typography - includes fallbacks for CJK (Chinese/Japanese/Korean) and Cyrillic (Russian) */
+  --font-sans: 'Inter', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,
+    /* CJK fallbacks */
+    'Noto Sans SC', 'Noto Sans TC', 'PingFang SC', 'PingFang TC', 'Microsoft YaHei', 'Hiragino Sans GB',
+    /* Cyrillic-friendly fallbacks */
+    'Noto Sans', 'Helvetica Neue',
+    sans-serif;
 
   /* Spacing */
   --header-height: 72px;
