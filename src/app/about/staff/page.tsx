@@ -66,25 +66,26 @@ export default async function StaffPage() {
     name: 'Juan Muro Jr.',
     title: t('roles.executiveDirector'),
     pronouns: 'he/him',
+    linkedin: 'https://www.linkedin.com/in/jmmurojr/',
   };
 
   const managementTeam: TeamMember[] = [
-    { name: 'Cali Avila', title: t('roles.directorOperations'), pronouns: 'he/they' },
-    { name: 'Dwindell Joseph Feeley', title: t('roles.directorBusinessDev'), pronouns: 'he/him' },
+    { name: 'Cali Avila', title: t('roles.directorOperations'), pronouns: 'he/they', linkedin: 'https://www.linkedin.com/in/cali-avila-15340b245/' },
+    { name: 'Dwindell Joseph Feeley', title: t('roles.directorBusinessDev'), pronouns: 'he/him', linkedin: 'https://www.linkedin.com/in/dwindell-feeley/' },
     { name: 'Adrian León', title: t('roles.managerRefurbishment'), pronouns: 'he/him' },
-    { name: 'Ashley Martinez', title: t('roles.managerDigitalEquity'), pronouns: 'she/her' },
+    { name: 'Ashley Martinez', title: t('roles.managerDigitalEquity'), pronouns: 'she/her', linkedin: 'https://www.linkedin.com/in/ashley-martinez-baab90236/' },
     { name: 'Amir Torkzadeh', title: t('roles.managerSales'), pronouns: 'he/they' },
     { name: 'Ron Spray', title: t('roles.managerReceiving'), pronouns: 'he/him' },
   ];
 
   const boardMembers: TeamMember[] = [
-    { name: 'Marcus Carter II', title: t('roles.boardChair') },
-    { name: 'Paul Brown', title: t('roles.boardSecretary') },
-    { name: 'Fidel Ferrer', title: t('roles.boardMember') },
-    { name: 'Sydnie Hinds', title: t('roles.boardMember') },
-    { name: 'Maria Lara', title: t('roles.boardMember') },
-    { name: 'Benny Kuo', title: t('roles.boardMember') },
-    { name: 'Lynise Fleming', title: t('roles.boardMember') },
+    { name: 'Marcus Carter II', title: t('roles.boardChair'), linkedin: 'https://www.linkedin.com/in/marcusacarter2/' },
+    { name: 'Paul Brown', title: t('roles.boardSecretary'), linkedin: 'https://www.linkedin.com/in/paul-cinder/' },
+    { name: 'Fidel Ferrer', title: t('roles.boardMember'), linkedin: 'https://www.linkedin.com/in/fidel-ferrer-90821971/' },
+    { name: 'Sydnie Hinds', title: t('roles.boardMember'), linkedin: 'https://www.linkedin.com/in/sydnie-hinds/' },
+    { name: 'Maria Lara', title: t('roles.boardMember'), linkedin: 'https://www.linkedin.com/in/maria-lara-2503031b7/' },
+    { name: 'Benny Kuo', title: t('roles.boardMember'), linkedin: 'https://www.linkedin.com/in/bennykuo/' },
+    { name: 'Lynise Fleming', title: t('roles.boardMember'), linkedin: 'https://www.linkedin.com/in/lynise-fleming-bb881032/' },
   ];
 
   return (
@@ -122,6 +123,19 @@ export default async function StaffPage() {
             <h3 className="font-bold text-xl">{executiveDirector.name}</h3>
             <p className="text-gray-500 text-sm">({executiveDirector.pronouns})</p>
             <p className="text-gray-600 mt-1">{executiveDirector.title}</p>
+            {executiveDirector.linkedin && (
+              <a
+                href={executiveDirector.linkedin}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="inline-flex items-center gap-1 text-blue-600 hover:text-blue-800 text-sm mt-3"
+              >
+                <svg className="w-4 h-4" fill="currentColor" viewBox="0 0 24 24">
+                  <path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z" />
+                </svg>
+                LinkedIn
+              </a>
+            )}
           </div>
         </div>
 
