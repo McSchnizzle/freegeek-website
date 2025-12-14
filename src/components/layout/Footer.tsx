@@ -48,27 +48,27 @@ export async function Footer() {
     {
       nameKey: 'isigma',
       href: 'https://isigma.org/',
-      image: '/images/badges/isigma-certified.svg',
+      image: '/images/badges/isigma-member.png',
     },
     {
       nameKey: 'ndia',
       href: 'https://www.digitalinclusion.org/',
-      image: '/images/badges/ndia-affiliate.svg',
+      image: '/images/badges/ndia-affiliate.png',
     },
     {
       nameKey: 'bestNonprofits',
       href: 'https://oregonbusiness.com/category/100-best-non-profits/',
-      image: '/images/badges/100-best-nonprofits-official.png',
+      image: '/images/badges/100-best-nonprofits.png',
     },
     {
       nameKey: 'greenWorkplaces',
       href: 'https://oregonbusiness.com/category/100-best-green/',
-      image: '/images/badges/100-best-green-official.png',
+      image: '/images/badges/100-best-green.png',
     },
     {
       nameKey: 'mostAdmiredTech',
       href: 'https://www.bizjournals.com/portland/news/most-admired-companies',
-      image: '/images/badges/pbj-most-admired-tech.svg',
+      image: '/images/badges/pbj-most-admired.png',
     },
   ];
 
