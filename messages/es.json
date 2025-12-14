@@ -43,8 +43,12 @@
     "newsletter": {
       "title": "Mantente informado",
       "description": "Recibe noticias, historias de impacto y oportunidades de voluntariado en tu correo.",
+      "emailLabel": "Dirección de correo electrónico",
       "placeholder": "Ingresa tu correo",
       "subscribe": "Suscribirse",
+      "subscribing": "Suscribiendo...",
+      "success": "¡Gracias por suscribirte!",
+      "error": "Ocurrió un error",
       "note": "Nota: El registro al boletín aún no está conectado. Para actualizaciones, síguenos en redes sociales."
     },
     "tagline": "Reutilizando tecnología de manera sostenible, habilitando el acceso digital y empoderando comunidades desde el año 2000.",

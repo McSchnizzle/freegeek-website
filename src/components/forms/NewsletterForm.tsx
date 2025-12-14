@@ -2,7 +2,18 @@
 
 import { useState, FormEvent } from 'react';
 
-export function NewsletterForm() {
+interface NewsletterFormProps {
+  translations: {
+    emailLabel: string;
+    placeholder: string;
+    subscribe: string;
+    subscribing: string;
+    success: string;
+    error: string;
+  };
+}
+
+export function NewsletterForm({ translations: t }: NewsletterFormProps) {
   const [email, setEmail] = useState('');
   const [status, setStatus] = useState<'idle' | 'loading' | 'success' | 'error'>('idle');
   const [errorMessage, setErrorMessage] = useState('');
@@ -22,24 +33,24 @@ export function NewsletterForm() {
       const result = await response.json();
 
       if (!response.ok) {
-        throw new Error(result.error || 'Failed to subscribe');
+        throw new Error(result.error || t.error);
       }
 
       setStatus('success');
       setEmail('');
     } catch (err) {
       setStatus('error');
-      setErrorMessage(err instanceof Error ? err.message : 'An error occurred');
+      setErrorMessage(err instanceof Error ? err.message : t.error);
     }
   }
 
   if (status === 'success') {
     return (
-      <div className="flex items-center gap-2 text-green-400">
-        <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+      <div className="flex items-center gap-2 text-green-400" role="status" aria-live="polite">
+        <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
           <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
         </svg>
-        <span>Thanks for subscribing!</span>
+        <span>{t.success}</span>
       </div>
     );
   }
@@ -47,14 +58,14 @@ export function NewsletterForm() {
   return (
     <div>
       <form onSubmit={handleSubmit} className="flex flex-col sm:flex-row gap-2 w-full md:w-auto">
-        <label htmlFor="newsletter-email" className="sr-only">Email address</label>
+        <label htmlFor="newsletter-email" className="sr-only">{t.emailLabel}</label>
         <input
           type="email"
           id="newsletter-email"
           name="email"
           value={email}
           onChange={(e) => setEmail(e.target.value)}
-          placeholder="Enter your email"
+          placeholder={t.placeholder}
           className="px-4 py-2 bg-gray-900 border border-gray-700 rounded-lg text-white placeholder-gray-500 focus:ring-2 focus:ring-blue-500 focus:border-blue-500 outline-none transition w-full sm:w-64"
           required
           disabled={status === 'loading'}
@@ -67,13 +78,13 @@ export function NewsletterForm() {
         >
           {status === 'loading' ? (
             <span className="flex items-center gap-2">
-              <svg className="animate-spin h-4 w-4" viewBox="0 0 24 24">
+              <svg className="animate-spin h-4 w-4" viewBox="0 0 24 24" aria-hidden="true">
                 <circle className="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="4" fill="none" />
                 <path className="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z" />
               </svg>
-              <span>...</span>
+              <span>{t.subscribing}</span>
             </span>
-          ) : 'Subscribe'}
+          ) : t.subscribe}
         </button>
       </form>
       {status === 'error' && (

@@ -193,7 +193,7 @@ export const components = {
   },
 } as const;
 
-export default {
+const designTokens = {
   colors,
   typography,
   spacing,
@@ -202,3 +202,5 @@ export default {
   borderRadius,
   components,
 };
+
+export default designTokens;

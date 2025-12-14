@@ -8,6 +8,15 @@ export async function Footer() {
   const common = await getTranslations('common');
   const currentYear = new Date().getFullYear();
 
+  const newsletterTranslations = {
+    emailLabel: t('newsletter.emailLabel'),
+    placeholder: t('newsletter.placeholder'),
+    subscribe: t('newsletter.subscribe'),
+    subscribing: t('newsletter.subscribing'),
+    success: t('newsletter.success'),
+    error: t('newsletter.error'),
+  };
+
   const footerLinks = {
     programs: [
       { href: '/programs', labelKey: 'getComputer' },
@@ -63,7 +72,7 @@ export async function Footer() {
               <h2 className="text-xl font-bold mb-1">{t('newsletter.title')}</h2>
               <p className="text-gray-400 text-sm">{t('newsletter.description')}</p>
             </div>
-            <NewsletterForm />
+            <NewsletterForm translations={newsletterTranslations} />
           </div>
         </div>
 

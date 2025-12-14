@@ -43,8 +43,12 @@
     "newsletter": {
       "title": "Stay in the loop",
       "description": "Get news, impact stories, and volunteer opportunities delivered to your inbox.",
+      "emailLabel": "Email address",
       "placeholder": "Enter your email",
       "subscribe": "Subscribe",
+      "subscribing": "Subscribing...",
+      "success": "Thanks for subscribing!",
+      "error": "An error occurred",
       "note": "Note: Newsletter signup is not yet connected. For updates, follow us on social media."
     },
     "tagline": "Sustainably reusing technology, enabling digital access, and empowering communities since 2000.",

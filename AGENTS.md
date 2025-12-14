@@ -135,3 +135,12 @@ This helps understand evolution, past decisions, and avoid repeating mistakes.
 - Store AI planning docs in `history/` directory
 - Do NOT create markdown TODO lists
 - Do NOT duplicate tracking systems
+
+### QA / Verification Workflow
+
+Before closing any bd issue, follow the checklist in `history/qa-workflow.md`. Key points:
+- Flow: `open` → `in_progress` → `ready_for_verification` → `closed`.
+- On close, add a short Verification note: what was tested, results, commands/URLs.
+- For code: run `npm run lint` and `tsc`, do functional checks on affected pages, verify i18n (EN/ES at minimum), and spot-check accessibility (keyboard/focus/ARIA).
+- For content/design: verify content appears in EN/ES, align spacing with Section layout, ensure alt text/style consistency, and include trust badges when needed.
+- Avoid duplicates: search bd before creating new issues; mark `ready_for_verification` when you want another agent to verify.
