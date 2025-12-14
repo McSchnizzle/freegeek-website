@@ -146,7 +146,7 @@ export default async function ShopPage() {
           <div className="md:w-1/2">
             <Image
               src="/images/hero/hero-community.png"
-              alt="Free Geek location"
+              alt={t('alt.location')}
               width={500}
               height={400}
               className="rounded-2xl"

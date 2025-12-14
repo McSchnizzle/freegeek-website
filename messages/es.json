@@ -52,6 +52,7 @@
       "note": "Nota: El registro al boletín aún no está conectado. Para actualizaciones, síguenos en redes sociales."
     },
     "tagline": "Reutilizando tecnología de manera sostenible, habilitando el acceso digital y empoderando comunidades desde el año 2000.",
+    "logoAlt": "Logo de Free Geek - volver al inicio",
     "copyright": "Free Geek. Organización sin fines de lucro 501(c)(3).",
     "ein": "EIN: 93-1292010",
     "support": {
@@ -220,6 +221,10 @@
     "cta": {
       "title": "¿Listo para participar?",
       "description": "Ya sea que dones tecnología, ofrezcas tu tiempo como voluntario o nos apoyes financieramente, estás ayudando a cerrar la brecha digital."
+    },
+    "alt": {
+      "community": "Miembros de la comunidad de Free Geek trabajando con tecnología",
+      "digitalDivide": "Cerrando la brecha digital - personas conectadas a través de la tecnología"
     }
   },
   "programs": {
@@ -566,6 +571,10 @@
     "cta": {
       "title": "¿Listo para hacer la diferencia?",
       "description": "Cada dispositivo que donas ayuda a cerrar la brecha digital en nuestra comunidad."
+    },
+    "alt": {
+      "donating": "Persona donando tecnología en Free Geek",
+      "security": "Seguridad y protección de datos"
     }
   },
   "donate": {
@@ -847,6 +856,9 @@
     "cta": {
       "title": "¿No puedes ser voluntario ahora?",
       "description": "Aún puedes hacer la diferencia. Dona tu vieja tecnología o apoya nuestra misión financieramente."
+    },
+    "alt": {
+      "volunteers": "Voluntarios de Free Geek trabajando juntos en el almacén"
     }
   },
   "hardwareGrants": {
@@ -1105,6 +1117,9 @@
       "title": "Cada Compra Hace la Diferencia",
       "description": "Cuando compras en Free Geek, el 100% de las ganancias apoyan nuestra misión sin fines de lucro. Tu compra ayuda a proporcionar computadoras gratuitas a quienes las necesitan y mantiene la tecnología fuera de los vertederos.",
       "learnPrograms": "Conoce Nuestros Programas"
+    },
+    "alt": {
+      "location": "Entrada del edificio de Free Geek en Portland, Oregón"
     }
   },
   "careers": {
@@ -1176,6 +1191,9 @@
     "cta": {
       "title": "¿Quieres involucrarte ahora?",
       "description": "Incluso si no estamos contratando actualmente, hay muchas formas de contribuir a nuestra misión. Sé voluntario o contáctanos para saber más."
+    },
+    "alt": {
+      "team": "Miembros del equipo de Free Geek trabajando juntos"
     }
   },
   "impact": {
@@ -1347,6 +1365,9 @@
       "description": "Únete a THE BRIDGE hoy y conviértete en un donante recurrente de la equidad digital en nuestra comunidad.",
       "joinBridge": "Únete a THE BRIDGE",
       "otherWays": "Otras Formas de Donar"
+    },
+    "alt": {
+      "digitalDivide": "Cerrando la brecha digital - personas conectadas a través de la tecnología"
     }
   },
   "corporateDonations": {
@@ -1428,6 +1449,9 @@
       "title": "¿Listo para retirar responsablemente tu equipo de TI?",
       "description": "Contáctanos para discutir tus necesidades de donación corporativa y programar una recolección.",
       "questions": "Hacer una Pregunta"
+    },
+    "alt": {
+      "security": "Seguridad y protección de datos empresariales"
     }
   },
   "dataSecurity": {
@@ -1509,6 +1533,9 @@
       "title": "¿Listo para donar tu tecnología?",
       "description": "Tus datos están en buenas manos. Deja tus dispositivos y nos encargamos del resto.",
       "questions": "¿Tienes Preguntas?"
+    },
+    "alt": {
+      "secureArea": "Área segura de destrucción y sanitización de datos"
     }
   },
   "faq": {

@@ -110,7 +110,7 @@ export default async function CorporateDonationsPage() {
           <div className="md:w-1/2">
             <Image
               src="/images/icons/icon-security.png"
-              alt="Data security"
+              alt={t('alt.security')}
               width={400}
               height={400}
               className="mx-auto"

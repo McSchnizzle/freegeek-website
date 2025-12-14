@@ -125,7 +125,7 @@ export default async function DataSecurityPage() {
           <div className="md:w-1/2">
             <Image
               src="/images/icons/icon-security.png"
-              alt="Secure data area"
+              alt={t('alt.secureArea')}
               width={400}
               height={400}
               className="mx-auto"

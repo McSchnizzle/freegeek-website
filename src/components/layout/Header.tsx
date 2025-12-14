@@ -35,7 +35,7 @@ export function Header() {
         <Link href="/" className="flex items-center">
           <Image
             src="/images/logos/freegeek-logo.svg"
-            alt="Free Geek"
+            alt={common('logoAlt')}
             width={120}
             height={40}
             className="invert"

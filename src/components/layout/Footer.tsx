@@ -92,7 +92,7 @@ export async function Footer() {
             <Link href="/">
               <Image
                 src="/images/logos/freegeek-logo.svg"
-                alt="Free Geek"
+                alt={common('logoAlt')}
                 width={150}
                 height={50}
                 className="invert mb-4"

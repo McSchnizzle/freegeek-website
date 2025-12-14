@@ -112,7 +112,7 @@ export default async function VolunteerPage() {
           <div className="md:w-1/2">
             <Image
               src="/images/hero/hero-community.png"
-              alt="Free Geek volunteers working together"
+              alt={t('alt.volunteers')}
               width={500}
               height={500}
               className="rounded-2xl"

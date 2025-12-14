@@ -33,7 +33,7 @@ export default async function AboutPage() {
           <div className="md:w-1/2">
             <Image
               src="/images/hero/hero-community.png"
-              alt="Free Geek community"
+              alt={t('alt.community')}
               width={500}
               height={500}
               className="rounded-2xl"
@@ -102,7 +102,7 @@ export default async function AboutPage() {
           </p>
           <Image
             src="/images/hero/digital-divide.png"
-            alt="Bridging the digital divide"
+            alt={t('alt.digitalDivide')}
             width={600}
             height={400}
             className="rounded-2xl mx-auto"

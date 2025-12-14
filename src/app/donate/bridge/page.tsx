@@ -39,7 +39,7 @@ export default async function BridgePage() {
           <div className="md:w-1/2">
             <Image
               src="/images/hero/digital-divide.png"
-              alt="Digital divide"
+              alt={t('alt.digitalDivide')}
               width={500}
               height={400}
               className="rounded-2xl"

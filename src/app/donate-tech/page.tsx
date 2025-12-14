@@ -41,7 +41,7 @@ export default async function DonateTechPage() {
           <div className="md:w-1/2">
             <Image
               src="/images/hero/hero-donate.png"
-              alt="Donating technology"
+              alt={t('alt.donating')}
               width={500}
               height={500}
               className="rounded-2xl"
@@ -126,7 +126,7 @@ export default async function DonateTechPage() {
           <div className="md:w-1/2">
             <Image
               src="/images/icons/icon-security.png"
-              alt="Data security"
+              alt={t('alt.security')}
               width={300}
               height={300}
               className="mx-auto"

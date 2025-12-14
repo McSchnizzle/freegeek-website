@@ -33,7 +33,7 @@ export default async function CareersPage() {
           <div className="md:w-1/2">
             <Image
               src="/images/hero/hero-community.png"
-              alt="Free Geek team"
+              alt={t('alt.team')}
               width={500}
               height={400}
               className="rounded-2xl"
