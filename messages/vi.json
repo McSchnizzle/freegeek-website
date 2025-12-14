@@ -1044,10 +1044,10 @@
     }
   },
   "language": {
-    "en": "English",
-    "es": "Spanish",
-    "vi": "Vietnamese",
-    "switchTo": "Switch language"
+    "en": "Tiếng Anh",
+    "es": "Tiếng Tây Ban Nha",
+    "vi": "Tiếng Việt",
+    "switchTo": "Chuyển ngôn ngữ"
   },
   "shop": {
     "hero": {

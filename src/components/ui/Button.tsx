@@ -1,4 +1,5 @@
 import { ButtonHTMLAttributes, AnchorHTMLAttributes } from 'react';
+import Link from 'next/link';
 
 type ButtonVariant = 'primary' | 'secondary' | 'outline';
 type ButtonSize = 'sm' | 'md' | 'lg';
@@ -11,9 +12,13 @@ interface BaseProps {
 }
 
 type ButtonAsButton = BaseProps & ButtonHTMLAttributes<HTMLButtonElement> & { href?: never };
-type ButtonAsLink = BaseProps & AnchorHTMLAttributes<HTMLAnchorElement> & { href: string };
+type ButtonAsLink = BaseProps & Omit<AnchorHTMLAttributes<HTMLAnchorElement>, 'href'> & { href: string };
 
 type ButtonProps = ButtonAsButton | ButtonAsLink;
+
+function isExternalUrl(url: string): boolean {
+  return url.startsWith('http') || url.startsWith('mailto:') || url.startsWith('tel:');
+}
 
 const variantClasses: Record<ButtonVariant, string> = {
   primary: 'bg-blue-600 hover:bg-blue-700 text-white',
@@ -38,10 +43,22 @@ export function Button({
   const classes = `${baseClasses} ${variantClasses[variant]} ${sizeClasses[size]} ${className}`;
 
   if ('href' in props && props.href) {
+    const { href, ...linkProps } = props as ButtonAsLink;
+
+    // Use regular anchor for external URLs, mailto, tel
+    if (isExternalUrl(href)) {
+      return (
+        <a className={classes} href={href} {...linkProps}>
+          {children}
+        </a>
+      );
+    }
+
+    // Use Next.js Link for internal navigation
     return (
-      <a className={classes} {...(props as AnchorHTMLAttributes<HTMLAnchorElement>)}>
+      <Link className={classes} href={href} {...linkProps}>
         {children}
-      </a>
+      </Link>
     );
   }
 

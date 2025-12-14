@@ -194,11 +194,30 @@ export async function Footer() {
         </div>
 
         {/* Bottom Bar */}
-        <div className="border-t border-gray-800 pt-8 flex flex-col md:flex-row justify-between items-center gap-4">
-          <p className="text-gray-500 text-sm">
-            &copy; {currentYear} {t('copyright')}
-          </p>
-          <p className="text-gray-600 text-sm">
+        <div className="border-t border-gray-800 pt-8">
+          <div className="flex flex-col md:flex-row justify-between items-center gap-4 mb-4">
+            <div className="text-center md:text-left">
+              <p className="text-gray-500 text-sm">
+                &copy; {currentYear} {t('copyright')}
+              </p>
+              <p className="text-gray-600 text-sm">
+                {t('ein')}
+              </p>
+            </div>
+            <div className="text-center md:text-right">
+              <p className="text-gray-500 text-sm font-medium">{t('support.title')}</p>
+              <p className="text-gray-600 text-sm">
+                <a href={`tel:${t('support.phone').replace(/\s+/g, '')}`} className="hover:text-white transition-colors">
+                  {t('support.phone')}
+                </a>
+                {' · '}
+                <a href={`mailto:${t('support.email')}`} className="hover:text-white transition-colors">
+                  {t('support.email')}
+                </a>
+              </p>
+            </div>
+          </div>
+          <p className="text-gray-600 text-sm text-center">
             {t('since')}
           </p>
         </div>

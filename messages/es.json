@@ -53,6 +53,12 @@
     },
     "tagline": "Reutilizando tecnología de manera sostenible, habilitando el acceso digital y empoderando comunidades desde el año 2000.",
     "copyright": "Free Geek. Organización sin fines de lucro 501(c)(3).",
+    "ein": "EIN: 93-1243063",
+    "support": {
+      "title": "Soporte",
+      "phone": "503-232-9350 ext 101",
+      "email": "computerfriends@freegeek.org"
+    },
     "since": "Convirtiendo desechos electrónicos en oportunidades desde el Día de la Tierra, 2000.",
     "sections": {
       "programs": "Programas",
@@ -1040,6 +1046,7 @@
   "language": {
     "en": "Inglés",
     "es": "Español",
+    "vi": "Vietnamita",
     "switchTo": "Cambiar idioma"
   },
   "shop": {
@@ -1824,6 +1831,242 @@
       "title": "¿No estás listo para ser Embajador?",
       "description": "Hay muchas otras formas de apoyar la misión de Free Geek.",
       "otherWays": "Explorar Oportunidades de Voluntariado"
+    }
+  },
+  "ourProcess": {
+    "hero": {
+      "title1": "Nuestro Proceso:",
+      "title2": "De la donación a la distribución.",
+      "description": "Cada dispositivo que pasa por nuestras puertas sigue un proceso cuidadoso para maximizar su potencial mientras protegemos tus datos y nuestro planeta."
+    },
+    "intake": {
+      "title": "1. Recepción de Donaciones",
+      "description": "Cuando dejas tus dispositivos, nuestro equipo recibe y cataloga cada artículo. Los dispositivos con datos se marcan inmediatamente y se envían a nuestra área segura de datos."
+    },
+    "security": {
+      "title": "2. Seguridad de Datos",
+      "description": "Todos los discos duros y dispositivos de almacenamiento pasan por sanitización de datos conforme a NIST SP800-88. Estamos certificados por i-SIGMA, lo que significa que tus datos se manejan con el mismo cuidado usado por agencias gubernamentales.",
+      "cta": "Conoce Sobre Seguridad de Datos"
+    },
+    "assessment": {
+      "title": "3. Evaluación",
+      "description": "Técnicos capacitados evalúan cada dispositivo para determinar si puede ser restaurado para reutilización o debe ser reciclado para recuperación de materiales."
+    },
+    "breakdown": {
+      "title": "Reutilización vs. Reciclaje",
+      "refurbish": {
+        "stat": "~30%",
+        "title": "Restaurados para Reutilización",
+        "description": "Los dispositivos que pasan la evaluación se limpian, reparan, actualizan con sistemas operativos nuevos y se prueban para control de calidad."
+      },
+      "recycle": {
+        "stat": "~70%",
+        "title": "Reciclados Responsablemente",
+        "description": "Los dispositivos que no pueden ser restaurados se desmontan para recuperación de materiales a través de nuestros socios de reciclaje certificados."
+      }
+    },
+    "departments": {
+      "title": "Nuestros Departamentos de Reconstrucción",
+      "laptops": {
+        "title": "Laptops",
+        "description": "Nuestros dispositivos más demandados. Restaurados con Linux Mint y distribuidos a través de nuestros programas."
+      },
+      "desktops": {
+        "title": "Escritorios",
+        "description": "Sistemas de escritorio completos reconstruidos para uso en hogar y oficina."
+      },
+      "macland": {
+        "title": "Macland",
+        "description": "Equipo dedicado para dispositivos Apple—MacBooks, iMacs y Mac Minis."
+      },
+      "other": {
+        "title": "Otros Dispositivos",
+        "description": "Tabletas, teléfonos inteligentes, monitores y periféricos."
+      }
+    },
+    "distribution": {
+      "title": "4. Distribución",
+      "description": "Los dispositivos restaurados encuentran nuevos hogares a través de nuestros programas comunitarios, donaciones de hardware y tienda en línea. Cada dispositivo ayuda a cerrar la brecha digital.",
+      "programs": "Conoce Nuestros Programas"
+    },
+    "cta": {
+      "title": "¿Listo para donar tu tecnología?",
+      "description": "Tus dispositivos viejos pueden ayudar a alguien necesitado mientras se mantienen fuera de los vertederos."
+    }
+  },
+  "supportPage": {
+    "hero": {
+      "title1": "Soporte de",
+      "title2": "Navegación Digital",
+      "description": "Obtén ayuda para configurar tu dispositivo, navegar por internet y desarrollar habilidades digitales con soporte personalizado de nuestro equipo de Navegación Digital."
+    },
+    "notice": {
+      "title": "Aviso Importante",
+      "description": "Los servicios de soporte técnico directo fueron descontinuados en octubre de 2022. Sin embargo, continuamos brindando soporte integral a través de nuestro programa de Navegación Digital para participantes elegibles."
+    },
+    "warranty": {
+      "title": "Garantía de Reemplazo de Dispositivo",
+      "description": "Si recibiste una computadora a través de uno de nuestros programas, tu dispositivo viene con una garantía de un año. Si tu dispositivo tiene problemas durante el período de garantía, contáctanos para soporte.",
+      "eligible": "Los dispositivos elegibles incluyen computadoras recibidas a través de:",
+      "programs": {
+        "pip": "Plug Into Portland",
+        "geekbox": "Gift a Geekbox",
+        "grants": "Programa de Donaciones de Hardware"
+      },
+      "contact": "Para soporte de garantía, contacta:"
+    },
+    "navigation": {
+      "title": "Soporte 1:1 con Navegador Digital",
+      "description": "Nuestros Navegadores Digitales brindan soporte personalizado para ayudarte a:",
+      "item1": "Configurar tu nuevo dispositivo",
+      "item2": "Conectarte a internet",
+      "item3": "Aprender a usar software y aplicaciones esenciales",
+      "item4": "Mantenerte seguro en línea con conceptos básicos de ciberseguridad",
+      "item5": "Acceder a telesalud, solicitudes de empleo y servicios esenciales",
+      "cta": "Programa una Cita"
+    },
+    "programs": {
+      "title": "Programas Cubiertos",
+      "description": "El soporte de Navegación Digital está disponible para participantes en los siguientes programas:",
+      "pip": {
+        "title": "Plug Into Portland",
+        "description": "Los receptores de laptops gratuitas reciben soporte continuo de nuestro equipo de Navegación Digital."
+      },
+      "geekbox": {
+        "title": "Gift a Geekbox",
+        "description": "Los receptores de computadoras de escritorio pueden acceder a servicios de soporte."
+      },
+      "grants": {
+        "title": "Donaciones de Hardware",
+        "description": "Las organizaciones que reciben donaciones de hardware pueden referir a sus clientes para soporte."
+      },
+      "digitalNav": {
+        "title": "Programa de Navegación Digital",
+        "description": "Cualquier persona inscrita en nuestro programa de Navegación Digital."
+      }
+    },
+    "contact": {
+      "title": "Contactar Soporte",
+      "phone": "503-232-9350 ext 101",
+      "email": "computerfriends@freegeek.org",
+      "hours": "Miércoles - Sábado, 11 AM - 4 PM"
+    },
+    "cta": {
+      "title": "¿Necesitas una computadora primero?",
+      "description": "Solicita una laptop gratuita a través de nuestro programa Plug Into Portland."
+    }
+  },
+  "location": {
+    "hero": {
+      "title1": "Visita",
+      "title2": "Free Geek",
+      "description": "Deja donaciones de tecnología, recoge una computadora o simplemente pasa a ver lo que hacemos. Estamos ubicados en el corazón del sureste de Portland."
+    },
+    "address": {
+      "title": "Nuestra Ubicación",
+      "street": "1731 SE 10th Avenue",
+      "city": "Portland, OR 97214",
+      "mapLink": "Ver en Google Maps"
+    },
+    "hours": {
+      "title": "Horario",
+      "days": {
+        "wed": "Miércoles",
+        "thu": "Jueves",
+        "fri": "Viernes",
+        "sat": "Sábado",
+        "sunTue": "Domingo - Martes"
+      },
+      "open": "11 AM - 4 PM",
+      "closed": "Cerrado"
+    },
+    "getting": {
+      "title": "Cómo Llegar",
+      "transit": {
+        "title": "En Transporte Público",
+        "description": "Las líneas de autobús TriMet 2, 6, 10, 14 y 70 paran cerca. La parada de MAX más cercana es SE Grand & Taylor en las líneas Orange/Yellow."
+      },
+      "bike": {
+        "title": "En Bicicleta",
+        "description": "Hay estacionamiento para bicicletas disponible cerca de nuestra entrada. Estamos ubicados en el Neighborhood Greenway."
+      },
+      "car": {
+        "title": "En Auto",
+        "description": "Hay estacionamiento en la calle disponible en SE 10th Avenue y calles circundantes. Nuestra área de entrega de donaciones tiene estacionamiento dedicado."
+      }
+    },
+    "entrances": {
+      "title": "Entradas del Edificio",
+      "donations": {
+        "title": "Donaciones",
+        "description": "Lado norte del edificio - Conduce hasta el estacionamiento al aire libre en la esquina noreste para dejar tecnología."
+      },
+      "info": {
+        "title": "Información y Voluntariado",
+        "description": "Entrada principal en SE 10th Avenue - Visita nuestra recepción para información, voluntariado o consultas generales."
+      },
+      "shop": {
+        "title": "Recogida de Tienda",
+        "description": "Entrada sur - Para recogida local de compras de la tienda en línea."
+      }
+    },
+    "cta": {
+      "title": "¿Listo para visitarnos?",
+      "description": "¡Esperamos verte! Pasa durante nuestro horario de atención—no se necesita cita para donaciones pequeñas."
+    }
+  },
+  "largeDonation": {
+    "hero": {
+      "title1": "Programa una",
+      "title2": "Donación Grande",
+      "description": "¿Tienes más de 20 dispositivos para donar? Programa con anticipación para que podamos asegurar que tenemos espacio y personal listos para recibir tu donación eficientemente."
+    },
+    "what": {
+      "title": "¿Qué Cuenta como Donación Grande?",
+      "description": "Si tienes 20 o más dispositivos para donar, te pedimos que programes con anticipación. Esto incluye:",
+      "item1": "Limpiezas de oficina y renovaciones de TI",
+      "item2": "Donaciones de escuelas y bibliotecas",
+      "item3": "Donaciones de patrimonios",
+      "item4": "Colectas comunitarias"
+    },
+    "pickup": {
+      "title": "Servicio de Recogida",
+      "description": "Para donaciones muy grandes (más de 100 dispositivos) o donantes que no pueden transportar artículos, ofrecemos servicio de recogida en el área metropolitana de Portland.",
+      "note": "La disponibilidad de recogida depende de nuestro horario y recursos. Contáctanos para discutir opciones."
+    },
+    "form": {
+      "title": "Programa Tu Donación",
+      "description": "Cuéntanos sobre tu donación y te contactaremos para programar una fecha.",
+      "name": "Tu Nombre",
+      "email": "Correo Electrónico",
+      "phone": "Número de Teléfono",
+      "organization": "Organización (si aplica)",
+      "deviceCount": "Número Estimado de Dispositivos",
+      "deviceTypes": "Tipos de Dispositivos",
+      "deviceTypesPlaceholder": "ej., 15 laptops, 10 escritorios, 5 monitores...",
+      "preferredDate": "Fecha(s) Preferida(s)",
+      "preferredDatePlaceholder": "ej., Semana del 15 de enero, o fechas específicas...",
+      "needPickup": "¿Necesitas servicio de recogida?",
+      "pickupYes": "Sí, necesito recogida",
+      "pickupNo": "No, puedo dejar los artículos",
+      "pickupAddress": "Dirección de Recogida",
+      "notes": "Notas Adicionales",
+      "notesPlaceholder": "Cualquier otro detalle sobre tu donación...",
+      "submit": "Solicitar Programación",
+      "submitting": "Enviando...",
+      "success": "¡Solicitud Enviada!",
+      "successMessage": "¡Gracias! Te contactaremos dentro de 2 días hábiles para confirmar tu cita de donación.",
+      "error": "Error al enviar solicitud"
+    },
+    "dropOff": {
+      "title": "Información de Entrega",
+      "address": "1731 SE 10th Avenue, Portland, OR 97214",
+      "hours": "Miércoles - Sábado, 11 AM - 4 PM",
+      "note": "Por favor lleva las donaciones al estacionamiento al aire libre en el lado noreste de nuestro edificio."
+    },
+    "cta": {
+      "title": "¿Tienes una donación más pequeña?",
+      "description": "Para menos de 20 dispositivos, no se necesita cita. Solo conduce durante nuestro horario de entrega."
     }
   }
 }

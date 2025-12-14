@@ -15,9 +15,8 @@ const LOCALE_CONFIG: Record<string, { nativeName: string; shortName: string }> =
 
 // Get available locales from the config
 function getAvailableLocales() {
-  // For now, only en and es are available. When new locales are added to
-  // src/i18n/request.ts and messages are created, add them here.
-  return ['en', 'es'] as const;
+  // Available locales that have translations in messages/{locale}.json
+  return ['en', 'es', 'vi'] as const;
 }
 
 export function LanguageSwitcher() {
