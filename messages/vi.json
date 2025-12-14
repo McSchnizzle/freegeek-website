@@ -52,6 +52,7 @@
       "note": "Note: Newsletter signup is not yet connected. For updates, follow us on social media."
     },
     "tagline": "Sustainably reusing technology, enabling digital access, and empowering communities since 2000.",
+    "logoAlt": "Free Geek logo - return to home",
     "copyright": "Free Geek. 501(c)(3) Nonprofit Organization.",
     "ein": "EIN: 93-1292010",
     "support": {
@@ -220,6 +221,10 @@
     "cta": {
       "title": "Ready to get involved?",
       "description": "Whether you donate tech, volunteer your time, or support us financially, you're helping bridge the digital divide."
+    },
+    "alt": {
+      "community": "Free Geek community members working with technology",
+      "digitalDivide": "Bridging the digital divide - people connected through technology"
     }
   },
   "programs": {
@@ -566,6 +571,10 @@
     "cta": {
       "title": "Ready to make a difference?",
       "description": "Every device you donate helps bridge the digital divide in our community."
+    },
+    "alt": {
+      "donating": "Person donating technology at Free Geek",
+      "security": "Data security and protection"
     }
   },
   "donate": {
@@ -847,6 +856,9 @@
     "cta": {
       "title": "Can't volunteer right now?",
       "description": "You can still make a difference. Donate your old tech or support our mission financially."
+    },
+    "alt": {
+      "volunteers": "Free Geek volunteers working together in the warehouse"
     }
   },
   "hardwareGrants": {
@@ -1083,6 +1095,7 @@
       "title": "Free Local Pickup",
       "description": "Portland-area buyers can pick up their purchases at our location for free. Just select local pickup at checkout and come by during our hours.",
       "location": "Pickup Location",
+      "address": "1731 SE 10th Avenue, Portland, OR 97214",
       "days": "Wednesday - Saturday",
       "times": "11:00 AM - 4:00 PM"
     },
@@ -1105,6 +1118,9 @@
       "title": "Every Purchase Makes a Difference",
       "description": "When you shop with Free Geek, 100% of proceeds support our nonprofit mission. Your purchase helps provide free computers to those in need and keeps technology out of landfills.",
       "learnPrograms": "Learn About Our Programs"
+    },
+    "alt": {
+      "location": "Free Geek building entrance in Portland, Oregon"
     }
   },
   "careers": {
@@ -1176,6 +1192,9 @@
     "cta": {
       "title": "Want to get involved now?",
       "description": "Even if we're not currently hiring, there are many ways to contribute to our mission. Volunteer with us or reach out to learn more."
+    },
+    "alt": {
+      "team": "Free Geek team members working together"
     }
   },
   "impact": {
@@ -1347,6 +1366,9 @@
       "description": "Join THE BRIDGE today and become a sustaining supporter of digital equity in our community.",
       "joinBridge": "Join THE BRIDGE",
       "otherWays": "Other Ways to Give"
+    },
+    "alt": {
+      "digitalDivide": "Bridging the digital divide - people connected through technology"
     }
   },
   "corporateDonations": {
@@ -1428,6 +1450,9 @@
       "title": "Ready to responsibly retire your IT equipment?",
       "description": "Contact us to discuss your corporate donation needs and schedule a pickup.",
       "questions": "Ask a Question"
+    },
+    "alt": {
+      "security": "Enterprise data security and protection"
     }
   },
   "dataSecurity": {
@@ -1509,6 +1534,9 @@
       "title": "Ready to donate your tech?",
       "description": "Your data is in safe hands. Drop off your devices and we'll handle the rest.",
       "questions": "Have Questions?"
+    },
+    "alt": {
+      "secureArea": "Secure data destruction and sanitization area"
     }
   },
   "faq": {
