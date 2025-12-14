@@ -107,7 +107,8 @@
     },
     "mission": {
       "title": "Nuestra Misión",
-      "text": "Reutilizar tecnología de manera sostenible, habilitar el acceso digital y proporcionar educación para crear una comunidad que empodere a las personas a realizar su potencial."
+      "text": "Reutilizar tecnología de manera sostenible, habilitar el acceso digital y proporcionar educación para crear una comunidad que empodere a las personas a realizar su potencial.",
+      "statement": "Reutilizar tecnología de manera sostenible, habilitar el acceso digital y proporcionar educación para crear una comunidad que empodere a las personas a realizar su potencial."
     },
     "problems": {
       "title": "Dos Problemas. Una Solución.",
@@ -132,8 +133,10 @@
       "title": "Nuestro Impacto",
       "years": "Años de servicio",
       "diverted": "Libras desviadas de vertederos",
+      "devices": "Dispositivos otorgados",
       "granted": "Dispositivos otorgados",
-      "served": "Miembros de la comunidad atendidos"
+      "served": "Miembros de la comunidad atendidos",
+      "community": "Miembros de la comunidad atendidos"
     },
     "cta": {
       "title": "¿Listo para participar?",
@@ -151,6 +154,8 @@
       "title": "Plug Into Portland",
       "p1": "Nuestro programa principal para individuos que necesitan una computadora. Aplica para entrar en la lista de espera para una laptop gratuita con Linux Mint, con garantía de un año y soporte de Navegación Digital.",
       "p2": "Actualmente, 75,000 estudiantes de Oregón no tienen una computadora personal para completar sus tareas. Estamos aquí para cerrar esa brecha.",
+      "description": "Nuestro programa principal para individuos que necesitan una computadora. Aplica para entrar en la lista de espera para una laptop gratuita con Linux Mint, con garantía de un año y soporte de Navegación Digital.",
+      "stats": "Actualmente, 75,000 estudiantes de Oregón no tienen una computadora personal para completar sus tareas. Estamos aquí para cerrar esa brecha.",
       "cta": "Aplicar para una Laptop Gratuita",
       "questions": "¿Preguntas? Envíanos un correo a"
     },
@@ -199,6 +204,16 @@
       "p2": "Cuando ponemos una computadora en las manos de un estudiante, no solo les damos un dispositivo—les damos la capacidad de hacer sus tareas, solicitar empleos, conectarse con su familia y participar plenamente en nuestro mundo digital.",
       "cta": "Ayúdanos a Cerrar la Brecha"
     },
+    "homeworkGap": {
+      "title": "La brecha de tareas es real",
+      "p1": "La \"brecha de tareas\" describe la dificultad que enfrentan los estudiantes para completar sus asignaciones sin acceso a un dispositivo o internet en casa. Solo en Oregón, 75,000 estudiantes carecen de una computadora personal para hacer sus tareas.",
+      "p2": "Cuando ponemos una computadora en las manos de un estudiante, no solo les damos un dispositivo—les damos la capacidad de hacer sus tareas, solicitar empleos, conectarse con su familia y participar plenamente en nuestro mundo digital.",
+      "cta": "Ayúdanos a Cerrar la Brecha"
+    },
+    "cta": {
+      "title": "¿No estás seguro de qué programa es el adecuado para ti?",
+      "description": "Contáctanos y te ayudaremos a encontrar el mejor camino para conectarte."
+    },
     "finalCta": {
       "title": "¿No estás seguro de qué programa es el adecuado para ti?",
       "description": "Contáctanos y te ayudaremos a encontrar el mejor camino para conectarte."
@@ -217,10 +232,29 @@
       "location": "Ubicación",
       "address": "1731 SE 10th Avenue, Portland, OR 97214",
       "parking": "Estacionamiento exterior en el lado noreste de nuestro edificio",
-      "hours": "Horario",
+      "locationNote": "Estacionamiento exterior en el lado noreste de nuestro edificio",
+      "hours": "11:00 AM - 4:00 PM",
       "days": "Miércoles - Sábado",
       "times": "11:00 AM - 4:00 PM",
       "noAppointment": "No se necesita cita para donaciones pequeñas. Solo conduce durante nuestro horario de entrega y nuestro equipo te ayudará a descargar."
+    },
+    "types": {
+      "title": "Opciones de donación",
+      "small": {
+        "title": "Pequeña",
+        "subtitle": "Menos de 20 dispositivos",
+        "description": "Perfecto para donaciones personales. Solo conduce durante nuestro horario de entrega—no necesitas cita."
+      },
+      "large": {
+        "title": "Grande",
+        "subtitle": "20+ dispositivos",
+        "description": "¿Tienes una donación más grande? Programa con anticipación para que podamos asegurarnos de tener espacio y personal listo para ti."
+      },
+      "corporate": {
+        "title": "Corporativa",
+        "subtitle": "Donaciones empresariales",
+        "description": "¿Retirando equipo de TI? Ofrecemos servicios de recolección y podemos proporcionar documentación para tus registros."
+      }
     },
     "options": {
       "title": "Opciones de donación",
@@ -248,11 +282,22 @@
       "description": "Tomamos la seguridad de datos en serio. Cada dispositivo con datos va directamente a nuestra área segura, solo para personal, para una sanitización adecuada.",
       "nist": "Sanitización de datos conforme a NIST SP800-88",
       "sigma": "Procesos certificados por i-SIGMA",
+      "isigma": "Procesos certificados por i-SIGMA",
       "certificate": "Certificado de Destrucción de Datos disponible ($10/dispositivo)",
       "cta": "Más Información sobre Seguridad de Datos"
     },
     "accept": {
       "title": "¿Qué puedes donar?",
+      "items": {
+        "laptops": "Laptops",
+        "desktops": "Computadoras de escritorio",
+        "smartphones": "Teléfonos inteligentes",
+        "tablets": "Tabletas",
+        "monitors": "Monitores",
+        "printers": "Impresoras",
+        "keyboards": "Teclados",
+        "cables": "Cables y Accesorios"
+      },
       "laptops": "Laptops",
       "desktops": "Computadoras de escritorio",
       "smartphones": "Teléfonos inteligentes",
@@ -299,7 +344,29 @@
       "title": "Tu Impacto",
       "amount25": "Cubre la sanitización de datos y suministros de restauración para un dispositivo",
       "amount100": "Proporciona capacitación en habilidades digitales para un miembro de la comunidad",
-      "amount250": "Financia completamente una computadora restaurada para un estudiante o buscador de empleo"
+      "amount250": "Financia completamente una computadora restaurada para un estudiante o buscador de empleo",
+      "level1": "Cubre la sanitización de datos y suministros de restauración para un dispositivo",
+      "level2": "Proporciona capacitación en habilidades digitales para un miembro de la comunidad",
+      "level3": "Financia completamente una computadora restaurada para un estudiante o buscador de empleo"
+    },
+    "otherWays": {
+      "title": "Otras Formas de Apoyar",
+      "donateTech": {
+        "title": "Donar Tecnología",
+        "description": "¿Tienes dispositivos viejos? Los restauraremos para miembros de la comunidad que los necesitan."
+      },
+      "volunteer": {
+        "title": "Dona Tu Tiempo",
+        "description": "Únete a nuestro equipo y ayuda a cerrar la brecha digital de manera práctica."
+      },
+      "techDrive": {
+        "title": "Organiza una Colecta de Tecnología",
+        "description": "Organiza una colección en tu lugar de trabajo, escuela o comunidad."
+      },
+      "ambassador": {
+        "title": "Conviértete en Embajador",
+        "description": "Difunde información sobre Free Geek en tu comunidad y redes."
+      }
     },
     "other": {
       "title": "Otras Formas de Apoyar",
@@ -340,6 +407,7 @@
       "address": "1731 SE 10th Avenue",
       "city": "Portland, OR 97214",
       "parking": "Entregas aceptadas en el estacionamiento exterior en el lado noreste de nuestro edificio.",
+      "dropoffNote": "Entregas aceptadas en el estacionamiento exterior en el lado noreste de nuestro edificio.",
       "directions": "Obtener Direcciones →"
     },
     "hours": {
@@ -348,6 +416,10 @@
       "thu": "Jueves",
       "fri": "Viernes",
       "sat": "Sábado",
+      "wednesday": "Miércoles",
+      "thursday": "Jueves",
+      "friday": "Viernes",
+      "saturday": "Sábado",
       "sunTue": "Dom - Mar",
       "open": "11 AM - 4 PM",
       "closed": "Cerrado"
@@ -371,6 +443,25 @@
         "description": "Únete a nuestro equipo y ayuda a cerrar la brecha digital."
       },
       "faq": {
+        "title": "Preguntas Frecuentes",
+        "description": "Encuentra respuestas a nuestras preguntas más frecuentes."
+      }
+    },
+    "quickLinks": {
+      "title": "Preguntas Comunes",
+      "donateTech": {
+        "title": "Donar Tecnología",
+        "description": "Horarios de entrega, qué aceptamos y programación de donaciones grandes."
+      },
+      "getComputer": {
+        "title": "Obtener una Computadora",
+        "description": "Aprende sobre Plug Into Portland y programas de becas de hardware."
+      },
+      "volunteer": {
+        "title": "Voluntariado",
+        "description": "Únete a nuestro equipo y ayuda a cerrar la brecha digital."
+      },
+      "faqs": {
         "title": "Preguntas Frecuentes",
         "description": "Encuentra respuestas a nuestras preguntas más frecuentes."
       }
@@ -415,6 +506,7 @@
     "opportunities": {
       "title": "Formas de Participar",
       "description": "Ya sea que tengas una hora o un mes, hay una manera para que contribuyas a la equidad digital en nuestra comunidad.",
+      "subtitle": "Ya sea que tengas una hora o un mes, hay una manera para que contribuyas a la equidad digital en nuestra comunidad.",
       "ambassador": {
         "title": "Programa de Embajadores",
         "description": "Comparte la visión de Free Geek con tu comunidad a través de redes sociales, correo electrónico, recaudación de fondos y más.",
@@ -438,15 +530,18 @@
     },
     "impact": {
       "title": "Tu impacto se suma",
-      "volunteers": {
+      "volunteers": "Voluntarios han contribuido su tiempo y habilidades a Free Geek durante 25 años.",
+      "ewaste": "Libras de desechos electrónicos desviados de vertederos gracias a nuestros esfuerzos colectivos.",
+      "devices": "Dispositivos restaurados y entregados a personas que más los necesitan.",
+      "volunteersObj": {
         "stat": "35K+",
         "description": "Voluntarios han contribuido su tiempo y habilidades a Free Geek durante 25 años."
       },
-      "ewaste": {
+      "ewasteObj": {
         "stat": "82M",
         "description": "Libras de desechos electrónicos desviados de vertederos gracias a nuestros esfuerzos colectivos."
       },
-      "devices": {
+      "devicesObj": {
         "stat": "75K+",
         "description": "Dispositivos restaurados y entregados a personas que más los necesitan."
       }
@@ -454,11 +549,21 @@
     "form": {
       "title": "¿Interesado en ser voluntario?",
       "description": "Cuéntanos sobre ti y nos pondremos en contacto con oportunidades que coincidan con tus intereses.",
+      "subtitle": "Cuéntanos sobre ti y nos pondremos en contacto con oportunidades que coincidan con tus intereses.",
       "name": "Tu Nombre",
       "email": "Correo Electrónico",
-      "interests": "¿Qué te interesa?",
+      "interestsLabel": "¿Qué te interesa?",
       "interestsHint": "(selecciona todos los que apliquen)",
+      "interestsNote": "(selecciona todos los que apliquen)",
       "options": {
+        "ambassador": "Programa de Embajadores",
+        "techDrives": "Colectas de Tecnología",
+        "warehouse": "Voluntariado en Almacén",
+        "fundraising": "Recaudación de Fondos",
+        "internship": "Pasantía",
+        "other": "Otro"
+      },
+      "interests": {
         "ambassador": "Programa de Embajadores",
         "techDrives": "Colectas de Tecnología",
         "warehouse": "Voluntariado en Almacén",
@@ -509,6 +614,23 @@
         "item3": "Apoyo para iniciativas de inclusión digital"
       }
     },
+    "types": {
+      "title": "Programas de Becas",
+      "organizational": {
+        "title": "Becas de Hardware Organizacional",
+        "description": "Tecnología restaurada gratuita y de bajo costo para uso organizacional sin fines de lucro—equipando a tu personal y voluntarios con las herramientas que necesitan.",
+        "item1": "Computadoras de escritorio y laptops",
+        "item2": "Monitores y periféricos",
+        "item3": "Equipo de redes"
+      },
+      "community": {
+        "title": "Becas de Hardware Comunitario",
+        "description": "Tecnología gratuita para los miembros de la comunidad que tu organización sirve—ayudándote a extender el acceso digital a quienes más lo necesitan.",
+        "item1": "Laptops para clientes y participantes de programas",
+        "item2": "Distribución a través de tus programas existentes",
+        "item3": "Apoyo para iniciativas de inclusión digital"
+      }
+    },
     "eligibility": {
       "title": "Elegibilidad",
       "intro": "Para calificar para Becas de Hardware, las organizaciones deben:",
@@ -518,11 +640,12 @@
     },
     "testimonial": {
       "quote": "En A Family for Every Child apoyamos incondicionalmente a Free Geek; desempeñan un papel irremplazable en nuestra comunidad. Sin las generosas donaciones pasadas de Free Geek, no podríamos funcionar durante esta crisis de salud ni cumplir nuestra misión en general.",
-      "author": "— Andrew Hampton, A Family for Every Child"
+      "author": "Andrew Hampton, A Family for Every Child"
     },
     "impact": {
       "title": "Nuestro Impacto",
       "orgs": "Organizaciones atendidas anualmente",
+      "organizations": "Organizaciones atendidas anualmente",
       "devices": "Total de dispositivos otorgados",
       "years": "Años de servicio comunitario"
     },
@@ -568,7 +691,8 @@
       "description": "Nos asociamos con organizaciones en Portland para expandir el acceso digital y desarrollar habilidades digitales en nuestra comunidad.",
       "communityTech": {
         "title": "Grupo de Tecnología Comunitaria",
-        "org": "Oficina de Planificación y Sostenibilidad de Portland"
+        "org": "Oficina de Planificación y Sostenibilidad de Portland",
+        "description": "Oficina de Planificación y Sostenibilidad de Portland"
       },
       "library": {
         "title": "Biblioteca del Condado de Multnomah",

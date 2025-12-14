@@ -107,7 +107,8 @@
     },
     "mission": {
       "title": "Our Mission",
-      "text": "To sustainably reuse technology, enable digital access, and provide education to create a community that empowers people to realize their potential."
+      "text": "To sustainably reuse technology, enable digital access, and provide education to create a community that empowers people to realize their potential.",
+      "statement": "To sustainably reuse technology, enable digital access, and provide education to create a community that empowers people to realize their potential."
     },
     "problems": {
       "title": "Two Problems. One Solution.",
@@ -132,8 +133,10 @@
       "title": "Our Impact",
       "years": "Years of service",
       "diverted": "Pounds diverted from landfills",
+      "devices": "Devices granted",
       "granted": "Devices granted",
-      "served": "Community members served"
+      "served": "Community members served",
+      "community": "Community members served"
     },
     "cta": {
       "title": "Ready to get involved?",
@@ -151,6 +154,8 @@
       "title": "Plug Into Portland",
       "p1": "Our flagship program for individuals who need a computer. Apply to get on the waitlist for a free laptop running Linux Mint, with a one-year warranty and Digital Navigation Support.",
       "p2": "Currently, 75,000 Oregon students don't have a personal computer to complete their assignments. We're here to close that gap.",
+      "description": "Our flagship program for individuals who need a computer. Apply to get on the waitlist for a free laptop running Linux Mint, with a one-year warranty and Digital Navigation Support.",
+      "stats": "Currently, 75,000 Oregon students don't have a personal computer to complete their assignments. We're here to close that gap.",
       "cta": "Apply for a Free Laptop",
       "questions": "Questions? Email us at"
     },
@@ -199,6 +204,16 @@
       "p2": "When we put a computer in a student's hands, we're not just giving them a device—we're giving them the ability to do their homework, apply for jobs, connect with family, and participate fully in our digital world.",
       "cta": "Help Us Close the Gap"
     },
+    "homeworkGap": {
+      "title": "The homework gap is real",
+      "p1": "The \"homework gap\" describes the difficulty students face completing assignments without access to a device or internet at home. In Oregon alone, 75,000 students lack a personal computer for schoolwork.",
+      "p2": "When we put a computer in a student's hands, we're not just giving them a device—we're giving them the ability to do their homework, apply for jobs, connect with family, and participate fully in our digital world.",
+      "cta": "Help Us Close the Gap"
+    },
+    "cta": {
+      "title": "Not sure which program is right for you?",
+      "description": "Reach out and we'll help you find the best path to getting connected."
+    },
     "finalCta": {
       "title": "Not sure which program is right for you?",
       "description": "Reach out and we'll help you find the best path to getting connected."
@@ -217,10 +232,29 @@
       "location": "Location",
       "address": "1731 SE 10th Avenue, Portland, OR 97214",
       "parking": "Outdoor parking lot on the northeast side of our building",
-      "hours": "Hours",
+      "locationNote": "Outdoor parking lot on the northeast side of our building",
+      "hours": "11:00 AM - 4:00 PM",
       "days": "Wednesday - Saturday",
       "times": "11:00 AM - 4:00 PM",
       "noAppointment": "No appointment needed for small donations. Just drive up during our drop-off hours and our team will help you unload."
+    },
+    "types": {
+      "title": "Donation options",
+      "small": {
+        "title": "Small",
+        "subtitle": "Under 20 devices",
+        "description": "Perfect for personal donations. Just drive up during our drop-off hours—no appointment needed."
+      },
+      "large": {
+        "title": "Large",
+        "subtitle": "20+ devices",
+        "description": "Have a bigger donation? Schedule ahead so we can make sure we have space and staff ready for you."
+      },
+      "corporate": {
+        "title": "Corporate",
+        "subtitle": "Business donations",
+        "description": "Retiring IT equipment? We offer pickup services and can provide documentation for your records."
+      }
     },
     "options": {
       "title": "Donation options",
@@ -248,11 +282,22 @@
       "description": "We take data security seriously. Every data-bearing device goes directly to our secure, staff-only area for proper sanitization.",
       "nist": "NIST SP800-88 compliant data sanitization",
       "sigma": "i-SIGMA certified processes",
+      "isigma": "i-SIGMA certified processes",
       "certificate": "Certificate of Data Destruction available ($10/device)",
       "cta": "Learn More About Data Security"
     },
     "accept": {
       "title": "What can you donate?",
+      "items": {
+        "laptops": "Laptops",
+        "desktops": "Desktops",
+        "smartphones": "Smartphones",
+        "tablets": "Tablets",
+        "monitors": "Monitors",
+        "printers": "Printers",
+        "keyboards": "Keyboards",
+        "cables": "Cables & Accessories"
+      },
       "laptops": "Laptops",
       "desktops": "Desktops",
       "smartphones": "Smartphones",
@@ -299,7 +344,29 @@
       "title": "Your Impact",
       "amount25": "Covers data sanitization and refurbishment supplies for one device",
       "amount100": "Provides digital skills training for one community member",
-      "amount250": "Fully funds one refurbished computer for a student or job seeker"
+      "amount250": "Fully funds one refurbished computer for a student or job seeker",
+      "level1": "Covers data sanitization and refurbishment supplies for one device",
+      "level2": "Provides digital skills training for one community member",
+      "level3": "Fully funds one refurbished computer for a student or job seeker"
+    },
+    "otherWays": {
+      "title": "Other Ways to Support",
+      "donateTech": {
+        "title": "Donate Technology",
+        "description": "Have old devices? We'll refurbish them for community members in need."
+      },
+      "volunteer": {
+        "title": "Volunteer Your Time",
+        "description": "Join our team and help bridge the digital divide hands-on."
+      },
+      "techDrive": {
+        "title": "Host a Tech Drive",
+        "description": "Organize a collection at your workplace, school, or community."
+      },
+      "ambassador": {
+        "title": "Become an Ambassador",
+        "description": "Spread the word about Free Geek in your community and networks."
+      }
     },
     "other": {
       "title": "Other Ways to Support",
@@ -340,6 +407,7 @@
       "address": "1731 SE 10th Avenue",
       "city": "Portland, OR 97214",
       "parking": "Drop-offs accepted in the outdoor parking lot on the northeast side of our building.",
+      "dropoffNote": "Drop-offs accepted in the outdoor parking lot on the northeast side of our building.",
       "directions": "Get Directions →"
     },
     "hours": {
@@ -348,6 +416,10 @@
       "thu": "Thursday",
       "fri": "Friday",
       "sat": "Saturday",
+      "wednesday": "Wednesday",
+      "thursday": "Thursday",
+      "friday": "Friday",
+      "saturday": "Saturday",
       "sunTue": "Sun - Tue",
       "open": "11 AM - 4 PM",
       "closed": "Closed"
@@ -371,6 +443,25 @@
         "description": "Join our team and help bridge the digital divide."
       },
       "faq": {
+        "title": "FAQs",
+        "description": "Find answers to our most frequently asked questions."
+      }
+    },
+    "quickLinks": {
+      "title": "Common Questions",
+      "donateTech": {
+        "title": "Donate Technology",
+        "description": "Drop-off hours, what we accept, and scheduling large donations."
+      },
+      "getComputer": {
+        "title": "Get a Computer",
+        "description": "Learn about Plug Into Portland and hardware grant programs."
+      },
+      "volunteer": {
+        "title": "Volunteer",
+        "description": "Join our team and help bridge the digital divide."
+      },
+      "faqs": {
         "title": "FAQs",
         "description": "Find answers to our most frequently asked questions."
       }
@@ -415,6 +506,7 @@
     "opportunities": {
       "title": "Ways to Get Involved",
       "description": "Whether you have an hour or a month, there's a way for you to contribute to digital equity in our community.",
+      "subtitle": "Whether you have an hour or a month, there's a way for you to contribute to digital equity in our community.",
       "ambassador": {
         "title": "Ambassador Program",
         "description": "Share Free Geek's vision with your community through social media, email, fundraising, and more.",
@@ -438,15 +530,18 @@
     },
     "impact": {
       "title": "Your impact adds up",
-      "volunteers": {
+      "volunteers": "Volunteers have contributed their time and skills to Free Geek over 25 years.",
+      "ewaste": "Pounds of e-waste diverted from landfills thanks to our collective efforts.",
+      "devices": "Devices refurbished and given to people who need them most.",
+      "volunteersObj": {
         "stat": "35K+",
         "description": "Volunteers have contributed their time and skills to Free Geek over 25 years."
       },
-      "ewaste": {
+      "ewasteObj": {
         "stat": "82M",
         "description": "Pounds of e-waste diverted from landfills thanks to our collective efforts."
       },
-      "devices": {
+      "devicesObj": {
         "stat": "75K+",
         "description": "Devices refurbished and given to people who need them most."
       }
@@ -454,11 +549,21 @@
     "form": {
       "title": "Interested in volunteering?",
       "description": "Tell us about yourself and we'll be in touch with opportunities that match your interests.",
+      "subtitle": "Tell us about yourself and we'll be in touch with opportunities that match your interests.",
       "name": "Your Name",
       "email": "Email",
-      "interests": "What interests you?",
+      "interestsLabel": "What interests you?",
       "interestsHint": "(select all that apply)",
+      "interestsNote": "(select all that apply)",
       "options": {
+        "ambassador": "Ambassador Program",
+        "techDrives": "Tech Drives",
+        "warehouse": "Warehouse Volunteering",
+        "fundraising": "Fundraising",
+        "internship": "Internship",
+        "other": "Other"
+      },
+      "interests": {
         "ambassador": "Ambassador Program",
         "techDrives": "Tech Drives",
         "warehouse": "Warehouse Volunteering",
@@ -509,6 +614,23 @@
         "item3": "Support for digital inclusion initiatives"
       }
     },
+    "types": {
+      "title": "Grant Programs",
+      "organizational": {
+        "title": "Organizational Hardware Grants",
+        "description": "Free and low-cost refurbished technology for nonprofit organizational use—equipping your staff and volunteers with the tools they need.",
+        "item1": "Desktop and laptop computers",
+        "item2": "Monitors and peripherals",
+        "item3": "Networking equipment"
+      },
+      "community": {
+        "title": "Community Hardware Grants",
+        "description": "Free technology for the community members your nonprofit serves—helping you extend digital access to those who need it most.",
+        "item1": "Laptops for clients and program participants",
+        "item2": "Distribution through your existing programs",
+        "item3": "Support for digital inclusion initiatives"
+      }
+    },
     "eligibility": {
       "title": "Eligibility",
       "intro": "To qualify for Hardware Grants, organizations must:",
@@ -518,11 +640,12 @@
     },
     "testimonial": {
       "quote": "We at A Family for Every Child unconditionally support Free Geek; they serve an irreplaceable role in our community. Were it not for the generous past donations of Free Geek, we would neither be able to function during this health crisis, nor serve our mission as a whole.",
-      "author": "— Andrew Hampton, A Family for Every Child"
+      "author": "Andrew Hampton, A Family for Every Child"
     },
     "impact": {
       "title": "Our Impact",
       "orgs": "Organizations served annually",
+      "organizations": "Organizations served annually",
       "devices": "Total devices granted",
       "years": "Years of community service"
     },
@@ -568,7 +691,8 @@
       "description": "We partner with organizations across Portland to expand digital access and build digital skills in our community.",
       "communityTech": {
         "title": "Community Technology Group",
-        "org": "Portland Bureau of Planning & Sustainability"
+        "org": "Portland Bureau of Planning & Sustainability",
+        "description": "Portland Bureau of Planning & Sustainability"
       },
       "library": {
         "title": "Multnomah County Library",
