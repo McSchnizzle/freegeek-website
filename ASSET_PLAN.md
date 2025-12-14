@@ -1,47 +1,73 @@
 # Free Geek Visual Asset Plan
 
-## Required Assets
+## Representation Requirements
 
-### High Priority
+All illustrations featuring people must include:
+- **Varied skin tones** depicting diverse racial backgrounds
+- **Gender expressions** including non-binary-presenting figures
+- **Disability representation** where appropriate
+- **Varied hairstyles, body types, and features**
 
-| Asset | Description | Placement | Specs |
-|-------|-------------|-----------|-------|
-| **Data Security Visual** | Photo/illustration showing secure data wipe or technician at work | `/donate-tech`, `/data-security`, trust strip | 800x600px min, dark/neutral background |
-| **Device Distribution** | Photo of recipient receiving device, showing positive impact | `/programs`, homepage CTA, BRIDGE page | 800x600px, natural lighting, diverse representation |
-| **Volunteer/Drop-off Scene** | Community members dropping off tech or volunteers sorting | `/volunteer`, `/donate-tech` | 800x600px, action shot |
-| **Digital Skills Coaching** | Learner and Digital Navigator in session | `/programs/digital-skills` | 800x600px, approachable/educational feel |
+## Placement Checklist
 
-### Medium Priority
+| Page | Location | Current Status | Asset Needed |
+|------|----------|----------------|--------------|
+| **Home** | Hero/community section | Has `hero-community.png` | **Replace** with diverse illustration |
+| **Programs** | Hero + program cards | Text-heavy | Add hero illustration + card imagery |
+| **Volunteer** | Hero + CTA | Minimal visuals | Add volunteer/community illustration |
+| **Donate Tech** | Trust strip | Has icons | Add data security visual |
+| **Digital Skills** | Hero | Text-heavy | Add coaching/learning illustration |
+| **Impact** | Report section | Minimal | Add impact visualization |
 
-| Asset | Description | Placement | Specs |
-|-------|-------------|-----------|-------|
-| **Program Card Images** | Distinct imagery for each program type | `/programs` landing, homepage | 400x300px each |
-| └ Individuals | Person with laptop (Plug Into Portland) | | |
-| └ Organizations | Group/team receiving equipment (Hardware Grants) | | |
-| └ Affordable Tech | Shop/retail setting | | |
-| **Donor Testimonial Portrait** | Quote with photo | Homepage, `/donate-tech` | 200x200px headshot |
-| **Partner Testimonial Portrait** | Quote with photo | Homepage, `/programs` | 200x200px headshot |
+### New Visual Slots (Text-Heavy Areas)
+Identify 2-3 areas that would benefit from illustrations:
+1. **Programs landing page** - Add program differentiation imagery
+2. **About page** - Add mission/values illustration
+3. **FAQ page** - Add supportive visual element
 
-### Lower Priority
+## Required Assets by Priority
 
-| Asset | Description | Placement | Specs |
-|-------|-------------|-----------|-------|
-| **Building Exterior** | Free Geek building photo | `/location` | 800x400px |
-| **Building Interior** | Workshop/volunteer area | `/about`, `/volunteer` | 800x600px |
-| **Bilingual Support Badge** | Visual indicator for Spanish support | Near language toggle | SVG, 100x30px |
+### High Priority (P1)
 
-## Existing Assets (in `/public/images/`)
+| Asset | Description | Representation | Specs |
+|-------|-------------|----------------|-------|
+| **hero-community.png replacement** | Community illustration showing Free Geek's impact | Multiple skin tones, non-binary figures, varied ages | 1200x800px, flat vector, teal/blue/purple palette |
+| **Data Security Visual** | Technician performing secure data wipe | Diverse representation | 800x600px, flat vector |
+| **Device Distribution** | Recipient receiving laptop, showing positive impact | Varied skin tones, ages, abilities | 800x600px, flat vector |
 
-### Logos
-- `logos/freegeek-logo.svg` - Primary logo
+### Medium Priority (P2)
 
-### Hero Images
-- `hero/hero-donate.png` - Donation flow
-- `hero/hero-receive.png` - Receiving devices
-- `hero/hero-community.png` - Community impact
-- `hero/digital-divide.png` - Digital equity
+| Asset | Description | Representation | Specs |
+|-------|-------------|----------------|-------|
+| **Volunteer Scene** | Community drop-off or volunteers sorting tech | Diverse group | 800x600px, flat vector |
+| **Digital Skills Coaching** | Learner + Digital Navigator in session | Cross-generational, diverse | 800x600px, flat vector |
+| **Program Card: Individuals** | Person with laptop (Plug Into Portland) | Include disability rep | 400x300px, flat vector |
+| **Program Card: Organizations** | Group/team receiving equipment | Diverse workplace | 400x300px, flat vector |
+| **Program Card: Affordable Tech** | Shop/retail setting | Inclusive | 400x300px, flat vector |
 
-### Icons
+### Lower Priority (P3)
+
+| Asset | Description | Representation | Specs |
+|-------|-------------|----------------|-------|
+| **Donor Testimonial Portrait** | Illustrated portrait for quote | Varied | 200x200px |
+| **Partner Testimonial Portrait** | Illustrated portrait for quote | Varied | 200x200px |
+| **Spanish Support Badge** | Visual indicator for language support | N/A | SVG, 100x30px |
+| **Building Exterior** | Free Geek location illustration | N/A | 800x400px |
+
+## Existing Assets
+
+### Location: `/public/images/`
+
+**Logos:**
+- `logos/freegeek-logo.svg` - Primary logo ✓
+
+**Hero Images (Review for palette/representation):**
+- `hero/hero-donate.png` - Review needed
+- `hero/hero-receive.png` - Review needed
+- `hero/hero-community.png` - **REPLACE** (needs diverse representation)
+- `hero/digital-divide.png` - Review needed
+
+**Icons (Check for palette compliance):**
 - `icons/icon-donate.png`
 - `icons/icon-refurbish.png`
 - `icons/icon-distribute.png`
@@ -53,27 +79,32 @@
 
 ## Art Direction Guidelines
 
-1. **Photography Style:**
-   - Natural lighting preferred
-   - Diverse representation in all people shots
-   - Action/candid over posed
-   - Portland/Pacific Northwest aesthetic
+### Style Requirements
+1. **Flat vector illustrations** - no photo realism
+2. **Bold outlines** with consistent stroke weights
+3. **No mixing** photos with line art on same page
+4. **Clean backgrounds** - mostly white, minimal gradients
 
-2. **Color Treatment:**
-   - Photos can be full color
-   - Consider slight desaturation for consistency
-   - Avoid heavy filters
+### Color Requirements
+- Primary palette: teal (`#00A0B0`), blue (`#2563EB`), purple (`#9B4DCA`)
+- **Limited orange** (`#F5A623`) - highlights only
+- **Avoid green** unless brand-specified
+- No off-palette colors
 
-3. **Icon Consistency:**
-   - Flat illustration style (matching existing icons)
-   - Use brand palette (blue, teal, purple, orange)
-   - Transparent PNG backgrounds
-   - Consistent line weights
+### Character Requirements
+- Every illustration with people must show diversity
+- Include at minimum: 2+ skin tones, varied gender presentations
+- Consider including: wheelchair users, assistive devices, varied ages
 
-## Implementation Notes
+## Implementation Checklist
 
-When assets are ready:
-1. Add to `/public/images/[category]/`
-2. Use Next.js `Image` component for optimization
-3. Provide alt text for accessibility
-4. Update page components with new image paths
+When assets are created:
+
+- [ ] Verify representation requirements are met
+- [ ] Confirm palette compliance (teal/blue/purple, limited orange)
+- [ ] Check stroke weights match existing icons
+- [ ] Add to `/public/images/[category]/`
+- [ ] Use Next.js `Image` component
+- [ ] Provide descriptive alt text
+- [ ] Update page components with new paths
+- [ ] Test across breakpoints
