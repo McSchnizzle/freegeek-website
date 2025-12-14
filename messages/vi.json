@@ -1,107 +1,107 @@
 {
   "common": {
-    "learnMore": "Learn More",
-    "contactUs": "Contact Us",
-    "donateTech": "Donate Tech",
-    "getComputer": "Get a Computer",
-    "volunteer": "Volunteer",
-    "donate": "Donate",
-    "about": "About",
-    "programs": "Programs",
-    "shop": "Shop",
-    "contact": "Contact",
-    "opensNewTab": "(opens in new tab)",
+    "learnMore": "Tìm hiểu thêm",
+    "contactUs": "Liên hệ",
+    "donateTech": "Quyên góp thiết bị",
+    "getComputer": "Nhận máy tính",
+    "volunteer": "Tình nguyện",
+    "donate": "Quyên góp",
+    "about": "Giới thiệu",
+    "programs": "Chương trình",
+    "shop": "Cửa hàng",
+    "contact": "Liên hệ",
+    "opensNewTab": "(mở trong tab mới)",
     "email": "Email",
-    "phone": "Phone",
-    "address": "Address",
-    "hours": "Hours",
-    "explorePrograms": "Explore Our Programs",
-    "donateNow": "Donate Now",
-    "volunteerWithUs": "Volunteer With Us",
-    "viewAllPrograms": "View All Programs",
-    "getStarted": "Get Started",
-    "applyNow": "Apply Now",
-    "schedulePickup": "Schedule a Pickup",
-    "dropOffAnytime": "Drop Off Anytime",
-    "scheduleDropOff": "Schedule Drop-Off",
-    "makeFinancialDonation": "Make a Financial Donation",
-    "getDirections": "Get Directions"
+    "phone": "Điện thoại",
+    "address": "Địa chỉ",
+    "hours": "Giờ mở cửa",
+    "explorePrograms": "Khám phá chương trình",
+    "donateNow": "Quyên góp ngay",
+    "volunteerWithUs": "Tình nguyện cùng chúng tôi",
+    "viewAllPrograms": "Xem tất cả chương trình",
+    "getStarted": "Bắt đầu",
+    "applyNow": "Đăng ký ngay",
+    "schedulePickup": "Đặt lịch nhận hàng",
+    "dropOffAnytime": "Giao trực tiếp bất cứ lúc nào",
+    "scheduleDropOff": "Đặt lịch giao hàng",
+    "makeFinancialDonation": "Đóng góp tài chính",
+    "getDirections": "Xem chỉ đường"
   },
   "nav": {
-    "skipToContent": "Skip to main content",
-    "openMenu": "Open menu",
-    "closeMenu": "Close menu",
-    "mainNav": "Main navigation",
-    "mobileNav": "Mobile navigation",
-    "about": "About",
-    "programs": "Programs",
-    "donateTech": "Donate Tech",
-    "shop": "Shop",
-    "contact": "Contact"
+    "skipToContent": "Chuyển đến nội dung chính",
+    "openMenu": "Mở menu",
+    "closeMenu": "Đóng menu",
+    "mainNav": "Điều hướng chính",
+    "mobileNav": "Điều hướng di động",
+    "about": "Giới thiệu",
+    "programs": "Chương trình",
+    "donateTech": "Quyên góp thiết bị",
+    "shop": "Cửa hàng",
+    "contact": "Liên hệ"
   },
   "footer": {
     "newsletter": {
-      "title": "Stay in the loop",
-      "description": "Get news, impact stories, and volunteer opportunities delivered to your inbox.",
-      "emailLabel": "Email address",
-      "placeholder": "Enter your email",
-      "subscribe": "Subscribe",
-      "subscribing": "Subscribing...",
-      "success": "Thanks for subscribing!",
-      "error": "An error occurred",
-      "note": "Note: Newsletter signup is not yet connected. For updates, follow us on social media."
+      "title": "Theo dõi tin tức",
+      "description": "Nhận tin tức, câu chuyện tác động và cơ hội tình nguyện qua email.",
+      "emailLabel": "Địa chỉ email",
+      "placeholder": "Nhập email của bạn",
+      "subscribe": "Đăng ký",
+      "subscribing": "Đang đăng ký...",
+      "success": "Cảm ơn bạn đã đăng ký!",
+      "error": "Đã xảy ra lỗi",
+      "note": "Lưu ý: Đăng ký bản tin chưa được kết nối. Để cập nhật, hãy theo dõi chúng tôi trên mạng xã hội."
     },
-    "tagline": "Sustainably reusing technology, enabling digital access, and empowering communities since 2000.",
-    "logoAlt": "Free Geek logo - return to home",
-    "copyright": "Free Geek. 501(c)(3) Nonprofit Organization.",
+    "tagline": "Tái sử dụng công nghệ bền vững, mở rộng truy cập kỹ thuật số và trao quyền cho cộng đồng từ năm 2000.",
+    "logoAlt": "Logo Free Geek - về trang chủ",
+    "copyright": "Free Geek. Tổ chức phi lợi nhuận 501(c)(3).",
     "ein": "EIN: 93-1292010",
     "support": {
-      "title": "Support",
+      "title": "Hỗ trợ",
       "phone": "503-232-9350 ext 101",
       "email": "computerfriends@freegeek.org"
     },
-    "since": "Turning e-waste into opportunity since Earth Day, 2000.",
+    "since": "Biến rác thải điện tử thành cơ hội từ Ngày Trái Đất, 2000.",
     "sections": {
-      "programs": "Programs",
-      "getInvolved": "Get Involved",
-      "about": "About",
-      "connect": "Connect"
+      "programs": "Chương trình",
+      "getInvolved": "Tham gia",
+      "about": "Giới thiệu",
+      "connect": "Kết nối"
     },
     "links": {
-      "getComputer": "Get a Computer",
-      "hardwareGrants": "Hardware Grants",
-      "digitalSkills": "Digital Skills",
-      "donateTech": "Donate Tech",
-      "volunteer": "Volunteer",
-      "donateMoney": "Donate Money",
-      "bridgeGiving": "BRIDGE Monthly Giving",
-      "ourStory": "Our Story",
-      "ourTeam": "Our Team",
-      "ourImpact": "Our Impact",
-      "careers": "Careers",
-      "contact": "Contact",
+      "getComputer": "Nhận máy tính",
+      "hardwareGrants": "Tài trợ phần cứng",
+      "digitalSkills": "Kỹ năng số",
+      "donateTech": "Quyên góp thiết bị",
+      "volunteer": "Tình nguyện",
+      "donateMoney": "Đóng góp tiền",
+      "bridgeGiving": "Đóng góp hàng tháng THE BRIDGE",
+      "ourStory": "Câu chuyện của chúng tôi",
+      "ourTeam": "Đội ngũ của chúng tôi",
+      "ourImpact": "Tác động của chúng tôi",
+      "careers": "Tuyển dụng",
+      "contact": "Liên hệ",
       "instagram": "Instagram",
       "linkedin": "LinkedIn",
       "twitter": "Twitter",
       "github": "GitHub"
     },
     "recognition": {
-      "title": "Memberships & Recognition",
+      "title": "Thành viên & Công nhận",
       "isigma": {
-        "name": "i-SIGMA Member",
-        "description": "Certified member of the International Secure Information Governance & Management Association"
+        "name": "Thành viên i-SIGMA",
+        "description": "Thành viên được chứng nhận của Hiệp hội Quản lý và Quản trị Thông tin An toàn Quốc tế"
       },
       "ndia": {
-        "name": "NDIA Affiliate",
-        "description": "National Digital Inclusion Alliance affiliate organization"
+        "name": "Chi nhánh NDIA",
+        "description": "Tổ chức chi nhánh của Liên minh Hòa nhập Kỹ thuật số Quốc gia"
       },
       "bestNonprofits": {
-        "name": "100 Best Nonprofits",
-        "description": "Oregon Business 100 Best Nonprofits to Work For"
+        "name": "100 Tổ chức phi lợi nhuận tốt nhất",
+        "description": "Oregon Business 100 Tổ chức phi lợi nhuận tốt nhất để làm việc"
       },
       "greenWorkplaces": {
-        "name": "100 Best Green Workplaces",
-        "description": "Oregon Business 100 Best Green Workplaces in Oregon 2024"
+        "name": "100 Nơi làm việc xanh tốt nhất",
+        "description": "Oregon Business 100 Nơi làm việc xanh tốt nhất tại Oregon 2024"
       },
       "mostAdmiredTech": {
         "name": "#4 Công ty công nghệ được ngưỡng mộ nhất",
@@ -111,923 +111,923 @@
   },
   "home": {
     "hero": {
-      "badge": "New Website Coming Soon",
-      "title1": "Your old tech.",
-      "title2": "Someone's new future.",
-      "description": "We turn e-waste into opportunity. For 25 years, we've been keeping tech out of landfills and putting it into the hands of people who need it most."
+      "badge": "Trang web mới sắp ra mắt",
+      "title1": "Thiết bị cũ của bạn.",
+      "title2": "Tương lai mới của người khác.",
+      "description": "Chúng tôi biến rác thải điện tử thành cơ hội. Trong 25 năm, chúng tôi đã giữ công nghệ khỏi bãi rác và đưa vào tay những người cần nhất."
     },
     "stats": {
-      "ewaste": "Pounds of e-waste saved from landfills",
-      "devices": "Devices given to people in need",
-      "community": "Community members connected",
-      "years": "Years bridging the digital divide"
+      "ewaste": "Pound rác thải điện tử được cứu khỏi bãi rác",
+      "devices": "Thiết bị được trao cho người cần",
+      "community": "Thành viên cộng đồng được kết nối",
+      "years": "Năm thu hẹp khoảng cách số"
     },
     "problem": {
-      "title": "Two crises. One solution.",
+      "title": "Hai cuộc khủng hoảng. Một giải pháp.",
       "stat1": "70%",
-      "stat1Text": "E-waste is just 2% of America's trash—but 70% of its toxic waste. Most ends up in landfills, poisoning soil and water.",
-      "stat2": "1 in 5",
-      "stat2Text": "American households don't have a computer. No computer means no job applications, no homework, no telehealth, no connection.",
-      "solution": "We take devices people no longer need and give them to people who do. It's not charity—it's common sense."
+      "stat1Text": "Rác thải điện tử chỉ chiếm 2% lượng rác của Mỹ—nhưng chiếm 70% chất thải độc hại. Phần lớn kết thúc trong bãi rác, đầu độc đất và nước.",
+      "stat2": "1 trên 5",
+      "stat2Text": "Hộ gia đình Mỹ không có máy tính. Không có máy tính nghĩa là không thể nộp đơn xin việc, không làm bài tập, không khám bệnh từ xa, không kết nối.",
+      "solution": "Chúng tôi lấy thiết bị người ta không còn cần và trao cho người cần. Đây không phải từ thiện—đây là lẽ thường."
     },
     "howItWorks": {
-      "title": "Here's how it works",
+      "title": "Cách thức hoạt động",
       "donate": {
-        "title": "You donate",
-        "description": "Drop off laptops, desktops, phones—anything with a plug. We wipe your data securely."
+        "title": "Bạn quyên góp",
+        "description": "Mang đến laptop, máy tính bàn, điện thoại—bất cứ thứ gì có phích cắm. Chúng tôi xóa dữ liệu của bạn an toàn."
       },
       "refurbish": {
-        "title": "We refurbish",
-        "description": "Our team rebuilds what can be saved (~30%). What can't gets responsibly recycled for materials recovery (~70%)."
+        "title": "Chúng tôi tân trang",
+        "description": "Đội ngũ của chúng tôi xây dựng lại những gì có thể cứu được (~30%). Những gì không được tái chế có trách nhiệm để thu hồi vật liệu (~70%)."
       },
       "distribute": {
-        "title": "They thrive",
-        "description": "A student gets a laptop for school. A job seeker sends their first resume. A grandma video-calls her family."
+        "title": "Họ phát triển",
+        "description": "Một học sinh nhận laptop để đi học. Một người tìm việc gửi hồ sơ đầu tiên. Một bà gọi video cho gia đình."
       }
     },
     "community": {
-      "title": "Digital inclusion is a social justice issue",
-      "p1": "Without technology access, full participation in American society is impossible. Jobs, education, healthcare, civic engagement—all require being connected.",
-      "p2": "The digital divide hits hardest for low-income families, immigrants, seniors, people with disabilities, and communities of color. We're here to change that."
+      "title": "Hòa nhập kỹ thuật số là vấn đề công bằng xã hội",
+      "p1": "Không có quyền truy cập công nghệ, việc tham gia đầy đủ vào xã hội Mỹ là không thể. Việc làm, giáo dục, y tế, tham gia công dân—tất cả đều cần được kết nối.",
+      "p2": "Khoảng cách số tác động mạnh nhất đến các gia đình thu nhập thấp, người nhập cư, người cao tuổi, người khuyết tật và cộng đồng da màu. Chúng tôi ở đây để thay đổi điều đó."
     },
     "cta": {
-      "title": "Got old tech collecting dust?",
-      "description": "That laptop in your closet could change someone's life. Drop it off, and we'll handle the rest.",
-      "donateYourTech": "Donate Your Tech",
-      "getAComputer": "Get a Computer",
-      "donateNow": "Donate Now",
-      "volunteerWithUs": "Volunteer With Us",
-      "explorePrograms": "Explore Our Programs"
+      "title": "Có thiết bị cũ đang bám bụi?",
+      "description": "Chiếc laptop trong tủ của bạn có thể thay đổi cuộc sống của ai đó. Mang đến, chúng tôi sẽ lo phần còn lại.",
+      "donateYourTech": "Quyên góp thiết bị của bạn",
+      "getAComputer": "Nhận máy tính",
+      "donateNow": "Quyên góp ngay",
+      "volunteerWithUs": "Tình nguyện cùng chúng tôi",
+      "explorePrograms": "Khám phá chương trình"
     },
     "visit": {
-      "title": "Visit Us",
+      "title": "Ghé thăm chúng tôi",
       "address": "1731 SE 10th Avenue, Portland, OR 97214",
-      "hours": "Wednesday - Saturday, 11 AM - 4 PM"
+      "hours": "Thứ Tư - Thứ Bảy, 11 giờ sáng - 4 giờ chiều"
     },
     "alt": {
-      "heroDonate": "Diverse community members donating technology",
-      "digitalDivide": "Bridging the digital divide - people connected through technology",
-      "community": "Diverse community members connected through technology",
-      "iconDonate": "Donate icon",
-      "iconRefurbish": "Refurbish icon",
-      "iconDistribute": "Distribute icon"
+      "heroDonate": "Các thành viên cộng đồng đa dạng quyên góp công nghệ",
+      "digitalDivide": "Thu hẹp khoảng cách số - mọi người kết nối qua công nghệ",
+      "community": "Các thành viên cộng đồng đa dạng kết nối qua công nghệ",
+      "iconDonate": "Biểu tượng quyên góp",
+      "iconRefurbish": "Biểu tượng tân trang",
+      "iconDistribute": "Biểu tượng phân phối"
     }
   },
   "about": {
     "hero": {
-      "title1": "We believe technology",
-      "title2": "should be for everyone.",
-      "description": "Since Earth Day 2000, we've been turning e-waste into opportunity—keeping tech out of landfills and putting it into the hands of people who need it most."
+      "title1": "Chúng tôi tin rằng công nghệ",
+      "title2": "nên dành cho tất cả mọi người.",
+      "description": "Từ Ngày Trái Đất 2000, chúng tôi đã biến rác thải điện tử thành cơ hội—giữ công nghệ khỏi bãi rác và đưa vào tay những người cần nhất."
     },
     "origin": {
-      "title": "Our Origin Story",
-      "p1": "Free Geek launched at Pioneer Courthouse Square on Earth Day 2000. That September, we opened our doors on SE 10th Avenue as a drop-off for electronic waste—salvaging technology before it hit landfills.",
-      "p2": "Over 25 years, we've evolved from a recycling center into a digital inclusion powerhouse. Our reuse and recycling programs still form our backbone, providing the refurbished devices we put back into the community.",
-      "p3": "But today, our core mission is narrowing the digital divide—ensuring everyone has access to technology and the skills to use it."
+      "title": "Câu chuyện khởi nguồn",
+      "p1": "Free Geek ra mắt tại Pioneer Courthouse Square vào Ngày Trái Đất 2000. Tháng 9 năm đó, chúng tôi mở cửa trên đường SE 10th Avenue như điểm nhận rác thải điện tử—cứu công nghệ trước khi nó vào bãi rác.",
+      "p2": "Qua 25 năm, chúng tôi đã phát triển từ trung tâm tái chế thành trung tâm hòa nhập kỹ thuật số. Các chương trình tái sử dụng và tái chế vẫn là nền tảng của chúng tôi, cung cấp thiết bị được tân trang để đưa trở lại cộng đồng.",
+      "p3": "Nhưng ngày nay, sứ mệnh cốt lõi của chúng tôi là thu hẹp khoảng cách số—đảm bảo mọi người đều có quyền truy cập công nghệ và kỹ năng để sử dụng nó."
     },
     "mission": {
-      "title": "Our Mission",
-      "text": "To sustainably reuse technology, enable digital access, and provide education to create a community that empowers people to realize their potential.",
-      "statement": "To sustainably reuse technology, enable digital access, and provide education to create a community that empowers people to realize their potential."
+      "title": "Sứ mệnh của chúng tôi",
+      "text": "Tái sử dụng công nghệ bền vững, mở rộng truy cập kỹ thuật số và cung cấp giáo dục để tạo ra cộng đồng giúp mọi người phát huy tiềm năng của mình.",
+      "statement": "Tái sử dụng công nghệ bền vững, mở rộng truy cập kỹ thuật số và cung cấp giáo dục để tạo ra cộng đồng giúp mọi người phát huy tiềm năng của mình."
     },
     "problems": {
-      "title": "Two Problems. One Solution.",
+      "title": "Hai vấn đề. Một giải pháp.",
       "digitalDivide": {
         "stat": "27%",
-        "title": "The Digital Divide",
-        "p1": "27% of Americans don't own a computer. One in ten families lack home internet. This gap falls hardest on low-income families, immigrants, seniors, and communities of color.",
-        "p2": "Without technology access, full participation in American society—jobs, education, healthcare, civic engagement—is compromised. This is a social justice issue."
+        "title": "Khoảng cách số",
+        "p1": "27% người Mỹ không sở hữu máy tính. Cứ mười gia đình thì có một không có internet tại nhà. Khoảng cách này tác động mạnh nhất đến các gia đình thu nhập thấp, người nhập cư, người cao tuổi và cộng đồng da màu.",
+        "p2": "Không có quyền truy cập công nghệ, việc tham gia đầy đủ vào xã hội Mỹ—việc làm, giáo dục, y tế, tham gia công dân—bị ảnh hưởng. Đây là vấn đề công bằng xã hội."
       },
       "ewaste": {
         "stat": "70%",
-        "title": "The E-Waste Crisis",
-        "p1": "Only 27% of e-waste gets recycled nationally. E-waste is just 2% of America's landfill trash—but 70% of its toxic waste.",
-        "p2": "Most \"e-waste\" isn't waste at all. It's perfectly good equipment that can be repaired, refurbished, and given new life."
+        "title": "Khủng hoảng rác thải điện tử",
+        "p1": "Chỉ 27% rác thải điện tử được tái chế trên toàn quốc. Rác thải điện tử chỉ chiếm 2% rác bãi rác của Mỹ—nhưng chiếm 70% chất thải độc hại.",
+        "p2": "Phần lớn \"rác thải điện tử\" không phải là rác. Đó là thiết bị hoàn toàn tốt có thể được sửa chữa, tân trang và được trao cuộc sống mới."
       }
     },
     "circular": {
-      "title": "The Circular Model",
-      "description": "We point these two problems at each other. The computers we grant to Digital Inclusion participants are saved from landfills and go on to help our community's most vulnerable populations build the digital skills they need to thrive."
+      "title": "Mô hình tuần hoàn",
+      "description": "Chúng tôi đưa hai vấn đề này hướng vào nhau. Các máy tính chúng tôi trao cho người tham gia Hòa nhập Kỹ thuật số được cứu khỏi bãi rác và tiếp tục giúp những người dễ bị tổn thương nhất trong cộng đồng xây dựng kỹ năng số họ cần để phát triển."
     },
     "impact": {
-      "title": "Our Impact",
-      "years": "Years of service",
-      "diverted": "Pounds diverted from landfills",
-      "devices": "Devices granted",
-      "granted": "Devices granted",
-      "served": "Community members served",
-      "community": "Community members served"
+      "title": "Tác động của chúng tôi",
+      "years": "Năm phục vụ",
+      "diverted": "Pound chuyển hướng khỏi bãi rác",
+      "devices": "Thiết bị được trao",
+      "granted": "Thiết bị được trao",
+      "served": "Thành viên cộng đồng được phục vụ",
+      "community": "Thành viên cộng đồng được phục vụ"
     },
     "cta": {
-      "title": "Ready to get involved?",
-      "description": "Whether you donate tech, volunteer your time, or support us financially, you're helping bridge the digital divide."
+      "title": "Sẵn sàng tham gia?",
+      "description": "Dù bạn quyên góp thiết bị, tình nguyện thời gian, hay hỗ trợ tài chính, bạn đang giúp thu hẹp khoảng cách số."
     },
     "alt": {
-      "community": "Free Geek community members working with technology",
-      "digitalDivide": "Bridging the digital divide - people connected through technology"
+      "community": "Các thành viên cộng đồng Free Geek làm việc với công nghệ",
+      "digitalDivide": "Thu hẹp khoảng cách số - mọi người kết nối qua công nghệ"
     }
   },
   "programs": {
     "hero": {
-      "title1": "Need a computer?",
-      "title2": "We've got you.",
-      "description": "27% of Americans don't own a computer. We're working to change that with free and low-cost technology for individuals and organizations."
+      "title1": "Cần máy tính?",
+      "title2": "Chúng tôi có thể giúp.",
+      "description": "27% người Mỹ không sở hữu máy tính. Chúng tôi đang thay đổi điều đó với công nghệ miễn phí và giá rẻ cho cá nhân và tổ chức."
     },
     "individuals": {
-      "badge": "For Individuals",
-      "title": "Get a Free Computer",
-      "description": "Free Geek has multiple programs for individuals to receive free computers. See the options below to find the right fit for you.",
-      "stats": "Currently, 75,000 Oregon students don't have a personal computer to complete their assignments. We're here to close that gap.",
+      "badge": "Dành cho cá nhân",
+      "title": "Nhận máy tính miễn phí",
+      "description": "Free Geek có nhiều chương trình để cá nhân nhận máy tính miễn phí. Xem các lựa chọn bên dưới để tìm phù hợp với bạn.",
+      "stats": "Hiện tại, 75.000 học sinh Oregon không có máy tính cá nhân để hoàn thành bài tập. Chúng tôi ở đây để thu hẹp khoảng cách đó.",
       "plugIntoPdx": {
-        "title": "Plug Into Portland (Laptop Waitlist)",
-        "description": "Apply to get on the waitlist for a free laptop running Linux Mint, with a one-year warranty and Digital Navigation Support."
+        "title": "Plug Into Portland (Danh sách chờ laptop)",
+        "description": "Đăng ký vào danh sách chờ để nhận laptop miễn phí chạy Linux Mint, với bảo hành một năm và Hỗ trợ Hướng dẫn Kỹ thuật số."
       },
       "giftAGeekbox": {
         "title": "Gift a Geekbox",
-        "description": "Desktop computer program for individuals ages 18+.",
-        "badge": "Currently Closed"
+        "description": "Chương trình máy tính bàn cho cá nhân từ 18 tuổi trở lên.",
+        "badge": "Hiện đang đóng"
       },
       "shop": {
-        "title": "Low-Cost Shop Option",
-        "description": "Can't wait for the waitlist? Purchase quality refurbished computers at affordable prices."
+        "title": "Tùy chọn cửa hàng giá rẻ",
+        "description": "Không thể chờ danh sách? Mua máy tính được tân trang chất lượng với giá phải chăng."
       },
-      "cta": "Apply for a Free Laptop",
-      "questions": "Questions? Email us at"
+      "cta": "Đăng ký laptop miễn phí",
+      "questions": "Có câu hỏi? Email chúng tôi tại"
     },
     "receive": {
-      "title": "What you'll receive",
+      "title": "Bạn sẽ nhận được",
       "laptop": {
-        "title": "Refurbished Laptop",
-        "description": "A quality refurbished laptop running Linux Mint, ready to use"
+        "title": "Laptop được tân trang",
+        "description": "Laptop được tân trang chất lượng chạy Linux Mint, sẵn sàng sử dụng"
       },
       "warranty": {
-        "title": "One-Year Warranty",
-        "description": "Full warranty coverage so you can use your device with confidence"
+        "title": "Bảo hành một năm",
+        "description": "Bảo hành đầy đủ để bạn có thể sử dụng thiết bị với sự tự tin"
       },
       "support": {
-        "title": "Digital Navigation Support",
-        "description": "Help getting set up and learning to use your new computer"
+        "title": "Hỗ trợ Hướng dẫn Kỹ thuật số",
+        "description": "Giúp thiết lập và học cách sử dụng máy tính mới của bạn"
       }
     },
     "organizations": {
-      "badge": "For Organizations",
-      "title": "Hardware Grants & Affordable Tech",
-      "description": "Free Geek supports nonprofits and community organizations with technology. Whether you need devices for your staff or the communities you serve, we have programs to help.",
+      "badge": "Dành cho tổ chức",
+      "title": "Tài trợ phần cứng & Công nghệ giá rẻ",
+      "description": "Free Geek hỗ trợ các tổ chức phi lợi nhuận và cộng đồng với công nghệ. Dù bạn cần thiết bị cho nhân viên hay cộng đồng bạn phục vụ, chúng tôi có chương trình để giúp đỡ.",
       "orgGrants": {
-        "title": "Organizational Hardware Grants",
-        "description": "Free refurbished technology for nonprofit organizational use"
+        "title": "Tài trợ phần cứng cho tổ chức",
+        "description": "Công nghệ được tân trang miễn phí cho sử dụng của tổ chức phi lợi nhuận"
       },
       "communityGrants": {
-        "title": "Community Hardware Grants",
-        "description": "Free technology for the community members your nonprofit serves"
+        "title": "Tài trợ phần cứng cộng đồng",
+        "description": "Công nghệ miễn phí cho các thành viên cộng đồng mà tổ chức phi lợi nhuận của bạn phục vụ"
       },
       "affordable": {
-        "title": "Affordable Tech Program",
-        "description": "Partnership opportunities for larger-scale technology needs at affordable prices",
-        "badge": "Inquire for Availability"
+        "title": "Chương trình công nghệ giá rẻ",
+        "description": "Cơ hội hợp tác cho nhu cầu công nghệ quy mô lớn với giá phải chăng",
+        "badge": "Liên hệ để biết tình trạng"
       },
-      "cta": "Learn More & Apply"
+      "cta": "Tìm hiểu thêm & Đăng ký"
     },
     "shop": {
-      "title": "Need a computer now?",
-      "description": "If you're not eligible for our free programs or can't wait for the waitlist, you can purchase quality refurbished computers from our online shop at affordable prices.",
-      "cta": "Visit Our Shop"
+      "title": "Cần máy tính ngay?",
+      "description": "Nếu bạn không đủ điều kiện cho chương trình miễn phí hoặc không thể chờ danh sách, bạn có thể mua máy tính được tân trang chất lượng từ cửa hàng trực tuyến của chúng tôi với giá phải chăng.",
+      "cta": "Ghé thăm cửa hàng"
     },
     "gap": {
-      "title": "The homework gap is real",
-      "p1": "The \"homework gap\" describes the difficulty students face completing assignments without access to a device or internet at home. In Oregon alone, 75,000 students lack a personal computer for schoolwork.",
-      "p2": "When we put a computer in a student's hands, we're not just giving them a device—we're giving them the ability to do their homework, apply for jobs, connect with family, and participate fully in our digital world.",
-      "cta": "Help Us Close the Gap"
+      "title": "Khoảng cách bài tập là thực",
+      "p1": "\"Khoảng cách bài tập\" mô tả khó khăn học sinh gặp phải khi hoàn thành bài tập mà không có thiết bị hoặc internet tại nhà. Chỉ riêng Oregon, 75.000 học sinh thiếu máy tính cá nhân để làm bài.",
+      "p2": "Khi chúng tôi đặt máy tính vào tay học sinh, chúng tôi không chỉ cho họ thiết bị—chúng tôi cho họ khả năng làm bài tập, nộp đơn xin việc, kết nối với gia đình và tham gia đầy đủ vào thế giới số.",
+      "cta": "Giúp chúng tôi thu hẹp khoảng cách"
     },
     "homeworkGap": {
-      "title": "The homework gap is real",
-      "p1": "The \"homework gap\" describes the difficulty students face completing assignments without access to a device or internet at home. In Oregon alone, 75,000 students lack a personal computer for schoolwork.",
-      "p2": "When we put a computer in a student's hands, we're not just giving them a device—we're giving them the ability to do their homework, apply for jobs, connect with family, and participate fully in our digital world.",
-      "cta": "Help Us Close the Gap"
+      "title": "Khoảng cách bài tập là thực",
+      "p1": "\"Khoảng cách bài tập\" mô tả khó khăn học sinh gặp phải khi hoàn thành bài tập mà không có thiết bị hoặc internet tại nhà. Chỉ riêng Oregon, 75.000 học sinh thiếu máy tính cá nhân để làm bài.",
+      "p2": "Khi chúng tôi đặt máy tính vào tay học sinh, chúng tôi không chỉ cho họ thiết bị—chúng tôi cho họ khả năng làm bài tập, nộp đơn xin việc, kết nối với gia đình và tham gia đầy đủ vào thế giới số.",
+      "cta": "Giúp chúng tôi thu hẹp khoảng cách"
     },
     "cta": {
-      "title": "Not sure which program is right for you?",
-      "description": "Reach out and we'll help you find the best path to getting connected."
+      "title": "Không chắc chương trình nào phù hợp?",
+      "description": "Liên hệ và chúng tôi sẽ giúp bạn tìm con đường tốt nhất để kết nối."
     },
     "finalCta": {
-      "title": "Not sure which program is right for you?",
-      "description": "Reach out and we'll help you find the best path to getting connected."
+      "title": "Không chắc chương trình nào phù hợp?",
+      "description": "Liên hệ và chúng tôi sẽ giúp bạn tìm con đường tốt nhất để kết nối."
     },
     "alt": {
-      "personReceiving": "Person receiving a computer",
-      "organizations": "Organizations receiving computers"
+      "personReceiving": "Người nhận máy tính",
+      "organizations": "Các tổ chức nhận máy tính"
     }
   },
   "plugIntoPdx": {
     "hero": {
       "title1": "Plug Into Portland",
-      "title2": "Application",
-      "description": "Apply for a free refurbished laptop through our flagship digital inclusion program. We provide computers to individuals and families in need throughout the Portland metro area."
+      "title2": "Đơn đăng ký",
+      "description": "Đăng ký nhận laptop được tân trang miễn phí thông qua chương trình hòa nhập kỹ thuật số hàng đầu của chúng tôi. Chúng tôi cung cấp máy tính cho cá nhân và gia đình có nhu cầu trong khu vực Portland."
     },
     "eligibility": {
-      "title": "Who Can Apply",
-      "description": "The Plug Into Portland program is designed for individuals and families who:",
-      "item1": "Reside in the Portland metro area",
-      "item2": "Currently do not have access to a working computer at home",
-      "item3": "Are experiencing financial hardship",
-      "item4": "Need a computer for education, employment, or essential services"
+      "title": "Ai có thể đăng ký",
+      "description": "Chương trình Plug Into Portland được thiết kế cho cá nhân và gia đình:",
+      "item1": "Cư trú trong khu vực Portland",
+      "item2": "Hiện không có máy tính hoạt động tại nhà",
+      "item3": "Đang gặp khó khăn tài chính",
+      "item4": "Cần máy tính cho giáo dục, việc làm hoặc dịch vụ thiết yếu"
     },
     "receive": {
-      "title": "What You'll Receive",
+      "title": "Bạn sẽ nhận được",
       "laptop": {
-        "title": "Refurbished Laptop",
-        "description": "A quality refurbished laptop running Linux Mint, ready to use for school, work, and staying connected."
+        "title": "Laptop được tân trang",
+        "description": "Laptop được tân trang chất lượng chạy Linux Mint, sẵn sàng sử dụng cho học tập, công việc và giữ kết nối."
       },
       "warranty": {
-        "title": "One-Year Warranty",
-        "description": "Full warranty coverage so you can use your device with confidence. If something goes wrong, we'll help."
+        "title": "Bảo hành một năm",
+        "description": "Bảo hành đầy đủ để bạn có thể sử dụng thiết bị với sự tự tin. Nếu có vấn đề, chúng tôi sẽ giúp."
       },
       "support": {
-        "title": "Digital Navigation Support",
-        "description": "Free support to help you get set up, learn to use your new computer, and troubleshoot any issues."
+        "title": "Hỗ trợ Hướng dẫn Kỹ thuật số",
+        "description": "Hỗ trợ miễn phí giúp bạn thiết lập, học cách sử dụng máy tính mới và khắc phục sự cố."
       }
     },
     "process": {
-      "title": "Application Process",
+      "title": "Quy trình đăng ký",
       "step1": {
-        "title": "Submit Application",
-        "description": "Fill out the application form below with your contact information and needs."
+        "title": "Nộp đơn đăng ký",
+        "description": "Điền vào mẫu đăng ký bên dưới với thông tin liên hệ và nhu cầu của bạn."
       },
       "step2": {
-        "title": "Wait for Contact",
-        "description": "We'll review your application and contact you when a computer becomes available."
+        "title": "Chờ liên hệ",
+        "description": "Chúng tôi sẽ xem xét đơn của bạn và liên hệ khi có máy tính."
       },
       "step3": {
-        "title": "Pick Up Your Computer",
-        "description": "Visit our location to pick up your computer and receive a brief orientation."
+        "title": "Nhận máy tính",
+        "description": "Đến địa điểm của chúng tôi để nhận máy tính và được hướng dẫn ngắn."
       }
     },
     "form": {
-      "title": "Apply Now",
-      "description": "Complete the form below to apply for a free computer. We typically respond within 2-4 weeks depending on availability.",
-      "firstName": "First Name",
-      "lastName": "Last Name",
-      "email": "Email Address",
-      "phone": "Phone Number",
-      "address": "Street Address",
-      "city": "City",
-      "state": "State",
-      "zip": "ZIP Code",
-      "householdSize": "Household Size",
-      "needReason": "Why do you need a computer?",
-      "needReasonPlaceholder": "Please describe your situation and how a computer would help you...",
-      "referral": "How did you hear about us?",
+      "title": "Đăng ký ngay",
+      "description": "Điền mẫu bên dưới để đăng ký nhận máy tính miễn phí. Chúng tôi thường phản hồi trong 2-4 tuần tùy thuộc vào tình trạng.",
+      "firstName": "Tên",
+      "lastName": "Họ",
+      "email": "Địa chỉ email",
+      "phone": "Số điện thoại",
+      "address": "Địa chỉ đường",
+      "city": "Thành phố",
+      "state": "Bang",
+      "zip": "Mã ZIP",
+      "householdSize": "Số người trong hộ",
+      "needReason": "Tại sao bạn cần máy tính?",
+      "needReasonPlaceholder": "Vui lòng mô tả tình huống của bạn và máy tính sẽ giúp bạn như thế nào...",
+      "referral": "Bạn biết đến chúng tôi qua đâu?",
       "referralOptions": {
-        "friend": "Friend or Family",
-        "socialMedia": "Social Media",
-        "communityOrg": "Community Organization",
-        "school": "School",
-        "other": "Other"
+        "friend": "Bạn bè hoặc gia đình",
+        "socialMedia": "Mạng xã hội",
+        "communityOrg": "Tổ chức cộng đồng",
+        "school": "Trường học",
+        "other": "Khác"
       },
-      "submit": "Submit Application",
-      "submitting": "Submitting...",
-      "success": "Application Submitted!",
-      "successMessage": "Thank you for applying! We'll review your application and contact you when a computer becomes available.",
-      "error": "Failed to submit application"
+      "submit": "Nộp đơn đăng ký",
+      "submitting": "Đang nộp...",
+      "success": "Đã nộp đơn!",
+      "successMessage": "Cảm ơn bạn đã đăng ký! Chúng tôi sẽ xem xét đơn và liên hệ khi có máy tính.",
+      "error": "Không thể nộp đơn"
     },
     "note": {
-      "title": "Important Information",
-      "waitlist": "Due to high demand, there may be a waitlist. We process applications in the order received and prioritize based on need.",
-      "pickup": "Computers must be picked up in person at our Portland location.",
-      "contact": "Questions? Contact us at"
+      "title": "Thông tin quan trọng",
+      "waitlist": "Do nhu cầu cao, có thể có danh sách chờ. Chúng tôi xử lý đơn theo thứ tự nhận và ưu tiên theo nhu cầu.",
+      "pickup": "Máy tính phải được nhận trực tiếp tại địa điểm Portland của chúng tôi.",
+      "contact": "Có câu hỏi? Liên hệ chúng tôi tại"
     },
     "cta": {
-      "title": "Can't wait for the waitlist?",
-      "description": "You can also purchase affordable refurbished computers from our online shop."
+      "title": "Không thể chờ danh sách?",
+      "description": "Bạn cũng có thể mua máy tính được tân trang giá rẻ từ cửa hàng trực tuyến của chúng tôi."
     }
   },
   "digitalEquity": {
     "hero": {
-      "title1": "Digital Equity",
-      "title2": "Enrollment",
-      "description": "Enroll in our Digital Equity program to access digital skills training, one-on-one support, and resources to help you thrive in the digital world."
+      "title1": "Công bằng kỹ thuật số",
+      "title2": "Đăng ký",
+      "description": "Đăng ký chương trình Công bằng Kỹ thuật số để truy cập đào tạo kỹ năng số, hỗ trợ một-một và tài nguyên giúp bạn phát triển trong thế giới số."
     },
     "services": {
-      "title": "Program Services",
-      "description": "Our Digital Equity program provides comprehensive support to help you build confidence with technology.",
+      "title": "Dịch vụ chương trình",
+      "description": "Chương trình Công bằng Kỹ thuật số cung cấp hỗ trợ toàn diện giúp bạn xây dựng sự tự tin với công nghệ.",
       "navigation": {
-        "title": "Digital Navigation",
-        "description": "Work one-on-one with a Digital Navigator who can help you set up devices, navigate online services, and build essential digital skills."
+        "title": "Hướng dẫn kỹ thuật số",
+        "description": "Làm việc một-một với Người hướng dẫn Kỹ thuật số có thể giúp bạn thiết lập thiết bị, điều hướng dịch vụ trực tuyến và xây dựng kỹ năng số thiết yếu."
       },
       "training": {
-        "title": "Skills Training",
-        "description": "Access free classes and curriculum covering computer basics, internet safety, email, video conferencing, and productivity tools."
+        "title": "Đào tạo kỹ năng",
+        "description": "Truy cập các lớp học và chương trình giảng dạy miễn phí bao gồm kiến thức cơ bản về máy tính, an toàn internet, email, hội nghị video và công cụ năng suất."
       },
       "connectivity": {
-        "title": "Connectivity Resources",
-        "description": "Learn about affordable internet programs and get help applying for discounted connectivity services."
+        "title": "Tài nguyên kết nối",
+        "description": "Tìm hiểu về các chương trình internet giá rẻ và nhận trợ giúp đăng ký dịch vụ kết nối giảm giá."
       },
       "ongoing": {
-        "title": "Ongoing Support",
-        "description": "Get continued support as you grow your digital skills. We're here to help whenever you have questions."
+        "title": "Hỗ trợ liên tục",
+        "description": "Nhận hỗ trợ liên tục khi bạn phát triển kỹ năng số. Chúng tôi ở đây để giúp khi bạn có câu hỏi."
       }
     },
     "eligibility": {
-      "title": "Who Can Enroll",
-      "description": "Our Digital Equity program is open to anyone who wants to improve their digital skills, with priority given to:",
-      "item1": "Seniors and older adults",
-      "item2": "Individuals with limited technology experience",
-      "item3": "Job seekers needing digital skills for employment",
-      "item4": "Community members facing barriers to technology access"
+      "title": "Ai có thể đăng ký",
+      "description": "Chương trình Công bằng Kỹ thuật số mở cho bất kỳ ai muốn cải thiện kỹ năng số, ưu tiên cho:",
+      "item1": "Người cao tuổi",
+      "item2": "Cá nhân có ít kinh nghiệm công nghệ",
+      "item3": "Người tìm việc cần kỹ năng số để có việc làm",
+      "item4": "Thành viên cộng đồng gặp rào cản truy cập công nghệ"
     },
     "form": {
-      "title": "Enroll in Digital Equity",
-      "description": "Fill out the form below to enroll in our Digital Equity program. A Digital Navigator will contact you to schedule your first session.",
-      "firstName": "First Name",
-      "lastName": "Last Name",
-      "email": "Email Address",
-      "phone": "Phone Number",
-      "preferredContact": "Preferred Contact Method",
+      "title": "Đăng ký Công bằng Kỹ thuật số",
+      "description": "Điền mẫu bên dưới để đăng ký chương trình Công bằng Kỹ thuật số. Người hướng dẫn Kỹ thuật số sẽ liên hệ để lên lịch buổi đầu tiên.",
+      "firstName": "Tên",
+      "lastName": "Họ",
+      "email": "Địa chỉ email",
+      "phone": "Số điện thoại",
+      "preferredContact": "Phương thức liên hệ ưa thích",
       "contactOptions": {
         "email": "Email",
-        "phone": "Phone",
-        "either": "Either"
+        "phone": "Điện thoại",
+        "either": "Đều được"
       },
-      "interests": "What would you like help with?",
+      "interests": "Bạn muốn được giúp gì?",
       "interestOptions": {
-        "basics": "Computer Basics",
+        "basics": "Kiến thức cơ bản về máy tính",
         "internet": "Internet & Email",
-        "safety": "Online Safety",
-        "productivity": "Productivity Tools (Word, Excel, etc.)",
-        "connectivity": "Finding Affordable Internet",
-        "other": "Other"
+        "safety": "An toàn trực tuyến",
+        "productivity": "Công cụ năng suất (Word, Excel, v.v.)",
+        "connectivity": "Tìm internet giá rẻ",
+        "other": "Khác"
       },
-      "experience": "Current Technology Experience",
+      "experience": "Kinh nghiệm công nghệ hiện tại",
       "experienceOptions": {
-        "none": "No experience",
-        "beginner": "Beginner - I can turn on a computer",
-        "intermediate": "Intermediate - I can browse the web and send email",
-        "advanced": "Advanced - I'm comfortable but want to learn more"
+        "none": "Không có kinh nghiệm",
+        "beginner": "Mới bắt đầu - Tôi có thể bật máy tính",
+        "intermediate": "Trung cấp - Tôi có thể duyệt web và gửi email",
+        "advanced": "Nâng cao - Tôi thoải mái nhưng muốn học thêm"
       },
-      "goals": "What are your goals?",
-      "goalsPlaceholder": "Tell us what you hope to accomplish with improved digital skills...",
-      "submit": "Enroll Now",
-      "submitting": "Submitting...",
-      "success": "Enrollment Submitted!",
-      "successMessage": "Thank you for enrolling! A Digital Navigator will contact you within 5 business days to schedule your first session.",
-      "error": "Failed to submit enrollment"
+      "goals": "Mục tiêu của bạn là gì?",
+      "goalsPlaceholder": "Cho chúng tôi biết bạn hy vọng đạt được gì với kỹ năng số được cải thiện...",
+      "submit": "Đăng ký ngay",
+      "submitting": "Đang nộp...",
+      "success": "Đã đăng ký!",
+      "successMessage": "Cảm ơn bạn đã đăng ký! Người hướng dẫn Kỹ thuật số sẽ liên hệ trong 5 ngày làm việc để lên lịch buổi đầu tiên.",
+      "error": "Không thể đăng ký"
     },
     "cta": {
-      "title": "Need a computer first?",
-      "description": "If you don't have a computer, apply for our Plug Into Portland program to get a free refurbished laptop."
+      "title": "Cần máy tính trước?",
+      "description": "Nếu bạn không có máy tính, hãy đăng ký chương trình Plug Into Portland để nhận laptop được tân trang miễn phí."
     }
   },
   "donateTech": {
     "hero": {
-      "title1": "Your old tech",
-      "title2": "deserves a second life.",
-      "description": "That laptop collecting dust in your closet? It could help a student do their homework, a job seeker land an interview, or a senior connect with family.",
-      "dropOff": "Drop Off In Person",
-      "schedulePickup": "Schedule a Pickup"
+      "title1": "Thiết bị cũ của bạn",
+      "title2": "xứng đáng có cuộc sống thứ hai.",
+      "description": "Chiếc laptop đang bám bụi trong tủ? Nó có thể giúp học sinh làm bài tập, người tìm việc có cuộc phỏng vấn, hoặc ông bà kết nối với gia đình.",
+      "dropOff": "Giao trực tiếp",
+      "schedulePickup": "Đặt lịch nhận hàng"
     },
     "dropOff": {
-      "title": "Drop off your donation",
-      "location": "Location",
+      "title": "Giao quyên góp của bạn",
+      "location": "Địa điểm",
       "address": "1731 SE 10th Avenue, Portland, OR 97214",
-      "parking": "Outdoor parking lot on the northeast side of our building",
-      "locationNote": "Outdoor parking lot on the northeast side of our building",
-      "hours": "11:00 AM - 4:00 PM",
-      "days": "Wednesday - Saturday",
-      "times": "11:00 AM - 4:00 PM",
-      "noAppointment": "No appointment needed for small donations. Just drive up during our drop-off hours and our team will help you unload."
+      "parking": "Bãi đậu xe ngoài trời phía đông bắc tòa nhà",
+      "locationNote": "Bãi đậu xe ngoài trời phía đông bắc tòa nhà",
+      "hours": "11:00 sáng - 4:00 chiều",
+      "days": "Thứ Tư - Thứ Bảy",
+      "times": "11:00 sáng - 4:00 chiều",
+      "noAppointment": "Không cần hẹn trước cho quyên góp nhỏ. Chỉ cần lái xe đến trong giờ nhận hàng và đội ngũ của chúng tôi sẽ giúp bạn dỡ hàng."
     },
     "types": {
-      "title": "Donation options",
+      "title": "Tùy chọn quyên góp",
       "small": {
-        "title": "Small",
-        "subtitle": "Under 20 devices",
-        "description": "Perfect for personal donations. Just drive up during our drop-off hours—no appointment needed."
+        "title": "Nhỏ",
+        "subtitle": "Dưới 20 thiết bị",
+        "description": "Hoàn hảo cho quyên góp cá nhân. Chỉ cần lái xe đến trong giờ nhận—không cần hẹn trước."
       },
       "large": {
-        "title": "Large",
-        "subtitle": "20+ devices",
-        "description": "Have a bigger donation? Schedule ahead so we can make sure we have space and staff ready for you."
+        "title": "Lớn",
+        "subtitle": "Trên 20 thiết bị",
+        "description": "Có quyên góp lớn hơn? Đặt lịch trước để chúng tôi chuẩn bị không gian và nhân viên."
       },
       "corporate": {
-        "title": "Corporate",
-        "subtitle": "Business donations",
-        "description": "Retiring IT equipment? We offer pickup services and can provide documentation for your records."
+        "title": "Doanh nghiệp",
+        "subtitle": "Quyên góp từ doanh nghiệp",
+        "description": "Ngừng sử dụng thiết bị IT? Chúng tôi cung cấp dịch vụ nhận hàng và có thể cung cấp tài liệu cho hồ sơ của bạn."
       }
     },
     "options": {
-      "title": "Donation options",
+      "title": "Tùy chọn quyên góp",
       "small": {
-        "title": "Small",
-        "subtitle": "Under 20 devices",
-        "description": "Perfect for personal donations. Just drive up during our drop-off hours—no appointment needed.",
-        "cta": "Drop Off Anytime"
+        "title": "Nhỏ",
+        "subtitle": "Dưới 20 thiết bị",
+        "description": "Hoàn hảo cho quyên góp cá nhân. Chỉ cần lái xe đến trong giờ nhận—không cần hẹn trước.",
+        "cta": "Giao bất cứ lúc nào"
       },
       "large": {
-        "title": "Large",
-        "subtitle": "20+ devices",
-        "description": "Have a bigger donation? Schedule ahead so we can make sure we have space and staff ready for you.",
-        "cta": "Schedule Drop-Off"
+        "title": "Lớn",
+        "subtitle": "Trên 20 thiết bị",
+        "description": "Có quyên góp lớn hơn? Đặt lịch trước để chúng tôi chuẩn bị không gian và nhân viên.",
+        "cta": "Đặt lịch giao hàng"
       },
       "corporate": {
-        "title": "Corporate",
-        "subtitle": "Business donations",
-        "description": "Retiring IT equipment? We offer pickup services and can provide documentation for your records.",
-        "cta": "Contact Us"
+        "title": "Doanh nghiệp",
+        "subtitle": "Quyên góp từ doanh nghiệp",
+        "description": "Ngừng sử dụng thiết bị IT? Chúng tôi cung cấp dịch vụ nhận hàng và có thể cung cấp tài liệu cho hồ sơ của bạn.",
+        "cta": "Liên hệ"
       }
     },
     "security": {
-      "title": "Your data is safe with us",
-      "description": "We take data security seriously. Every data-bearing device goes directly to our secure, staff-only area for proper sanitization.",
-      "nist": "NIST SP800-88 compliant data sanitization",
-      "sigma": "i-SIGMA certified processes",
-      "isigma": "i-SIGMA certified processes",
-      "certificate": "Certificate of Data Destruction available ($10/device)",
-      "cta": "Learn More About Data Security"
+      "title": "Dữ liệu của bạn an toàn với chúng tôi",
+      "description": "Chúng tôi coi trọng bảo mật dữ liệu. Mọi thiết bị chứa dữ liệu đều được chuyển trực tiếp đến khu vực an toàn, chỉ dành cho nhân viên để xóa dữ liệu đúng cách.",
+      "nist": "Xóa dữ liệu tuân thủ NIST SP800-88",
+      "sigma": "Quy trình được chứng nhận i-SIGMA",
+      "isigma": "Quy trình được chứng nhận i-SIGMA",
+      "certificate": "Giấy chứng nhận Hủy dữ liệu có sẵn ($10/thiết bị)",
+      "cta": "Tìm hiểu thêm về bảo mật dữ liệu"
     },
     "accept": {
-      "title": "What can you donate?",
+      "title": "Bạn có thể quyên góp gì?",
       "items": {
-        "laptops": "Laptops",
-        "desktops": "Desktops",
-        "smartphones": "Smartphones",
-        "tablets": "Tablets",
-        "monitors": "Monitors",
-        "printers": "Printers",
-        "keyboards": "Keyboards",
-        "cables": "Cables & Accessories"
+        "laptops": "Laptop",
+        "desktops": "Máy tính bàn",
+        "smartphones": "Điện thoại thông minh",
+        "tablets": "Máy tính bảng",
+        "monitors": "Màn hình",
+        "printers": "Máy in",
+        "keyboards": "Bàn phím",
+        "cables": "Cáp & Phụ kiện"
       },
-      "laptops": "Laptops",
-      "desktops": "Desktops",
-      "smartphones": "Smartphones",
-      "tablets": "Tablets",
-      "monitors": "Monitors",
-      "printers": "Printers",
-      "keyboards": "Keyboards",
-      "cables": "Cables & Accessories",
-      "notSure": "Not sure if we accept your item? Check our",
-      "faq": "FAQ",
-      "orContact": "or contact us at"
+      "laptops": "Laptop",
+      "desktops": "Máy tính bàn",
+      "smartphones": "Điện thoại thông minh",
+      "tablets": "Máy tính bảng",
+      "monitors": "Màn hình",
+      "printers": "Máy in",
+      "keyboards": "Bàn phím",
+      "cables": "Cáp & Phụ kiện",
+      "notSure": "Không chắc chúng tôi có nhận món đồ của bạn? Xem",
+      "faq": "Câu hỏi thường gặp",
+      "orContact": "hoặc liên hệ chúng tôi tại"
     },
     "cta": {
-      "title": "Ready to make a difference?",
-      "description": "Every device you donate helps bridge the digital divide in our community."
+      "title": "Sẵn sàng tạo ra sự khác biệt?",
+      "description": "Mỗi thiết bị bạn quyên góp giúp thu hẹp khoảng cách số trong cộng đồng."
     },
     "alt": {
-      "donating": "Person donating technology at Free Geek",
-      "security": "Data security and protection"
+      "donating": "Người quyên góp công nghệ tại Free Geek",
+      "security": "Bảo mật và bảo vệ dữ liệu"
     }
   },
   "donate": {
     "hero": {
-      "title1": "Fuel the mission.",
-      "title2": "Bridge the divide.",
-      "description": "Your financial support helps us put technology into the hands of those who need it most while keeping e-waste out of landfills."
+      "title1": "Tiếp sức cho sứ mệnh.",
+      "title2": "Thu hẹp khoảng cách.",
+      "description": "Sự hỗ trợ tài chính của bạn giúp chúng tôi đưa công nghệ vào tay những người cần nhất trong khi giữ rác thải điện tử khỏi bãi rác."
     },
     "ways": {
-      "title": "Ways to Give",
-      "description": "Every dollar helps us refurbish computers, provide digital skills training, and connect community members to opportunity.",
+      "title": "Cách đóng góp",
+      "description": "Mỗi đồng giúp chúng tôi tân trang máy tính, cung cấp đào tạo kỹ năng số và kết nối thành viên cộng đồng với cơ hội.",
       "oneTime": {
-        "title": "One-Time Gift",
-        "description": "Make an immediate impact with a single donation of any amount.",
-        "cta": "Donate Now"
+        "title": "Đóng góp một lần",
+        "description": "Tạo tác động ngay lập tức với một khoản đóng góp bất kỳ.",
+        "cta": "Đóng góp ngay"
       },
       "monthly": {
-        "title": "Monthly Giving",
-        "description": "Become a sustaining supporter with a recurring monthly gift.",
-        "cta": "Give Monthly"
+        "title": "Đóng góp hàng tháng",
+        "description": "Trở thành người ủng hộ bền vững với khoản đóng góp định kỳ hàng tháng.",
+        "cta": "Đóng góp hàng tháng"
       },
       "legacy": {
-        "title": "Corporate & Legacy",
-        "description": "Partner with us or include Free Geek in your estate planning.",
-        "cta": "Contact Us"
+        "title": "Doanh nghiệp & Di sản",
+        "description": "Hợp tác với chúng tôi hoặc đưa Free Geek vào kế hoạch di sản của bạn.",
+        "cta": "Liên hệ"
       }
     },
     "impact": {
-      "title": "Your Impact",
-      "amount25": "Covers data sanitization and refurbishment supplies for one device",
-      "amount100": "Provides digital skills training for one community member",
-      "amount250": "Fully funds one refurbished computer for a student or job seeker",
-      "level1": "Covers data sanitization and refurbishment supplies for one device",
-      "level2": "Provides digital skills training for one community member",
-      "level3": "Fully funds one refurbished computer for a student or job seeker"
+      "title": "Tác động của bạn",
+      "amount25": "Trang trải xóa dữ liệu và vật tư tân trang cho một thiết bị",
+      "amount100": "Cung cấp đào tạo kỹ năng số cho một thành viên cộng đồng",
+      "amount250": "Tài trợ hoàn toàn một máy tính được tân trang cho học sinh hoặc người tìm việc",
+      "level1": "Trang trải xóa dữ liệu và vật tư tân trang cho một thiết bị",
+      "level2": "Cung cấp đào tạo kỹ năng số cho một thành viên cộng đồng",
+      "level3": "Tài trợ hoàn toàn một máy tính được tân trang cho học sinh hoặc người tìm việc"
     },
     "otherWays": {
-      "title": "Other Ways to Support",
+      "title": "Cách hỗ trợ khác",
       "donateTech": {
-        "title": "Donate Technology",
-        "description": "Have old devices? We'll refurbish them for community members in need."
+        "title": "Quyên góp công nghệ",
+        "description": "Có thiết bị cũ? Chúng tôi sẽ tân trang chúng cho thành viên cộng đồng cần."
       },
       "volunteer": {
-        "title": "Volunteer Your Time",
-        "description": "Join our team and help bridge the digital divide hands-on."
+        "title": "Tình nguyện thời gian",
+        "description": "Tham gia đội ngũ và giúp thu hẹp khoảng cách số trực tiếp."
       },
       "techDrive": {
-        "title": "Host a Tech Drive",
-        "description": "Organize a collection at your workplace, school, or community."
+        "title": "Tổ chức chiến dịch quyên góp thiết bị",
+        "description": "Tổ chức thu gom tại nơi làm việc, trường học hoặc cộng đồng."
       },
       "ambassador": {
-        "title": "Become an Ambassador",
-        "description": "Spread the word about Free Geek in your community and networks."
+        "title": "Trở thành Đại sứ",
+        "description": "Lan tỏa về Free Geek trong cộng đồng và mạng lưới của bạn."
       }
     },
     "other": {
-      "title": "Other Ways to Support",
+      "title": "Cách hỗ trợ khác",
       "donateTech": {
-        "title": "Donate Technology",
-        "description": "Have old devices? We'll refurbish them for community members in need."
+        "title": "Quyên góp công nghệ",
+        "description": "Có thiết bị cũ? Chúng tôi sẽ tân trang chúng cho thành viên cộng đồng cần."
       },
       "volunteer": {
-        "title": "Volunteer Your Time",
-        "description": "Join our team and help bridge the digital divide hands-on."
+        "title": "Tình nguyện thời gian",
+        "description": "Tham gia đội ngũ và giúp thu hẹp khoảng cách số trực tiếp."
       },
       "techDrive": {
-        "title": "Host a Tech Drive",
-        "description": "Organize a collection at your workplace, school, or community."
+        "title": "Tổ chức chiến dịch quyên góp thiết bị",
+        "description": "Tổ chức thu gom tại nơi làm việc, trường học hoặc cộng đồng."
       },
       "ambassador": {
-        "title": "Become an Ambassador",
-        "description": "Spread the word about Free Geek in your community and networks."
+        "title": "Trở thành Đại sứ",
+        "description": "Lan tỏa về Free Geek trong cộng đồng và mạng lưới của bạn."
       }
     },
     "tax": {
-      "title": "Tax-Deductible Giving",
-      "description": "Free Geek is a 501(c)(3) nonprofit organization. Your donation is tax-deductible to the fullest extent allowed by law.",
+      "title": "Đóng góp được khấu trừ thuế",
+      "description": "Free Geek là tổ chức phi lợi nhuận 501(c)(3). Khoản đóng góp của bạn được khấu trừ thuế tối đa theo quy định.",
       "ein": "EIN: 93-1292010"
     },
     "cta": {
-      "title": "Ready to make a difference?",
-      "description": "Join thousands of supporters who believe technology should be accessible to everyone."
+      "title": "Sẵn sàng tạo ra sự khác biệt?",
+      "description": "Tham gia cùng hàng ngàn người ủng hộ tin rằng công nghệ nên dành cho tất cả mọi người."
     }
   },
   "contact": {
     "hero": {
-      "title": "Let's talk.",
-      "description": "Have a question about donating, volunteering, or getting a computer? We're here to help."
+      "title": "Hãy trò chuyện.",
+      "description": "Có câu hỏi về quyên góp, tình nguyện hoặc nhận máy tính? Chúng tôi sẵn sàng giúp đỡ."
     },
     "visit": {
-      "title": "Visit Us",
+      "title": "Ghé thăm",
       "address": "1731 SE 10th Avenue",
       "city": "Portland, OR 97214",
-      "parking": "Drop-offs accepted in the outdoor parking lot on the northeast side of our building.",
-      "dropoffNote": "Drop-offs accepted in the outdoor parking lot on the northeast side of our building.",
-      "directions": "Get Directions →"
+      "parking": "Nhận quyên góp tại bãi đậu xe ngoài trời phía đông bắc tòa nhà.",
+      "dropoffNote": "Nhận quyên góp tại bãi đậu xe ngoài trời phía đông bắc tòa nhà.",
+      "directions": "Xem chỉ đường →"
     },
     "hours": {
-      "title": "Hours",
-      "wed": "Wednesday",
-      "thu": "Thursday",
-      "fri": "Friday",
-      "sat": "Saturday",
-      "wednesday": "Wednesday",
-      "thursday": "Thursday",
-      "friday": "Friday",
-      "saturday": "Saturday",
-      "sunTue": "Sun - Tue",
-      "open": "11 AM - 4 PM",
-      "closed": "Closed"
+      "title": "Giờ mở cửa",
+      "wed": "Thứ Tư",
+      "thu": "Thứ Năm",
+      "fri": "Thứ Sáu",
+      "sat": "Thứ Bảy",
+      "wednesday": "Thứ Tư",
+      "thursday": "Thứ Năm",
+      "friday": "Thứ Sáu",
+      "saturday": "Thứ Bảy",
+      "sunTue": "CN - Thứ Ba",
+      "open": "11 giờ sáng - 4 giờ chiều",
+      "closed": "Đóng cửa"
     },
     "email": {
-      "title": "Email Us",
-      "description": "General inquiries, questions about programs, or just want to say hi."
+      "title": "Email cho chúng tôi",
+      "description": "Câu hỏi chung, hỏi về chương trình hoặc chỉ muốn chào."
     },
     "questions": {
-      "title": "Common Questions",
+      "title": "Câu hỏi thường gặp",
       "donateTech": {
-        "title": "Donate Technology",
-        "description": "Drop-off hours, what we accept, and scheduling large donations."
+        "title": "Quyên góp công nghệ",
+        "description": "Giờ nhận hàng, những gì chúng tôi nhận và đặt lịch quyên góp lớn."
       },
       "getComputer": {
-        "title": "Get a Computer",
-        "description": "Learn about Plug Into Portland and hardware grant programs."
+        "title": "Nhận máy tính",
+        "description": "Tìm hiểu về Plug Into Portland và chương trình tài trợ phần cứng."
       },
       "volunteer": {
-        "title": "Volunteer",
-        "description": "Join our team and help bridge the digital divide."
+        "title": "Tình nguyện",
+        "description": "Tham gia đội ngũ và giúp thu hẹp khoảng cách số."
       },
       "faq": {
-        "title": "FAQs",
-        "description": "Find answers to our most frequently asked questions."
+        "title": "Câu hỏi thường gặp",
+        "description": "Tìm câu trả lời cho các câu hỏi thường gặp nhất."
       }
     },
     "quickLinks": {
-      "title": "Common Questions",
+      "title": "Câu hỏi thường gặp",
       "donateTech": {
-        "title": "Donate Technology",
-        "description": "Drop-off hours, what we accept, and scheduling large donations."
+        "title": "Quyên góp công nghệ",
+        "description": "Giờ nhận hàng, những gì chúng tôi nhận và đặt lịch quyên góp lớn."
       },
       "getComputer": {
-        "title": "Get a Computer",
-        "description": "Learn about Plug Into Portland and hardware grant programs."
+        "title": "Nhận máy tính",
+        "description": "Tìm hiểu về Plug Into Portland và chương trình tài trợ phần cứng."
       },
       "volunteer": {
-        "title": "Volunteer",
-        "description": "Join our team and help bridge the digital divide."
+        "title": "Tình nguyện",
+        "description": "Tham gia đội ngũ và giúp thu hẹp khoảng cách số."
       },
       "faqs": {
-        "title": "FAQs",
-        "description": "Find answers to our most frequently asked questions."
+        "title": "Câu hỏi thường gặp",
+        "description": "Tìm câu trả lời cho các câu hỏi thường gặp nhất."
       }
     },
     "form": {
-      "title": "Send Us a Message",
-      "description": "Fill out the form below and we'll get back to you as soon as we can.",
-      "name": "Your Name",
-      "email": "Your Email",
-      "subject": "What is your inquiry about?",
-      "selectTopic": "Select a topic...",
+      "title": "Gửi tin nhắn",
+      "description": "Điền mẫu bên dưới và chúng tôi sẽ phản hồi sớm nhất có thể.",
+      "name": "Tên của bạn",
+      "email": "Email của bạn",
+      "subject": "Câu hỏi của bạn về gì?",
+      "selectTopic": "Chọn chủ đề...",
       "topics": {
-        "digitalInclusion": "Digital Inclusion Services",
-        "donation": "Recycling / Tech Donation",
-        "business": "Business Partnerships",
-        "volunteering": "Volunteering",
-        "shop": "Online Shop",
-        "fundraising": "Fundraising",
-        "press": "Press / Media",
-        "hr": "Human Resources",
-        "other": "Other"
+        "digitalInclusion": "Dịch vụ Hòa nhập Kỹ thuật số",
+        "donation": "Tái chế / Quyên góp thiết bị",
+        "business": "Hợp tác doanh nghiệp",
+        "volunteering": "Tình nguyện",
+        "shop": "Cửa hàng trực tuyến",
+        "fundraising": "Gây quỹ",
+        "press": "Báo chí / Truyền thông",
+        "hr": "Nhân sự",
+        "other": "Khác"
       },
-      "message": "Message",
-      "submit": "Send Message",
-      "sending": "Sending...",
-      "success": "Message Sent!",
-      "successDescription": "We'll get back to you as soon as possible.",
-      "sendAnother": "Send another message",
-      "error": "Failed to send message",
-      "note": "We typically respond within 1-2 business days."
+      "message": "Tin nhắn",
+      "submit": "Gửi tin nhắn",
+      "sending": "Đang gửi...",
+      "success": "Đã gửi tin nhắn!",
+      "successDescription": "Chúng tôi sẽ phản hồi sớm nhất có thể.",
+      "sendAnother": "Gửi tin nhắn khác",
+      "error": "Không thể gửi tin nhắn",
+      "note": "Chúng tôi thường phản hồi trong 1-2 ngày làm việc."
     },
     "social": {
-      "title": "Follow Us",
-      "description": "Stay up to date with Free Geek news, events, and impact stories."
+      "title": "Theo dõi chúng tôi",
+      "description": "Cập nhật tin tức, sự kiện và câu chuyện tác động từ Free Geek."
     },
     "cta": {
-      "title": "Ready to make a difference?",
-      "description": "Whether you're donating tech, volunteering, or supporting our mission, every contribution helps bridge the digital divide."
+      "title": "Sẵn sàng tạo ra sự khác biệt?",
+      "description": "Dù bạn quyên góp thiết bị, tình nguyện hay hỗ trợ sứ mệnh, mỗi đóng góp đều giúp thu hẹp khoảng cách số."
     }
   },
   "volunteer": {
     "hero": {
-      "title1": "Join our mission.",
-      "title2": "Make an impact.",
-      "description": "Since 2000, over 35,000 volunteers have helped Free Geek turn e-waste into opportunity. There's a place for you too."
+      "title1": "Tham gia sứ mệnh.",
+      "title2": "Tạo tác động.",
+      "description": "Từ năm 2000, hơn 35.000 tình nguyện viên đã giúp Free Geek biến rác thải điện tử thành cơ hội. Có chỗ cho bạn nữa."
     },
     "opportunities": {
-      "title": "Ways to Get Involved",
-      "description": "Whether you have an hour or a month, there's a way for you to contribute to digital equity in our community.",
-      "subtitle": "Whether you have an hour or a month, there's a way for you to contribute to digital equity in our community.",
+      "title": "Cách tham gia",
+      "description": "Dù bạn có một giờ hay một tháng, có cách để bạn đóng góp cho công bằng kỹ thuật số trong cộng đồng.",
+      "subtitle": "Dù bạn có một giờ hay một tháng, có cách để bạn đóng góp cho công bằng kỹ thuật số trong cộng đồng.",
       "ambassador": {
-        "title": "Ambassador Program",
-        "description": "Share Free Geek's vision with your community through social media, email, fundraising, and more.",
-        "cta": "Become an Ambassador"
+        "title": "Chương trình Đại sứ",
+        "description": "Chia sẻ tầm nhìn của Free Geek với cộng đồng thông qua mạng xã hội, email, gây quỹ và hơn thế.",
+        "cta": "Trở thành Đại sứ"
       },
       "techDrive": {
-        "title": "Host a Tech Drive",
-        "description": "Organize a tech collection at your workplace, school, or neighborhood to help us reach more donors.",
-        "cta": "Start a Tech Drive"
+        "title": "Tổ chức chiến dịch quyên góp thiết bị",
+        "description": "Tổ chức thu gom thiết bị tại nơi làm việc, trường học hoặc khu phố để giúp chúng tôi tiếp cận nhiều người quyên góp hơn.",
+        "cta": "Bắt đầu chiến dịch"
       },
       "warehouse": {
-        "title": "Warehouse Volunteering",
-        "description": "Get hands-on experience receiving, sorting, and processing donated technology in our facility.",
-        "cta": "Apply to Volunteer"
+        "title": "Tình nguyện tại kho",
+        "description": "Có kinh nghiệm thực tế nhận, phân loại và xử lý công nghệ được quyên góp tại cơ sở của chúng tôi.",
+        "cta": "Đăng ký tình nguyện"
       },
       "fundraise": {
-        "title": "Fundraise for Free Geek",
-        "description": "Host a fundraiser—whether it's a Facebook campaign, community event, bake sale, or walk-a-thon.",
-        "cta": "Start a Fundraiser"
+        "title": "Gây quỹ cho Free Geek",
+        "description": "Tổ chức gây quỹ—dù là chiến dịch Facebook, sự kiện cộng đồng, bán bánh, hay đi bộ gây quỹ.",
+        "cta": "Bắt đầu gây quỹ"
       }
     },
     "impact": {
-      "title": "Your impact adds up",
-      "volunteers": "Volunteers have contributed their time and skills to Free Geek over 25 years.",
-      "ewaste": "Pounds of e-waste diverted from landfills thanks to our collective efforts.",
-      "devices": "Devices refurbished and given to people who need them most.",
+      "title": "Tác động của bạn tích lũy",
+      "volunteers": "Tình nguyện viên đã đóng góp thời gian và kỹ năng cho Free Geek trong 25 năm.",
+      "ewaste": "Pound rác thải điện tử được chuyển hướng khỏi bãi rác nhờ nỗ lực chung.",
+      "devices": "Thiết bị được tân trang và trao cho những người cần nhất.",
       "volunteersObj": {
         "stat": "35K+",
-        "description": "Volunteers have contributed their time and skills to Free Geek over 25 years."
+        "description": "Tình nguyện viên đã đóng góp thời gian và kỹ năng cho Free Geek trong 25 năm."
       },
       "ewasteObj": {
         "stat": "82M",
-        "description": "Pounds of e-waste diverted from landfills thanks to our collective efforts."
+        "description": "Pound rác thải điện tử được chuyển hướng khỏi bãi rác nhờ nỗ lực chung."
       },
       "devicesObj": {
         "stat": "75K+",
-        "description": "Devices refurbished and given to people who need them most."
+        "description": "Thiết bị được tân trang và trao cho những người cần nhất."
       }
     },
     "form": {
-      "title": "Interested in volunteering?",
-      "description": "Tell us about yourself and we'll be in touch with opportunities that match your interests.",
-      "subtitle": "Tell us about yourself and we'll be in touch with opportunities that match your interests.",
-      "name": "Your Name",
+      "title": "Quan tâm đến tình nguyện?",
+      "description": "Cho chúng tôi biết về bạn và chúng tôi sẽ liên hệ với cơ hội phù hợp với sở thích của bạn.",
+      "subtitle": "Cho chúng tôi biết về bạn và chúng tôi sẽ liên hệ với cơ hội phù hợp với sở thích của bạn.",
+      "name": "Tên của bạn",
       "email": "Email",
-      "interestsLabel": "What interests you?",
-      "interestsHint": "(select all that apply)",
-      "interestsNote": "(select all that apply)",
+      "interestsLabel": "Bạn quan tâm gì?",
+      "interestsHint": "(chọn tất cả áp dụng)",
+      "interestsNote": "(chọn tất cả áp dụng)",
       "options": {
-        "ambassador": "Ambassador Program",
-        "techDrives": "Tech Drives",
-        "warehouse": "Warehouse Volunteering",
-        "fundraising": "Fundraising",
-        "internship": "Internship",
-        "other": "Other"
+        "ambassador": "Chương trình Đại sứ",
+        "techDrives": "Chiến dịch quyên góp thiết bị",
+        "warehouse": "Tình nguyện tại kho",
+        "fundraising": "Gây quỹ",
+        "internship": "Thực tập",
+        "other": "Khác"
       },
       "interests": {
-        "ambassador": "Ambassador Program",
-        "techDrives": "Tech Drives",
-        "warehouse": "Warehouse Volunteering",
-        "fundraising": "Fundraising",
-        "internship": "Internship",
-        "other": "Other"
+        "ambassador": "Chương trình Đại sứ",
+        "techDrives": "Chiến dịch quyên góp thiết bị",
+        "warehouse": "Tình nguyện tại kho",
+        "fundraising": "Gây quỹ",
+        "internship": "Thực tập",
+        "other": "Khác"
       },
-      "about": "Tell us about yourself",
-      "aboutPlaceholder": "Share any relevant experience, availability, or questions...",
-      "submit": "Submit Interest Form",
-      "sending": "Submitting...",
-      "success": "Interest Form Submitted!",
-      "successDescription": "We'll be in touch soon about volunteer opportunities!",
-      "submitAnother": "Submit another interest form",
-      "error": "Failed to submit form",
-      "note": "We'll reach out within a few days about volunteer opportunities."
+      "about": "Cho chúng tôi biết về bạn",
+      "aboutPlaceholder": "Chia sẻ kinh nghiệm liên quan, thời gian rảnh hoặc câu hỏi...",
+      "submit": "Gửi mẫu quan tâm",
+      "sending": "Đang gửi...",
+      "success": "Đã gửi mẫu quan tâm!",
+      "successDescription": "Chúng tôi sẽ liên hệ sớm về cơ hội tình nguyện!",
+      "submitAnother": "Gửi mẫu quan tâm khác",
+      "error": "Không thể gửi mẫu",
+      "note": "Chúng tôi sẽ liên hệ trong vài ngày về cơ hội tình nguyện."
     },
     "internship": {
-      "title": "Looking for an internship?",
-      "description": "Free Geek offers internship opportunities for students and career-changers interested in technology, nonprofit management, and sustainability.",
-      "cta": "View Open Positions"
+      "title": "Đang tìm thực tập?",
+      "description": "Free Geek cung cấp cơ hội thực tập cho sinh viên và người chuyển nghề quan tâm đến công nghệ, quản lý phi lợi nhuận và bền vững.",
+      "cta": "Xem vị trí mở"
     },
     "cta": {
-      "title": "Can't volunteer right now?",
-      "description": "You can still make a difference. Donate your old tech or support our mission financially."
+      "title": "Không thể tình nguyện ngay bây giờ?",
+      "description": "Bạn vẫn có thể tạo ra sự khác biệt. Quyên góp thiết bị cũ hoặc hỗ trợ sứ mệnh tài chính."
     },
     "alt": {
-      "volunteers": "Free Geek volunteers working together in the warehouse"
+      "volunteers": "Tình nguyện viên Free Geek làm việc cùng nhau tại kho"
     }
   },
   "hardwareGrants": {
     "hero": {
-      "title1": "Hardware Grants",
-      "title2": "for Organizations",
-      "description": "Free and low-cost refurbished technology for nonprofits and community organizations serving those in need."
+      "title1": "Tài trợ phần cứng",
+      "title2": "cho Tổ chức",
+      "description": "Công nghệ được tân trang miễn phí và giá rẻ cho các tổ chức phi lợi nhuận và cộng đồng phục vụ người có nhu cầu."
     },
     "status": {
-      "title": "Application Status",
-      "description": "The Hardware Grants program is periodically open and closed based on inventory availability. Please contact us to check current status and availability.",
-      "cta": "Contact Digital Inclusion Team"
+      "title": "Trạng thái đăng ký",
+      "description": "Chương trình Tài trợ Phần cứng mở và đóng định kỳ dựa trên tình trạng kho. Vui lòng liên hệ để kiểm tra trạng thái và tình trạng hiện tại.",
+      "cta": "Liên hệ đội Hòa nhập Kỹ thuật số"
     },
     "grants": {
-      "title": "Grant Programs",
+      "title": "Chương trình tài trợ",
       "organizational": {
-        "title": "Organizational Hardware Grants",
-        "description": "Free and low-cost refurbished technology for nonprofit organizational use—equipping your staff and volunteers with the tools they need.",
-        "item1": "Desktop and laptop computers",
-        "item2": "Monitors and peripherals",
-        "item3": "Networking equipment"
+        "title": "Tài trợ phần cứng cho tổ chức",
+        "description": "Công nghệ được tân trang miễn phí và giá rẻ cho sử dụng của tổ chức phi lợi nhuận—trang bị cho nhân viên và tình nguyện viên với công cụ họ cần.",
+        "item1": "Máy tính bàn và laptop",
+        "item2": "Màn hình và thiết bị ngoại vi",
+        "item3": "Thiết bị mạng"
       },
       "community": {
-        "title": "Community Hardware Grants",
-        "description": "Free technology for the community members your nonprofit serves—helping you extend digital access to those who need it most.",
-        "item1": "Laptops for clients and program participants",
-        "item2": "Distribution through your existing programs",
-        "item3": "Support for digital inclusion initiatives"
+        "title": "Tài trợ phần cứng cộng đồng",
+        "description": "Công nghệ miễn phí cho thành viên cộng đồng mà tổ chức phi lợi nhuận của bạn phục vụ—giúp bạn mở rộng truy cập kỹ thuật số cho những người cần nhất.",
+        "item1": "Laptop cho khách hàng và người tham gia chương trình",
+        "item2": "Phân phối thông qua các chương trình hiện có của bạn",
+        "item3": "Hỗ trợ các sáng kiến hòa nhập kỹ thuật số"
       }
     },
     "types": {
-      "title": "Grant Programs",
+      "title": "Chương trình tài trợ",
       "organizational": {
-        "title": "Organizational Hardware Grants",
-        "description": "Free and low-cost refurbished technology for nonprofit organizational use—equipping your staff and volunteers with the tools they need.",
-        "item1": "Desktop and laptop computers",
-        "item2": "Monitors and peripherals",
-        "item3": "Networking equipment"
+        "title": "Tài trợ phần cứng cho tổ chức",
+        "description": "Công nghệ được tân trang miễn phí và giá rẻ cho sử dụng của tổ chức phi lợi nhuận—trang bị cho nhân viên và tình nguyện viên với công cụ họ cần.",
+        "item1": "Máy tính bàn và laptop",
+        "item2": "Màn hình và thiết bị ngoại vi",
+        "item3": "Thiết bị mạng"
       },
       "community": {
-        "title": "Community Hardware Grants",
-        "description": "Free technology for the community members your nonprofit serves—helping you extend digital access to those who need it most.",
-        "item1": "Laptops for clients and program participants",
-        "item2": "Distribution through your existing programs",
-        "item3": "Support for digital inclusion initiatives"
+        "title": "Tài trợ phần cứng cộng đồng",
+        "description": "Công nghệ miễn phí cho thành viên cộng đồng mà tổ chức phi lợi nhuận của bạn phục vụ—giúp bạn mở rộng truy cập kỹ thuật số cho những người cần nhất.",
+        "item1": "Laptop cho khách hàng và người tham gia chương trình",
+        "item2": "Phân phối thông qua các chương trình hiện có của bạn",
+        "item3": "Hỗ trợ các sáng kiến hòa nhập kỹ thuật số"
       }
     },
     "eligibility": {
-      "title": "Eligibility",
-      "intro": "To qualify for Hardware Grants, organizations must:",
-      "req1": "Be a registered 501(c)(3) nonprofit organization",
-      "req2": "Serve communities in the Portland metro area",
-      "req3": "Demonstrate need for technology to fulfill your mission"
+      "title": "Điều kiện",
+      "intro": "Để đủ điều kiện nhận Tài trợ Phần cứng, tổ chức phải:",
+      "req1": "Là tổ chức phi lợi nhuận 501(c)(3) đã đăng ký",
+      "req2": "Phục vụ cộng đồng trong khu vực Portland",
+      "req3": "Chứng minh nhu cầu công nghệ để thực hiện sứ mệnh"
     },
     "testimonial": {
-      "quote": "We at A Family for Every Child unconditionally support Free Geek; they serve an irreplaceable role in our community. Were it not for the generous past donations of Free Geek, we would neither be able to function during this health crisis, nor serve our mission as a whole.",
+      "quote": "Chúng tôi tại A Family for Every Child ủng hộ vô điều kiện Free Geek; họ đóng vai trò không thể thay thế trong cộng đồng. Nếu không có những đóng góp hào phóng trong quá khứ của Free Geek, chúng tôi sẽ không thể hoạt động trong cuộc khủng hoảng sức khỏe này, cũng như thực hiện sứ mệnh tổng thể.",
       "author": "Andrew Hampton, A Family for Every Child"
     },
     "impact": {
-      "title": "Our Impact",
-      "orgs": "Organizations served annually",
-      "organizations": "Organizations served annually",
-      "devices": "Total devices granted",
-      "years": "Years of community service"
+      "title": "Tác động của chúng tôi",
+      "orgs": "Tổ chức được phục vụ hàng năm",
+      "organizations": "Tổ chức được phục vụ hàng năm",
+      "devices": "Tổng thiết bị được tài trợ",
+      "years": "Năm phục vụ cộng đồng"
     },
     "cta": {
-      "title": "Interested in a Hardware Grant?",
-      "description": "Contact our Digital Inclusion team to learn about current availability and eligibility requirements."
+      "title": "Quan tâm đến Tài trợ Phần cứng?",
+      "description": "Liên hệ đội Hòa nhập Kỹ thuật số để tìm hiểu về tình trạng hiện tại và yêu cầu điều kiện."
     }
   },
   "digitalSkills": {
     "hero": {
-      "title1": "Digital Skills",
-      "title2": "for Everyone",
-      "description": "Build confidence with technology through our free digital skills training and one-on-one digital navigation support."
+      "title1": "Kỹ năng số",
+      "title2": "cho mọi người",
+      "description": "Xây dựng sự tự tin với công nghệ thông qua đào tạo kỹ năng số miễn phí và hỗ trợ hướng dẫn kỹ thuật số một-một."
     },
     "services": {
-      "title": "Our Services",
+      "title": "Dịch vụ của chúng tôi",
       "navigation": {
-        "title": "Digital Navigation",
-        "description": "Get personalized, one-on-one support from a Digital Navigator who can help you with:",
-        "item1": "Setting up and using your device",
-        "item2": "Navigating the internet safely",
-        "item3": "Finding affordable connectivity services",
-        "item4": "Building essential digital skills",
-        "cta": "Schedule an Appointment"
+        "title": "Hướng dẫn kỹ thuật số",
+        "description": "Nhận hỗ trợ cá nhân hóa, một-một từ Người hướng dẫn Kỹ thuật số có thể giúp bạn:",
+        "item1": "Thiết lập và sử dụng thiết bị",
+        "item2": "Điều hướng internet an toàn",
+        "item3": "Tìm dịch vụ kết nối giá rẻ",
+        "item4": "Xây dựng kỹ năng số thiết yếu",
+        "cta": "Đặt lịch hẹn"
       },
       "skills": {
-        "title": "Digital Skills Building",
-        "description": "Free curriculum and classes to help you effectively use technology. Our foundational courses include:",
-        "item1": "Computer Basics",
-        "item2": "Internet Basics",
-        "item3": "Keyboard Basics",
-        "item4": "Internet Safety",
-        "item5": "G-Suite Training",
-        "cta": "View Curriculum"
+        "title": "Xây dựng kỹ năng số",
+        "description": "Chương trình giảng dạy và lớp học miễn phí giúp bạn sử dụng công nghệ hiệu quả. Các khóa học cơ bản bao gồm:",
+        "item1": "Kiến thức cơ bản về máy tính",
+        "item2": "Kiến thức cơ bản về Internet",
+        "item3": "Kiến thức cơ bản về bàn phím",
+        "item4": "An toàn Internet",
+        "item5": "Đào tạo G-Suite",
+        "cta": "Xem chương trình giảng dạy"
       }
     },
     "programs": {
-      "title": "Education Programs",
-      "description": "Our comprehensive curriculum helps you build practical technology skills through hands-on learning.",
+      "title": "Chương trình giáo dục",
+      "description": "Chương trình giảng dạy toàn diện giúp bạn xây dựng kỹ năng công nghệ thực tế qua học tập thực hành.",
       "computerBasics": {
-        "title": "Computer Basics",
-        "description": "Learn to navigate operating systems, manage files, and use essential software applications."
+        "title": "Kiến thức cơ bản về máy tính",
+        "description": "Học cách điều hướng hệ điều hành, quản lý tệp và sử dụng các ứng dụng phần mềm thiết yếu."
       },
       "internetSafety": {
-        "title": "Internet Safety",
-        "description": "Protect yourself online with cybersecurity awareness, password management, and safe browsing habits."
+        "title": "An toàn Internet",
+        "description": "Bảo vệ bản thân trực tuyến với nhận thức an ninh mạng, quản lý mật khẩu và thói quen duyệt web an toàn."
       },
       "email": {
-        "title": "Email & Communication",
-        "description": "Master email basics, video conferencing, and digital communication etiquette."
+        "title": "Email & Giao tiếp",
+        "description": "Thành thạo email cơ bản, hội nghị video và phép lịch sự giao tiếp số."
       },
       "productivity": {
-        "title": "Productivity Tools",
-        "description": "Get hands-on with Google Workspace, Microsoft Office, and other essential work tools."
+        "title": "Công cụ năng suất",
+        "description": "Thực hành với Google Workspace, Microsoft Office và các công cụ làm việc thiết yếu khác."
       }
     },
     "schedule": {
-      "title": "Class Schedule",
-      "description": "Join us for in-person workshops at our Portland location or participate in virtual sessions from anywhere.",
+      "title": "Lịch học",
+      "description": "Tham gia các buổi hội thảo trực tiếp tại địa điểm Portland hoặc tham gia các buổi trực tuyến từ bất cứ đâu.",
       "inPerson": {
-        "title": "In-Person Classes",
-        "dropIn": "Drop-in Help",
-        "dropInTime": "Tuesdays & Thursdays, 10am - 12pm",
-        "workshops": "Group Workshops",
-        "workshopsTime": "Saturdays, 1pm - 3pm",
-        "oneOnOne": "1-on-1 Sessions",
-        "oneOnOneTime": "By appointment"
+        "title": "Lớp trực tiếp",
+        "dropIn": "Hỗ trợ không cần đăng ký",
+        "dropInTime": "Thứ Ba & Thứ Năm, 10 giờ sáng - 12 giờ trưa",
+        "workshops": "Hội thảo nhóm",
+        "workshopsTime": "Thứ Bảy, 1 giờ chiều - 3 giờ chiều",
+        "oneOnOne": "Buổi học 1-1",
+        "oneOnOneTime": "Theo lịch hẹn"
       },
       "virtual": {
-        "title": "Virtual Options",
-        "webinars": "Live Webinars",
-        "webinarsTime": "Wednesdays, 6pm - 7pm",
-        "selfPaced": "Self-Paced Courses",
-        "selfPacedTime": "Available 24/7"
+        "title": "Tùy chọn trực tuyến",
+        "webinars": "Webinar trực tiếp",
+        "webinarsTime": "Thứ Tư, 6 giờ tối - 7 giờ tối",
+        "selfPaced": "Khóa học tự học",
+        "selfPacedTime": "Có sẵn 24/7"
       },
-      "cta": "View Full Schedule"
+      "cta": "Xem lịch đầy đủ"
     },
     "impact": {
-      "title": "Our Impact",
-      "learners": "Learners trained annually",
-      "workshops": "Workshops per year",
-      "satisfaction": "Satisfaction rate",
-      "partners": "Community partners"
+      "title": "Tác động của chúng tôi",
+      "learners": "Học viên được đào tạo hàng năm",
+      "workshops": "Hội thảo mỗi năm",
+      "satisfaction": "Tỷ lệ hài lòng",
+      "partners": "Đối tác cộng đồng"
     },
     "equity": {
-      "title": "What is Digital Equity?",
-      "description": "Digital equity is a condition in which all individuals and communities have the information technology capacity needed for full participation in our society, democracy, and economy. It is necessary for civic and cultural participation, employment, lifelong learning, and access to essential services."
+      "title": "Công bằng Kỹ thuật số là gì?",
+      "description": "Công bằng kỹ thuật số là tình trạng trong đó tất cả cá nhân và cộng đồng có năng lực công nghệ thông tin cần thiết để tham gia đầy đủ vào xã hội, dân chủ và kinh tế. Nó cần thiết cho tham gia công dân và văn hóa, việc làm, học tập suốt đời và truy cập các dịch vụ thiết yếu."
     },
     "educationPlatforms": {
-      "title": "Free Learning Resources",
+      "title": "Tài nguyên học tập miễn phí",
       "stat": "82%",
-      "statDescription": "of middle-skill positions require digital skills—yet only 55% of Oregon suburban high schools teach Computer Science at all.",
-      "description": "That's why we created no-experience-necessary learning resources. Explore our educational platform and video tutorials below.",
+      "statDescription": "vị trí kỹ năng trung bình yêu cầu kỹ năng số—nhưng chỉ 55% trường trung học ngoại ô Oregon dạy Khoa học Máy tính.",
+      "description": "Đó là lý do chúng tôi tạo ra tài nguyên học tập không cần kinh nghiệm. Khám phá nền tảng giáo dục và video hướng dẫn bên dưới.",
       "platform": {
-        "title": "Educational Platform",
-        "description": "Step-by-step guides and courses on Google Sites",
-        "cta": "Start Learning"
+        "title": "Nền tảng giáo dục",
+        "description": "Hướng dẫn từng bước và khóa học trên Google Sites",
+        "cta": "Bắt đầu học"
       },
       "youtube": {
-        "title": "Video Tutorials",
-        "description": "Watch tutorials on our YouTube channel",
-        "cta": "Watch Videos"
+        "title": "Video hướng dẫn",
+        "description": "Xem hướng dẫn trên kênh YouTube của chúng tôi",
+        "cta": "Xem video"
       }
     },
     "resources": {
-      "title": "Community Resources",
-      "description": "We partner with organizations across Portland to expand digital access and build digital skills in our community.",
+      "title": "Tài nguyên cộng đồng",
+      "description": "Chúng tôi hợp tác với các tổ chức trên khắp Portland để mở rộng truy cập kỹ thuật số và xây dựng kỹ năng số trong cộng đồng.",
       "communityTech": {
         "title": "Community Technology Group",
         "org": "Portland Bureau of Planning & Sustainability",
@@ -1035,28 +1035,28 @@
       },
       "library": {
         "title": "Multnomah County Library",
-        "description": "Free computer access and digital resources"
+        "description": "Truy cập máy tính miễn phí và tài nguyên số"
       },
       "digitunity": {
         "title": "Digitunity",
-        "description": "National device access programs"
+        "description": "Chương trình truy cập thiết bị quốc gia"
       },
       "ndia": {
         "title": "National Digital Inclusion Alliance",
-        "description": "Digital equity advocacy and resources"
+        "description": "Vận động công bằng kỹ thuật số và tài nguyên"
       },
       "xfinity": {
         "title": "Xfinity Internet Essentials",
-        "description": "Low-cost internet for eligible households"
+        "description": "Internet giá rẻ cho hộ gia đình đủ điều kiện"
       },
       "pcs": {
         "title": "PCs for People",
-        "description": "Affordable computers and internet"
+        "description": "Máy tính và internet giá phải chăng"
       }
     },
     "cta": {
-      "title": "Ready to build your digital skills?",
-      "description": "Schedule an appointment with a Digital Navigator or explore our free curriculum to get started."
+      "title": "Sẵn sàng xây dựng kỹ năng số?",
+      "description": "Đặt lịch hẹn với Người hướng dẫn Kỹ thuật số hoặc khám phá chương trình giảng dạy miễn phí để bắt đầu."
     }
   },
   "language": {
@@ -1067,1038 +1067,1038 @@
   },
   "shop": {
     "hero": {
-      "title1": "Shop refurbished tech.",
-      "title2": "Support our mission.",
-      "description": "Every purchase from our online stores helps fund Free Geek's programs to bridge the digital divide and keep e-waste out of landfills."
+      "title1": "Mua công nghệ được tân trang.",
+      "title2": "Hỗ trợ sứ mệnh.",
+      "description": "Mỗi giao dịch từ cửa hàng trực tuyến giúp tài trợ các chương trình của Free Geek để thu hẹp khoảng cách số và giữ rác thải điện tử khỏi bãi rác."
     },
     "channels": {
-      "title": "Where to Shop",
+      "title": "Mua ở đâu",
       "ebay": {
-        "title": "eBay Store",
-        "description": "Browse our selection of quality refurbished technology, ready to ship or available for local pickup.",
-        "item1": "Refurbished laptops",
-        "item2": "Smartphones and tablets",
-        "item3": "Vintage and collectible tech",
-        "item4": "Accessories and peripherals",
-        "cta": "Shop on eBay"
+        "title": "Cửa hàng eBay",
+        "description": "Duyệt qua lựa chọn công nghệ được tân trang chất lượng, sẵn sàng giao hàng hoặc có thể nhận trực tiếp.",
+        "item1": "Laptop được tân trang",
+        "item2": "Điện thoại thông minh và máy tính bảng",
+        "item3": "Công nghệ cổ điển và sưu tầm",
+        "item4": "Phụ kiện và thiết bị ngoại vi",
+        "cta": "Mua trên eBay"
       },
       "merch": {
-        "title": "Free Geek Merchandise",
-        "description": "Show your support with official Free Geek branded gear and apparel.",
-        "item1": "T-shirts and apparel",
-        "item2": "Stickers and accessories",
-        "item3": "Limited edition items",
-        "cta": "Shop Merchandise"
+        "title": "Hàng hóa Free Geek",
+        "description": "Thể hiện sự ủng hộ với trang phục và đồ dùng thương hiệu Free Geek chính thức.",
+        "item1": "Áo thun và trang phục",
+        "item2": "Sticker và phụ kiện",
+        "item3": "Sản phẩm phiên bản giới hạn",
+        "cta": "Mua hàng hóa"
       }
     },
     "pickup": {
-      "title": "Free Local Pickup",
-      "description": "Portland-area buyers can pick up their purchases at our location for free. Just select local pickup at checkout and come by during our hours.",
-      "location": "Pickup Location",
+      "title": "Nhận hàng miễn phí tại địa phương",
+      "description": "Người mua khu vực Portland có thể nhận hàng tại địa điểm của chúng tôi miễn phí. Chỉ cần chọn nhận hàng tại địa phương khi thanh toán và đến trong giờ mở cửa.",
+      "location": "Địa điểm nhận hàng",
       "address": "1731 SE 10th Avenue, Portland, OR 97214",
-      "days": "Wednesday - Saturday",
-      "times": "11:00 AM - 4:00 PM"
+      "days": "Thứ Tư - Thứ Bảy",
+      "times": "11:00 sáng - 4:00 chiều"
     },
     "policies": {
-      "title": "Shop Policies",
+      "title": "Chính sách cửa hàng",
       "returns": {
-        "title": "30-Day Returns",
-        "description": "Not satisfied? Return your purchase within 30 days for a full refund."
+        "title": "Trả hàng 30 ngày",
+        "description": "Không hài lòng? Trả hàng trong 30 ngày để được hoàn tiền đầy đủ."
       },
       "warranty": {
-        "title": "Sold As-Is",
-        "description": "Items are sold as-is without warranty. We thoroughly test all devices before listing."
+        "title": "Bán nguyên trạng",
+        "description": "Sản phẩm được bán nguyên trạng không bảo hành. Chúng tôi kiểm tra kỹ tất cả thiết bị trước khi đăng bán."
       },
       "payment": {
-        "title": "Secure Payment",
-        "description": "All transactions are processed securely through eBay or Big Cartel."
+        "title": "Thanh toán an toàn",
+        "description": "Tất cả giao dịch được xử lý an toàn qua eBay hoặc Big Cartel."
       }
     },
     "mission": {
-      "title": "Every Purchase Makes a Difference",
-      "description": "When you shop with Free Geek, 100% of proceeds support our nonprofit mission. Your purchase helps provide free computers to those in need and keeps technology out of landfills.",
-      "learnPrograms": "Learn About Our Programs"
+      "title": "Mỗi giao dịch tạo ra sự khác biệt",
+      "description": "Khi bạn mua sắm với Free Geek, 100% doanh thu hỗ trợ sứ mệnh phi lợi nhuận. Giao dịch của bạn giúp cung cấp máy tính miễn phí cho người cần và giữ công nghệ khỏi bãi rác.",
+      "learnPrograms": "Tìm hiểu về chương trình của chúng tôi"
     },
     "alt": {
-      "location": "Free Geek building entrance in Portland, Oregon"
+      "location": "Lối vào tòa nhà Free Geek tại Portland, Oregon"
     }
   },
   "careers": {
     "hero": {
-      "title1": "Work with purpose.",
-      "title2": "Join our team.",
-      "description": "At Free Geek, we're bridging the digital divide while keeping technology out of landfills. If you're passionate about technology, sustainability, and social justice, you might be a great fit."
+      "title1": "Làm việc có mục đích.",
+      "title2": "Tham gia đội ngũ.",
+      "description": "Tại Free Geek, chúng tôi thu hẹp khoảng cách số trong khi giữ công nghệ khỏi bãi rác. Nếu bạn đam mê công nghệ, bền vững và công bằng xã hội, bạn có thể phù hợp."
     },
     "culture": {
-      "title": "Our Workplace Culture",
-      "p1": "Free Geek is more than a workplace—it's a community of people committed to making technology accessible to everyone. We value collaboration, creativity, and a shared commitment to our mission.",
-      "p2": "Our team includes people from diverse backgrounds—tech enthusiasts, sustainability advocates, educators, and social justice champions—all working together to create positive change in our community."
+      "title": "Văn hóa nơi làm việc",
+      "p1": "Free Geek không chỉ là nơi làm việc—đó là cộng đồng những người cam kết làm cho công nghệ dễ tiếp cận với mọi người. Chúng tôi coi trọng hợp tác, sáng tạo và cam kết chung với sứ mệnh.",
+      "p2": "Đội ngũ của chúng tôi bao gồm những người từ nhiều nền tảng khác nhau—người đam mê công nghệ, người ủng hộ bền vững, nhà giáo dục và người đấu tranh cho công bằng xã hội—tất cả làm việc cùng nhau để tạo ra thay đổi tích cực trong cộng đồng."
     },
     "jedi": {
-      "title": "Our JEDI Values",
-      "description": "Justice, Equity, Diversity, and Inclusion guide everything we do at Free Geek.",
+      "title": "Giá trị JEDI của chúng tôi",
+      "description": "Công lý, Công bằng, Đa dạng và Hòa nhập hướng dẫn mọi việc chúng tôi làm tại Free Geek.",
       "justice": {
-        "title": "Justice",
-        "description": "We advocate for systemic change to ensure technology access is a right, not a privilege."
+        "title": "Công lý",
+        "description": "Chúng tôi vận động thay đổi hệ thống để đảm bảo truy cập công nghệ là quyền, không phải đặc quyền."
       },
       "equity": {
-        "title": "Equity",
-        "description": "We prioritize resources for communities historically excluded from technology access."
+        "title": "Công bằng",
+        "description": "Chúng tôi ưu tiên tài nguyên cho cộng đồng lịch sử bị loại trừ khỏi truy cập công nghệ."
       },
       "diversity": {
-        "title": "Diversity",
-        "description": "We celebrate the different perspectives, experiences, and backgrounds of our team and community."
+        "title": "Đa dạng",
+        "description": "Chúng tôi tôn vinh những quan điểm, kinh nghiệm và nền tảng khác nhau của đội ngũ và cộng đồng."
       },
       "inclusion": {
-        "title": "Inclusion",
-        "description": "We create spaces where everyone feels welcome, valued, and empowered to contribute."
+        "title": "Hòa nhập",
+        "description": "Chúng tôi tạo ra không gian nơi mọi người cảm thấy được chào đón, được coi trọng và được trao quyền đóng góp."
       }
     },
     "benefits": {
-      "title": "Benefits & Perks",
+      "title": "Phúc lợi & Đặc quyền",
       "health": {
-        "title": "Health Insurance",
-        "description": "Comprehensive medical, dental, and vision coverage for full-time employees."
+        "title": "Bảo hiểm y tế",
+        "description": "Bảo hiểm y tế, nha khoa và thị lực toàn diện cho nhân viên toàn thời gian."
       },
       "pto": {
-        "title": "Paid Time Off",
-        "description": "Generous PTO policy including vacation, sick leave, and holidays."
+        "title": "Nghỉ phép có lương",
+        "description": "Chính sách nghỉ phép hào phóng bao gồm nghỉ mát, nghỉ ốm và ngày lễ."
       },
       "retirement": {
-        "title": "Retirement Plan",
-        "description": "403(b) retirement plan to help you plan for the future."
+        "title": "Kế hoạch hưu trí",
+        "description": "Kế hoạch hưu trí 403(b) giúp bạn lập kế hoạch cho tương lai."
       },
       "development": {
-        "title": "Professional Development",
-        "description": "Opportunities for training, conferences, and skill building."
+        "title": "Phát triển chuyên môn",
+        "description": "Cơ hội đào tạo, hội nghị và xây dựng kỹ năng."
       },
       "tech": {
-        "title": "Tech Benefits",
-        "description": "Access to refurbished technology and equipment discounts."
+        "title": "Phúc lợi công nghệ",
+        "description": "Truy cập công nghệ được tân trang và giảm giá thiết bị."
       },
       "mission": {
-        "title": "Mission-Driven Work",
-        "description": "Make a real difference in your community every day."
+        "title": "Công việc theo sứ mệnh",
+        "description": "Tạo ra sự khác biệt thực sự trong cộng đồng mỗi ngày."
       }
     },
     "openings": {
-      "title": "Current Openings",
+      "title": "Vị trí đang tuyển",
       "none": {
-        "title": "No Open Positions",
-        "description": "We're not currently hiring, but we're always looking for talented people who share our mission.",
-        "checkBack": "Check back regularly or follow us on social media to be notified when new positions open up."
+        "title": "Không có vị trí mở",
+        "description": "Chúng tôi hiện không tuyển dụng, nhưng luôn tìm kiếm người tài năng chia sẻ sứ mệnh.",
+        "checkBack": "Kiểm tra thường xuyên hoặc theo dõi chúng tôi trên mạng xã hội để được thông báo khi có vị trí mới."
       }
     },
     "cta": {
-      "title": "Want to get involved now?",
-      "description": "Even if we're not currently hiring, there are many ways to contribute to our mission. Volunteer with us or reach out to learn more."
+      "title": "Muốn tham gia ngay bây giờ?",
+      "description": "Ngay cả khi chúng tôi hiện không tuyển dụng, có nhiều cách để đóng góp cho sứ mệnh. Tình nguyện với chúng tôi hoặc liên hệ để tìm hiểu thêm."
     },
     "alt": {
-      "team": "Free Geek team members working together"
+      "team": "Các thành viên đội ngũ Free Geek làm việc cùng nhau"
     }
   },
   "impact": {
     "hero": {
-      "title1": "Our Impact",
-      "title2": "in the Community",
-      "description": "For over 25 years, Free Geek has been diverting e-waste from landfills and connecting communities with technology. See how we're making a difference."
+      "title1": "Tác động của chúng tôi",
+      "title2": "trong cộng đồng",
+      "description": "Trong hơn 25 năm, Free Geek đã chuyển hướng rác thải điện tử khỏi bãi rác và kết nối cộng đồng với công nghệ. Xem cách chúng tôi tạo ra sự khác biệt."
     },
     "stats": {
-      "title": "By the Numbers",
-      "poundsRecycled": "Pounds of e-waste recycled",
-      "computersDistributed": "Computers distributed",
-      "volunteerHours": "Volunteer hours contributed",
-      "yearsServing": "Years serving Portland"
+      "title": "Theo số liệu",
+      "poundsRecycled": "Pound rác thải điện tử được tái chế",
+      "computersDistributed": "Máy tính được phân phối",
+      "volunteerHours": "Giờ tình nguyện đóng góp",
+      "yearsServing": "Năm phục vụ Portland"
     },
     "stories": {
-      "title": "Impact Stories",
-      "description": "Real stories from our community about how Free Geek has made a difference in their lives.",
+      "title": "Câu chuyện tác động",
+      "description": "Những câu chuyện thực từ cộng đồng về cách Free Geek đã tạo ra sự khác biệt trong cuộc sống của họ.",
       "story1": {
-        "title": "A Student's First Computer",
-        "description": "Maria, a high school senior, received her first personal computer through our Hardware Grants program. With reliable access to technology, she completed her college applications and is now pursuing a degree in computer science.",
-        "impact": "One of 500+ students served this year"
+        "title": "Máy tính đầu tiên của học sinh",
+        "description": "Maria, học sinh lớp 12, nhận máy tính cá nhân đầu tiên qua chương trình Tài trợ Phần cứng. Với quyền truy cập công nghệ đáng tin cậy, cô đã hoàn thành đơn xin học đại học và đang theo đuổi bằng khoa học máy tính.",
+        "impact": "Một trong hơn 500 học sinh được phục vụ năm nay"
       },
       "story2": {
-        "title": "Career Change at 55",
-        "description": "After volunteering at Free Geek to learn tech skills, James landed a job in IT support. Our hands-on training gave him the confidence and experience employers were looking for.",
-        "impact": "Part of our volunteer-to-employment pathway"
+        "title": "Chuyển nghề ở tuổi 55",
+        "description": "Sau khi tình nguyện tại Free Geek để học kỹ năng công nghệ, James đã có việc làm trong hỗ trợ IT. Đào tạo thực hành của chúng tôi cho ông sự tự tin và kinh nghiệm mà nhà tuyển dụng tìm kiếm.",
+        "impact": "Một phần của con đường từ tình nguyện đến việc làm"
       },
       "story3": {
-        "title": "Nonprofit Partnership",
-        "description": "Portland Rescue Mission partnered with Free Geek to provide computers and digital skills training to residents. The program has helped dozens transition back into the workforce.",
-        "impact": "One of 150+ nonprofit partners"
+        "title": "Hợp tác với tổ chức phi lợi nhuận",
+        "description": "Portland Rescue Mission hợp tác với Free Geek để cung cấp máy tính và đào tạo kỹ năng số cho cư dân. Chương trình đã giúp hàng chục người quay lại lực lượng lao động.",
+        "impact": "Một trong hơn 150 đối tác phi lợi nhuận"
       }
     },
     "plugIntoPdx": {
-      "badge": "Featured Program",
+      "badge": "Chương trình nổi bật",
       "title": "Plug Into Portland",
-      "description": "Our signature community initiative connects Portland residents with refurbished technology, digital skills training, and ongoing support to ensure everyone can participate in our digital world.",
-      "item1": "Free computers for qualifying families",
-      "item2": "Digital literacy training and support",
-      "item3": "Ongoing technical assistance"
+      "description": "Sáng kiến cộng đồng hàng đầu của chúng tôi kết nối cư dân Portland với công nghệ được tân trang, đào tạo kỹ năng số và hỗ trợ liên tục để đảm bảo mọi người có thể tham gia vào thế giới số.",
+      "item1": "Máy tính miễn phí cho gia đình đủ điều kiện",
+      "item2": "Đào tạo và hỗ trợ kỹ năng số",
+      "item3": "Hỗ trợ kỹ thuật liên tục"
     },
     "report": {
-      "title": "Annual Report",
-      "description": "Dive deeper into our impact with our comprehensive annual report, featuring detailed metrics, financial transparency, and stories from the community.",
-      "fileName": "Free Geek Annual Report 2024",
-      "fileType": "PDF Document",
-      "cta": "Download Report"
+      "title": "Báo cáo thường niên",
+      "description": "Tìm hiểu sâu hơn về tác động với báo cáo thường niên toàn diện, bao gồm số liệu chi tiết, minh bạch tài chính và câu chuyện từ cộng đồng.",
+      "fileName": "Báo cáo thường niên Free Geek 2024",
+      "fileType": "Tài liệu PDF",
+      "cta": "Tải báo cáo"
     },
     "news": {
-      "title": "Latest News",
-      "description": "Stay up to date with Free Geek's latest initiatives, community events, and organizational updates.",
+      "title": "Tin tức mới nhất",
+      "description": "Cập nhật với các sáng kiến mới nhất, sự kiện cộng đồng và cập nhật tổ chức của Free Geek.",
       "item1": {
-        "date": "December 2024",
-        "title": "Holiday Tech Drive Success",
-        "excerpt": "Thanks to generous community donations, we collected over 2,000 devices during our annual holiday tech drive."
+        "date": "Tháng 12, 2024",
+        "title": "Thành công chiến dịch quyên góp thiết bị mùa lễ",
+        "excerpt": "Nhờ đóng góp hào phóng của cộng đồng, chúng tôi đã thu thập hơn 2.000 thiết bị trong chiến dịch quyên góp thiết bị mùa lễ hàng năm."
       },
       "item2": {
-        "date": "November 2024",
-        "title": "New Digital Skills Curriculum",
-        "excerpt": "We've launched an expanded digital literacy curriculum with new courses on cybersecurity and online safety."
+        "date": "Tháng 11, 2024",
+        "title": "Chương trình giảng dạy kỹ năng số mới",
+        "excerpt": "Chúng tôi đã ra mắt chương trình giảng dạy kỹ năng số mở rộng với các khóa học mới về an ninh mạng và an toàn trực tuyến."
       },
       "item3": {
-        "date": "October 2024",
-        "title": "25th Anniversary Celebration",
-        "excerpt": "Free Geek celebrated 25 years of community service with a special event honoring our volunteers and partners."
+        "date": "Tháng 10, 2024",
+        "title": "Lễ kỷ niệm 25 năm",
+        "excerpt": "Free Geek đã kỷ niệm 25 năm phục vụ cộng đồng với sự kiện đặc biệt tôn vinh tình nguyện viên và đối tác."
       }
     },
     "cta": {
-      "title": "Join us in making an impact",
-      "description": "Whether you donate technology, volunteer your time, or contribute financially, you're helping bridge the digital divide in Portland."
+      "title": "Tham gia cùng chúng tôi tạo tác động",
+      "description": "Dù bạn quyên góp công nghệ, tình nguyện thời gian hay đóng góp tài chính, bạn đang giúp thu hẹp khoảng cách số tại Portland."
     }
   },
   "staff": {
     "hero": {
-      "title1": "Meet the team",
-      "title2": "behind our mission.",
-      "description": "Our dedicated staff, leadership, and board of directors work together every day to bridge the digital divide and keep technology out of landfills."
+      "title1": "Gặp gỡ đội ngũ",
+      "title2": "đằng sau sứ mệnh.",
+      "description": "Nhân viên tận tâm, lãnh đạo và hội đồng quản trị của chúng tôi làm việc cùng nhau mỗi ngày để thu hẹp khoảng cách số và giữ công nghệ khỏi bãi rác."
     },
     "leadership": {
-      "title": "Leadership",
-      "description": "Our executive team guides Free Geek's strategic direction and ensures we stay true to our mission.",
-      "managementTeam": "Management Team"
+      "title": "Lãnh đạo",
+      "description": "Đội ngũ điều hành hướng dẫn định hướng chiến lược của Free Geek và đảm bảo chúng tôi trung thành với sứ mệnh.",
+      "managementTeam": "Đội ngũ quản lý"
     },
     "board": {
-      "title": "Board of Directors",
-      "description": "Our volunteer board provides governance and oversight, bringing diverse expertise to guide Free Geek's future."
+      "title": "Hội đồng quản trị",
+      "description": "Hội đồng tình nguyện cung cấp quản trị và giám sát, mang chuyên môn đa dạng để hướng dẫn tương lai Free Geek."
     },
     "roles": {
-      "executiveDirector": "Executive Director",
-      "directorOperations": "Director of Operations",
-      "directorBusinessDev": "Director of Business Development",
-      "managerRefurbishment": "Manager of Reuse & Technology Refurbishment",
-      "managerDigitalEquity": "Manager of Digital Equity",
-      "managerSales": "Manager of Sales",
-      "managerReceiving": "Manager of Receiving & Recycling",
-      "boardChair": "Board Chair",
-      "boardSecretary": "Board Secretary",
-      "boardMember": "Board Member"
+      "executiveDirector": "Giám đốc điều hành",
+      "directorOperations": "Giám đốc vận hành",
+      "directorBusinessDev": "Giám đốc phát triển kinh doanh",
+      "managerRefurbishment": "Quản lý tái sử dụng & tân trang công nghệ",
+      "managerDigitalEquity": "Quản lý công bằng kỹ thuật số",
+      "managerSales": "Quản lý bán hàng",
+      "managerReceiving": "Quản lý nhận hàng & tái chế",
+      "boardChair": "Chủ tịch hội đồng",
+      "boardSecretary": "Thư ký hội đồng",
+      "boardMember": "Thành viên hội đồng"
     },
     "cta": {
-      "title": "Want to join our team?",
-      "description": "We're always looking for passionate people who share our commitment to digital equity and sustainability.",
-      "viewCareers": "View Career Opportunities"
+      "title": "Muốn tham gia đội ngũ?",
+      "description": "Chúng tôi luôn tìm kiếm những người đam mê chia sẻ cam kết với công bằng kỹ thuật số và bền vững.",
+      "viewCareers": "Xem cơ hội nghề nghiệp"
     }
   },
   "bridge": {
     "hero": {
-      "badge": "Monthly Giving Program",
-      "title1": "Join THE BRIDGE.",
-      "title2": "Bridge the digital divide.",
-      "description": "Become a sustaining supporter of Free Geek with a monthly gift. Your recurring donation provides reliable funding that helps us plan ahead and serve more community members.",
-      "cta": "Become a BRIDGE Member"
+      "badge": "Chương trình đóng góp hàng tháng",
+      "title1": "Tham gia THE BRIDGE.",
+      "title2": "Thu hẹp khoảng cách số.",
+      "description": "Trở thành người ủng hộ bền vững của Free Geek với đóng góp hàng tháng. Đóng góp định kỳ cung cấp tài trợ đáng tin cậy giúp chúng tôi lập kế hoạch trước và phục vụ nhiều thành viên cộng đồng hơn.",
+      "cta": "Trở thành thành viên BRIDGE"
     },
     "problem": {
-      "title": "The Digital Divide is Real",
-      "p1": "27% of Americans don't own a computer. One in ten households lack internet access. This digital divide falls hardest on low-income families, seniors, immigrants, and communities of color.",
-      "p2": "Without access to technology, millions of people are locked out of job opportunities, education, healthcare, and civic participation. The gap grows wider every day.",
-      "p3": "Your monthly support helps Free Geek provide computers, digital skills training, and tech support to those who need it most—closing the digital divide one person at a time."
+      "title": "Khoảng cách số là thực",
+      "p1": "27% người Mỹ không sở hữu máy tính. Cứ mười hộ thì có một không có internet. Khoảng cách số này tác động mạnh nhất đến các gia đình thu nhập thấp, người cao tuổi, người nhập cư và cộng đồng da màu.",
+      "p2": "Không có quyền truy cập công nghệ, hàng triệu người bị khóa khỏi cơ hội việc làm, giáo dục, y tế và tham gia công dân. Khoảng cách ngày càng rộng hơn.",
+      "p3": "Sự hỗ trợ hàng tháng của bạn giúp Free Geek cung cấp máy tính, đào tạo kỹ năng số và hỗ trợ công nghệ cho những người cần nhất—thu hẹp khoảng cách số từng người một."
     },
     "impact": {
-      "title": "Your Monthly Impact",
-      "description": "Every month, your BRIDGE membership helps us refurbish computers and provide digital skills training.",
-      "level1": "Covers data sanitization supplies for 2 devices",
-      "level2": "Provides a refurbished computer to someone in need",
-      "level3": "Funds digital skills training for 2 community members"
+      "title": "Tác động hàng tháng của bạn",
+      "description": "Mỗi tháng, tư cách thành viên BRIDGE giúp chúng tôi tân trang máy tính và cung cấp đào tạo kỹ năng số.",
+      "level1": "Trang trải vật tư xóa dữ liệu cho 2 thiết bị",
+      "level2": "Cung cấp máy tính được tân trang cho người cần",
+      "level3": "Tài trợ đào tạo kỹ năng số cho 2 thành viên cộng đồng"
     },
     "benefits": {
-      "title": "BRIDGE Member Benefits",
-      "description": "As a thank you for your sustaining support, BRIDGE members receive exclusive benefits.",
+      "title": "Phúc lợi thành viên BRIDGE",
+      "description": "Để cảm ơn sự ủng hộ bền vững, thành viên BRIDGE nhận được phúc lợi độc quyền.",
       "welcome": {
-        "title": "Welcome Gift",
-        "description": "Receive a Free Geek welcome package when you join, including exclusive BRIDGE member items."
+        "title": "Quà chào mừng",
+        "description": "Nhận gói chào mừng Free Geek khi tham gia, bao gồm các sản phẩm độc quyền cho thành viên BRIDGE."
       },
       "reports": {
-        "title": "Quarterly Impact Reports",
-        "description": "Get insider updates on how your support is making a difference in our community."
+        "title": "Báo cáo tác động hàng quý",
+        "description": "Nhận cập nhật nội bộ về cách hỗ trợ của bạn tạo ra sự khác biệt trong cộng đồng."
       },
       "raffle": {
-        "title": "Monthly Raffle Entries",
-        "description": "Be entered to win refurbished tech and Free Geek merchandise every month."
+        "title": "Vé xổ số hàng tháng",
+        "description": "Được tham gia rút thăm trúng thưởng công nghệ được tân trang và hàng hóa Free Geek mỗi tháng."
       },
       "annual": {
-        "title": "Annual Thank You Gift",
-        "description": "Receive a special gift each year to celebrate your continued support."
+        "title": "Quà cảm ơn hàng năm",
+        "description": "Nhận quà đặc biệt mỗi năm để kỷ niệm sự ủng hộ liên tục của bạn."
       }
     },
     "testimonial": {
-      "quote": "Being a BRIDGE member means I know my support is making a consistent impact. It feels good to be part of the solution to the digital divide.",
-      "author": "BRIDGE Member"
+      "quote": "Là thành viên BRIDGE có nghĩa là tôi biết sự hỗ trợ của mình đang tạo tác động nhất quán. Cảm giác tốt khi là một phần của giải pháp cho khoảng cách số.",
+      "author": "Thành viên BRIDGE"
     },
     "howItWorks": {
-      "title": "How It Works",
+      "title": "Cách thức hoạt động",
       "step1": {
-        "title": "Choose Your Amount",
-        "description": "Select a monthly giving level that works for you. Every amount makes a difference."
+        "title": "Chọn số tiền",
+        "description": "Chọn mức đóng góp hàng tháng phù hợp với bạn. Mỗi số tiền đều tạo ra sự khác biệt."
       },
       "step2": {
-        "title": "Set Up Recurring Gift",
-        "description": "Your gift is automatically processed each month—no need to remember to donate."
+        "title": "Thiết lập đóng góp định kỳ",
+        "description": "Đóng góp của bạn được xử lý tự động mỗi tháng—không cần nhớ đóng góp."
       },
       "step3": {
-        "title": "See Your Impact",
-        "description": "Receive regular updates showing how your support is bridging the digital divide."
+        "title": "Xem tác động của bạn",
+        "description": "Nhận cập nhật thường xuyên cho thấy cách hỗ trợ của bạn đang thu hẹp khoảng cách số."
       }
     },
     "cta": {
-      "title": "Ready to make a lasting impact?",
-      "description": "Join THE BRIDGE today and become a sustaining supporter of digital equity in our community.",
-      "joinBridge": "Join THE BRIDGE",
-      "otherWays": "Other Ways to Give"
+      "title": "Sẵn sàng tạo tác động lâu dài?",
+      "description": "Tham gia THE BRIDGE hôm nay và trở thành người ủng hộ bền vững cho công bằng kỹ thuật số trong cộng đồng.",
+      "joinBridge": "Tham gia THE BRIDGE",
+      "otherWays": "Cách đóng góp khác"
     },
     "alt": {
-      "digitalDivide": "Bridging the digital divide - people connected through technology"
+      "digitalDivide": "Thu hẹp khoảng cách số - mọi người kết nối qua công nghệ"
     }
   },
   "corporateDonations": {
     "hero": {
-      "title1": "Corporate tech donations",
-      "title2": "made simple.",
-      "description": "Partner with Free Geek for secure, responsible disposal of your company's retired IT equipment. We handle everything from pickup to data destruction to documentation."
+      "title1": "Quyên góp công nghệ doanh nghiệp",
+      "title2": "đơn giản hóa.",
+      "description": "Hợp tác với Free Geek để xử lý an toàn, có trách nhiệm thiết bị IT đã ngừng sử dụng của công ty. Chúng tôi xử lý mọi thứ từ nhận hàng đến hủy dữ liệu đến tài liệu."
     },
     "why": {
-      "title": "Why Partner with Free Geek?",
+      "title": "Tại sao hợp tác với Free Geek?",
       "security": {
-        "title": "Enterprise-Grade Security",
-        "description": "NIST-compliant data sanitization and i-SIGMA certified processes protect your company and customers."
+        "title": "Bảo mật cấp doanh nghiệp",
+        "description": "Xóa dữ liệu tuân thủ NIST và quy trình được chứng nhận i-SIGMA bảo vệ công ty và khách hàng của bạn."
       },
       "environment": {
-        "title": "Environmental Responsibility",
-        "description": "Meet sustainability goals with responsible e-waste handling. We refurbish what we can and recycle the rest."
+        "title": "Trách nhiệm môi trường",
+        "description": "Đạt mục tiêu bền vững với xử lý rác thải điện tử có trách nhiệm. Chúng tôi tân trang những gì có thể và tái chế phần còn lại."
       },
       "community": {
-        "title": "Community Impact",
-        "description": "Your retired equipment helps bridge the digital divide for families, students, and job seekers in our community."
+        "title": "Tác động cộng đồng",
+        "description": "Thiết bị đã ngừng sử dụng của bạn giúp thu hẹp khoảng cách số cho gia đình, học sinh và người tìm việc trong cộng đồng."
       }
     },
     "security": {
-      "title": "Data Security for Business",
-      "description": "We understand that corporate data security is non-negotiable. Our processes meet the highest standards for data destruction.",
-      "item1": "NIST SP800-88 compliant data sanitization",
-      "item2": "i-SIGMA certified secure data destruction",
-      "item3": "Chain of custody documentation",
-      "item4": "Certificate of Data Destruction available ($10/device)",
-      "cta": "Learn More About Data Security"
+      "title": "Bảo mật dữ liệu cho doanh nghiệp",
+      "description": "Chúng tôi hiểu bảo mật dữ liệu doanh nghiệp là không thể thương lượng. Quy trình của chúng tôi đáp ứng tiêu chuẩn cao nhất cho hủy dữ liệu.",
+      "item1": "Xóa dữ liệu tuân thủ NIST SP800-88",
+      "item2": "Hủy dữ liệu an toàn được chứng nhận i-SIGMA",
+      "item3": "Tài liệu chuỗi giám sát",
+      "item4": "Giấy chứng nhận Hủy dữ liệu có sẵn ($10/thiết bị)",
+      "cta": "Tìm hiểu thêm về bảo mật dữ liệu"
     },
     "services": {
-      "title": "Corporate Services",
+      "title": "Dịch vụ doanh nghiệp",
       "pickup": {
-        "title": "Scheduled Pickup",
-        "description": "We'll come to you. Schedule a pickup for large donations at your Portland-area location."
+        "title": "Nhận hàng theo lịch",
+        "description": "Chúng tôi sẽ đến. Đặt lịch nhận hàng cho quyên góp lớn tại địa điểm khu vực Portland của bạn."
       },
       "documentation": {
-        "title": "Donation Documentation",
-        "description": "Receive detailed documentation of all donated items for your records and tax purposes."
+        "title": "Tài liệu quyên góp",
+        "description": "Nhận tài liệu chi tiết về tất cả sản phẩm quyên góp cho hồ sơ và mục đích thuế."
       },
       "certificate": {
-        "title": "Data Destruction Certificate",
-        "description": "Optional certificate of data destruction for compliance and audit requirements."
+        "title": "Giấy chứng nhận hủy dữ liệu",
+        "description": "Giấy chứng nhận hủy dữ liệu tùy chọn cho yêu cầu tuân thủ và kiểm toán."
       },
       "ecycles": {
-        "title": "Oregon E-Cycles Partner",
-        "description": "As an Oregon E-Cycles participant, we meet state standards for responsible electronics recycling."
+        "title": "Đối tác Oregon E-Cycles",
+        "description": "Là người tham gia Oregon E-Cycles, chúng tôi đáp ứng tiêu chuẩn tiểu bang cho tái chế điện tử có trách nhiệm."
       }
     },
     "tax": {
-      "title": "Tax Deduction Benefits",
-      "p1": "As a 501(c)(3) nonprofit organization, donations to Free Geek may be tax-deductible. We provide documentation of donated items to support your tax filings.",
-      "p2": "Consult with your tax advisor to determine the deductible value of your technology donation.",
+      "title": "Lợi ích khấu trừ thuế",
+      "p1": "Là tổ chức phi lợi nhuận 501(c)(3), đóng góp cho Free Geek có thể được khấu trừ thuế. Chúng tôi cung cấp tài liệu về các sản phẩm quyên góp để hỗ trợ khai thuế của bạn.",
+      "p2": "Tham khảo cố vấn thuế để xác định giá trị khấu trừ của đóng góp công nghệ.",
       "ein": "EIN: 93-1292010",
-      "nonprofit": "Registered 501(c)(3) Nonprofit Organization"
+      "nonprofit": "Tổ chức phi lợi nhuận 501(c)(3) đã đăng ký"
     },
     "process": {
-      "title": "The Corporate Donation Process",
+      "title": "Quy trình quyên góp doanh nghiệp",
       "step1": {
-        "title": "Contact Us",
-        "description": "Reach out to schedule a donation and discuss your needs."
+        "title": "Liên hệ",
+        "description": "Liên hệ để đặt lịch quyên góp và thảo luận nhu cầu của bạn."
       },
       "step2": {
-        "title": "Schedule Pickup",
-        "description": "We'll arrange a convenient time to pick up your equipment."
+        "title": "Đặt lịch nhận hàng",
+        "description": "Chúng tôi sẽ sắp xếp thời gian thuận tiện để nhận thiết bị của bạn."
       },
       "step3": {
-        "title": "Secure Processing",
-        "description": "Your equipment is securely transported and processed at our facility."
+        "title": "Xử lý an toàn",
+        "description": "Thiết bị của bạn được vận chuyển và xử lý an toàn tại cơ sở của chúng tôi."
       },
       "step4": {
-        "title": "Receive Documentation",
-        "description": "Get donation receipts and optional data destruction certificates."
+        "title": "Nhận tài liệu",
+        "description": "Nhận biên nhận quyên góp và giấy chứng nhận hủy dữ liệu tùy chọn."
       }
     },
     "cta": {
-      "title": "Ready to responsibly retire your IT equipment?",
-      "description": "Contact us to discuss your corporate donation needs and schedule a pickup.",
-      "questions": "Ask a Question"
+      "title": "Sẵn sàng ngừng sử dụng thiết bị IT có trách nhiệm?",
+      "description": "Liên hệ để thảo luận nhu cầu quyên góp doanh nghiệp và đặt lịch nhận hàng.",
+      "questions": "Đặt câu hỏi"
     },
     "alt": {
-      "security": "Enterprise data security and protection"
+      "security": "Bảo mật và bảo vệ dữ liệu doanh nghiệp"
     }
   },
   "dataSecurity": {
     "hero": {
-      "title1": "Your data is safe",
-      "title2": "with us.",
-      "description": "We take data security seriously. Every data-bearing device that comes through our doors is securely sanitized using industry-leading methods and certified processes."
+      "title1": "Dữ liệu của bạn an toàn",
+      "title2": "với chúng tôi.",
+      "description": "Chúng tôi coi trọng bảo mật dữ liệu. Mọi thiết bị chứa dữ liệu đến với chúng tôi đều được xóa an toàn bằng phương pháp hàng đầu ngành và quy trình được chứng nhận."
     },
     "certifications": {
-      "title": "Industry-Leading Certifications",
+      "title": "Chứng nhận hàng đầu ngành",
       "nist": {
-        "title": "NIST SP800-88 Compliant",
-        "description": "Our data sanitization processes follow the National Institute of Standards and Technology guidelines for media sanitization—the same standards used by government agencies."
+        "title": "Tuân thủ NIST SP800-88",
+        "description": "Quy trình xóa dữ liệu của chúng tôi tuân theo hướng dẫn của Viện Tiêu chuẩn và Công nghệ Quốc gia về xóa phương tiện—cùng tiêu chuẩn được các cơ quan chính phủ sử dụng."
       },
       "isigma": {
-        "title": "i-SIGMA Certified",
-        "description": "We're certified by the International Secure Information Governance & Management Association, ensuring our data destruction meets the highest industry standards."
+        "title": "Được chứng nhận i-SIGMA",
+        "description": "Chúng tôi được chứng nhận bởi Hiệp hội Quản lý và Quản trị Thông tin An toàn Quốc tế, đảm bảo việc hủy dữ liệu đáp ứng tiêu chuẩn cao nhất ngành."
       }
     },
     "process": {
-      "title": "Our Data Destruction Process",
-      "description": "From the moment your device arrives, it's handled with security in mind.",
+      "title": "Quy trình hủy dữ liệu",
+      "description": "Từ lúc thiết bị đến, nó được xử lý với bảo mật trong đầu.",
       "step1": {
-        "title": "Secure Intake",
-        "description": "Data-bearing devices are immediately identified and tagged at drop-off."
+        "title": "Nhận hàng an toàn",
+        "description": "Thiết bị chứa dữ liệu được nhận dạng và gắn thẻ ngay khi giao."
       },
       "step2": {
-        "title": "Secure Transport",
-        "description": "Devices are moved directly to our secure, staff-only data area."
+        "title": "Vận chuyển an toàn",
+        "description": "Thiết bị được chuyển trực tiếp đến khu vực dữ liệu an toàn, chỉ dành cho nhân viên."
       },
       "step3": {
-        "title": "Data Sanitization",
-        "description": "Trained staff perform certified data destruction using approved methods."
+        "title": "Xóa dữ liệu",
+        "description": "Nhân viên được đào tạo thực hiện hủy dữ liệu được chứng nhận bằng phương pháp được phê duyệt."
       },
       "step4": {
-        "title": "Verification",
-        "description": "Each device is verified to ensure complete data removal before processing."
+        "title": "Xác minh",
+        "description": "Mỗi thiết bị được xác minh để đảm bảo xóa dữ liệu hoàn toàn trước khi xử lý."
       }
     },
     "secureArea": {
-      "title": "The Secure Data Area",
-      "p1": "All data-bearing devices go directly to our secure data area—a staff-only zone where your sensitive information is protected throughout the sanitization process.",
-      "p2": "This dedicated space ensures chain of custody from intake to destruction.",
-      "item1": "Staff-only access with restricted entry",
-      "item2": "Dedicated workstations for data sanitization",
-      "item3": "Complete chain of custody documentation"
+      "title": "Khu vực dữ liệu an toàn",
+      "p1": "Tất cả thiết bị chứa dữ liệu đi trực tiếp đến khu vực dữ liệu an toàn—vùng chỉ dành cho nhân viên nơi thông tin nhạy cảm được bảo vệ trong suốt quá trình xóa.",
+      "p2": "Không gian chuyên dụng này đảm bảo chuỗi giám sát từ nhận hàng đến hủy.",
+      "item1": "Chỉ nhân viên truy cập với lối vào hạn chế",
+      "item2": "Máy trạm chuyên dụng cho xóa dữ liệu",
+      "item3": "Tài liệu chuỗi giám sát hoàn chỉnh"
     },
     "methods": {
-      "title": "Data Destruction Methods",
+      "title": "Phương pháp hủy dữ liệu",
       "overwrite": {
-        "title": "Software Overwrite",
-        "description": "For functional drives, we use NIST-approved software to overwrite all data multiple times, making recovery impossible.",
-        "note": "Used for drives that will be refurbished and reused"
+        "title": "Ghi đè phần mềm",
+        "description": "Đối với ổ đĩa hoạt động, chúng tôi sử dụng phần mềm được NIST phê duyệt để ghi đè tất cả dữ liệu nhiều lần, làm cho việc khôi phục không thể.",
+        "note": "Được sử dụng cho ổ đĩa sẽ được tân trang và tái sử dụng"
       },
       "physical": {
-        "title": "Physical Destruction",
-        "description": "For drives that can't be overwritten or when requested, we physically destroy the storage media through shredding or degaussing.",
-        "note": "Used for failed drives or when higher security is required"
+        "title": "Hủy vật lý",
+        "description": "Đối với ổ đĩa không thể ghi đè hoặc khi yêu cầu, chúng tôi hủy vật lý phương tiện lưu trữ qua nghiền hoặc khử từ.",
+        "note": "Được sử dụng cho ổ đĩa hỏng hoặc khi cần bảo mật cao hơn"
       }
     },
     "certificate": {
-      "title": "Certificate of Data Destruction",
-      "perDevice": "per device",
-      "p1": "Need documentation for compliance or peace of mind? We offer Certificates of Data Destruction that verify your data has been securely sanitized.",
-      "p2": "Certificates include device serial numbers, destruction method used, date of destruction, and staff verification.",
-      "cta": "Request a Certificate"
+      "title": "Giấy chứng nhận hủy dữ liệu",
+      "perDevice": "mỗi thiết bị",
+      "p1": "Cần tài liệu cho tuân thủ hoặc yên tâm? Chúng tôi cung cấp Giấy chứng nhận Hủy dữ liệu xác minh dữ liệu của bạn đã được xóa an toàn.",
+      "p2": "Giấy chứng nhận bao gồm số sê-ri thiết bị, phương pháp hủy được sử dụng, ngày hủy và xác minh nhân viên.",
+      "cta": "Yêu cầu giấy chứng nhận"
     },
     "diy": {
-      "title": "Prefer to Wipe Your Own Data?",
-      "p1": "If you'd like to erase your data before donating, we recommend using DBAN (Darik's Boot and Nuke)—a free, open-source tool for secure data destruction.",
-      "p2": "Even if you wipe your device beforehand, we'll still run our own sanitization process for complete peace of mind.",
+      "title": "Muốn tự xóa dữ liệu?",
+      "p1": "Nếu bạn muốn xóa dữ liệu trước khi quyên góp, chúng tôi khuyến nghị sử dụng DBAN (Darik's Boot and Nuke)—công cụ miễn phí, mã nguồn mở để hủy dữ liệu an toàn.",
+      "p2": "Ngay cả khi bạn xóa thiết bị trước, chúng tôi vẫn chạy quy trình xóa của chúng tôi để hoàn toàn yên tâm.",
       "dban": {
         "title": "DBAN (Darik's Boot and Nuke)",
-        "description": "Download DBAN for free and create a bootable USB or CD to securely wipe your hard drive before donation.",
-        "note": "Note: DBAN works on traditional hard drives (HDDs) but may not fully wipe solid-state drives (SSDs). We can handle both types at our facility."
+        "description": "Tải DBAN miễn phí và tạo USB hoặc CD khởi động để xóa an toàn ổ cứng trước khi quyên góp.",
+        "note": "Lưu ý: DBAN hoạt động trên ổ cứng truyền thống (HDD) nhưng có thể không xóa hoàn toàn ổ cứng thể rắn (SSD). Chúng tôi có thể xử lý cả hai loại tại cơ sở."
       }
     },
     "cta": {
-      "title": "Ready to donate your tech?",
-      "description": "Your data is in safe hands. Drop off your devices and we'll handle the rest.",
-      "questions": "Have Questions?"
+      "title": "Sẵn sàng quyên góp thiết bị?",
+      "description": "Dữ liệu của bạn trong tay an toàn. Giao thiết bị và chúng tôi sẽ lo phần còn lại.",
+      "questions": "Có câu hỏi?"
     },
     "alt": {
-      "secureArea": "Secure data destruction and sanitization area"
+      "secureArea": "Khu vực hủy và xóa dữ liệu an toàn"
     }
   },
   "faq": {
     "hero": {
-      "title": "Frequently Asked Questions",
-      "description": "Find answers to common questions about donating tech, getting a computer, volunteering, and more."
+      "title": "Câu hỏi thường gặp",
+      "description": "Tìm câu trả lời cho các câu hỏi phổ biến về quyên góp thiết bị, nhận máy tính, tình nguyện, và nhiều hơn nữa."
     },
     "categories": {
-      "donating": "Donating Tech",
-      "gettingComputer": "Getting a Computer",
-      "volunteering": "Volunteering",
-      "dataSecurity": "Data Security",
-      "visiting": "Visiting Us",
-      "shop": "Shop & Returns"
+      "donating": "Quyên góp thiết bị",
+      "gettingComputer": "Nhận máy tính",
+      "volunteering": "Tình nguyện",
+      "dataSecurity": "Bảo mật dữ liệu",
+      "visiting": "Đến thăm chúng tôi",
+      "shop": "Cửa hàng & Đổi trả"
     },
     "donating": {
-      "title": "Donating Technology",
+      "title": "Quyên góp thiết bị công nghệ",
       "q1": {
-        "question": "What items do you accept?",
-        "answer": "We accept most electronics including laptops, desktops, smartphones, tablets, monitors, printers, keyboards, mice, cables, and accessories. We also accept servers, networking equipment, and other IT infrastructure. Items should be complete—we can't accept devices missing major components."
+        "question": "Quý vị nhận những thiết bị nào?",
+        "answer": "Chúng tôi nhận hầu hết các thiết bị điện tử bao gồm laptop, máy tính để bàn, điện thoại thông minh, máy tính bảng, màn hình, máy in, bàn phím, chuột, dây cáp và phụ kiện. Chúng tôi cũng nhận máy chủ, thiết bị mạng và cơ sở hạ tầng CNTT khác. Thiết bị cần phải đầy đủ—chúng tôi không thể nhận thiết bị thiếu các bộ phận chính."
       },
       "q2": {
-        "question": "What items do you NOT accept?",
-        "answer": "We cannot accept CRT monitors/TVs, microwaves, large appliances, smoke detectors, or items contaminated with hazardous materials. We also cannot accept broken glass or heavily damaged items. When in doubt, give us a call before visiting."
+        "question": "Những thiết bị nào quý vị KHÔNG nhận?",
+        "answer": "Chúng tôi không thể nhận màn hình/TV CRT, lò vi sóng, thiết bị gia dụng lớn, đầu báo khói, hoặc các vật phẩm nhiễm chất độc hại. Chúng tôi cũng không thể nhận kính vỡ hoặc các vật phẩm hư hỏng nặng. Nếu không chắc chắn, hãy gọi cho chúng tôi trước khi đến."
       },
       "q3": {
-        "question": "Do I need to wipe my data before donating?",
-        "answer": "You don't have to, but you can if you prefer. We securely sanitize all data-bearing devices using NIST SP800-88 compliant methods. Your data is protected from the moment you drop off until destruction is complete."
+        "question": "Tôi có cần xóa dữ liệu trước khi quyên góp không?",
+        "answer": "Bạn không bắt buộc phải làm, nhưng có thể nếu bạn muốn. Chúng tôi xóa sạch dữ liệu an toàn trên tất cả thiết bị lưu trữ theo tiêu chuẩn NIST SP800-88. Dữ liệu của bạn được bảo vệ từ lúc bạn giao đến khi hoàn tất việc hủy."
       },
       "q4": {
-        "question": "Can I get a receipt for my donation?",
-        "answer": "Yes! As a 501(c)(3) nonprofit, we provide donation receipts for tax purposes. Just ask at drop-off and we'll provide documentation. For corporate donations, we can provide detailed itemized receipts."
+        "question": "Tôi có thể nhận biên lai cho khoản quyên góp không?",
+        "answer": "Có! Là tổ chức phi lợi nhuận 501(c)(3), chúng tôi cung cấp biên lai quyên góp để khấu trừ thuế. Chỉ cần yêu cầu khi giao thiết bị và chúng tôi sẽ cung cấp chứng từ. Đối với quyên góp từ doanh nghiệp, chúng tôi có thể cung cấp biên lai chi tiết theo từng mục."
       },
       "q5": {
-        "question": "Do you offer pickup service for large donations?",
-        "answer": "Yes, we offer scheduled pickup service for large donations (20+ devices) and corporate donations in the Portland metro area. Contact us to schedule a pickup at your location."
+        "question": "Quý vị có dịch vụ nhận hàng tận nơi cho quyên góp lớn không?",
+        "answer": "Có, chúng tôi cung cấp dịch vụ nhận hàng theo lịch hẹn cho các quyên góp lớn (20+ thiết bị) và quyên góp doanh nghiệp trong khu vực Portland. Liên hệ với chúng tôi để đặt lịch nhận tại địa chỉ của bạn."
       },
-      "cta": "Learn More About Donating"
+      "cta": "Tìm hiểu thêm về quyên góp"
     },
     "gettingComputer": {
-      "title": "Getting a Computer",
+      "title": "Nhận máy tính",
       "q1": {
-        "question": "How can I get a free computer?",
-        "answer": "Our Plug Into Portland program provides free laptops to individuals in need. Apply through our website to get on the waitlist. You'll receive a refurbished laptop running Linux Mint with a one-year warranty and Digital Navigation support."
+        "question": "Làm thế nào để nhận máy tính miễn phí?",
+        "answer": "Chương trình Plug Into Portland của chúng tôi cung cấp laptop miễn phí cho những người có nhu cầu. Đăng ký qua trang web của chúng tôi để vào danh sách chờ. Bạn sẽ nhận được laptop đã tân trang chạy Linux Mint với bảo hành một năm và hỗ trợ từ Người hướng dẫn kỹ thuật số."
       },
       "q2": {
-        "question": "Who is eligible for a free computer?",
-        "answer": "Our free computer program prioritizes individuals and families experiencing financial hardship, students without access to a computer for schoolwork, seniors, and people with disabilities. Eligibility is based on demonstrated need."
+        "question": "Ai đủ điều kiện nhận máy tính miễn phí?",
+        "answer": "Chương trình máy tính miễn phí của chúng tôi ưu tiên cá nhân và gia đình gặp khó khăn tài chính, học sinh sinh viên không có máy tính để học, người cao tuổi, và người khuyết tật. Điều kiện được xác định dựa trên nhu cầu thực tế."
       },
       "q3": {
-        "question": "How long is the waitlist?",
-        "answer": "Wait times vary depending on inventory and demand. We process applications as quickly as possible and will contact you when your computer is ready. Sign up for our newsletter for updates on program availability."
+        "question": "Danh sách chờ bao lâu?",
+        "answer": "Thời gian chờ thay đổi tùy theo số lượng tồn kho và nhu cầu. Chúng tôi xử lý đơn đăng ký nhanh nhất có thể và sẽ liên hệ khi máy tính của bạn sẵn sàng. Đăng ký nhận bản tin để cập nhật về tình trạng chương trình."
       },
       "q4": {
-        "question": "Can my organization get computers?",
-        "answer": "Yes! We offer Hardware Grants for nonprofit organizations. This includes Organizational Hardware Grants for your staff and Community Hardware Grants for the people you serve. Contact our Digital Inclusion team to learn more."
+        "question": "Tổ chức của tôi có thể nhận máy tính không?",
+        "answer": "Có! Chúng tôi cung cấp Tài trợ phần cứng cho các tổ chức phi lợi nhuận. Bao gồm Tài trợ phần cứng tổ chức cho nhân viên của bạn và Tài trợ phần cứng cộng đồng cho những người bạn phục vụ. Liên hệ đội ngũ Hòa nhập kỹ thuật số của chúng tôi để tìm hiểu thêm."
       },
       "q5": {
-        "question": "What if I need a computer but don't qualify for free programs?",
-        "answer": "You can purchase quality refurbished computers from our eBay store at affordable prices. We also have an Affordable Tech Program for organizations that need larger quantities at reduced prices."
+        "question": "Nếu tôi cần máy tính nhưng không đủ điều kiện cho chương trình miễn phí thì sao?",
+        "answer": "Bạn có thể mua máy tính tân trang chất lượng từ cửa hàng eBay của chúng tôi với giá phải chăng. Chúng tôi cũng có Chương trình công nghệ giá rẻ cho các tổ chức cần số lượng lớn với giá ưu đãi."
       },
-      "cta": "Explore Our Programs"
+      "cta": "Khám phá các chương trình"
     },
     "volunteering": {
-      "title": "Volunteering",
+      "title": "Tình nguyện",
       "q1": {
-        "question": "What volunteer opportunities are available?",
-        "answer": "We offer several ways to volunteer: Warehouse volunteering (processing donated tech), Ambassador Program (spreading the word about Free Geek), hosting Tech Drives, and fundraising. There's a role for everyone regardless of technical skill level."
+        "question": "Có những cơ hội tình nguyện nào?",
+        "answer": "Chúng tôi có nhiều cách để tình nguyện: Tình nguyện tại kho (xử lý thiết bị quyên góp), Chương trình Đại sứ (lan tỏa thông tin về Free Geek), tổ chức đợt quyên góp thiết bị, và gây quỹ. Có vai trò phù hợp cho mọi người bất kể trình độ kỹ thuật."
       },
       "q2": {
-        "question": "Do I need technical experience to volunteer?",
-        "answer": "Not at all! While some roles involve working with technology, many don't require any technical background. We provide training for all volunteer positions. Your enthusiasm and commitment matter more than prior experience."
+        "question": "Tôi có cần kinh nghiệm kỹ thuật để tình nguyện không?",
+        "answer": "Hoàn toàn không! Trong khi một số vai trò liên quan đến làm việc với công nghệ, nhiều vai trò không yêu cầu kiến thức kỹ thuật. Chúng tôi đào tạo cho tất cả các vị trí tình nguyện. Sự nhiệt tình và cam kết của bạn quan trọng hơn kinh nghiệm trước đó."
       },
       "q3": {
-        "question": "What are the age requirements for volunteering?",
-        "answer": "Warehouse volunteers must be 18 or older. For other volunteer opportunities like Ambassador programs or tech drives, please contact us to discuss options for younger volunteers or family participation."
+        "question": "Yêu cầu độ tuổi để tình nguyện là gì?",
+        "answer": "Tình nguyện viên kho phải từ 18 tuổi trở lên. Đối với các cơ hội tình nguyện khác như chương trình Đại sứ hoặc đợt quyên góp thiết bị, vui lòng liên hệ chúng tôi để thảo luận về các tùy chọn cho tình nguyện viên trẻ tuổi hoặc tham gia theo gia đình."
       },
       "q4": {
-        "question": "Can I complete community service hours at Free Geek?",
-        "answer": "Yes, we accept volunteers completing court-ordered community service or school service requirements. Contact us to discuss your requirements and we'll help set up an appropriate volunteer schedule."
+        "question": "Tôi có thể hoàn thành giờ phục vụ cộng đồng tại Free Geek không?",
+        "answer": "Có, chúng tôi nhận tình nguyện viên hoàn thành phục vụ cộng đồng theo yêu cầu của tòa án hoặc yêu cầu của trường học. Liên hệ với chúng tôi để thảo luận về yêu cầu của bạn và chúng tôi sẽ giúp sắp xếp lịch tình nguyện phù hợp."
       },
-      "cta": "Start Volunteering"
+      "cta": "Bắt đầu tình nguyện"
     },
     "dataSecurity": {
-      "title": "Data Security",
+      "title": "Bảo mật dữ liệu",
       "q1": {
-        "question": "How do you protect my data?",
-        "answer": "All data-bearing devices go directly to our secure, staff-only data area. We use NIST SP800-88 compliant sanitization methods and are i-SIGMA certified. Every device is verified to ensure complete data destruction before any further processing."
+        "question": "Quý vị bảo vệ dữ liệu của tôi như thế nào?",
+        "answer": "Tất cả thiết bị lưu trữ dữ liệu được chuyển trực tiếp đến khu vực dữ liệu bảo mật, chỉ dành cho nhân viên. Chúng tôi sử dụng phương pháp xóa dữ liệu tuân thủ NIST SP800-88 và được chứng nhận i-SIGMA. Mọi thiết bị được xác minh để đảm bảo hủy dữ liệu hoàn toàn trước khi xử lý tiếp."
       },
       "q2": {
-        "question": "What is a Certificate of Data Destruction?",
-        "answer": "A Certificate of Data Destruction is official documentation that your device's data has been securely sanitized. It includes the device serial number, destruction method, date, and staff verification. Available for $10 per device—ideal for businesses and compliance requirements."
+        "question": "Chứng nhận hủy dữ liệu là gì?",
+        "answer": "Chứng nhận hủy dữ liệu là tài liệu chính thức xác nhận dữ liệu trên thiết bị của bạn đã được xóa sạch an toàn. Nó bao gồm số sê-ri thiết bị, phương pháp hủy, ngày tháng và xác nhận của nhân viên. Phí $10 mỗi thiết bị—lý tưởng cho doanh nghiệp và yêu cầu tuân thủ."
       },
       "q3": {
-        "question": "Should I wipe my device before donating?",
-        "answer": "It's optional. If you prefer to wipe your own data, we recommend using DBAN (Darik's Boot and Nuke) for hard drives. Even if you wipe beforehand, we'll still run our full sanitization process for complete peace of mind."
+        "question": "Tôi có nên xóa dữ liệu thiết bị trước khi quyên góp không?",
+        "answer": "Tùy chọn. Nếu bạn muốn tự xóa dữ liệu, chúng tôi khuyên dùng DBAN (Darik's Boot and Nuke) cho ổ cứng. Ngay cả khi bạn đã xóa trước, chúng tôi vẫn chạy quy trình xóa đầy đủ để bạn hoàn toàn yên tâm."
       },
       "q4": {
-        "question": "What about SSDs and phones?",
-        "answer": "We have specialized processes for SSDs, smartphones, and other modern storage devices. Our methods ensure complete data removal regardless of the storage type. Encryption keys are destroyed and storage is fully sanitized."
+        "question": "Còn ổ SSD và điện thoại thì sao?",
+        "answer": "Chúng tôi có quy trình chuyên biệt cho ổ SSD, điện thoại thông minh và các thiết bị lưu trữ hiện đại khác. Phương pháp của chúng tôi đảm bảo xóa dữ liệu hoàn toàn bất kể loại lưu trữ. Khóa mã hóa bị hủy và bộ nhớ được xóa sạch hoàn toàn."
       },
-      "cta": "Learn About Data Security"
+      "cta": "Tìm hiểu về bảo mật dữ liệu"
     },
     "visiting": {
-      "title": "Visiting Free Geek",
+      "title": "Đến thăm Free Geek",
       "q1": {
-        "question": "Where are you located?",
-        "answer": "We're located at 1731 SE 10th Avenue, Portland, OR 97214. Tech donations are accepted in the outdoor parking lot on the northeast side of our building."
+        "question": "Quý vị ở đâu?",
+        "answer": "Chúng tôi ở địa chỉ 1731 SE 10th Avenue, Portland, OR 97214. Quyên góp thiết bị được tiếp nhận tại bãi đỗ xe ngoài trời ở phía đông bắc tòa nhà."
       },
       "q2": {
-        "question": "What are your hours?",
-        "answer": "We're open Wednesday through Saturday, 11:00 AM to 4:00 PM. We're closed Sunday through Tuesday and on major holidays."
+        "question": "Giờ làm việc của quý vị?",
+        "answer": "Chúng tôi mở cửa từ Thứ Tư đến Thứ Bảy, 11:00 AM đến 4:00 PM. Chúng tôi đóng cửa từ Chủ Nhật đến Thứ Ba và vào các ngày lễ lớn."
       },
       "q3": {
-        "question": "Do I need an appointment to drop off a donation?",
-        "answer": "No appointment needed for small donations (under 20 devices). Just drive up during our drop-off hours and our team will help you unload. For large donations (20+ devices), please schedule ahead so we can ensure we have space and staff ready."
+        "question": "Tôi có cần hẹn trước để giao quyên góp không?",
+        "answer": "Không cần hẹn trước cho quyên góp nhỏ (dưới 20 thiết bị). Chỉ cần đến trong giờ tiếp nhận và đội ngũ của chúng tôi sẽ giúp bạn dỡ hàng. Đối với quyên góp lớn (20+ thiết bị), vui lòng đặt lịch trước để chúng tôi đảm bảo có chỗ và nhân viên sẵn sàng."
       },
       "q4": {
-        "question": "Is there parking available?",
-        "answer": "Yes, we have a parking lot on the northeast side of our building where you can pull up for tech drop-offs. For visitor parking, street parking is available in the surrounding area."
+        "question": "Có chỗ đậu xe không?",
+        "answer": "Có, chúng tôi có bãi đỗ xe ở phía đông bắc tòa nhà nơi bạn có thể đậu để giao thiết bị. Cho khách thăm, có chỗ đậu xe trên đường trong khu vực xung quanh."
       }
     },
     "shop": {
-      "title": "Shop & Returns",
+      "title": "Cửa hàng & Đổi trả",
       "q1": {
-        "question": "Where can I buy refurbished tech from Free Geek?",
-        "answer": "We sell refurbished technology through our eBay store. You'll find laptops, smartphones, tablets, vintage tech, and accessories. We also sell Free Geek merchandise through our Big Cartel store."
+        "question": "Tôi có thể mua thiết bị tân trang từ Free Geek ở đâu?",
+        "answer": "Chúng tôi bán thiết bị công nghệ tân trang qua cửa hàng eBay. Bạn sẽ tìm thấy laptop, điện thoại thông minh, máy tính bảng, thiết bị cổ điển và phụ kiện. Chúng tôi cũng bán hàng hóa Free Geek qua cửa hàng Big Cartel."
       },
       "q2": {
-        "question": "What is your return policy?",
-        "answer": "We offer a 30-day return policy on purchases from our eBay store. If you're not satisfied with your purchase, you can return it within 30 days for a full refund. Items must be in the same condition as received."
+        "question": "Chính sách đổi trả của quý vị là gì?",
+        "answer": "Chúng tôi có chính sách đổi trả 30 ngày cho các giao dịch mua từ cửa hàng eBay. Nếu bạn không hài lòng với sản phẩm, bạn có thể trả lại trong vòng 30 ngày để được hoàn tiền đầy đủ. Sản phẩm phải ở tình trạng như khi nhận."
       },
       "q3": {
-        "question": "Do items come with a warranty?",
-        "answer": "Items purchased through our online store are sold as-is without warranty. However, we thoroughly test all devices before listing them. For our free computer program recipients, laptops come with a one-year warranty."
+        "question": "Sản phẩm có bảo hành không?",
+        "answer": "Sản phẩm mua qua cửa hàng trực tuyến được bán nguyên trạng không có bảo hành. Tuy nhiên, chúng tôi kiểm tra kỹ lưỡng tất cả thiết bị trước khi đăng bán. Đối với người nhận máy tính miễn phí, laptop đi kèm bảo hành một năm."
       },
       "q4": {
-        "question": "Can I pick up my online purchase locally?",
-        "answer": "Yes! Portland-area buyers can select free local pickup at checkout. Come by during our hours (Wednesday-Saturday, 11AM-4PM) to pick up your purchase at our location."
+        "question": "Tôi có thể nhận hàng mua trực tuyến tại địa phương không?",
+        "answer": "Có! Người mua khu vực Portland có thể chọn nhận hàng miễn phí tại chỗ khi thanh toán. Ghé qua trong giờ làm việc (Thứ Tư-Thứ Bảy, 11AM-4PM) để nhận hàng tại địa chỉ của chúng tôi."
       },
-      "cta": "Visit Our Shop"
+      "cta": "Ghé thăm cửa hàng"
     },
     "cta": {
-      "title": "Still have questions?",
-      "description": "Can't find what you're looking for? Reach out to our team and we'll be happy to help."
+      "title": "Vẫn còn câu hỏi?",
+      "description": "Không tìm thấy điều bạn cần? Liên hệ đội ngũ của chúng tôi và chúng tôi sẵn lòng giúp đỡ."
     }
   },
   "techDrive": {
     "hero": {
-      "title1": "Host a Tech Drive.",
-      "title2": "Make a difference.",
-      "description": "Organize a tech collection at your workplace, school, or community organization. We'll provide everything you need to run a successful drive.",
-      "cta": "Register Your Tech Drive"
+      "title1": "Tổ chức đợt quyên góp",
+      "title2": "thiết bị công nghệ.",
+      "description": "Tổ chức đợt quyên góp thiết bị tại nơi làm việc, trường học, hoặc tổ chức cộng đồng của bạn. Chúng tôi sẽ cung cấp mọi thứ bạn cần để tổ chức thành công.",
+      "cta": "Đăng ký đợt quyên góp"
     },
     "why": {
-      "title": "Why Host a Tech Drive?",
+      "title": "Tại sao nên tổ chức đợt quyên góp?",
       "environment": {
-        "title": "Environmental Impact",
-        "description": "Keep e-waste out of landfills by collecting tech that can be refurbished or responsibly recycled."
+        "title": "Tác động môi trường",
+        "description": "Giảm rác thải điện tử bằng cách thu gom thiết bị có thể tân trang hoặc tái chế có trách nhiệm."
       },
       "community": {
-        "title": "Community Impact",
-        "description": "Collected devices help provide computers to families, students, and job seekers in need."
+        "title": "Tác động cộng đồng",
+        "description": "Thiết bị thu gom giúp cung cấp máy tính cho các gia đình, học sinh và người tìm việc có nhu cầu."
       },
       "engagement": {
-        "title": "Team Engagement",
-        "description": "Rally your team or community around a meaningful cause that makes a tangible difference."
+        "title": "Gắn kết đội nhóm",
+        "description": "Tập hợp đội nhóm hoặc cộng đồng của bạn quanh một mục tiêu ý nghĩa tạo ra sự khác biệt thực sự."
       }
     },
     "howItWorks": {
-      "title": "How It Works",
+      "title": "Cách thức hoạt động",
       "step1": {
-        "title": "Register",
-        "description": "Fill out our form with your drive details"
+        "title": "Đăng ký",
+        "description": "Điền thông tin đợt quyên góp vào biểu mẫu"
       },
       "step2": {
-        "title": "Plan",
-        "description": "We'll help you choose dates and set goals"
+        "title": "Lên kế hoạch",
+        "description": "Chúng tôi sẽ giúp bạn chọn ngày và đặt mục tiêu"
       },
       "step3": {
-        "title": "Promote",
-        "description": "Use our materials to spread the word"
+        "title": "Quảng bá",
+        "description": "Sử dụng tài liệu của chúng tôi để lan tỏa thông tin"
       },
       "step4": {
-        "title": "Collect",
-        "description": "Gather donations from your community"
+        "title": "Thu gom",
+        "description": "Thu thập quyên góp từ cộng đồng của bạn"
       },
       "step5": {
-        "title": "Deliver",
-        "description": "Bring devices to Free Geek or schedule pickup"
+        "title": "Giao hàng",
+        "description": "Mang thiết bị đến Free Geek hoặc đặt lịch nhận"
       }
     },
     "provide": {
-      "title": "What We Provide",
+      "title": "Chúng tôi cung cấp",
       "flyers": {
-        "title": "Promotional Flyers",
-        "description": "Digital and printable flyers to promote your drive"
+        "title": "Tờ rơi quảng cáo",
+        "description": "Tờ rơi số và in ấn để quảng bá đợt quyên góp"
       },
       "email": {
-        "title": "Email Templates",
-        "description": "Ready-to-send announcements for your organization"
+        "title": "Mẫu email",
+        "description": "Thông báo sẵn sàng gửi cho tổ chức của bạn"
       },
       "support": {
-        "title": "Planning Support",
-        "description": "Guidance from our team to ensure success"
+        "title": "Hỗ trợ lập kế hoạch",
+        "description": "Hướng dẫn từ đội ngũ của chúng tôi để đảm bảo thành công"
       },
       "pickup": {
-        "title": "Pickup Coordination",
-        "description": "For large collections, we can arrange pickup"
+        "title": "Phối hợp nhận hàng",
+        "description": "Đối với các đợt thu gom lớn, chúng tôi có thể sắp xếp nhận hàng"
       }
     },
     "collect": {
-      "title": "What to Collect",
+      "title": "Những gì cần thu gom",
       "accepted": {
-        "title": "We Accept",
-        "laptops": "Laptops",
-        "desktops": "Desktop computers",
-        "smartphones": "Smartphones",
-        "tablets": "Tablets",
-        "monitors": "Monitors",
-        "keyboards": "Keyboards & mice",
-        "cables": "Cables & accessories"
+        "title": "Chúng tôi nhận",
+        "laptops": "Laptop",
+        "desktops": "Máy tính để bàn",
+        "smartphones": "Điện thoại thông minh",
+        "tablets": "Máy tính bảng",
+        "monitors": "Màn hình",
+        "keyboards": "Bàn phím & chuột",
+        "cables": "Dây cáp & phụ kiện"
       },
       "notAccepted": {
-        "title": "We Cannot Accept",
-        "crts": "CRT monitors/TVs",
-        "appliances": "Large appliances",
-        "microwaves": "Microwaves",
-        "hazardous": "Hazardous materials"
+        "title": "Chúng tôi không nhận",
+        "crts": "Màn hình/TV CRT",
+        "appliances": "Thiết bị gia dụng lớn",
+        "microwaves": "Lò vi sóng",
+        "hazardous": "Vật liệu độc hại"
       }
     },
     "form": {
-      "title": "Register Your Tech Drive",
-      "description": "Tell us about your planned tech drive and we'll be in touch to help you get started.",
-      "name": "Your Name",
-      "email": "Email Address",
-      "organization": "Organization/Company Name",
-      "location": "Drive Location",
-      "dates": "Proposed Dates",
-      "datesPlaceholder": "e.g., March 15-22, 2025",
-      "details": "Tell us about your drive",
-      "note": "Note: This form is not yet connected to a backend. For immediate assistance, please email us at info@freegeek.org.",
-      "submit": "Register Tech Drive"
+      "title": "Đăng ký đợt quyên góp",
+      "description": "Cho chúng tôi biết về đợt quyên góp dự định của bạn và chúng tôi sẽ liên hệ để giúp bạn bắt đầu.",
+      "name": "Họ tên của bạn",
+      "email": "Địa chỉ email",
+      "organization": "Tên tổ chức/công ty",
+      "location": "Địa điểm tổ chức",
+      "dates": "Ngày dự kiến",
+      "datesPlaceholder": "ví dụ: 15-22 tháng 3, 2025",
+      "details": "Cho chúng tôi biết về đợt quyên góp của bạn",
+      "note": "Lưu ý: Biểu mẫu này chưa được kết nối với hệ thống. Để được hỗ trợ ngay, vui lòng email chúng tôi tại info@freegeek.org.",
+      "submit": "Đăng ký đợt quyên góp"
     },
     "cta": {
-      "title": "Questions about hosting a drive?",
-      "description": "Our team is here to help you plan a successful tech collection event."
+      "title": "Có câu hỏi về việc tổ chức đợt quyên góp?",
+      "description": "Đội ngũ của chúng tôi sẵn sàng giúp bạn lên kế hoạch sự kiện thu gom thiết bị thành công."
     }
   },
   "ambassador": {
     "hero": {
-      "title1": "Become a Free Geek",
-      "title2": "Ambassador.",
-      "description": "Join our network of passionate advocates spreading the word about digital equity in their communities. No technical experience required—just enthusiasm for our mission.",
-      "cta": "Apply to be an Ambassador"
+      "title1": "Trở thành Đại sứ",
+      "title2": "Free Geek.",
+      "description": "Tham gia mạng lưới những người ủng hộ nhiệt tình lan tỏa thông tin về công bằng kỹ thuật số trong cộng đồng của họ. Không cần kinh nghiệm kỹ thuật—chỉ cần nhiệt huyết với sứ mệnh của chúng tôi.",
+      "cta": "Đăng ký làm Đại sứ"
     },
     "what": {
-      "title": "What Do Ambassadors Do?",
+      "title": "Đại sứ làm gì?",
       "social": {
-        "title": "Share on Social",
-        "description": "Post about Free Geek on your social media channels and help spread awareness."
+        "title": "Chia sẻ trên mạng xã hội",
+        "description": "Đăng bài về Free Geek trên các kênh mạng xã hội của bạn và giúp lan tỏa nhận thức."
       },
       "network": {
-        "title": "Tap Your Network",
-        "description": "Tell friends, family, and colleagues about our programs and donation opportunities."
+        "title": "Tận dụng mạng lưới của bạn",
+        "description": "Kể cho bạn bè, gia đình và đồng nghiệp về các chương trình và cơ hội quyên góp của chúng tôi."
       },
       "events": {
-        "title": "Represent at Events",
-        "description": "Represent Free Geek at community events, fairs, and partner gatherings."
+        "title": "Đại diện tại sự kiện",
+        "description": "Đại diện Free Geek tại các sự kiện cộng đồng, hội chợ và các buổi họp mặt đối tác."
       },
       "fundraise": {
-        "title": "Lead Fundraising",
-        "description": "Organize peer-to-peer fundraising campaigns to support our mission."
+        "title": "Dẫn dắt gây quỹ",
+        "description": "Tổ chức các chiến dịch gây quỹ ngang hàng để hỗ trợ sứ mệnh của chúng tôi."
       }
     },
     "benefits": {
-      "title": "Ambassador Benefits",
-      "description": "We support our ambassadors with resources and recognition for their efforts.",
+      "title": "Quyền lợi Đại sứ",
+      "description": "Chúng tôi hỗ trợ đại sứ với nguồn lực và ghi nhận cho những nỗ lực của họ.",
       "training": {
-        "title": "Ambassador Training",
-        "description": "Learn about Free Geek's programs, impact, and talking points to share our story effectively."
+        "title": "Đào tạo Đại sứ",
+        "description": "Tìm hiểu về các chương trình, tác động của Free Geek và các điểm nói chuyện để chia sẻ câu chuyện của chúng tôi hiệu quả."
       },
       "materials": {
-        "title": "Marketing Materials",
-        "description": "Access to digital and print materials, graphics, and templates for your outreach."
+        "title": "Tài liệu tiếp thị",
+        "description": "Truy cập tài liệu số và in ấn, đồ họa và mẫu cho hoạt động tiếp cận của bạn."
       },
       "recognition": {
-        "title": "Recognition & Swag",
-        "description": "Receive Free Geek merchandise and recognition for your contributions."
+        "title": "Ghi nhận & Quà tặng",
+        "description": "Nhận hàng hóa Free Geek và ghi nhận cho những đóng góp của bạn."
       },
       "community": {
-        "title": "Ambassador Community",
-        "description": "Connect with fellow ambassadors and share ideas and successes."
+        "title": "Cộng đồng Đại sứ",
+        "description": "Kết nối với các đại sứ khác và chia sẻ ý tưởng và thành công."
       },
       "tech": {
-        "title": "Tech Discounts",
-        "description": "Access to discounted refurbished technology from our shop."
+        "title": "Giảm giá thiết bị",
+        "description": "Truy cập thiết bị công nghệ tân trang giảm giá từ cửa hàng của chúng tôi."
       },
       "impact": {
-        "title": "Real Impact",
-        "description": "Know you're making a tangible difference in closing the digital divide."
+        "title": "Tác động thực sự",
+        "description": "Biết rằng bạn đang tạo ra sự khác biệt thực sự trong việc thu hẹp khoảng cách số."
       }
     },
     "requirements": {
-      "title": "What We're Looking For",
-      "item1": "Passion for Free Geek's mission of digital equity and sustainability",
-      "item2": "Active presence on social media or strong community connections",
-      "item3": "Willingness to commit a few hours per month to ambassador activities",
-      "item4": "Positive, professional representation of Free Geek in all interactions"
+      "title": "Chúng tôi tìm kiếm",
+      "item1": "Nhiệt huyết với sứ mệnh công bằng kỹ thuật số và bền vững của Free Geek",
+      "item2": "Hoạt động tích cực trên mạng xã hội hoặc có kết nối cộng đồng mạnh mẽ",
+      "item3": "Sẵn sàng cam kết vài giờ mỗi tháng cho các hoạt động đại sứ",
+      "item4": "Đại diện tích cực, chuyên nghiệp cho Free Geek trong mọi tương tác"
     },
     "form": {
-      "title": "Apply to be an Ambassador",
-      "description": "Tell us about yourself and why you want to join our ambassador network.",
-      "name": "Your Name",
-      "email": "Email Address",
-      "social": "Social Media Handles",
-      "socialPlaceholder": "@username on Instagram, Twitter, LinkedIn, etc.",
-      "why": "Why do you want to be an Ambassador?",
-      "ideas": "Any ideas for how you'd spread the word about Free Geek?",
-      "note": "Note: This form is not yet connected to a backend. For immediate assistance, please email us at info@freegeek.org.",
-      "submit": "Submit Application"
+      "title": "Đăng ký làm Đại sứ",
+      "description": "Cho chúng tôi biết về bạn và lý do bạn muốn tham gia mạng lưới đại sứ của chúng tôi.",
+      "name": "Họ tên của bạn",
+      "email": "Địa chỉ email",
+      "social": "Tài khoản mạng xã hội",
+      "socialPlaceholder": "@username trên Instagram, Twitter, LinkedIn, v.v.",
+      "why": "Tại sao bạn muốn trở thành Đại sứ?",
+      "ideas": "Bạn có ý tưởng gì để lan tỏa thông tin về Free Geek?",
+      "note": "Lưu ý: Biểu mẫu này chưa được kết nối với hệ thống. Để được hỗ trợ ngay, vui lòng email chúng tôi tại info@freegeek.org.",
+      "submit": "Gửi đơn đăng ký"
     },
     "cta": {
-      "title": "Not ready to be an Ambassador?",
-      "description": "There are many other ways to support Free Geek's mission.",
-      "otherWays": "Explore Volunteer Opportunities"
+      "title": "Chưa sẵn sàng trở thành Đại sứ?",
+      "description": "Có nhiều cách khác để hỗ trợ sứ mệnh của Free Geek.",
+      "otherWays": "Khám phá các cơ hội tình nguyện"
     }
   },
   "ourProcess": {
     "hero": {
-      "title1": "Our Process:",
-      "title2": "From donation to distribution.",
-      "description": "Every device that comes through our doors goes through a careful process to maximize its potential while protecting your data and our planet."
+      "title1": "Quy trình của chúng tôi:",
+      "title2": "Từ quyên góp đến phân phối.",
+      "description": "Mọi thiết bị đến với chúng tôi đều trải qua quy trình cẩn thận để tối đa hóa tiềm năng trong khi bảo vệ dữ liệu của bạn và hành tinh của chúng ta."
     },
     "intake": {
-      "title": "1. Donation Intake",
-      "description": "When you drop off your devices, our team receives and catalogs each item. Data-bearing devices are immediately flagged and routed to our secure data area."
+      "title": "1. Tiếp nhận quyên góp",
+      "description": "Khi bạn giao thiết bị, đội ngũ của chúng tôi tiếp nhận và ghi nhận từng thiết bị. Các thiết bị lưu trữ dữ liệu được đánh dấu ngay và chuyển đến khu vực dữ liệu bảo mật."
     },
     "security": {
-      "title": "2. Data Security",
-      "description": "All hard drives and storage devices undergo NIST SP800-88 compliant data sanitization. We're i-SIGMA certified, meaning your data is handled with the same care used by government agencies.",
-      "cta": "Learn About Data Security"
+      "title": "2. Bảo mật dữ liệu",
+      "description": "Tất cả ổ cứng và thiết bị lưu trữ được xóa dữ liệu theo tiêu chuẩn NIST SP800-88. Chúng tôi được chứng nhận i-SIGMA, có nghĩa là dữ liệu của bạn được xử lý với sự cẩn thận như các cơ quan chính phủ.",
+      "cta": "Tìm hiểu về bảo mật dữ liệu"
     },
     "assessment": {
-      "title": "3. Assessment",
-      "description": "Trained technicians evaluate each device to determine if it can be refurbished for reuse or should be recycled for materials recovery."
+      "title": "3. Đánh giá",
+      "description": "Kỹ thuật viên được đào tạo đánh giá từng thiết bị để xác định xem có thể tân trang để tái sử dụng hay nên tái chế để thu hồi vật liệu."
     },
     "breakdown": {
-      "title": "Reuse vs. Recycle",
+      "title": "Tái sử dụng vs. Tái chế",
       "refurbish": {
         "stat": "~30%",
-        "title": "Refurbished for Reuse",
-        "description": "Devices that pass assessment are cleaned, repaired, upgraded with fresh operating systems, and tested for quality assurance."
+        "title": "Tân trang để tái sử dụng",
+        "description": "Thiết bị đạt đánh giá được làm sạch, sửa chữa, nâng cấp với hệ điều hành mới và kiểm tra chất lượng."
       },
       "recycle": {
         "stat": "~70%",
-        "title": "Responsibly Recycled",
-        "description": "Devices that can't be refurbished are broken down for materials recovery through our certified recycling partners."
+        "title": "Tái chế có trách nhiệm",
+        "description": "Thiết bị không thể tân trang được tháo rời để thu hồi vật liệu qua các đối tác tái chế được chứng nhận."
       }
     },
     "departments": {
-      "title": "Our Rebuild Departments",
+      "title": "Các bộ phận tân trang",
       "laptops": {
-        "title": "Laptops",
-        "description": "Our most in-demand devices. Refurbished with Linux Mint and distributed through our programs."
+        "title": "Laptop",
+        "description": "Thiết bị được yêu cầu nhiều nhất. Được tân trang với Linux Mint và phân phối qua các chương trình của chúng tôi."
       },
       "desktops": {
-        "title": "Desktops",
-        "description": "Full desktop systems rebuilt for home and office use."
+        "title": "Máy tính để bàn",
+        "description": "Hệ thống máy tính để bàn hoàn chỉnh được tân trang cho sử dụng tại nhà và văn phòng."
       },
       "macland": {
         "title": "Macland",
-        "description": "Dedicated team for Apple devices—MacBooks, iMacs, and Mac Minis."
+        "description": "Đội ngũ chuyên biệt cho thiết bị Apple—MacBook, iMac và Mac Mini."
       },
       "other": {
-        "title": "Other Devices",
-        "description": "Tablets, smartphones, monitors, and peripherals."
+        "title": "Thiết bị khác",
+        "description": "Máy tính bảng, điện thoại thông minh, màn hình và thiết bị ngoại vi."
       }
     },
     "distribution": {
-      "title": "4. Distribution",
-      "description": "Refurbished devices find new homes through our community programs, hardware grants, and online shop. Each device helps bridge the digital divide.",
-      "programs": "Learn About Our Programs"
+      "title": "4. Phân phối",
+      "description": "Thiết bị tân trang tìm được chủ mới qua các chương trình cộng đồng, tài trợ phần cứng và cửa hàng trực tuyến. Mỗi thiết bị giúp thu hẹp khoảng cách số.",
+      "programs": "Tìm hiểu về các chương trình"
     },
     "cta": {
-      "title": "Ready to donate your tech?",
-      "description": "Your old devices can help someone in need while staying out of landfills."
+      "title": "Sẵn sàng quyên góp thiết bị?",
+      "description": "Thiết bị cũ của bạn có thể giúp ai đó có nhu cầu trong khi tránh khỏi bãi rác."
     }
   },
   "supportPage": {
     "hero": {
-      "title1": "Digital Navigation",
-      "title2": "Support",
-      "description": "Get help setting up your device, navigating the internet, and building digital skills with one-on-one support from our Digital Navigation team."
+      "title1": "Hỗ trợ",
+      "title2": "Hướng dẫn kỹ thuật số",
+      "description": "Nhận trợ giúp cài đặt thiết bị, sử dụng internet và xây dựng kỹ năng số với hỗ trợ trực tiếp từ đội ngũ Người hướng dẫn kỹ thuật số."
     },
     "notice": {
-      "title": "Important Notice",
-      "description": "Direct tech support services were discontinued in October 2022. However, we continue to provide comprehensive support through our Digital Navigation program for eligible participants."
+      "title": "Thông báo quan trọng",
+      "description": "Dịch vụ hỗ trợ kỹ thuật trực tiếp đã ngừng vào tháng 10 năm 2022. Tuy nhiên, chúng tôi tiếp tục cung cấp hỗ trợ toàn diện qua chương trình Hướng dẫn kỹ thuật số cho những người đủ điều kiện."
     },
     "warranty": {
-      "title": "Device Replacement Warranty",
-      "description": "If you received a computer through one of our programs, your device comes with a one-year warranty. If your device has issues during the warranty period, contact us for support.",
-      "eligible": "Eligible devices include computers received through:",
+      "title": "Bảo hành thay thế thiết bị",
+      "description": "Nếu bạn nhận máy tính qua một trong các chương trình của chúng tôi, thiết bị của bạn đi kèm bảo hành một năm. Nếu thiết bị có vấn đề trong thời gian bảo hành, liên hệ chúng tôi để được hỗ trợ.",
+      "eligible": "Thiết bị đủ điều kiện bao gồm máy tính nhận qua:",
       "programs": {
         "pip": "Plug Into Portland",
         "geekbox": "Gift a Geekbox",
-        "grants": "Hardware Grants Program"
+        "grants": "Chương trình tài trợ phần cứng"
       },
-      "contact": "For warranty support, contact:"
+      "contact": "Để được hỗ trợ bảo hành, liên hệ:"
     },
     "navigation": {
-      "title": "1:1 Digital Navigator Support",
-      "description": "Our Digital Navigators provide personalized support to help you:",
-      "item1": "Set up and configure your new device",
-      "item2": "Get connected to the internet",
-      "item3": "Learn to use essential software and applications",
-      "item4": "Stay safe online with cybersecurity basics",
-      "item5": "Access telehealth, job applications, and essential services",
-      "cta": "Schedule an Appointment"
+      "title": "Hỗ trợ Người hướng dẫn kỹ thuật số 1:1",
+      "description": "Người hướng dẫn kỹ thuật số của chúng tôi cung cấp hỗ trợ cá nhân hóa để giúp bạn:",
+      "item1": "Cài đặt và cấu hình thiết bị mới",
+      "item2": "Kết nối internet",
+      "item3": "Học cách sử dụng phần mềm và ứng dụng thiết yếu",
+      "item4": "An toàn trực tuyến với kiến thức bảo mật cơ bản",
+      "item5": "Truy cập dịch vụ y tế từ xa, đơn xin việc và các dịch vụ thiết yếu",
+      "cta": "Đặt lịch hẹn"
     },
     "programs": {
-      "title": "Programs Covered",
-      "description": "Digital Navigation support is available to participants in the following programs:",
+      "title": "Các chương trình được hỗ trợ",
+      "description": "Hỗ trợ Hướng dẫn kỹ thuật số có sẵn cho người tham gia các chương trình sau:",
       "pip": {
         "title": "Plug Into Portland",
-        "description": "Free laptop recipients receive ongoing support from our Digital Navigation team."
+        "description": "Người nhận laptop miễn phí được hỗ trợ liên tục từ đội ngũ Hướng dẫn kỹ thuật số."
       },
       "geekbox": {
         "title": "Gift a Geekbox",
-        "description": "Desktop computer recipients can access support services."
+        "description": "Người nhận máy tính để bàn có thể tiếp cận dịch vụ hỗ trợ."
       },
       "grants": {
-        "title": "Hardware Grants",
-        "description": "Organizations receiving hardware grants can refer their clients for support."
+        "title": "Tài trợ phần cứng",
+        "description": "Các tổ chức nhận tài trợ phần cứng có thể giới thiệu khách hàng để được hỗ trợ."
       },
       "digitalNav": {
-        "title": "Digital Navigation Program",
-        "description": "Anyone enrolled in our Digital Navigation program."
+        "title": "Chương trình Hướng dẫn kỹ thuật số",
+        "description": "Bất kỳ ai đăng ký tham gia chương trình Hướng dẫn kỹ thuật số của chúng tôi."
       }
     },
     "contact": {
-      "title": "Contact Support",
+      "title": "Liên hệ hỗ trợ",
       "phone": "503-232-9350 ext 101",
       "email": "computerfriends@freegeek.org",
-      "hours": "Wednesday - Saturday, 11 AM - 4 PM"
+      "hours": "Thứ Tư - Thứ Bảy, 11 AM - 4 PM"
     },
     "cta": {
-      "title": "Need a computer first?",
-      "description": "Apply for a free laptop through our Plug Into Portland program."
+      "title": "Cần máy tính trước?",
+      "description": "Đăng ký nhận laptop miễn phí qua chương trình Plug Into Portland."
     }
   },
   "location": {
     "hero": {
-      "title1": "Visit",
+      "title1": "Ghé thăm",
       "title2": "Free Geek",
-      "description": "Drop off tech donations, pick up a computer, or just stop by to see what we do. We're located in the heart of Portland's inner Southeast."
+      "description": "Giao quyên góp thiết bị, nhận máy tính, hoặc chỉ ghé qua để xem chúng tôi làm gì. Chúng tôi nằm ở trung tâm khu Đông Nam Portland."
     },
     "address": {
-      "title": "Our Location",
+      "title": "Địa chỉ của chúng tôi",
       "street": "1731 SE 10th Avenue",
       "city": "Portland, OR 97214",
-      "mapLink": "View on Google Maps"
+      "mapLink": "Xem trên Google Maps"
     },
     "hours": {
-      "title": "Hours",
+      "title": "Giờ làm việc",
       "days": {
-        "wed": "Wednesday",
-        "thu": "Thursday",
-        "fri": "Friday",
-        "sat": "Saturday",
-        "sunTue": "Sunday - Tuesday"
+        "wed": "Thứ Tư",
+        "thu": "Thứ Năm",
+        "fri": "Thứ Sáu",
+        "sat": "Thứ Bảy",
+        "sunTue": "Chủ Nhật - Thứ Ba"
       },
       "open": "11 AM - 4 PM",
-      "closed": "Closed"
+      "closed": "Đóng cửa"
     },
     "getting": {
-      "title": "Getting Here",
+      "title": "Cách đến đây",
       "transit": {
-        "title": "By Transit",
-        "description": "TriMet bus lines 2, 6, 10, 14, and 70 stop nearby. The closest MAX stop is SE Grand & Taylor on the Orange/Yellow lines."
+        "title": "Bằng xe buýt",
+        "description": "Tuyến xe buýt TriMet 2, 6, 10, 14 và 70 dừng gần đây. Trạm MAX gần nhất là SE Grand & Taylor trên tuyến Orange/Yellow."
       },
       "bike": {
-        "title": "By Bike",
-        "description": "Bike parking is available near our entrance. We're located on the Neighborhood Greenway."
+        "title": "Bằng xe đạp",
+        "description": "Có chỗ đậu xe đạp gần lối vào. Chúng tôi nằm trên Neighborhood Greenway."
       },
       "car": {
-        "title": "By Car",
-        "description": "Street parking is available on SE 10th Avenue and surrounding streets. Our donation drop-off area has dedicated parking."
+        "title": "Bằng ô tô",
+        "description": "Có chỗ đậu xe trên đường SE 10th Avenue và các đường xung quanh. Khu vực giao quyên góp có bãi đỗ xe riêng."
       }
     },
     "entrances": {
-      "title": "Building Entrances",
+      "title": "Lối vào tòa nhà",
       "donations": {
-        "title": "Donations",
-        "description": "North side of building - Drive up to the outdoor parking lot on the northeast corner for tech drop-offs."
+        "title": "Quyên góp",
+        "description": "Phía bắc tòa nhà - Lái xe đến bãi đỗ xe ngoài trời ở góc đông bắc để giao thiết bị."
       },
       "info": {
-        "title": "Info & Volunteering",
-        "description": "Main entrance on SE 10th Avenue - Visit our front desk for information, volunteering, or general inquiries."
+        "title": "Thông tin & Tình nguyện",
+        "description": "Lối vào chính trên SE 10th Avenue - Đến quầy lễ tân để được thông tin, tình nguyện, hoặc hỏi đáp chung."
       },
       "shop": {
-        "title": "Shop Pickup",
-        "description": "South entrance - For local pickup of online store purchases."
+        "title": "Nhận hàng cửa hàng",
+        "description": "Lối vào phía nam - Để nhận hàng mua trực tuyến tại địa phương."
       }
     },
     "cta": {
-      "title": "Ready to visit?",
-      "description": "We look forward to seeing you! Drop in during our open hours—no appointment needed for small donations."
+      "title": "Sẵn sàng ghé thăm?",
+      "description": "Chúng tôi mong được gặp bạn! Ghé qua trong giờ mở cửa—không cần hẹn trước cho quyên góp nhỏ."
     }
   },
   "largeDonation": {
     "hero": {
-      "title1": "Schedule a",
-      "title2": "Large Donation",
-      "description": "Have 20+ devices to donate? Schedule ahead so we can ensure we have space and staff ready to receive your donation efficiently."
+      "title1": "Đặt lịch",
+      "title2": "quyên góp lớn",
+      "description": "Có 20+ thiết bị để quyên góp? Đặt lịch trước để chúng tôi đảm bảo có chỗ và nhân viên sẵn sàng tiếp nhận quyên góp của bạn hiệu quả."
     },
     "what": {
-      "title": "What Counts as a Large Donation?",
-      "description": "If you have 20 or more devices to donate, we ask that you schedule ahead. This includes:",
-      "item1": "Office cleanouts and IT refreshes",
-      "item2": "School and library donations",
-      "item3": "Estate donations",
-      "item4": "Community collection drives"
+      "title": "Thế nào là quyên góp lớn?",
+      "description": "Nếu bạn có 20 thiết bị trở lên để quyên góp, chúng tôi đề nghị bạn đặt lịch trước. Bao gồm:",
+      "item1": "Dọn dẹp văn phòng và thay mới thiết bị CNTT",
+      "item2": "Quyên góp từ trường học và thư viện",
+      "item3": "Quyên góp từ di sản",
+      "item4": "Các đợt thu gom cộng đồng"
     },
     "pickup": {
-      "title": "Pickup Service",
-      "description": "For very large donations (100+ devices) or donors who cannot transport items, we offer pickup service in the Portland metro area.",
-      "note": "Pickup availability depends on our schedule and resources. Contact us to discuss options."
+      "title": "Dịch vụ nhận hàng",
+      "description": "Đối với quyên góp rất lớn (100+ thiết bị) hoặc người quyên góp không thể vận chuyển, chúng tôi cung cấp dịch vụ nhận hàng trong khu vực Portland.",
+      "note": "Khả năng nhận hàng phụ thuộc vào lịch trình và nguồn lực của chúng tôi. Liên hệ để thảo luận các tùy chọn."
     },
     "form": {
-      "title": "Schedule Your Donation",
-      "description": "Tell us about your donation and we'll contact you to schedule a time.",
-      "name": "Your Name",
-      "email": "Email Address",
-      "phone": "Phone Number",
-      "organization": "Organization (if applicable)",
-      "deviceCount": "Estimated Number of Devices",
-      "deviceTypes": "Types of Devices",
-      "deviceTypesPlaceholder": "e.g., 15 laptops, 10 desktops, 5 monitors...",
-      "preferredDate": "Preferred Date(s)",
-      "preferredDatePlaceholder": "e.g., Week of January 15, or specific dates...",
-      "needPickup": "Do you need pickup service?",
-      "pickupYes": "Yes, I need pickup",
-      "pickupNo": "No, I can drop off",
-      "pickupAddress": "Pickup Address",
-      "notes": "Additional Notes",
-      "notesPlaceholder": "Any other details about your donation...",
-      "submit": "Request Scheduling",
-      "submitting": "Submitting...",
-      "success": "Request Submitted!",
-      "successMessage": "Thank you! We'll contact you within 2 business days to confirm your donation appointment.",
-      "error": "Failed to submit request"
+      "title": "Đặt lịch quyên góp",
+      "description": "Cho chúng tôi biết về quyên góp của bạn và chúng tôi sẽ liên hệ để đặt lịch.",
+      "name": "Họ tên của bạn",
+      "email": "Địa chỉ email",
+      "phone": "Số điện thoại",
+      "organization": "Tổ chức (nếu có)",
+      "deviceCount": "Số lượng thiết bị ước tính",
+      "deviceTypes": "Loại thiết bị",
+      "deviceTypesPlaceholder": "ví dụ: 15 laptop, 10 máy tính để bàn, 5 màn hình...",
+      "preferredDate": "Ngày ưu tiên",
+      "preferredDatePlaceholder": "ví dụ: Tuần 15 tháng 1, hoặc ngày cụ thể...",
+      "needPickup": "Bạn có cần dịch vụ nhận hàng không?",
+      "pickupYes": "Có, tôi cần nhận hàng",
+      "pickupNo": "Không, tôi có thể giao trực tiếp",
+      "pickupAddress": "Địa chỉ nhận hàng",
+      "notes": "Ghi chú bổ sung",
+      "notesPlaceholder": "Bất kỳ chi tiết nào khác về quyên góp của bạn...",
+      "submit": "Yêu cầu đặt lịch",
+      "submitting": "Đang gửi...",
+      "success": "Yêu cầu đã gửi!",
+      "successMessage": "Cảm ơn bạn! Chúng tôi sẽ liên hệ trong vòng 2 ngày làm việc để xác nhận lịch hẹn quyên góp.",
+      "error": "Không gửi được yêu cầu"
     },
     "dropOff": {
-      "title": "Drop-Off Information",
+      "title": "Thông tin giao trực tiếp",
       "address": "1731 SE 10th Avenue, Portland, OR 97214",
-      "hours": "Wednesday - Saturday, 11 AM - 4 PM",
-      "note": "Please bring donations to the outdoor parking lot on the northeast side of our building."
+      "hours": "Thứ Tư - Thứ Bảy, 11 AM - 4 PM",
+      "note": "Vui lòng mang quyên góp đến bãi đỗ xe ngoài trời ở phía đông bắc tòa nhà."
     },
     "cta": {
-      "title": "Have a smaller donation?",
-      "description": "For under 20 devices, no appointment needed. Just drive up during our drop-off hours."
+      "title": "Có quyên góp nhỏ hơn?",
+      "description": "Đối với dưới 20 thiết bị, không cần hẹn trước. Chỉ cần đến trong giờ tiếp nhận."
     }
   }
 }
