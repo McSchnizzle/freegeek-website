@@ -5,8 +5,14 @@ import { fileURLToPath } from 'url';
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const projectRoot = path.join(__dirname, '..');
 
-// Gemini API key from aiready-websites
-const API_KEY = 'REDACTED_API_KEY';
+// Gemini API key from environment variable
+const API_KEY = process.env.GEMINI_API_KEY;
+
+if (!API_KEY) {
+  console.error('Error: GEMINI_API_KEY environment variable is not set');
+  console.error('Set it with: export GEMINI_API_KEY=your_api_key');
+  process.exit(1);
+}
 const API_URL = 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-exp:generateContent';
 
 // Free Geek style guide based on their existing illustrations:
