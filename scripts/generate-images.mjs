@@ -55,8 +55,16 @@ No text in the image.`
     prompt: `${STYLE_GUIDE}
 Create a flat vector illustration showing digital inclusion and community connection.
 Scene: Diverse people of different ages, backgrounds, and abilities all connected through technology.
-Include: Multiple people using laptops/tablets, connection lines between them, a sense of community.
-Show diversity: elderly person, young student, person in wheelchair, different ethnicities.
+
+CRITICAL - SKIN TONE DIVERSITY: Include people with a wide range of skin tones:
+- Light/pale skin tones
+- Medium/olive skin tones
+- Brown skin tones
+- Dark brown/deep skin tones
+Represent at least 4 distinctly different skin colors among the figures.
+
+Include: 10-12 people using laptops/tablets, connection lines between them, a sense of community.
+Show diversity: elderly person with gray hair, young student, person in wheelchair, different ethnicities and skin colors, varied gender presentations, someone with natural/textured hair like braids or an afro.
 Mood: Connected, inclusive, empowering.
 No text in the image.`
   },

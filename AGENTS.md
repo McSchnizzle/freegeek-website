@@ -136,6 +136,32 @@ This helps understand evolution, past decisions, and avoid repeating mistakes.
 - Do NOT create markdown TODO lists
 - Do NOT duplicate tracking systems
 
+### Image & Icon Style Guide
+
+Follow the visual guidelines in `history/image-style-guide.md` for all new or updated artwork (heroes, icons, badges). Keep illustrations consistent in style/palette, use varied skin tones/gender expressions, and avoid mixing photos with line art unless explicitly required.
+
+### Image Generation
+
+**You have image generation capabilities!** Use `scripts/generate-images.mjs` to generate illustrations:
+
+```bash
+# Generate all images defined in the script
+node scripts/generate-images.mjs
+
+# Requires GEMINI_API_KEY in environment (loaded via dotenv from .env)
+```
+
+The script uses Gemini 2.0 Flash for image generation. To generate a single image or add new ones:
+1. Add/modify entries in the `images` array in the script
+2. Run the script
+3. Images are saved to the specified `path`
+
+When creating prompts, always include the `STYLE_GUIDE` prefix and emphasize:
+- Skin tone diversity (light, medium, brown, dark brown)
+- Age diversity (young, middle-aged, elderly)
+- Ability diversity (wheelchair users, varied presentations)
+- Gender diversity (masculine, feminine, androgynous)
+
 ### QA / Verification Workflow
 
 Before closing any bd issue, follow the checklist in `history/qa-workflow.md`. Key points:

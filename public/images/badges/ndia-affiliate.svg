@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" fill="none">
+  <circle cx="60" cy="60" r="56" stroke="#2563EB" stroke-width="3" fill="white"/>
+  <circle cx="60" cy="60" r="48" stroke="#2563EB" stroke-width="1" fill="none"/>
+  <circle cx="60" cy="48" r="12" stroke="#2563EB" stroke-width="2" fill="none"/>
+  <path d="M48 62C48 62 52 70 60 70C68 70 72 62 72 62" stroke="#2563EB" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="45" cy="55" r="5" stroke="#2563EB" stroke-width="1.5" fill="none"/>
+  <circle cx="75" cy="55" r="5" stroke="#2563EB" stroke-width="1.5" fill="none"/>
+  <text x="60" y="85" text-anchor="middle" font-family="system-ui, sans-serif" font-size="8" font-weight="bold" fill="#2563EB">NDIA</text>
+  <text x="60" y="94" text-anchor="middle" font-family="system-ui, sans-serif" font-size="5" fill="#666">AFFILIATE</text>
+</svg>

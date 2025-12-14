@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" fill="none">
+  <circle cx="60" cy="60" r="56" stroke="#2563EB" stroke-width="3" fill="white"/>
+  <circle cx="60" cy="60" r="48" stroke="#2563EB" stroke-width="1" fill="none"/>
+  <text x="60" y="32" text-anchor="middle" font-family="system-ui, sans-serif" font-size="8" font-weight="600" fill="#2563EB">#4</text>
+  <text x="60" y="46" text-anchor="middle" font-family="system-ui, sans-serif" font-size="7" font-weight="bold" fill="#2563EB">MOST</text>
+  <text x="60" y="57" text-anchor="middle" font-family="system-ui, sans-serif" font-size="7" font-weight="bold" fill="#2563EB">ADMIRED</text>
+  <text x="60" y="70" text-anchor="middle" font-family="system-ui, sans-serif" font-size="6" fill="#666">TECH COMPANY</text>
+  <path d="M40 78H80" stroke="#2563EB" stroke-width="1"/>
+  <text x="60" y="88" text-anchor="middle" font-family="system-ui, sans-serif" font-size="5" fill="#666">PORTLAND</text>
+  <text x="60" y="96" text-anchor="middle" font-family="system-ui, sans-serif" font-size="5" fill="#666">BUSINESS JOURNAL</text>
+  <text x="60" y="106" text-anchor="middle" font-family="system-ui, sans-serif" font-size="5" font-weight="500" fill="#2563EB">2024</text>
+</svg>

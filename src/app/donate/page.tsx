@@ -159,7 +159,7 @@ export default async function DonatePage() {
             {t('tax.description')}
           </p>
           <p className="text-gray-400">
-            EIN: 93-1243063
+            EIN: 93-1292010
           </p>
         </div>
       </Section>

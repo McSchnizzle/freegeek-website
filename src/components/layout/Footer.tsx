@@ -48,18 +48,27 @@ export async function Footer() {
     {
       nameKey: 'isigma',
       href: 'https://isigma.org/',
+      image: '/images/badges/isigma-certified.svg',
     },
     {
       nameKey: 'ndia',
       href: 'https://www.digitalinclusion.org/',
+      image: '/images/badges/ndia-affiliate.svg',
     },
     {
       nameKey: 'bestNonprofits',
-      href: null,
+      href: 'https://oregonbusiness.com/category/100-best-non-profits/',
+      image: '/images/badges/100-best-nonprofits-official.png',
     },
     {
       nameKey: 'greenWorkplaces',
-      href: null,
+      href: 'https://oregonbusiness.com/category/100-best-green/',
+      image: '/images/badges/100-best-green-official.png',
+    },
+    {
+      nameKey: 'mostAdmiredTech',
+      href: 'https://www.bizjournals.com/portland/news/most-admired-companies',
+      image: '/images/badges/pbj-most-admired-tech.svg',
     },
   ];
 
@@ -163,32 +172,25 @@ export async function Footer() {
         {/* Recognition Badges */}
         <div className="border-t border-gray-800 pt-8 mb-8">
           <h3 className="text-sm font-semibold text-gray-400 mb-4 text-center">{t('recognition.title')}</h3>
-          <div className="flex flex-wrap justify-center gap-6">
+          <div className="flex flex-wrap justify-center items-center gap-6">
             {recognitionBadges.map((badge) => (
-              badge.href ? (
-                <a
-                  key={badge.nameKey}
-                  href={badge.href}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="group flex items-center gap-2 px-4 py-2 bg-gray-900 rounded-lg hover:bg-gray-800 transition-colors"
-                  title={t(`recognition.${badge.nameKey}.description`)}
-                >
-                  <span className="text-sm text-gray-300 group-hover:text-white">{t(`recognition.${badge.nameKey}.name`)}</span>
-                  <svg className="w-3 h-3 text-gray-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" />
-                  </svg>
-                  <span className="sr-only"> {common('opensNewTab')}</span>
-                </a>
-              ) : (
-                <span
-                  key={badge.nameKey}
-                  className="flex items-center gap-2 px-4 py-2 bg-gray-900 rounded-lg"
-                  title={t(`recognition.${badge.nameKey}.description`)}
-                >
-                  <span className="text-sm text-gray-300">{t(`recognition.${badge.nameKey}.name`)}</span>
-                </span>
-              )
+              <a
+                key={badge.nameKey}
+                href={badge.href}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="group flex flex-col items-center gap-2 p-3 rounded-lg hover:bg-gray-900 transition-colors"
+                title={t(`recognition.${badge.nameKey}.description`)}
+              >
+                <Image
+                  src={badge.image}
+                  alt={t(`recognition.${badge.nameKey}.name`)}
+                  width={80}
+                  height={80}
+                  className="opacity-90 group-hover:opacity-100 transition-opacity"
+                />
+                <span className="sr-only">{t(`recognition.${badge.nameKey}.name`)} - {common('opensNewTab')}</span>
+              </a>
             ))}
           </div>
         </div>

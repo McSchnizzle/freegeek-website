@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" fill="none">
+  <circle cx="60" cy="60" r="56" stroke="#00A0B0" stroke-width="3" fill="white"/>
+  <circle cx="60" cy="60" r="48" stroke="#00A0B0" stroke-width="1" fill="none"/>
+  <path d="M60 25L65 35H55L60 25Z" fill="#00A0B0"/>
+  <path d="M60 95L55 85H65L60 95Z" fill="#00A0B0"/>
+  <rect x="45" y="42" width="30" height="22" rx="2" stroke="#00A0B0" stroke-width="2" fill="none"/>
+  <path d="M52 53L57 58L68 47" stroke="#00A0B0" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="60" y="78" text-anchor="middle" font-family="system-ui, sans-serif" font-size="8" font-weight="bold" fill="#00A0B0">i-SIGMA</text>
+  <text x="60" y="88" text-anchor="middle" font-family="system-ui, sans-serif" font-size="6" fill="#666">CERTIFIED</text>
+</svg>

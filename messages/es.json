@@ -53,7 +53,7 @@
     },
     "tagline": "Reutilizando tecnología de manera sostenible, habilitando el acceso digital y empoderando comunidades desde el año 2000.",
     "copyright": "Free Geek. Organización sin fines de lucro 501(c)(3).",
-    "ein": "EIN: 93-1243063",
+    "ein": "EIN: 93-1292010",
     "support": {
       "title": "Soporte",
       "phone": "503-232-9350 ext 101",
@@ -101,6 +101,10 @@
       "greenWorkplaces": {
         "name": "100 mejores lugares de trabajo ecológicos",
         "description": "100 mejores lugares de trabajo ecológicos en Oregon 2024 de Oregon Business"
+      },
+      "mostAdmiredTech": {
+        "name": "#4 empresa tecnológica más admirada",
+        "description": "Las empresas más admiradas de Oregon de Portland Business Journal 2024"
       }
     }
   },
@@ -639,7 +643,7 @@
     "tax": {
       "title": "Donaciones Deducibles de Impuestos",
       "description": "Free Geek es una organización sin fines de lucro 501(c)(3). Tu donación es deducible de impuestos en la medida permitida por la ley.",
-      "ein": "EIN: 93-1243063"
+      "ein": "EIN: 93-1292010"
     },
     "cta": {
       "title": "¿Listo para hacer la diferencia?",
@@ -1398,7 +1402,7 @@
       "title": "Beneficios de Deducción Fiscal",
       "p1": "Como organización sin fines de lucro 501(c)(3), las donaciones a Free Geek pueden ser deducibles de impuestos. Proporcionamos documentación de los artículos donados para apoyar tus declaraciones fiscales.",
       "p2": "Consulta con tu asesor fiscal para determinar el valor deducible de tu donación de tecnología.",
-      "ein": "EIN: 93-1243063",
+      "ein": "EIN: 93-1292010",
       "nonprofit": "Organización Sin Fines de Lucro 501(c)(3) Registrada"
     },
     "process": {
