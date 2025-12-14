@@ -1,7 +1,8 @@
 import Image from 'next/image';
 import { Metadata } from 'next';
-import { Button, Section } from '@/components';
+import { Section } from '@/components';
 import { getTranslations } from 'next-intl/server';
+import { VolunteerForm } from '@/components/forms/VolunteerForm';
 
 export const metadata: Metadata = {
   title: 'Volunteer | Free Geek',
@@ -150,73 +151,21 @@ export default async function VolunteerPage() {
           <p className="text-gray-600 text-center mb-8">
             {t('form.subtitle')}
           </p>
-          <form className="space-y-6">
-            <div className="grid md:grid-cols-2 gap-6">
-              <div>
-                <label htmlFor="name" className="block text-sm font-semibold mb-2">
-                  {t('form.name')} <span className="text-red-500">*</span>
-                </label>
-                <input
-                  type="text"
-                  id="name"
-                  name="name"
-                  className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-blue-500 outline-none transition"
-                  required
-                  aria-required="true"
-                />
-              </div>
-              <div>
-                <label htmlFor="email" className="block text-sm font-semibold mb-2">
-                  {t('form.email')} <span className="text-red-500">*</span>
-                </label>
-                <input
-                  type="email"
-                  id="email"
-                  name="email"
-                  className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-blue-500 outline-none transition"
-                  required
-                  aria-required="true"
-                />
-              </div>
-            </div>
-            <div>
-              <fieldset>
-                <legend className="block text-sm font-semibold mb-2">
-                  {t('form.interestsLabel')} <span className="text-gray-500">{t('form.interestsNote')}</span>
-                </legend>
-                <div className="grid md:grid-cols-2 gap-3">
-                  {interests.map((interest, index) => (
-                    <label key={index} className="flex items-center gap-3 p-3 bg-gray-50 rounded-lg cursor-pointer hover:bg-gray-100 transition">
-                      <input
-                        type="checkbox"
-                        name="interests"
-                        value={interest.toLowerCase().replace(' ', '-')}
-                        className="w-5 h-5 text-blue-600 rounded focus:ring-blue-500"
-                      />
-                      <span>{interest}</span>
-                    </label>
-                  ))}
-                </div>
-              </fieldset>
-            </div>
-            <div>
-              <label htmlFor="message" className="block text-sm font-semibold mb-2">
-                {t('form.about')}
-              </label>
-              <textarea
-                id="message"
-                name="message"
-                rows={4}
-                className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-blue-500 outline-none transition resize-none"
-                placeholder={t('form.aboutPlaceholder')}
-              />
-            </div>
-            <div className="text-center">
-              <Button type="submit" size="lg">
-                {t('form.submit')}
-              </Button>
-            </div>
-          </form>
+          <VolunteerForm
+            interests={interests}
+            translations={{
+              name: t('form.name'),
+              email: t('form.email'),
+              interestsLabel: t('form.interestsLabel'),
+              interestsNote: t('form.interestsNote'),
+              about: t('form.about'),
+              aboutPlaceholder: t('form.aboutPlaceholder'),
+              submit: t('form.submit'),
+              sending: t('form.sending'),
+              success: t('form.success'),
+              error: t('form.error'),
+            }}
+          />
           <p className="text-sm text-gray-500 text-center mt-6">
             {t('form.note')}
           </p>

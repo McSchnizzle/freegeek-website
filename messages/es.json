@@ -486,7 +486,10 @@
       },
       "message": "Mensaje",
       "submit": "Enviar Mensaje",
-      "note": "Nota: Este formulario aún no está conectado. Para asistencia inmediata, envíanos un correo directamente a"
+      "sending": "Enviando...",
+      "success": "¡Mensaje Enviado!",
+      "error": "Error al enviar el mensaje",
+      "note": "Normalmente respondemos en 1-2 días hábiles."
     },
     "social": {
       "title": "Síguenos",
@@ -574,7 +577,10 @@
       "about": "Cuéntanos sobre ti",
       "aboutPlaceholder": "Comparte cualquier experiencia relevante, disponibilidad o preguntas...",
       "submit": "Enviar Formulario de Interés",
-      "note": "Nota: Este formulario aún no está conectado. Para asistencia inmediata, envíanos un correo a"
+      "sending": "Enviando...",
+      "success": "¡Formulario de Interés Enviado!",
+      "error": "Error al enviar el formulario",
+      "note": "Nos comunicaremos contigo en unos días sobre oportunidades de voluntariado."
     },
     "internship": {
       "title": "¿Buscas una pasantía?",
@@ -682,6 +688,54 @@
         "cta": "Ver Currículo"
       }
     },
+    "programs": {
+      "title": "Programas Educativos",
+      "description": "Nuestro currículo integral te ayuda a desarrollar habilidades tecnológicas prácticas a través del aprendizaje práctico.",
+      "computerBasics": {
+        "title": "Conceptos Básicos de Computación",
+        "description": "Aprende a navegar sistemas operativos, administrar archivos y usar aplicaciones de software esenciales."
+      },
+      "internetSafety": {
+        "title": "Seguridad en Internet",
+        "description": "Protégete en línea con conocimientos de ciberseguridad, gestión de contraseñas y hábitos de navegación segura."
+      },
+      "email": {
+        "title": "Correo Electrónico y Comunicación",
+        "description": "Domina los conceptos básicos del correo electrónico, videoconferencias y etiqueta de comunicación digital."
+      },
+      "productivity": {
+        "title": "Herramientas de Productividad",
+        "description": "Practica con Google Workspace, Microsoft Office y otras herramientas esenciales de trabajo."
+      }
+    },
+    "schedule": {
+      "title": "Horario de Clases",
+      "description": "Únete a nosotros para talleres presenciales en nuestra ubicación de Portland o participa en sesiones virtuales desde cualquier lugar.",
+      "inPerson": {
+        "title": "Clases Presenciales",
+        "dropIn": "Ayuda Sin Cita",
+        "dropInTime": "Martes y jueves, 10am - 12pm",
+        "workshops": "Talleres Grupales",
+        "workshopsTime": "Sábados, 1pm - 3pm",
+        "oneOnOne": "Sesiones 1-a-1",
+        "oneOnOneTime": "Con cita previa"
+      },
+      "virtual": {
+        "title": "Opciones Virtuales",
+        "webinars": "Webinarios en Vivo",
+        "webinarsTime": "Miércoles, 6pm - 7pm",
+        "selfPaced": "Cursos a Tu Ritmo",
+        "selfPacedTime": "Disponible 24/7"
+      },
+      "cta": "Ver Horario Completo"
+    },
+    "impact": {
+      "title": "Nuestro Impacto",
+      "learners": "Estudiantes capacitados anualmente",
+      "workshops": "Talleres por año",
+      "satisfaction": "Tasa de satisfacción",
+      "partners": "Socios comunitarios"
+    },
     "equity": {
       "title": "¿Qué es la Equidad Digital?",
       "description": "La equidad digital es una condición en la que todos los individuos y comunidades tienen la capacidad de tecnología de información necesaria para la participación plena en nuestra sociedad, democracia y economía. Es necesaria para la participación cívica y cultural, el empleo, el aprendizaje permanente y el acceso a servicios esenciales."
@@ -724,5 +778,805 @@
     "en": "Inglés",
     "es": "Español",
     "switchTo": "Cambiar idioma"
+  },
+  "shop": {
+    "hero": {
+      "title1": "Compra tecnología restaurada.",
+      "title2": "Apoya nuestra misión.",
+      "description": "Cada compra en nuestras tiendas en línea ayuda a financiar los programas de Free Geek para cerrar la brecha digital y mantener los desechos electrónicos fuera de los vertederos."
+    },
+    "channels": {
+      "title": "Dónde Comprar",
+      "ebay": {
+        "title": "Tienda en eBay",
+        "description": "Explora nuestra selección de tecnología restaurada de calidad, lista para enviar o disponible para recoger localmente.",
+        "item1": "Laptops restauradas",
+        "item2": "Teléfonos inteligentes y tabletas",
+        "item3": "Tecnología vintage y de colección",
+        "item4": "Accesorios y periféricos",
+        "cta": "Comprar en eBay"
+      },
+      "merch": {
+        "title": "Mercancía de Free Geek",
+        "description": "Muestra tu apoyo con ropa y artículos oficiales de Free Geek.",
+        "item1": "Camisetas y ropa",
+        "item2": "Calcomanías y accesorios",
+        "item3": "Artículos de edición limitada",
+        "cta": "Comprar Mercancía"
+      }
+    },
+    "pickup": {
+      "title": "Recolección Local Gratuita",
+      "description": "Los compradores del área de Portland pueden recoger sus compras en nuestra ubicación de forma gratuita. Solo selecciona recolección local al pagar y ven durante nuestro horario.",
+      "location": "Ubicación de Recolección",
+      "days": "Miércoles - Sábado",
+      "times": "11:00 AM - 4:00 PM"
+    },
+    "policies": {
+      "title": "Políticas de la Tienda",
+      "returns": {
+        "title": "Devoluciones en 30 Días",
+        "description": "¿No estás satisfecho? Devuelve tu compra dentro de 30 días para un reembolso completo."
+      },
+      "warranty": {
+        "title": "Vendido Como Está",
+        "description": "Los artículos se venden como están sin garantía. Probamos exhaustivamente todos los dispositivos antes de publicarlos."
+      },
+      "payment": {
+        "title": "Pago Seguro",
+        "description": "Todas las transacciones se procesan de forma segura a través de eBay o Big Cartel."
+      }
+    },
+    "mission": {
+      "title": "Cada Compra Hace la Diferencia",
+      "description": "Cuando compras en Free Geek, el 100% de las ganancias apoyan nuestra misión sin fines de lucro. Tu compra ayuda a proporcionar computadoras gratuitas a quienes las necesitan y mantiene la tecnología fuera de los vertederos.",
+      "learnPrograms": "Conoce Nuestros Programas"
+    }
+  },
+  "careers": {
+    "hero": {
+      "title1": "Trabaja con propósito.",
+      "title2": "Únete a nuestro equipo.",
+      "description": "En Free Geek, estamos cerrando la brecha digital mientras mantenemos la tecnología fuera de los vertederos. Si te apasiona la tecnología, la sostenibilidad y la justicia social, podrías ser un gran candidato."
+    },
+    "culture": {
+      "title": "Nuestra Cultura Laboral",
+      "p1": "Free Geek es más que un lugar de trabajo—es una comunidad de personas comprometidas con hacer la tecnología accesible para todos. Valoramos la colaboración, la creatividad y el compromiso compartido con nuestra misión.",
+      "p2": "Nuestro equipo incluye personas de diversos orígenes—entusiastas de la tecnología, defensores de la sostenibilidad, educadores y defensores de la justicia social—todos trabajando juntos para crear un cambio positivo en nuestra comunidad."
+    },
+    "jedi": {
+      "title": "Nuestros Valores JEDI",
+      "description": "Justicia, Equidad, Diversidad e Inclusión guían todo lo que hacemos en Free Geek.",
+      "justice": {
+        "title": "Justicia",
+        "description": "Abogamos por un cambio sistémico para asegurar que el acceso a la tecnología sea un derecho, no un privilegio."
+      },
+      "equity": {
+        "title": "Equidad",
+        "description": "Priorizamos recursos para comunidades históricamente excluidas del acceso a la tecnología."
+      },
+      "diversity": {
+        "title": "Diversidad",
+        "description": "Celebramos las diferentes perspectivas, experiencias y orígenes de nuestro equipo y comunidad."
+      },
+      "inclusion": {
+        "title": "Inclusión",
+        "description": "Creamos espacios donde todos se sienten bienvenidos, valorados y empoderados para contribuir."
+      }
+    },
+    "benefits": {
+      "title": "Beneficios y Ventajas",
+      "health": {
+        "title": "Seguro de Salud",
+        "description": "Cobertura médica, dental y de visión completa para empleados de tiempo completo."
+      },
+      "pto": {
+        "title": "Tiempo Libre Pagado",
+        "description": "Política generosa de tiempo libre incluyendo vacaciones, licencia por enfermedad y días festivos."
+      },
+      "retirement": {
+        "title": "Plan de Jubilación",
+        "description": "Plan de jubilación 403(b) para ayudarte a planificar tu futuro."
+      },
+      "development": {
+        "title": "Desarrollo Profesional",
+        "description": "Oportunidades de capacitación, conferencias y desarrollo de habilidades."
+      },
+      "tech": {
+        "title": "Beneficios Tecnológicos",
+        "description": "Acceso a tecnología restaurada y descuentos en equipos."
+      },
+      "mission": {
+        "title": "Trabajo con Propósito",
+        "description": "Haz una diferencia real en tu comunidad todos los días."
+      }
+    },
+    "openings": {
+      "title": "Vacantes Actuales",
+      "none": {
+        "title": "Sin Posiciones Abiertas",
+        "description": "Actualmente no estamos contratando, pero siempre buscamos personas talentosas que compartan nuestra misión.",
+        "checkBack": "Vuelve a consultar regularmente o síguenos en redes sociales para enterarte cuando se abran nuevas posiciones."
+      }
+    },
+    "cta": {
+      "title": "¿Quieres involucrarte ahora?",
+      "description": "Incluso si no estamos contratando actualmente, hay muchas formas de contribuir a nuestra misión. Sé voluntario o contáctanos para saber más."
+    }
+  },
+  "impact": {
+    "hero": {
+      "title1": "Nuestro Impacto",
+      "title2": "en la Comunidad",
+      "description": "Durante más de 25 años, Free Geek ha desviado desechos electrónicos de los vertederos y conectado comunidades con tecnología. Mira cómo estamos haciendo la diferencia."
+    },
+    "stats": {
+      "title": "En Números",
+      "poundsRecycled": "Libras de desechos electrónicos reciclados",
+      "computersDistributed": "Computadoras distribuidas",
+      "volunteerHours": "Horas de voluntariado contribuidas",
+      "yearsServing": "Años sirviendo a Portland"
+    },
+    "stories": {
+      "title": "Historias de Impacto",
+      "description": "Historias reales de nuestra comunidad sobre cómo Free Geek ha hecho una diferencia en sus vidas.",
+      "story1": {
+        "title": "La Primera Computadora de una Estudiante",
+        "description": "María, una estudiante de último año de secundaria, recibió su primera computadora personal a través de nuestro programa de Becas de Hardware. Con acceso confiable a tecnología, completó sus solicitudes universitarias y ahora está estudiando ciencias de la computación.",
+        "impact": "Una de más de 500 estudiantes atendidos este año"
+      },
+      "story2": {
+        "title": "Cambio de Carrera a los 55",
+        "description": "Después de ser voluntario en Free Geek para aprender habilidades técnicas, James consiguió un trabajo en soporte de TI. Nuestra capacitación práctica le dio la confianza y experiencia que los empleadores buscaban.",
+        "impact": "Parte de nuestra vía de voluntario a empleo"
+      },
+      "story3": {
+        "title": "Asociación con Organización Sin Fines de Lucro",
+        "description": "Portland Rescue Mission se asoció con Free Geek para proporcionar computadoras y capacitación en habilidades digitales a los residentes. El programa ha ayudado a docenas a reintegrarse a la fuerza laboral.",
+        "impact": "Una de más de 150 organizaciones asociadas"
+      }
+    },
+    "plugIntoPdx": {
+      "badge": "Programa Destacado",
+      "title": "Plug Into Portland",
+      "description": "Nuestra iniciativa comunitaria insignia conecta a los residentes de Portland con tecnología reacondicionada, capacitación en habilidades digitales y apoyo continuo para asegurar que todos puedan participar en nuestro mundo digital.",
+      "item1": "Computadoras gratuitas para familias que califiquen",
+      "item2": "Capacitación y apoyo en alfabetización digital",
+      "item3": "Asistencia técnica continua"
+    },
+    "report": {
+      "title": "Informe Anual",
+      "description": "Profundiza en nuestro impacto con nuestro informe anual completo, que incluye métricas detalladas, transparencia financiera e historias de la comunidad.",
+      "fileName": "Informe Anual Free Geek 2024",
+      "fileType": "Documento PDF",
+      "cta": "Descargar Informe"
+    },
+    "news": {
+      "title": "Últimas Noticias",
+      "description": "Mantente al día con las últimas iniciativas de Free Geek, eventos comunitarios y actualizaciones organizacionales.",
+      "item1": {
+        "date": "Diciembre 2024",
+        "title": "Éxito de la Colecta Tecnológica Navideña",
+        "excerpt": "Gracias a las generosas donaciones de la comunidad, recolectamos más de 2,000 dispositivos durante nuestra colecta tecnológica navideña anual."
+      },
+      "item2": {
+        "date": "Noviembre 2024",
+        "title": "Nuevo Currículo de Habilidades Digitales",
+        "excerpt": "Hemos lanzado un currículo ampliado de alfabetización digital con nuevos cursos sobre ciberseguridad y seguridad en línea."
+      },
+      "item3": {
+        "date": "Octubre 2024",
+        "title": "Celebración del 25 Aniversario",
+        "excerpt": "Free Geek celebró 25 años de servicio comunitario con un evento especial honrando a nuestros voluntarios y socios."
+      }
+    },
+    "cta": {
+      "title": "Únete a nosotros para hacer un impacto",
+      "description": "Ya sea que dones tecnología, ofrezcas tu tiempo como voluntario o contribuyas financieramente, estás ayudando a cerrar la brecha digital en Portland."
+    }
+  },
+  "staff": {
+    "hero": {
+      "title1": "Conoce al equipo",
+      "title2": "detrás de nuestra misión.",
+      "description": "Nuestro dedicado personal, liderazgo y junta directiva trabajan juntos cada día para cerrar la brecha digital y mantener la tecnología fuera de los vertederos."
+    },
+    "leadership": {
+      "title": "Liderazgo",
+      "description": "Nuestro equipo ejecutivo guía la dirección estratégica de Free Geek y asegura que nos mantengamos fieles a nuestra misión.",
+      "comingSoon": "Perfiles de liderazgo próximamente"
+    },
+    "board": {
+      "title": "Junta Directiva",
+      "description": "Nuestra junta voluntaria proporciona gobernanza y supervisión, aportando experiencia diversa para guiar el futuro de Free Geek.",
+      "placeholder1": "Miembro de la Junta",
+      "placeholder2": "Miembro de la Junta",
+      "placeholder3": "Miembro de la Junta",
+      "comingSoon": "Perfiles completos de la junta próximamente"
+    },
+    "teams": {
+      "title": "Nuestros Equipos",
+      "description": "Desde operaciones hasta programas y desarrollo, nuestros equipos colaboran para cumplir nuestra misión.",
+      "comingSoon": "Perfiles completos del equipo próximamente"
+    },
+    "departments": {
+      "operations": {
+        "name": "Operaciones",
+        "member1": "Miembro del Equipo"
+      },
+      "programs": {
+        "name": "Programas e Inclusión Digital",
+        "member1": "Miembro del Equipo"
+      },
+      "development": {
+        "name": "Desarrollo y Comunicaciones",
+        "member1": "Miembro del Equipo"
+      }
+    },
+    "roles": {
+      "executiveDirector": "Director Ejecutivo",
+      "boardMember": "Miembro de la Junta",
+      "manager": "Gerente"
+    },
+    "cta": {
+      "title": "¿Quieres unirte a nuestro equipo?",
+      "description": "Siempre estamos buscando personas apasionadas que compartan nuestro compromiso con la equidad digital y la sostenibilidad.",
+      "viewCareers": "Ver Oportunidades de Carrera"
+    }
+  },
+  "bridge": {
+    "hero": {
+      "badge": "Programa de Donación Mensual",
+      "title1": "Únete a THE BRIDGE.",
+      "title2": "Cierra la brecha digital.",
+      "description": "Conviértete en un donante recurrente de Free Geek con una donación mensual. Tu donación recurrente proporciona financiamiento confiable que nos ayuda a planificar y servir a más miembros de la comunidad.",
+      "cta": "Convertirse en Miembro BRIDGE"
+    },
+    "problem": {
+      "title": "La Brecha Digital es Real",
+      "p1": "El 27% de los estadounidenses no tienen computadora. Uno de cada diez hogares carece de acceso a internet. Esta brecha digital afecta más a las familias de bajos ingresos, personas mayores, inmigrantes y comunidades de color.",
+      "p2": "Sin acceso a la tecnología, millones de personas están excluidas de oportunidades laborales, educación, atención médica y participación cívica. La brecha crece cada día.",
+      "p3": "Tu apoyo mensual ayuda a Free Geek a proporcionar computadoras, capacitación en habilidades digitales y soporte técnico a quienes más lo necesitan—cerrando la brecha digital persona por persona."
+    },
+    "impact": {
+      "title": "Tu Impacto Mensual",
+      "description": "Cada mes, tu membresía BRIDGE nos ayuda a restaurar computadoras y proporcionar capacitación en habilidades digitales.",
+      "level1": "Cubre suministros de sanitización de datos para 2 dispositivos",
+      "level2": "Proporciona una computadora restaurada a alguien que la necesita",
+      "level3": "Financia capacitación en habilidades digitales para 2 miembros de la comunidad"
+    },
+    "benefits": {
+      "title": "Beneficios para Miembros BRIDGE",
+      "description": "Como agradecimiento por tu apoyo continuo, los miembros BRIDGE reciben beneficios exclusivos.",
+      "welcome": {
+        "title": "Regalo de Bienvenida",
+        "description": "Recibe un paquete de bienvenida de Free Geek cuando te unes, incluyendo artículos exclusivos para miembros BRIDGE."
+      },
+      "reports": {
+        "title": "Informes de Impacto Trimestrales",
+        "description": "Recibe actualizaciones exclusivas sobre cómo tu apoyo está haciendo la diferencia en nuestra comunidad."
+      },
+      "raffle": {
+        "title": "Entradas Mensuales para Sorteos",
+        "description": "Participa para ganar tecnología restaurada y mercancía de Free Geek cada mes."
+      },
+      "annual": {
+        "title": "Regalo Anual de Agradecimiento",
+        "description": "Recibe un regalo especial cada año para celebrar tu apoyo continuo."
+      }
+    },
+    "testimonial": {
+      "quote": "Ser miembro de BRIDGE significa que sé que mi apoyo está teniendo un impacto constante. Se siente bien ser parte de la solución a la brecha digital.",
+      "author": "Miembro de BRIDGE"
+    },
+    "howItWorks": {
+      "title": "Cómo Funciona",
+      "step1": {
+        "title": "Elige Tu Cantidad",
+        "description": "Selecciona un nivel de donación mensual que funcione para ti. Cada cantidad hace la diferencia."
+      },
+      "step2": {
+        "title": "Configura el Regalo Recurrente",
+        "description": "Tu donación se procesa automáticamente cada mes—no necesitas recordar donar."
+      },
+      "step3": {
+        "title": "Ve Tu Impacto",
+        "description": "Recibe actualizaciones regulares mostrando cómo tu apoyo está cerrando la brecha digital."
+      }
+    },
+    "cta": {
+      "title": "¿Listo para hacer un impacto duradero?",
+      "description": "Únete a THE BRIDGE hoy y conviértete en un donante recurrente de la equidad digital en nuestra comunidad.",
+      "joinBridge": "Únete a THE BRIDGE",
+      "otherWays": "Otras Formas de Donar"
+    }
+  },
+  "corporateDonations": {
+    "hero": {
+      "title1": "Donaciones corporativas de tecnología",
+      "title2": "simplificadas.",
+      "description": "Asóciate con Free Geek para la eliminación segura y responsable del equipo de TI retirado de tu empresa. Nos encargamos de todo, desde la recolección hasta la destrucción de datos y la documentación."
+    },
+    "why": {
+      "title": "¿Por Qué Asociarte con Free Geek?",
+      "security": {
+        "title": "Seguridad de Nivel Empresarial",
+        "description": "Sanitización de datos conforme a NIST y procesos certificados por i-SIGMA protegen a tu empresa y clientes."
+      },
+      "environment": {
+        "title": "Responsabilidad Ambiental",
+        "description": "Cumple objetivos de sostenibilidad con manejo responsable de desechos electrónicos. Restauramos lo que podemos y reciclamos el resto."
+      },
+      "community": {
+        "title": "Impacto Comunitario",
+        "description": "Tu equipo retirado ayuda a cerrar la brecha digital para familias, estudiantes y buscadores de empleo en nuestra comunidad."
+      }
+    },
+    "security": {
+      "title": "Seguridad de Datos para Empresas",
+      "description": "Entendemos que la seguridad de datos corporativos es innegociable. Nuestros procesos cumplen con los más altos estándares de destrucción de datos.",
+      "item1": "Sanitización de datos conforme a NIST SP800-88",
+      "item2": "Destrucción segura de datos certificada por i-SIGMA",
+      "item3": "Documentación de cadena de custodia",
+      "item4": "Certificado de Destrucción de Datos disponible ($10/dispositivo)",
+      "cta": "Más Información sobre Seguridad de Datos"
+    },
+    "services": {
+      "title": "Servicios Corporativos",
+      "pickup": {
+        "title": "Recolección Programada",
+        "description": "Vamos a tu ubicación. Programa una recolección para donaciones grandes en tu ubicación del área de Portland."
+      },
+      "documentation": {
+        "title": "Documentación de Donación",
+        "description": "Recibe documentación detallada de todos los artículos donados para tus registros y propósitos fiscales."
+      },
+      "certificate": {
+        "title": "Certificado de Destrucción de Datos",
+        "description": "Certificado opcional de destrucción de datos para requisitos de cumplimiento y auditoría."
+      },
+      "ecycles": {
+        "title": "Socio de Oregon E-Cycles",
+        "description": "Como participante de Oregon E-Cycles, cumplimos con los estándares estatales para el reciclaje responsable de electrónicos."
+      }
+    },
+    "tax": {
+      "title": "Beneficios de Deducción Fiscal",
+      "p1": "Como organización sin fines de lucro 501(c)(3), las donaciones a Free Geek pueden ser deducibles de impuestos. Proporcionamos documentación de los artículos donados para apoyar tus declaraciones fiscales.",
+      "p2": "Consulta con tu asesor fiscal para determinar el valor deducible de tu donación de tecnología.",
+      "ein": "EIN: 93-1243063",
+      "nonprofit": "Organización Sin Fines de Lucro 501(c)(3) Registrada"
+    },
+    "process": {
+      "title": "El Proceso de Donación Corporativa",
+      "step1": {
+        "title": "Contáctanos",
+        "description": "Comunícate para programar una donación y discutir tus necesidades."
+      },
+      "step2": {
+        "title": "Programa la Recolección",
+        "description": "Organizaremos un horario conveniente para recoger tu equipo."
+      },
+      "step3": {
+        "title": "Procesamiento Seguro",
+        "description": "Tu equipo es transportado y procesado de forma segura en nuestras instalaciones."
+      },
+      "step4": {
+        "title": "Recibe Documentación",
+        "description": "Obtén recibos de donación y certificados opcionales de destrucción de datos."
+      }
+    },
+    "cta": {
+      "title": "¿Listo para retirar responsablemente tu equipo de TI?",
+      "description": "Contáctanos para discutir tus necesidades de donación corporativa y programar una recolección.",
+      "questions": "Hacer una Pregunta"
+    }
+  },
+  "dataSecurity": {
+    "hero": {
+      "title1": "Tus datos están seguros",
+      "title2": "con nosotros.",
+      "description": "Tomamos la seguridad de datos en serio. Cada dispositivo con datos que pasa por nuestras puertas es sanitizado de forma segura usando métodos líderes en la industria y procesos certificados."
+    },
+    "certifications": {
+      "title": "Certificaciones Líderes en la Industria",
+      "nist": {
+        "title": "Conforme a NIST SP800-88",
+        "description": "Nuestros procesos de sanitización de datos siguen las guías del Instituto Nacional de Estándares y Tecnología para sanitización de medios—los mismos estándares usados por agencias gubernamentales."
+      },
+      "isigma": {
+        "title": "Certificado por i-SIGMA",
+        "description": "Estamos certificados por la Asociación Internacional de Gobernanza y Gestión de Información Segura, asegurando que nuestra destrucción de datos cumple con los más altos estándares de la industria."
+      }
+    },
+    "process": {
+      "title": "Nuestro Proceso de Destrucción de Datos",
+      "description": "Desde el momento en que llega tu dispositivo, se maneja pensando en la seguridad.",
+      "step1": {
+        "title": "Recepción Segura",
+        "description": "Los dispositivos con datos son inmediatamente identificados y etiquetados al recibirlos."
+      },
+      "step2": {
+        "title": "Transporte Seguro",
+        "description": "Los dispositivos se mueven directamente a nuestra área de datos segura, solo para personal."
+      },
+      "step3": {
+        "title": "Sanitización de Datos",
+        "description": "Personal capacitado realiza destrucción de datos certificada usando métodos aprobados."
+      },
+      "step4": {
+        "title": "Verificación",
+        "description": "Cada dispositivo es verificado para asegurar la eliminación completa de datos antes del procesamiento."
+      }
+    },
+    "secureArea": {
+      "title": "El Área de Datos Segura",
+      "p1": "Todos los dispositivos con datos van directamente a nuestra área de datos segura—una zona solo para personal donde tu información sensible está protegida durante todo el proceso de sanitización.",
+      "p2": "Este espacio dedicado asegura la cadena de custodia desde la recepción hasta la destrucción.",
+      "item1": "Acceso solo para personal con entrada restringida",
+      "item2": "Estaciones de trabajo dedicadas para sanitización de datos",
+      "item3": "Documentación completa de cadena de custodia"
+    },
+    "methods": {
+      "title": "Métodos de Destrucción de Datos",
+      "overwrite": {
+        "title": "Sobrescritura por Software",
+        "description": "Para discos funcionales, usamos software aprobado por NIST para sobrescribir todos los datos múltiples veces, haciendo imposible la recuperación.",
+        "note": "Usado para discos que serán restaurados y reutilizados"
+      },
+      "physical": {
+        "title": "Destrucción Física",
+        "description": "Para discos que no pueden ser sobrescritos o cuando se solicita, destruimos físicamente el medio de almacenamiento mediante trituración o desmagnetización.",
+        "note": "Usado para discos fallidos o cuando se requiere mayor seguridad"
+      }
+    },
+    "certificate": {
+      "title": "Certificado de Destrucción de Datos",
+      "perDevice": "por dispositivo",
+      "p1": "¿Necesitas documentación para cumplimiento o tranquilidad? Ofrecemos Certificados de Destrucción de Datos que verifican que tus datos han sido sanitizados de forma segura.",
+      "p2": "Los certificados incluyen números de serie de dispositivos, método de destrucción usado, fecha de destrucción y verificación del personal.",
+      "cta": "Solicitar un Certificado"
+    },
+    "diy": {
+      "title": "¿Prefieres Borrar Tus Propios Datos?",
+      "p1": "Si deseas borrar tus datos antes de donar, recomendamos usar DBAN (Darik's Boot and Nuke)—una herramienta gratuita y de código abierto para destrucción segura de datos.",
+      "p2": "Incluso si borras tu dispositivo antes, aún ejecutaremos nuestro propio proceso de sanitización para mayor tranquilidad.",
+      "dban": {
+        "title": "DBAN (Darik's Boot and Nuke)",
+        "description": "Descarga DBAN gratis y crea un USB o CD de arranque para borrar de forma segura tu disco duro antes de la donación.",
+        "note": "Nota: DBAN funciona en discos duros tradicionales (HDD) pero puede no borrar completamente unidades de estado sólido (SSD). Podemos manejar ambos tipos en nuestras instalaciones."
+      }
+    },
+    "cta": {
+      "title": "¿Listo para donar tu tecnología?",
+      "description": "Tus datos están en buenas manos. Deja tus dispositivos y nos encargamos del resto.",
+      "questions": "¿Tienes Preguntas?"
+    }
+  },
+  "faq": {
+    "hero": {
+      "title": "Preguntas Frecuentes",
+      "description": "Encuentra respuestas a preguntas comunes sobre donar tecnología, obtener una computadora, ser voluntario y más."
+    },
+    "categories": {
+      "donating": "Donar Tecnología",
+      "gettingComputer": "Obtener una Computadora",
+      "volunteering": "Voluntariado",
+      "dataSecurity": "Seguridad de Datos",
+      "visiting": "Visitarnos",
+      "shop": "Tienda y Devoluciones"
+    },
+    "donating": {
+      "title": "Donar Tecnología",
+      "q1": {
+        "question": "¿Qué artículos aceptan?",
+        "answer": "Aceptamos la mayoría de electrónicos incluyendo laptops, computadoras de escritorio, teléfonos inteligentes, tabletas, monitores, impresoras, teclados, ratones, cables y accesorios. También aceptamos servidores, equipo de redes y otra infraestructura de TI. Los artículos deben estar completos—no podemos aceptar dispositivos con componentes faltantes."
+      },
+      "q2": {
+        "question": "¿Qué artículos NO aceptan?",
+        "answer": "No podemos aceptar monitores/televisores CRT, microondas, electrodomésticos grandes, detectores de humo o artículos contaminados con materiales peligrosos. Tampoco podemos aceptar vidrio roto o artículos muy dañados. En caso de duda, llámanos antes de visitarnos."
+      },
+      "q3": {
+        "question": "¿Necesito borrar mis datos antes de donar?",
+        "answer": "No es necesario, pero puedes hacerlo si lo prefieres. Sanitizamos de forma segura todos los dispositivos con datos usando métodos conformes a NIST SP800-88. Tus datos están protegidos desde el momento en que los dejas hasta que se complete la destrucción."
+      },
+      "q4": {
+        "question": "¿Puedo obtener un recibo por mi donación?",
+        "answer": "¡Sí! Como organización sin fines de lucro 501(c)(3), proporcionamos recibos de donación para propósitos fiscales. Solo pídelo al dejar tu donación y te proporcionaremos la documentación. Para donaciones corporativas, podemos proporcionar recibos detallados."
+      },
+      "q5": {
+        "question": "¿Ofrecen servicio de recolección para donaciones grandes?",
+        "answer": "Sí, ofrecemos servicio de recolección programada para donaciones grandes (20+ dispositivos) y donaciones corporativas en el área metropolitana de Portland. Contáctanos para programar una recolección en tu ubicación."
+      },
+      "cta": "Más Información Sobre Donar"
+    },
+    "gettingComputer": {
+      "title": "Obtener una Computadora",
+      "q1": {
+        "question": "¿Cómo puedo obtener una computadora gratis?",
+        "answer": "Nuestro programa Plug Into Portland proporciona laptops gratuitas a personas necesitadas. Aplica a través de nuestro sitio web para entrar en la lista de espera. Recibirás una laptop restaurada con Linux Mint, garantía de un año y soporte de Navegación Digital."
+      },
+      "q2": {
+        "question": "¿Quién es elegible para una computadora gratis?",
+        "answer": "Nuestro programa de computadoras gratuitas prioriza a individuos y familias que experimentan dificultades financieras, estudiantes sin acceso a computadora para tareas escolares, personas mayores y personas con discapacidades. La elegibilidad se basa en la necesidad demostrada."
+      },
+      "q3": {
+        "question": "¿Cuánto tiempo es la lista de espera?",
+        "answer": "Los tiempos de espera varían según el inventario y la demanda. Procesamos las solicitudes lo más rápido posible y te contactaremos cuando tu computadora esté lista. Suscríbete a nuestro boletín para actualizaciones sobre disponibilidad del programa."
+      },
+      "q4": {
+        "question": "¿Mi organización puede obtener computadoras?",
+        "answer": "¡Sí! Ofrecemos Becas de Hardware para organizaciones sin fines de lucro. Esto incluye Becas de Hardware Organizacional para tu personal y Becas de Hardware Comunitario para las personas que sirves. Contacta a nuestro equipo de Inclusión Digital para más información."
+      },
+      "q5": {
+        "question": "¿Qué pasa si necesito una computadora pero no califico para programas gratuitos?",
+        "answer": "Puedes comprar computadoras restauradas de calidad en nuestra tienda de eBay a precios accesibles. También tenemos un Programa de Tecnología Asequible para organizaciones que necesitan cantidades mayores a precios reducidos."
+      },
+      "cta": "Explorar Nuestros Programas"
+    },
+    "volunteering": {
+      "title": "Voluntariado",
+      "q1": {
+        "question": "¿Qué oportunidades de voluntariado hay disponibles?",
+        "answer": "Ofrecemos varias formas de ser voluntario: Voluntariado en almacén (procesando tecnología donada), Programa de Embajadores (difundiendo información sobre Free Geek), organizando Colectas de Tecnología y recaudación de fondos. Hay un rol para todos sin importar el nivel de habilidad técnica."
+      },
+      "q2": {
+        "question": "¿Necesito experiencia técnica para ser voluntario?",
+        "answer": "¡Para nada! Aunque algunos roles involucran trabajar con tecnología, muchos no requieren experiencia técnica. Proporcionamos capacitación para todas las posiciones de voluntariado. Tu entusiasmo y compromiso importan más que la experiencia previa."
+      },
+      "q3": {
+        "question": "¿Cuáles son los requisitos de edad para ser voluntario?",
+        "answer": "Los voluntarios de almacén deben tener 18 años o más. Para otras oportunidades de voluntariado como programas de Embajadores o colectas de tecnología, contáctanos para discutir opciones para voluntarios más jóvenes o participación familiar."
+      },
+      "q4": {
+        "question": "¿Puedo completar horas de servicio comunitario en Free Geek?",
+        "answer": "Sí, aceptamos voluntarios que completan servicio comunitario ordenado por la corte o requisitos de servicio escolar. Contáctanos para discutir tus requisitos y te ayudaremos a establecer un horario de voluntariado apropiado."
+      },
+      "cta": "Comenzar a Ser Voluntario"
+    },
+    "dataSecurity": {
+      "title": "Seguridad de Datos",
+      "q1": {
+        "question": "¿Cómo protegen mis datos?",
+        "answer": "Todos los dispositivos con datos van directamente a nuestra área de datos segura, solo para personal. Usamos métodos de sanitización conformes a NIST SP800-88 y estamos certificados por i-SIGMA. Cada dispositivo es verificado para asegurar la destrucción completa de datos antes de cualquier procesamiento adicional."
+      },
+      "q2": {
+        "question": "¿Qué es un Certificado de Destrucción de Datos?",
+        "answer": "Un Certificado de Destrucción de Datos es documentación oficial de que los datos de tu dispositivo han sido sanitizados de forma segura. Incluye el número de serie del dispositivo, método de destrucción, fecha y verificación del personal. Disponible por $10 por dispositivo—ideal para empresas y requisitos de cumplimiento."
+      },
+      "q3": {
+        "question": "¿Debo borrar mi dispositivo antes de donarlo?",
+        "answer": "Es opcional. Si prefieres borrar tus propios datos, recomendamos usar DBAN (Darik's Boot and Nuke) para discos duros. Incluso si borras antes, aún ejecutaremos nuestro proceso completo de sanitización para mayor tranquilidad."
+      },
+      "q4": {
+        "question": "¿Qué pasa con los SSDs y teléfonos?",
+        "answer": "Tenemos procesos especializados para SSDs, teléfonos inteligentes y otros dispositivos de almacenamiento modernos. Nuestros métodos aseguran la eliminación completa de datos sin importar el tipo de almacenamiento. Las claves de encriptación se destruyen y el almacenamiento se sanitiza completamente."
+      },
+      "cta": "Conocer Sobre Seguridad de Datos"
+    },
+    "visiting": {
+      "title": "Visitar Free Geek",
+      "q1": {
+        "question": "¿Dónde están ubicados?",
+        "answer": "Estamos ubicados en 1731 SE 10th Avenue, Portland, OR 97214. Las donaciones de tecnología se aceptan en el estacionamiento exterior en el lado noreste de nuestro edificio."
+      },
+      "q2": {
+        "question": "¿Cuál es su horario?",
+        "answer": "Estamos abiertos de miércoles a sábado, 11:00 AM a 4:00 PM. Estamos cerrados de domingo a martes y en días festivos importantes."
+      },
+      "q3": {
+        "question": "¿Necesito cita para dejar una donación?",
+        "answer": "No se necesita cita para donaciones pequeñas (menos de 20 dispositivos). Solo conduce durante nuestro horario de entrega y nuestro equipo te ayudará a descargar. Para donaciones grandes (20+ dispositivos), por favor programa con anticipación para asegurar que tengamos espacio y personal listo."
+      },
+      "q4": {
+        "question": "¿Hay estacionamiento disponible?",
+        "answer": "Sí, tenemos un estacionamiento en el lado noreste de nuestro edificio donde puedes llegar para entregas de tecnología. Para estacionamiento de visitantes, hay estacionamiento en la calle disponible en el área circundante."
+      }
+    },
+    "shop": {
+      "title": "Tienda y Devoluciones",
+      "q1": {
+        "question": "¿Dónde puedo comprar tecnología restaurada de Free Geek?",
+        "answer": "Vendemos tecnología restaurada a través de nuestra tienda de eBay. Encontrarás laptops, teléfonos inteligentes, tabletas, tecnología vintage y accesorios. También vendemos mercancía de Free Geek a través de nuestra tienda Big Cartel."
+      },
+      "q2": {
+        "question": "¿Cuál es su política de devoluciones?",
+        "answer": "Ofrecemos una política de devolución de 30 días en compras de nuestra tienda de eBay. Si no estás satisfecho con tu compra, puedes devolverla dentro de 30 días para un reembolso completo. Los artículos deben estar en la misma condición que cuando se recibieron."
+      },
+      "q3": {
+        "question": "¿Los artículos vienen con garantía?",
+        "answer": "Los artículos comprados a través de nuestra tienda en línea se venden como están sin garantía. Sin embargo, probamos exhaustivamente todos los dispositivos antes de publicarlos. Para los beneficiarios de nuestro programa de computadoras gratuitas, las laptops vienen con garantía de un año."
+      },
+      "q4": {
+        "question": "¿Puedo recoger mi compra en línea localmente?",
+        "answer": "¡Sí! Los compradores del área de Portland pueden seleccionar recolección local gratuita al pagar. Ven durante nuestro horario (Miércoles-Sábado, 11AM-4PM) para recoger tu compra en nuestra ubicación."
+      },
+      "cta": "Visitar Nuestra Tienda"
+    },
+    "cta": {
+      "title": "¿Aún tienes preguntas?",
+      "description": "¿No encuentras lo que buscas? Contacta a nuestro equipo y estaremos felices de ayudarte."
+    }
+  },
+  "techDrive": {
+    "hero": {
+      "title1": "Organiza una Colecta de Tecnología.",
+      "title2": "Haz la diferencia.",
+      "description": "Organiza una colección de tecnología en tu lugar de trabajo, escuela u organización comunitaria. Te proporcionamos todo lo que necesitas para una colecta exitosa.",
+      "cta": "Registrar Tu Colecta"
+    },
+    "why": {
+      "title": "¿Por Qué Organizar una Colecta?",
+      "environment": {
+        "title": "Impacto Ambiental",
+        "description": "Mantén los desechos electrónicos fuera de los vertederos recolectando tecnología que puede ser restaurada o reciclada responsablemente."
+      },
+      "community": {
+        "title": "Impacto Comunitario",
+        "description": "Los dispositivos recolectados ayudan a proporcionar computadoras a familias, estudiantes y buscadores de empleo necesitados."
+      },
+      "engagement": {
+        "title": "Participación del Equipo",
+        "description": "Reúne a tu equipo o comunidad en torno a una causa significativa que hace una diferencia tangible."
+      }
+    },
+    "howItWorks": {
+      "title": "Cómo Funciona",
+      "step1": {
+        "title": "Registrar",
+        "description": "Completa nuestro formulario con los detalles de tu colecta"
+      },
+      "step2": {
+        "title": "Planificar",
+        "description": "Te ayudaremos a elegir fechas y establecer metas"
+      },
+      "step3": {
+        "title": "Promover",
+        "description": "Usa nuestros materiales para difundir la información"
+      },
+      "step4": {
+        "title": "Recolectar",
+        "description": "Reúne donaciones de tu comunidad"
+      },
+      "step5": {
+        "title": "Entregar",
+        "description": "Trae los dispositivos a Free Geek o programa una recolección"
+      }
+    },
+    "provide": {
+      "title": "Lo Que Proporcionamos",
+      "flyers": {
+        "title": "Volantes Promocionales",
+        "description": "Volantes digitales e imprimibles para promover tu colecta"
+      },
+      "email": {
+        "title": "Plantillas de Correo",
+        "description": "Anuncios listos para enviar a tu organización"
+      },
+      "support": {
+        "title": "Apoyo en Planificación",
+        "description": "Orientación de nuestro equipo para asegurar el éxito"
+      },
+      "pickup": {
+        "title": "Coordinación de Recolección",
+        "description": "Para colecciones grandes, podemos organizar la recolección"
+      }
+    },
+    "collect": {
+      "title": "Qué Recolectar",
+      "accepted": {
+        "title": "Aceptamos",
+        "laptops": "Laptops",
+        "desktops": "Computadoras de escritorio",
+        "smartphones": "Teléfonos inteligentes",
+        "tablets": "Tabletas",
+        "monitors": "Monitores",
+        "keyboards": "Teclados y ratones",
+        "cables": "Cables y accesorios"
+      },
+      "notAccepted": {
+        "title": "No Podemos Aceptar",
+        "crts": "Monitores/TVs CRT",
+        "appliances": "Electrodomésticos grandes",
+        "microwaves": "Microondas",
+        "hazardous": "Materiales peligrosos"
+      }
+    },
+    "form": {
+      "title": "Registra Tu Colecta de Tecnología",
+      "description": "Cuéntanos sobre tu colecta planificada y nos pondremos en contacto para ayudarte a comenzar.",
+      "name": "Tu Nombre",
+      "email": "Correo Electrónico",
+      "organization": "Nombre de Organización/Empresa",
+      "location": "Ubicación de la Colecta",
+      "dates": "Fechas Propuestas",
+      "datesPlaceholder": "ej., 15-22 de marzo, 2025",
+      "details": "Cuéntanos sobre tu colecta",
+      "note": "Nota: Este formulario aún no está conectado. Para asistencia inmediata, envíanos un correo a info@freegeek.org.",
+      "submit": "Registrar Colecta"
+    },
+    "cta": {
+      "title": "¿Preguntas sobre organizar una colecta?",
+      "description": "Nuestro equipo está aquí para ayudarte a planificar un evento de recolección de tecnología exitoso."
+    }
+  },
+  "ambassador": {
+    "hero": {
+      "title1": "Conviértete en",
+      "title2": "Embajador de Free Geek.",
+      "description": "Únete a nuestra red de defensores apasionados difundiendo información sobre equidad digital en sus comunidades. No se requiere experiencia técnica—solo entusiasmo por nuestra misión.",
+      "cta": "Aplicar para ser Embajador"
+    },
+    "what": {
+      "title": "¿Qué Hacen los Embajadores?",
+      "social": {
+        "title": "Compartir en Redes",
+        "description": "Publica sobre Free Geek en tus redes sociales y ayuda a difundir la conciencia."
+      },
+      "network": {
+        "title": "Usa Tu Red",
+        "description": "Cuéntales a amigos, familia y colegas sobre nuestros programas y oportunidades de donación."
+      },
+      "events": {
+        "title": "Representar en Eventos",
+        "description": "Representa a Free Geek en eventos comunitarios, ferias y reuniones de socios."
+      },
+      "fundraise": {
+        "title": "Liderar Recaudación",
+        "description": "Organiza campañas de recaudación entre pares para apoyar nuestra misión."
+      }
+    },
+    "benefits": {
+      "title": "Beneficios de Embajador",
+      "description": "Apoyamos a nuestros embajadores con recursos y reconocimiento por sus esfuerzos.",
+      "training": {
+        "title": "Capacitación de Embajador",
+        "description": "Aprende sobre los programas de Free Geek, impacto y puntos de conversación para compartir nuestra historia efectivamente."
+      },
+      "materials": {
+        "title": "Materiales de Marketing",
+        "description": "Acceso a materiales digitales e impresos, gráficos y plantillas para tu alcance."
+      },
+      "recognition": {
+        "title": "Reconocimiento y Mercancía",
+        "description": "Recibe mercancía de Free Geek y reconocimiento por tus contribuciones."
+      },
+      "community": {
+        "title": "Comunidad de Embajadores",
+        "description": "Conéctate con otros embajadores y comparte ideas y éxitos."
+      },
+      "tech": {
+        "title": "Descuentos en Tecnología",
+        "description": "Acceso a tecnología restaurada con descuento de nuestra tienda."
+      },
+      "impact": {
+        "title": "Impacto Real",
+        "description": "Sabe que estás haciendo una diferencia tangible cerrando la brecha digital."
+      }
+    },
+    "requirements": {
+      "title": "Lo Que Buscamos",
+      "item1": "Pasión por la misión de Free Geek de equidad digital y sostenibilidad",
+      "item2": "Presencia activa en redes sociales o fuertes conexiones comunitarias",
+      "item3": "Disposición a comprometer algunas horas al mes para actividades de embajador",
+      "item4": "Representación positiva y profesional de Free Geek en todas las interacciones"
+    },
+    "form": {
+      "title": "Aplicar para ser Embajador",
+      "description": "Cuéntanos sobre ti y por qué quieres unirte a nuestra red de embajadores.",
+      "name": "Tu Nombre",
+      "email": "Correo Electrónico",
+      "social": "Cuentas de Redes Sociales",
+      "socialPlaceholder": "@usuario en Instagram, Twitter, LinkedIn, etc.",
+      "why": "¿Por qué quieres ser Embajador?",
+      "ideas": "¿Alguna idea de cómo difundirías información sobre Free Geek?",
+      "note": "Nota: Este formulario aún no está conectado. Para asistencia inmediata, envíanos un correo a info@freegeek.org.",
+      "submit": "Enviar Aplicación"
+    },
+    "cta": {
+      "title": "¿No estás listo para ser Embajador?",
+      "description": "Hay muchas otras formas de apoyar la misión de Free Geek.",
+      "otherWays": "Explorar Oportunidades de Voluntariado"
+    }
   }
 }

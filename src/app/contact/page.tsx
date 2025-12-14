@@ -1,6 +1,7 @@
 import { Metadata } from 'next';
-import { Button, Section } from '@/components';
+import { Section } from '@/components';
 import { getTranslations } from 'next-intl/server';
+import { ContactForm } from '@/components/forms/ContactForm';
 
 export const metadata: Metadata = {
   title: 'Contact Us | Free Geek',
@@ -157,73 +158,30 @@ export default async function ContactPage() {
           <p className="text-gray-600 text-center mb-8">
             {t('form.description')}
           </p>
-          <form className="space-y-6">
-            <div className="grid md:grid-cols-2 gap-6">
-              <div>
-                <label htmlFor="name" className="block text-sm font-semibold mb-2">
-                  {t('form.name')}
-                </label>
-                <input
-                  type="text"
-                  id="name"
-                  name="name"
-                  className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-blue-500 outline-none transition"
-                  required
-                />
-              </div>
-              <div>
-                <label htmlFor="email" className="block text-sm font-semibold mb-2">
-                  {t('form.email')}
-                </label>
-                <input
-                  type="email"
-                  id="email"
-                  name="email"
-                  className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-blue-500 outline-none transition"
-                  required
-                />
-              </div>
-            </div>
-            <div>
-              <label htmlFor="subject" className="block text-sm font-semibold mb-2">
-                {t('form.subject')}
-              </label>
-              <select
-                id="subject"
-                name="subject"
-                className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-blue-500 outline-none transition bg-white"
-                required
-              >
-                <option value="">{t('form.selectTopic')}</option>
-                <option value="digital-inclusion">{t('form.topics.digitalInclusion')}</option>
-                <option value="donation">{t('form.topics.donation')}</option>
-                <option value="business">{t('form.topics.business')}</option>
-                <option value="volunteering">{t('form.topics.volunteering')}</option>
-                <option value="shop">{t('form.topics.shop')}</option>
-                <option value="fundraising">{t('form.topics.fundraising')}</option>
-                <option value="press">{t('form.topics.press')}</option>
-                <option value="hr">{t('form.topics.hr')}</option>
-                <option value="other">{t('form.topics.other')}</option>
-              </select>
-            </div>
-            <div>
-              <label htmlFor="message" className="block text-sm font-semibold mb-2">
-                {t('form.message')}
-              </label>
-              <textarea
-                id="message"
-                name="message"
-                rows={5}
-                className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-blue-500 outline-none transition resize-none"
-                required
-              />
-            </div>
-            <div className="text-center">
-              <Button type="submit" size="lg">
-                {t('form.submit')}
-              </Button>
-            </div>
-          </form>
+          <ContactForm
+            translations={{
+              name: t('form.name'),
+              email: t('form.email'),
+              subject: t('form.subject'),
+              selectTopic: t('form.selectTopic'),
+              topics: {
+                digitalInclusion: t('form.topics.digitalInclusion'),
+                donation: t('form.topics.donation'),
+                business: t('form.topics.business'),
+                volunteering: t('form.topics.volunteering'),
+                shop: t('form.topics.shop'),
+                fundraising: t('form.topics.fundraising'),
+                press: t('form.topics.press'),
+                hr: t('form.topics.hr'),
+                other: t('form.topics.other'),
+              },
+              message: t('form.message'),
+              submit: t('form.submit'),
+              sending: t('form.sending'),
+              success: t('form.success'),
+              error: t('form.error'),
+            }}
+          />
           <p className="text-sm text-gray-500 text-center mt-6">
             {t('form.note')}
           </p>

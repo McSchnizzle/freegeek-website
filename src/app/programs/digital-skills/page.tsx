@@ -122,8 +122,138 @@ export default async function DigitalSkillsPage() {
         </div>
       </Section>
 
-      {/* What is Digital Equity */}
+      {/* Education Programs */}
       <Section background="gray">
+        <h2 className="text-3xl font-bold mb-4 text-center">{t('programs.title')}</h2>
+        <p className="text-gray-600 text-center mb-12 max-w-2xl mx-auto">
+          {t('programs.description')}
+        </p>
+        <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-6 max-w-5xl mx-auto">
+          <div className="bg-white rounded-xl p-6 text-center shadow-sm">
+            <div className="w-14 h-14 bg-blue-100 rounded-full flex items-center justify-center mx-auto mb-4">
+              <svg className="w-7 h-7 text-blue-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9.75 17L9 20l-1 1h8l-1-1-.75-3M3 13h18M5 17h14a2 2 0 002-2V5a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" />
+              </svg>
+            </div>
+            <h3 className="font-bold mb-2">{t('programs.computerBasics.title')}</h3>
+            <p className="text-sm text-gray-600">{t('programs.computerBasics.description')}</p>
+          </div>
+          <div className="bg-white rounded-xl p-6 text-center shadow-sm">
+            <div className="w-14 h-14 bg-green-100 rounded-full flex items-center justify-center mx-auto mb-4">
+              <svg className="w-7 h-7 text-green-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M21 12a9 9 0 01-9 9m9-9a9 9 0 00-9-9m9 9H3m9 9a9 9 0 01-9-9m9 9c1.657 0 3-4.03 3-9s-1.343-9-3-9m0 18c-1.657 0-3-4.03-3-9s1.343-9 3-9m-9 9a9 9 0 019-9" />
+              </svg>
+            </div>
+            <h3 className="font-bold mb-2">{t('programs.internetSafety.title')}</h3>
+            <p className="text-sm text-gray-600">{t('programs.internetSafety.description')}</p>
+          </div>
+          <div className="bg-white rounded-xl p-6 text-center shadow-sm">
+            <div className="w-14 h-14 bg-purple-100 rounded-full flex items-center justify-center mx-auto mb-4">
+              <svg className="w-7 h-7 text-purple-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" />
+              </svg>
+            </div>
+            <h3 className="font-bold mb-2">{t('programs.email.title')}</h3>
+            <p className="text-sm text-gray-600">{t('programs.email.description')}</p>
+          </div>
+          <div className="bg-white rounded-xl p-6 text-center shadow-sm">
+            <div className="w-14 h-14 bg-yellow-100 rounded-full flex items-center justify-center mx-auto mb-4">
+              <svg className="w-7 h-7 text-yellow-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 17v-2m3 2v-4m3 4v-6m2 10H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />
+              </svg>
+            </div>
+            <h3 className="font-bold mb-2">{t('programs.productivity.title')}</h3>
+            <p className="text-sm text-gray-600">{t('programs.productivity.description')}</p>
+          </div>
+        </div>
+      </Section>
+
+      {/* Class Schedule */}
+      <Section background="white">
+        <div className="max-w-4xl mx-auto">
+          <h2 className="text-3xl font-bold mb-4 text-center">{t('schedule.title')}</h2>
+          <p className="text-gray-600 text-center mb-8 max-w-2xl mx-auto">
+            {t('schedule.description')}
+          </p>
+          <div className="bg-gray-50 rounded-2xl p-8">
+            <div className="grid md:grid-cols-2 gap-8">
+              <div>
+                <h3 className="font-bold text-lg mb-4 flex items-center gap-2">
+                  <svg className="w-5 h-5 text-blue-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17 20h5v-2a3 3 0 00-5.356-1.857M17 20H7m10 0v-2c0-.656-.126-1.283-.356-1.857M7 20H2v-2a3 3 0 015.356-1.857M7 20v-2c0-.656.126-1.283.356-1.857m0 0a5.002 5.002 0 019.288 0M15 7a3 3 0 11-6 0 3 3 0 016 0zm6 3a2 2 0 11-4 0 2 2 0 014 0zM7 10a2 2 0 11-4 0 2 2 0 014 0z" />
+                  </svg>
+                  {t('schedule.inPerson.title')}
+                </h3>
+                <ul className="space-y-3 text-gray-600">
+                  <li className="flex items-start gap-2">
+                    <span className="font-medium text-black">{t('schedule.inPerson.dropIn')}:</span>
+                    {t('schedule.inPerson.dropInTime')}
+                  </li>
+                  <li className="flex items-start gap-2">
+                    <span className="font-medium text-black">{t('schedule.inPerson.workshops')}:</span>
+                    {t('schedule.inPerson.workshopsTime')}
+                  </li>
+                  <li className="flex items-start gap-2">
+                    <span className="font-medium text-black">{t('schedule.inPerson.oneOnOne')}:</span>
+                    {t('schedule.inPerson.oneOnOneTime')}
+                  </li>
+                </ul>
+              </div>
+              <div>
+                <h3 className="font-bold text-lg mb-4 flex items-center gap-2">
+                  <svg className="w-5 h-5 text-green-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 10l4.553-2.276A1 1 0 0121 8.618v6.764a1 1 0 01-1.447.894L15 14M5 18h8a2 2 0 002-2V8a2 2 0 00-2-2H5a2 2 0 00-2 2v8a2 2 0 002 2z" />
+                  </svg>
+                  {t('schedule.virtual.title')}
+                </h3>
+                <ul className="space-y-3 text-gray-600">
+                  <li className="flex items-start gap-2">
+                    <span className="font-medium text-black">{t('schedule.virtual.webinars')}:</span>
+                    {t('schedule.virtual.webinarsTime')}
+                  </li>
+                  <li className="flex items-start gap-2">
+                    <span className="font-medium text-black">{t('schedule.virtual.selfPaced')}:</span>
+                    {t('schedule.virtual.selfPacedTime')}
+                  </li>
+                </ul>
+              </div>
+            </div>
+            <div className="mt-8 pt-6 border-t border-gray-200 text-center">
+              <Button href="https://freegeek.org/digitalequity" variant="primary">
+                {t('schedule.cta')}
+              </Button>
+            </div>
+          </div>
+        </div>
+      </Section>
+
+      {/* Impact Stats */}
+      <Section background="gray">
+        <div className="max-w-4xl mx-auto">
+          <h2 className="text-3xl font-bold mb-12 text-center">{t('impact.title')}</h2>
+          <div className="grid grid-cols-2 md:grid-cols-4 gap-6">
+            <div className="text-center">
+              <div className="text-4xl md:text-5xl font-bold text-blue-600 mb-2">1,500+</div>
+              <div className="text-gray-600">{t('impact.learners')}</div>
+            </div>
+            <div className="text-center">
+              <div className="text-4xl md:text-5xl font-bold text-green-600 mb-2">50+</div>
+              <div className="text-gray-600">{t('impact.workshops')}</div>
+            </div>
+            <div className="text-center">
+              <div className="text-4xl md:text-5xl font-bold text-purple-600 mb-2">95%</div>
+              <div className="text-gray-600">{t('impact.satisfaction')}</div>
+            </div>
+            <div className="text-center">
+              <div className="text-4xl md:text-5xl font-bold text-yellow-600 mb-2">20+</div>
+              <div className="text-gray-600">{t('impact.partners')}</div>
+            </div>
+          </div>
+        </div>
+      </Section>
+
+      {/* What is Digital Equity */}
+      <Section background="white">
         <div className="max-w-3xl mx-auto text-center">
           <h2 className="text-3xl font-bold mb-6">{t('equity.title')}</h2>
           <p className="text-xl text-gray-700 leading-relaxed">
@@ -133,7 +263,7 @@ export default async function DigitalSkillsPage() {
       </Section>
 
       {/* Community Resources */}
-      <Section background="white">
+      <Section background="gray">
         <h2 className="text-3xl font-bold mb-8 text-center">{t('resources.title')}</h2>
         <p className="text-gray-600 text-center mb-12 max-w-2xl mx-auto">
           {t('resources.description')}

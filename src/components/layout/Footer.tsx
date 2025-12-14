@@ -1,5 +1,6 @@
 import Image from 'next/image';
 import Link from 'next/link';
+import { NewsletterForm } from '@/components/forms/NewsletterForm';
 
 const footerLinks = {
   programs: [
@@ -11,6 +12,14 @@ const footerLinks = {
     { href: '/donate-tech', label: 'Donate Tech' },
     { href: '/volunteer', label: 'Volunteer' },
     { href: '/donate', label: 'Donate Money' },
+    { href: '/donate/bridge', label: 'BRIDGE Monthly Giving' },
+  ],
+  about: [
+    { href: '/about', label: 'Our Story' },
+    { href: '/about/staff', label: 'Our Team' },
+    { href: '/about/impact', label: 'Our Impact' },
+    { href: '/careers', label: 'Careers' },
+    { href: '/contact', label: 'Contact' },
   ],
   social: [
     { href: 'https://instagram.com/freegeekmothership', label: 'Instagram', external: true },
@@ -18,6 +27,24 @@ const footerLinks = {
     { href: 'https://twitter.com/FreeGeekPDX', label: 'Twitter', external: true },
   ],
 };
+
+const recognitionBadges = [
+  {
+    name: 'i-SIGMA Member',
+    description: 'Certified member of the International Secure Information Governance & Management Association',
+    href: 'https://isigma.org/',
+  },
+  {
+    name: 'NDIA Affiliate',
+    description: 'National Digital Inclusion Alliance affiliate organization',
+    href: 'https://www.digitalinclusion.org/',
+  },
+  {
+    name: '100 Best Nonprofits',
+    description: 'Oregon Business 100 Best Nonprofits to Work For',
+    href: null,
+  },
+];
 
 export function Footer() {
   const currentYear = new Date().getFullYear();
@@ -32,28 +59,8 @@ export function Footer() {
               <h2 className="text-xl font-bold mb-1">Stay in the loop</h2>
               <p className="text-gray-400 text-sm">Get news, impact stories, and volunteer opportunities delivered to your inbox.</p>
             </div>
-            <form className="flex flex-col sm:flex-row gap-2 w-full md:w-auto">
-              <label htmlFor="newsletter-email" className="sr-only">Email address</label>
-              <input
-                type="email"
-                id="newsletter-email"
-                name="email"
-                placeholder="Enter your email"
-                className="px-4 py-2 bg-gray-900 border border-gray-700 rounded-lg text-white placeholder-gray-500 focus:ring-2 focus:ring-blue-500 focus:border-blue-500 outline-none transition w-full sm:w-64"
-                required
-                aria-required="true"
-              />
-              <button
-                type="submit"
-                className="px-6 py-2 bg-blue-600 hover:bg-blue-700 text-white font-semibold rounded-lg transition focus:ring-2 focus:ring-blue-500 focus:ring-offset-2 focus:ring-offset-black"
-              >
-                Subscribe
-              </button>
-            </form>
+            <NewsletterForm />
           </div>
-          <p className="text-xs text-gray-500 mt-2">
-            Note: Newsletter signup is not yet connected. For updates, follow us on social media.
-          </p>
         </div>
 
         <div className="flex flex-col md:flex-row justify-between items-start gap-8 mb-8">
@@ -75,7 +82,7 @@ export function Footer() {
           </div>
 
           {/* Links Grid */}
-          <div className="grid grid-cols-2 md:grid-cols-3 gap-8">
+          <div className="grid grid-cols-2 md:grid-cols-4 gap-8">
             {/* Programs */}
             <div>
               <h3 className="font-bold mb-4">Programs</h3>
@@ -104,6 +111,20 @@ export function Footer() {
               </ul>
             </div>
 
+            {/* About */}
+            <div>
+              <h3 className="font-bold mb-4">About</h3>
+              <ul className="space-y-2 text-sm text-gray-400">
+                {footerLinks.about.map((link) => (
+                  <li key={link.href}>
+                    <Link href={link.href} className="hover:text-white transition-colors">
+                      {link.label}
+                    </Link>
+                  </li>
+                ))}
+              </ul>
+            </div>
+
             {/* Connect */}
             <div>
               <h3 className="font-bold mb-4">Connect</h3>
@@ -123,6 +144,39 @@ export function Footer() {
                 ))}
               </ul>
             </div>
+          </div>
+        </div>
+
+        {/* Recognition Badges */}
+        <div className="border-t border-gray-800 pt-8 mb-8">
+          <h3 className="text-sm font-semibold text-gray-400 mb-4 text-center">Memberships & Recognition</h3>
+          <div className="flex flex-wrap justify-center gap-6">
+            {recognitionBadges.map((badge) => (
+              badge.href ? (
+                <a
+                  key={badge.name}
+                  href={badge.href}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="group flex items-center gap-2 px-4 py-2 bg-gray-900 rounded-lg hover:bg-gray-800 transition-colors"
+                  title={badge.description}
+                >
+                  <span className="text-sm text-gray-300 group-hover:text-white">{badge.name}</span>
+                  <svg className="w-3 h-3 text-gray-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" />
+                  </svg>
+                  <span className="sr-only"> (opens in new tab)</span>
+                </a>
+              ) : (
+                <span
+                  key={badge.name}
+                  className="flex items-center gap-2 px-4 py-2 bg-gray-900 rounded-lg"
+                  title={badge.description}
+                >
+                  <span className="text-sm text-gray-300">{badge.name}</span>
+                </span>
+              )
+            ))}
           </div>
         </div>
 
