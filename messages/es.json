@@ -1058,6 +1058,25 @@
         "description": "Computadoras e internet asequibles"
       }
     },
+    "languageSupport": {
+      "title": "Capacitación en Tu Idioma",
+      "description": "Estamos comprometidos a servir a las diversas comunidades de Portland. La capacitación en habilidades digitales y el apoyo están disponibles en varios idiomas.",
+      "spanish": {
+        "title": "Español",
+        "description": "Clases y apoyo individual disponibles en español",
+        "cta": "Más Información"
+      },
+      "vietnamese": {
+        "title": "Tiếng Việt",
+        "description": "Interpretación en vietnamita disponible para sesiones de navegación digital",
+        "cta": "Tìm Hiểu Thêm"
+      },
+      "other": {
+        "title": "Otros Idiomas",
+        "description": "¿Necesitas apoyo en otro idioma? Contáctanos y haremos lo posible para ayudarte.",
+        "cta": "Contáctanos"
+      }
+    },
     "cta": {
       "title": "¿Listo para desarrollar tus habilidades digitales?",
       "description": "Programa una cita con un Navegador Digital o explora nuestro currículo gratuito para comenzar."

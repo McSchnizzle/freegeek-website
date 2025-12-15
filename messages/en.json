@@ -1058,6 +1058,25 @@
         "description": "Affordable computers and internet"
       }
     },
+    "languageSupport": {
+      "title": "Training in Your Language",
+      "description": "We're committed to serving Portland's diverse communities. Digital skills training and support are available in multiple languages.",
+      "spanish": {
+        "title": "Español",
+        "description": "Classes and one-on-one support available in Spanish",
+        "cta": "Más Información"
+      },
+      "vietnamese": {
+        "title": "Tiếng Việt",
+        "description": "Vietnamese interpretation available for digital navigation sessions",
+        "cta": "Tìm Hiểu Thêm"
+      },
+      "other": {
+        "title": "Other Languages",
+        "description": "Need support in another language? Contact us and we'll do our best to accommodate you.",
+        "cta": "Contact Us"
+      }
+    },
     "cta": {
       "title": "Ready to build your digital skills?",
       "description": "Schedule an appointment with a Digital Navigator or explore our free curriculum to get started."

@@ -384,6 +384,50 @@ export default async function DigitalSkillsPage() {
         </div>
       </Section>
 
+      {/* Language Support */}
+      <Section background="white">
+        <div className="max-w-4xl mx-auto">
+          <h2 className="text-3xl font-bold mb-4 text-center">{t('languageSupport.title')}</h2>
+          <p className="text-gray-600 text-center mb-12 max-w-2xl mx-auto">
+            {t('languageSupport.description')}
+          </p>
+          <div className="grid md:grid-cols-3 gap-6">
+            <div className="bg-gray-50 rounded-2xl p-6 text-center">
+              <div className="w-14 h-14 bg-green-100 rounded-full flex items-center justify-center mx-auto mb-4">
+                <span className="text-2xl">🇪🇸</span>
+              </div>
+              <h3 className="text-xl font-bold mb-2">{t('languageSupport.spanish.title')}</h3>
+              <p className="text-gray-600 mb-4">{t('languageSupport.spanish.description')}</p>
+              <Button href="/programs/digital-equity" variant="primary" size="sm">
+                {t('languageSupport.spanish.cta')}
+              </Button>
+            </div>
+            <div className="bg-gray-50 rounded-2xl p-6 text-center">
+              <div className="w-14 h-14 bg-yellow-100 rounded-full flex items-center justify-center mx-auto mb-4">
+                <span className="text-2xl">🇻🇳</span>
+              </div>
+              <h3 className="text-xl font-bold mb-2">{t('languageSupport.vietnamese.title')}</h3>
+              <p className="text-gray-600 mb-4">{t('languageSupport.vietnamese.description')}</p>
+              <Button href="/programs/digital-equity" variant="primary" size="sm">
+                {t('languageSupport.vietnamese.cta')}
+              </Button>
+            </div>
+            <div className="bg-gray-50 rounded-2xl p-6 text-center">
+              <div className="w-14 h-14 bg-blue-100 rounded-full flex items-center justify-center mx-auto mb-4">
+                <svg className="w-7 h-7 text-blue-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M3 5h12M9 3v2m1.048 9.5A18.022 18.022 0 016.412 9m6.088 9h7M11 21l5-10 5 10M12.751 5C11.783 10.77 8.07 15.61 3 18.129" />
+                </svg>
+              </div>
+              <h3 className="text-xl font-bold mb-2">{t('languageSupport.other.title')}</h3>
+              <p className="text-gray-600 mb-4">{t('languageSupport.other.description')}</p>
+              <Button href="/contact" variant="primary" size="sm">
+                {t('languageSupport.other.cta')}
+              </Button>
+            </div>
+          </div>
+        </div>
+      </Section>
+
       {/* CTA */}
       <Section background="blue">
         <div className="text-center">

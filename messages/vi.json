@@ -1058,6 +1058,25 @@
         "description": "Máy tính và internet giá phải chăng"
       }
     },
+    "languageSupport": {
+      "title": "Đào Tạo Bằng Ngôn Ngữ Của Bạn",
+      "description": "Chúng tôi cam kết phục vụ các cộng đồng đa dạng của Portland. Đào tạo kỹ năng số và hỗ trợ có sẵn bằng nhiều ngôn ngữ.",
+      "spanish": {
+        "title": "Español",
+        "description": "Lớp học và hỗ trợ cá nhân bằng tiếng Tây Ban Nha",
+        "cta": "Más Información"
+      },
+      "vietnamese": {
+        "title": "Tiếng Việt",
+        "description": "Có phiên dịch tiếng Việt cho các buổi hướng dẫn kỹ thuật số",
+        "cta": "Tìm Hiểu Thêm"
+      },
+      "other": {
+        "title": "Ngôn Ngữ Khác",
+        "description": "Cần hỗ trợ bằng ngôn ngữ khác? Liên hệ với chúng tôi và chúng tôi sẽ cố gắng hỗ trợ bạn.",
+        "cta": "Liên Hệ"
+      }
+    },
     "cta": {
       "title": "Sẵn sàng xây dựng kỹ năng số?",
       "description": "Đặt lịch hẹn với Người hướng dẫn Kỹ thuật số hoặc khám phá chương trình giảng dạy miễn phí để bắt đầu."
