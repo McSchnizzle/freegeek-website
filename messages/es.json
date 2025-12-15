@@ -2104,6 +2104,7 @@
     "form": {
       "title": "Programa Tu Donación",
       "description": "Cuéntanos sobre tu donación y te contactaremos para programar una fecha.",
+      "instructions": "Para programar una donación grande, por favor contáctanos con los detalles de tu donación incluyendo el número estimado y tipos de dispositivos, tus fechas preferidas y si necesitas servicio de recogida.",
       "name": "Tu Nombre",
       "email": "Correo Electrónico",
       "phone": "Número de Teléfono",

@@ -2104,6 +2104,7 @@
     "form": {
       "title": "Schedule Your Donation",
       "description": "Tell us about your donation and we'll contact you to schedule a time.",
+      "instructions": "To schedule a large donation, please contact us with details about your donation including the estimated number and types of devices, your preferred dates, and whether you need pickup service.",
       "name": "Your Name",
       "email": "Email Address",
       "phone": "Phone Number",

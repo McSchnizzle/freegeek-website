@@ -2104,6 +2104,7 @@
     "form": {
       "title": "Đặt lịch quyên góp",
       "description": "Cho chúng tôi biết về quyên góp của bạn và chúng tôi sẽ liên hệ để đặt lịch.",
+      "instructions": "Để đặt lịch quyên góp lớn, vui lòng liên hệ với chúng tôi kèm chi tiết về quyên góp của bạn bao gồm số lượng và loại thiết bị ước tính, ngày ưu tiên của bạn và liệu bạn có cần dịch vụ nhận hàng không.",
       "name": "Họ tên của bạn",
       "email": "Địa chỉ email",
       "phone": "Số điện thoại",

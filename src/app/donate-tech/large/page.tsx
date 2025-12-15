@@ -69,7 +69,7 @@ export default async function LargeDonationPage() {
             <h2 className="text-2xl font-bold mb-4">{t('form.title')}</h2>
             <p className="text-gray-600 mb-6">{t('form.description')}</p>
             <p className="text-gray-500 mb-6">
-              To schedule a large donation, please contact us with details about your donation including the estimated number and types of devices, your preferred dates, and whether you need pickup service.
+              {t('form.instructions')}
             </p>
             <Button href="/contact" variant="primary" size="lg">
               {common('contactUs')}
