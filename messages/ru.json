@@ -1576,510 +1576,510 @@
   },
   "faq": {
     "hero": {
-      "title": "Frequently Asked Questions",
-      "description": "Find answers to common questions about donating tech, getting a computer, volunteering, and more."
+      "title": "Часто задаваемые вопросы",
+      "description": "Найдите ответы на распространённые вопросы о пожертвовании техники, получении компьютера, волонтёрстве и многом другом."
     },
     "categories": {
-      "donating": "Donating Tech",
-      "gettingComputer": "Getting a Computer",
-      "volunteering": "Volunteering",
-      "dataSecurity": "Data Security",
-      "visiting": "Visiting Us",
-      "shop": "Shop & Returns"
+      "donating": "Пожертвование техники",
+      "gettingComputer": "Получение компьютера",
+      "volunteering": "Волонтёрство",
+      "dataSecurity": "Безопасность данных",
+      "visiting": "Посещение",
+      "shop": "Магазин и возвраты"
     },
     "donating": {
-      "title": "Donating Technology",
+      "title": "Пожертвование техники",
       "q1": {
-        "question": "What items do you accept?",
-        "answer": "We accept most electronics including laptops, desktops, smartphones, tablets, monitors, printers, keyboards, mice, cables, and accessories. We also accept servers, networking equipment, and other IT infrastructure. Items should be complete—we can't accept devices missing major components."
+        "question": "Какие предметы вы принимаете?",
+        "answer": "Мы принимаем большинство электроники, включая ноутбуки, настольные компьютеры, смартфоны, планшеты, мониторы, принтеры, клавиатуры, мыши, кабели и аксессуары. Мы также принимаем серверы, сетевое оборудование и другую IT-инфраструктуру. Предметы должны быть комплектными — мы не можем принять устройства без основных компонентов."
       },
       "q2": {
-        "question": "What items do you NOT accept?",
-        "answer": "We cannot accept CRT monitors/TVs, microwaves, large appliances, smoke detectors, or items contaminated with hazardous materials. We also cannot accept broken glass or heavily damaged items. When in doubt, give us a call before visiting."
+        "question": "Какие предметы вы НЕ принимаете?",
+        "answer": "Мы не можем принять ЭЛТ-мониторы/телевизоры, микроволновые печи, крупную бытовую технику, датчики дыма или предметы, загрязнённые опасными материалами. Мы также не принимаем разбитое стекло или сильно повреждённые предметы. Если сомневаетесь, позвоните нам перед визитом."
       },
       "q3": {
-        "question": "Do I need to wipe my data before donating?",
-        "answer": "You don't have to, but you can if you prefer. We securely sanitize all data-bearing devices using NIST SP800-88 compliant methods. Your data is protected from the moment you drop off until destruction is complete."
+        "question": "Нужно ли удалять данные перед пожертвованием?",
+        "answer": "Необязательно, но можете, если хотите. Мы безопасно очищаем все устройства с данными, используя методы, соответствующие NIST SP800-88. Ваши данные защищены с момента сдачи до полного уничтожения."
       },
       "q4": {
-        "question": "Can I get a receipt for my donation?",
-        "answer": "Yes! As a 501(c)(3) nonprofit, we provide donation receipts for tax purposes. Just ask at drop-off and we'll provide documentation. For corporate donations, we can provide detailed itemized receipts."
+        "question": "Могу ли я получить квитанцию о пожертвовании?",
+        "answer": "Да! Как некоммерческая организация 501(c)(3), мы предоставляем квитанции о пожертвованиях для налоговых целей. Просто попросите при сдаче, и мы предоставим документацию. Для корпоративных пожертвований мы можем предоставить подробные постатейные квитанции."
       },
       "q5": {
-        "question": "Do you offer pickup service for large donations?",
-        "answer": "Yes, we offer scheduled pickup service for large donations (20+ devices) and corporate donations in the Portland metro area. Contact us to schedule a pickup at your location."
+        "question": "Предлагаете ли вы услугу самовывоза для крупных пожертвований?",
+        "answer": "Да, мы предлагаем услугу планового самовывоза для крупных пожертвований (20+ устройств) и корпоративных пожертвований в районе Портленда. Свяжитесь с нами для планирования самовывоза."
       },
-      "cta": "Learn More About Donating"
+      "cta": "Узнать больше о пожертвованиях"
     },
     "gettingComputer": {
-      "title": "Getting a Computer",
+      "title": "Получение компьютера",
       "q1": {
-        "question": "How can I get a free computer?",
-        "answer": "Our Plug Into Portland program provides free laptops to individuals in need. Apply through our website to get on the waitlist. You'll receive a refurbished laptop running Linux Mint with a one-year warranty and Digital Navigation support."
+        "question": "Как я могу получить бесплатный компьютер?",
+        "answer": "Наша программа Plug Into Portland предоставляет бесплатные ноутбуки нуждающимся. Подайте заявку через наш сайт, чтобы попасть в список ожидания. Вы получите восстановленный ноутбук с Linux Mint, годовой гарантией и поддержкой цифрового навигатора."
       },
       "q2": {
-        "question": "Who is eligible for a free computer?",
-        "answer": "Our free computer program prioritizes individuals and families experiencing financial hardship, students without access to a computer for schoolwork, seniors, and people with disabilities. Eligibility is based on demonstrated need."
+        "question": "Кто имеет право на бесплатный компьютер?",
+        "answer": "Наша программа бесплатных компьютеров приоритизирует людей и семьи, испытывающие финансовые трудности, студентов без доступа к компьютеру для учёбы, пожилых людей и людей с ограниченными возможностями. Право определяется на основе продемонстрированной потребности."
       },
       "q3": {
-        "question": "How long is the waitlist?",
-        "answer": "Wait times vary depending on inventory and demand. We process applications as quickly as possible and will contact you when your computer is ready. Sign up for our newsletter for updates on program availability."
+        "question": "Как долго длится ожидание в списке?",
+        "answer": "Время ожидания варьируется в зависимости от наличия и спроса. Мы обрабатываем заявки как можно быстрее и свяжемся с вами, когда ваш компьютер будет готов. Подпишитесь на нашу рассылку для получения новостей о доступности программы."
       },
       "q4": {
-        "question": "Can my organization get computers?",
-        "answer": "Yes! We offer Hardware Grants for nonprofit organizations. This includes Organizational Hardware Grants for your staff and Community Hardware Grants for the people you serve. Contact our Digital Inclusion team to learn more."
+        "question": "Может ли моя организация получить компьютеры?",
+        "answer": "Да! Мы предлагаем гранты на оборудование для некоммерческих организаций. Это включает организационные гранты на оборудование для вашего персонала и общественные гранты на оборудование для людей, которым вы служите. Свяжитесь с нашей командой цифровой инклюзии для получения дополнительной информации."
       },
       "q5": {
-        "question": "What if I need a computer but don't qualify for free programs?",
-        "answer": "You can purchase quality refurbished computers from our eBay store at affordable prices. We also have an Affordable Tech Program for organizations that need larger quantities at reduced prices."
+        "question": "Что если мне нужен компьютер, но я не подхожу под бесплатные программы?",
+        "answer": "Вы можете приобрести качественные восстановленные компьютеры в нашем магазине на eBay по доступным ценам. У нас также есть программа доступных технологий для организаций, которым нужны большие объёмы по сниженным ценам."
       },
-      "cta": "Explore Our Programs"
+      "cta": "Изучить наши программы"
     },
     "volunteering": {
-      "title": "Volunteering",
+      "title": "Волонтёрство",
       "q1": {
-        "question": "What volunteer opportunities are available?",
-        "answer": "We offer several ways to volunteer: Warehouse volunteering (processing donated tech), Ambassador Program (spreading the word about Free Geek), hosting Tech Drives, and fundraising. There's a role for everyone regardless of technical skill level."
+        "question": "Какие возможности для волонтёрства доступны?",
+        "answer": "Мы предлагаем несколько способов стать волонтёром: волонтёрство на складе (обработка пожертвованной техники), программа амбассадоров (распространение информации о Free Geek), организация сборов техники и сбор средств. Есть роль для каждого независимо от уровня технических навыков."
       },
       "q2": {
-        "question": "Do I need technical experience to volunteer?",
-        "answer": "Not at all! While some roles involve working with technology, many don't require any technical background. We provide training for all volunteer positions. Your enthusiasm and commitment matter more than prior experience."
+        "question": "Нужен ли технический опыт для волонтёрства?",
+        "answer": "Совсем нет! Хотя некоторые роли предполагают работу с технологиями, многие не требуют никакого технического опыта. Мы проводим обучение для всех волонтёрских позиций. Ваш энтузиазм и преданность делу важнее предыдущего опыта."
       },
       "q3": {
-        "question": "What are the age requirements for volunteering?",
-        "answer": "Warehouse volunteers must be 18 or older. For other volunteer opportunities like Ambassador programs or tech drives, please contact us to discuss options for younger volunteers or family participation."
+        "question": "Каковы возрастные требования для волонтёрства?",
+        "answer": "Волонтёры склада должны быть старше 18 лет. Для других возможностей волонтёрства, таких как программа амбассадоров или сборы техники, свяжитесь с нами для обсуждения вариантов для молодых волонтёров или семейного участия."
       },
       "q4": {
-        "question": "Can I complete community service hours at Free Geek?",
-        "answer": "Yes, we accept volunteers completing court-ordered community service or school service requirements. Contact us to discuss your requirements and we'll help set up an appropriate volunteer schedule."
+        "question": "Могу ли я отработать часы общественных работ в Free Geek?",
+        "answer": "Да, мы принимаем волонтёров, выполняющих назначенные судом общественные работы или школьные требования. Свяжитесь с нами для обсуждения ваших требований, и мы поможем составить подходящий график волонтёрства."
       },
-      "cta": "Start Volunteering"
+      "cta": "Начать волонтёрство"
     },
     "dataSecurity": {
-      "title": "Data Security",
+      "title": "Безопасность данных",
       "q1": {
-        "question": "How do you protect my data?",
-        "answer": "All data-bearing devices go directly to our secure, staff-only data area. We use NIST SP800-88 compliant sanitization methods and are i-SIGMA certified. Every device is verified to ensure complete data destruction before any further processing."
+        "question": "Как вы защищаете мои данные?",
+        "answer": "Все устройства с данными поступают напрямую в нашу защищённую зону, доступную только персоналу. Мы используем методы очистки, соответствующие NIST SP800-88, и имеем сертификацию i-SIGMA. Каждое устройство проверяется для обеспечения полного уничтожения данных перед дальнейшей обработкой."
       },
       "q2": {
-        "question": "What is a Certificate of Data Destruction?",
-        "answer": "A Certificate of Data Destruction is official documentation that your device's data has been securely sanitized. It includes the device serial number, destruction method, date, and staff verification. Available for $10 per device—ideal for businesses and compliance requirements."
+        "question": "Что такое сертификат уничтожения данных?",
+        "answer": "Сертификат уничтожения данных — это официальный документ о том, что данные вашего устройства были безопасно очищены. Он включает серийный номер устройства, метод уничтожения, дату и верификацию персонала. Доступен за $10 за устройство — идеально для бизнеса и требований соответствия."
       },
       "q3": {
-        "question": "Should I wipe my device before donating?",
-        "answer": "It's optional. If you prefer to wipe your own data, we recommend using DBAN (Darik's Boot and Nuke) for hard drives. Even if you wipe beforehand, we'll still run our full sanitization process for complete peace of mind."
+        "question": "Стоит ли очистить устройство перед пожертвованием?",
+        "answer": "Это необязательно. Если вы предпочитаете очистить данные самостоятельно, мы рекомендуем использовать DBAN (Darik's Boot and Nuke) для жёстких дисков. Даже если вы очистите заранее, мы всё равно проведём полную очистку для вашего спокойствия."
       },
       "q4": {
-        "question": "What about SSDs and phones?",
-        "answer": "We have specialized processes for SSDs, smartphones, and other modern storage devices. Our methods ensure complete data removal regardless of the storage type. Encryption keys are destroyed and storage is fully sanitized."
+        "question": "А как насчёт SSD и телефонов?",
+        "answer": "У нас есть специализированные процессы для SSD, смартфонов и других современных устройств хранения. Наши методы обеспечивают полное удаление данных независимо от типа хранилища. Ключи шифрования уничтожаются, а хранилище полностью очищается."
       },
-      "cta": "Learn About Data Security"
+      "cta": "Узнать о безопасности данных"
     },
     "visiting": {
-      "title": "Visiting Free Geek",
+      "title": "Посещение Free Geek",
       "q1": {
-        "question": "Where are you located?",
-        "answer": "We're located at 1731 SE 10th Avenue, Portland, OR 97214. Tech donations are accepted in the outdoor parking lot on the northeast side of our building."
+        "question": "Где вы находитесь?",
+        "answer": "Мы находимся по адресу 1731 SE 10th Avenue, Portland, OR 97214. Пожертвования техники принимаются на открытой парковке на северо-восточной стороне нашего здания."
       },
       "q2": {
-        "question": "What are your hours?",
-        "answer": "We're open Wednesday through Saturday, 11:00 AM to 4:00 PM. We're closed Sunday through Tuesday and on major holidays."
+        "question": "Какие у вас часы работы?",
+        "answer": "Мы открыты со среды по субботу с 11:00 до 16:00. Мы закрыты с воскресенья по вторник и в крупные праздники."
       },
       "q3": {
-        "question": "Do I need an appointment to drop off a donation?",
-        "answer": "No appointment needed for small donations (under 20 devices). Just drive up during our drop-off hours and our team will help you unload. For large donations (20+ devices), please schedule ahead so we can ensure we have space and staff ready."
+        "question": "Нужна ли запись для сдачи пожертвования?",
+        "answer": "Запись не требуется для небольших пожертвований (менее 20 устройств). Просто подъезжайте в часы приёма, и наша команда поможет вам разгрузиться. Для крупных пожертвований (20+ устройств) пожалуйста, запишитесь заранее, чтобы мы могли обеспечить место и персонал."
       },
       "q4": {
-        "question": "Is there parking available?",
-        "answer": "Yes, we have a parking lot on the northeast side of our building where you can pull up for tech drop-offs. For visitor parking, street parking is available in the surrounding area."
+        "question": "Есть ли парковка?",
+        "answer": "Да, у нас есть парковка на северо-восточной стороне здания, куда можно подъехать для сдачи техники. Для посетителей доступна уличная парковка в окрестностях."
       }
     },
     "shop": {
-      "title": "Shop & Returns",
+      "title": "Магазин и возвраты",
       "q1": {
-        "question": "Where can I buy refurbished tech from Free Geek?",
-        "answer": "We sell refurbished technology through our eBay store. You'll find laptops, smartphones, tablets, vintage tech, and accessories. We also sell Free Geek merchandise through our Big Cartel store."
+        "question": "Где можно купить восстановленную технику от Free Geek?",
+        "answer": "Мы продаём восстановленные технологии через наш магазин на eBay. Вы найдёте ноутбуки, смартфоны, планшеты, винтажную технику и аксессуары. Мы также продаём товары Free Geek через наш магазин Big Cartel."
       },
       "q2": {
-        "question": "What is your return policy?",
-        "answer": "We offer a 30-day return policy on purchases from our eBay store. If you're not satisfied with your purchase, you can return it within 30 days for a full refund. Items must be in the same condition as received."
+        "question": "Какова ваша политика возврата?",
+        "answer": "Мы предлагаем 30-дневную политику возврата для покупок в нашем магазине eBay. Если вы не удовлетворены покупкой, вы можете вернуть её в течение 30 дней для полного возврата средств. Товары должны быть в том же состоянии, в каком были получены."
       },
       "q3": {
-        "question": "Do items come with a warranty?",
-        "answer": "Items purchased through our online store are sold as-is without warranty. However, we thoroughly test all devices before listing them. For our free computer program recipients, laptops come with a one-year warranty."
+        "question": "Предоставляется ли гарантия на товары?",
+        "answer": "Товары, приобретённые через наш интернет-магазин, продаются как есть без гарантии. Однако мы тщательно тестируем все устройства перед размещением. Для получателей нашей программы бесплатных компьютеров ноутбуки предоставляются с годовой гарантией."
       },
       "q4": {
-        "question": "Can I pick up my online purchase locally?",
-        "answer": "Yes! Portland-area buyers can select free local pickup at checkout. Come by during our hours (Wednesday-Saturday, 11AM-4PM) to pick up your purchase at our location."
+        "question": "Можно ли забрать онлайн-покупку на месте?",
+        "answer": "Да! Покупатели из района Портленда могут выбрать бесплатный местный самовывоз при оформлении заказа. Приезжайте в наши часы работы (среда-суббота, 11:00-16:00) для получения покупки."
       },
-      "cta": "Visit Our Shop"
+      "cta": "Посетить наш магазин"
     },
     "cta": {
-      "title": "Still have questions?",
-      "description": "Can't find what you're looking for? Reach out to our team and we'll be happy to help."
+      "title": "Остались вопросы?",
+      "description": "Не нашли то, что искали? Свяжитесь с нашей командой, и мы с радостью поможем."
     }
   },
   "techDrive": {
     "hero": {
-      "title1": "Host a Tech Drive.",
-      "title2": "Make a difference.",
-      "description": "Organize a tech collection at your workplace, school, or community organization. We'll provide everything you need to run a successful drive.",
-      "cta": "Register Your Tech Drive"
+      "title1": "Организуйте сбор техники.",
+      "title2": "Измените мир.",
+      "description": "Организуйте сбор техники на работе, в школе или общественной организации. Мы предоставим всё необходимое для успешного проведения.",
+      "cta": "Зарегистрировать сбор техники"
     },
     "why": {
-      "title": "Why Host a Tech Drive?",
+      "title": "Зачем организовывать сбор техники?",
       "environment": {
-        "title": "Environmental Impact",
-        "description": "Keep e-waste out of landfills by collecting tech that can be refurbished or responsibly recycled."
+        "title": "Экологическое влияние",
+        "description": "Не допускайте попадания электронных отходов на свалки, собирая технику для восстановления или ответственной переработки."
       },
       "community": {
-        "title": "Community Impact",
-        "description": "Collected devices help provide computers to families, students, and job seekers in need."
+        "title": "Влияние на сообщество",
+        "description": "Собранные устройства помогают обеспечить компьютерами семьи, студентов и соискателей работы."
       },
       "engagement": {
-        "title": "Team Engagement",
-        "description": "Rally your team or community around a meaningful cause that makes a tangible difference."
+        "title": "Вовлечение команды",
+        "description": "Объедините свою команду или сообщество вокруг значимого дела, которое приносит ощутимые результаты."
       }
     },
     "howItWorks": {
-      "title": "How It Works",
+      "title": "Как это работает",
       "step1": {
-        "title": "Register",
-        "description": "Fill out our form with your drive details"
+        "title": "Регистрация",
+        "description": "Заполните нашу форму с деталями вашего сбора"
       },
       "step2": {
-        "title": "Plan",
-        "description": "We'll help you choose dates and set goals"
+        "title": "Планирование",
+        "description": "Мы поможем выбрать даты и установить цели"
       },
       "step3": {
-        "title": "Promote",
-        "description": "Use our materials to spread the word"
+        "title": "Продвижение",
+        "description": "Используйте наши материалы для распространения информации"
       },
       "step4": {
-        "title": "Collect",
-        "description": "Gather donations from your community"
+        "title": "Сбор",
+        "description": "Соберите пожертвования от вашего сообщества"
       },
       "step5": {
-        "title": "Deliver",
-        "description": "Bring devices to Free Geek or schedule pickup"
+        "title": "Доставка",
+        "description": "Привезите устройства в Free Geek или запланируйте самовывоз"
       }
     },
     "provide": {
-      "title": "What We Provide",
+      "title": "Что мы предоставляем",
       "flyers": {
-        "title": "Promotional Flyers",
-        "description": "Digital and printable flyers to promote your drive"
+        "title": "Рекламные листовки",
+        "description": "Цифровые и печатные листовки для продвижения вашего сбора"
       },
       "email": {
-        "title": "Email Templates",
-        "description": "Ready-to-send announcements for your organization"
+        "title": "Шаблоны писем",
+        "description": "Готовые объявления для вашей организации"
       },
       "support": {
-        "title": "Planning Support",
-        "description": "Guidance from our team to ensure success"
+        "title": "Поддержка планирования",
+        "description": "Руководство от нашей команды для обеспечения успеха"
       },
       "pickup": {
-        "title": "Pickup Coordination",
-        "description": "For large collections, we can arrange pickup"
+        "title": "Координация самовывоза",
+        "description": "Для крупных сборов мы можем организовать самовывоз"
       }
     },
     "collect": {
-      "title": "What to Collect",
+      "title": "Что собирать",
       "accepted": {
-        "title": "We Accept",
-        "laptops": "Laptops",
-        "desktops": "Desktop computers",
-        "smartphones": "Smartphones",
-        "tablets": "Tablets",
-        "monitors": "Monitors",
-        "keyboards": "Keyboards & mice",
-        "cables": "Cables & accessories"
+        "title": "Мы принимаем",
+        "laptops": "Ноутбуки",
+        "desktops": "Настольные компьютеры",
+        "smartphones": "Смартфоны",
+        "tablets": "Планшеты",
+        "monitors": "Мониторы",
+        "keyboards": "Клавиатуры и мыши",
+        "cables": "Кабели и аксессуары"
       },
       "notAccepted": {
-        "title": "We Cannot Accept",
-        "crts": "CRT monitors/TVs",
-        "appliances": "Large appliances",
-        "microwaves": "Microwaves",
-        "hazardous": "Hazardous materials"
+        "title": "Мы не принимаем",
+        "crts": "ЭЛТ-мониторы/телевизоры",
+        "appliances": "Крупную бытовую технику",
+        "microwaves": "Микроволновые печи",
+        "hazardous": "Опасные материалы"
       }
     },
     "form": {
-      "title": "Register Your Tech Drive",
-      "description": "Tell us about your planned tech drive and we'll be in touch to help you get started.",
-      "name": "Your Name",
-      "email": "Email Address",
-      "organization": "Organization/Company Name",
-      "location": "Drive Location",
-      "dates": "Proposed Dates",
-      "datesPlaceholder": "e.g., March 15-22, 2025",
-      "details": "Tell us about your drive",
-      "note": "Note: This form is not yet connected to a backend. For immediate assistance, please email us at info@freegeek.org.",
-      "submit": "Register Tech Drive"
+      "title": "Зарегистрируйте ваш сбор техники",
+      "description": "Расскажите нам о планируемом сборе техники, и мы свяжемся с вами, чтобы помочь начать.",
+      "name": "Ваше имя",
+      "email": "Email",
+      "organization": "Название организации/компании",
+      "location": "Место проведения",
+      "dates": "Предполагаемые даты",
+      "datesPlaceholder": "например, 15-22 марта 2025",
+      "details": "Расскажите о вашем сборе",
+      "note": "Примечание: эта форма пока не подключена к серверу. Для немедленной помощи напишите нам на info@freegeek.org.",
+      "submit": "Зарегистрировать сбор техники"
     },
     "cta": {
-      "title": "Questions about hosting a drive?",
-      "description": "Our team is here to help you plan a successful tech collection event."
+      "title": "Вопросы об организации сбора?",
+      "description": "Наша команда готова помочь вам спланировать успешное мероприятие по сбору техники."
     }
   },
   "ambassador": {
     "hero": {
-      "title1": "Become a Free Geek",
-      "title2": "Ambassador.",
-      "description": "Join our network of passionate advocates spreading the word about digital equity in their communities. No technical experience required—just enthusiasm for our mission.",
-      "cta": "Apply to be an Ambassador"
+      "title1": "Станьте амбассадором",
+      "title2": "Free Geek.",
+      "description": "Присоединяйтесь к нашей сети увлечённых защитников, распространяющих информацию о цифровом равенстве в своих сообществах. Технический опыт не требуется — только энтузиазм к нашей миссии.",
+      "cta": "Подать заявку на амбассадора"
     },
     "what": {
-      "title": "What Do Ambassadors Do?",
+      "title": "Чем занимаются амбассадоры?",
       "social": {
-        "title": "Share on Social",
-        "description": "Post about Free Geek on your social media channels and help spread awareness."
+        "title": "Делитесь в соцсетях",
+        "description": "Публикуйте о Free Geek в своих социальных сетях и помогайте повышать осведомлённость."
       },
       "network": {
-        "title": "Tap Your Network",
-        "description": "Tell friends, family, and colleagues about our programs and donation opportunities."
+        "title": "Используйте связи",
+        "description": "Рассказывайте друзьям, семье и коллегам о наших программах и возможностях пожертвований."
       },
       "events": {
-        "title": "Represent at Events",
-        "description": "Represent Free Geek at community events, fairs, and partner gatherings."
+        "title": "Представляйте на мероприятиях",
+        "description": "Представляйте Free Geek на общественных мероприятиях, ярмарках и встречах партнёров."
       },
       "fundraise": {
-        "title": "Lead Fundraising",
-        "description": "Organize peer-to-peer fundraising campaigns to support our mission."
+        "title": "Организуйте сбор средств",
+        "description": "Организуйте кампании по сбору средств среди друзей и знакомых для поддержки нашей миссии."
       }
     },
     "benefits": {
-      "title": "Ambassador Benefits",
-      "description": "We support our ambassadors with resources and recognition for their efforts.",
+      "title": "Преимущества амбассадоров",
+      "description": "Мы поддерживаем наших амбассадоров ресурсами и признанием их усилий.",
       "training": {
-        "title": "Ambassador Training",
-        "description": "Learn about Free Geek's programs, impact, and talking points to share our story effectively."
+        "title": "Обучение амбассадоров",
+        "description": "Узнайте о программах Free Geek, влиянии и ключевых тезисах для эффективного рассказа нашей истории."
       },
       "materials": {
-        "title": "Marketing Materials",
-        "description": "Access to digital and print materials, graphics, and templates for your outreach."
+        "title": "Маркетинговые материалы",
+        "description": "Доступ к цифровым и печатным материалам, графике и шаблонам для вашей работы."
       },
       "recognition": {
-        "title": "Recognition & Swag",
-        "description": "Receive Free Geek merchandise and recognition for your contributions."
+        "title": "Признание и подарки",
+        "description": "Получайте товары Free Geek и признание за ваш вклад."
       },
       "community": {
-        "title": "Ambassador Community",
-        "description": "Connect with fellow ambassadors and share ideas and successes."
+        "title": "Сообщество амбассадоров",
+        "description": "Общайтесь с другими амбассадорами и делитесь идеями и успехами."
       },
       "tech": {
-        "title": "Tech Discounts",
-        "description": "Access to discounted refurbished technology from our shop."
+        "title": "Скидки на технику",
+        "description": "Доступ к восстановленной технике из нашего магазина со скидкой."
       },
       "impact": {
-        "title": "Real Impact",
-        "description": "Know you're making a tangible difference in closing the digital divide."
+        "title": "Реальное влияние",
+        "description": "Знайте, что вы вносите ощутимый вклад в сокращение цифрового неравенства."
       }
     },
     "requirements": {
-      "title": "What We're Looking For",
-      "item1": "Passion for Free Geek's mission of digital equity and sustainability",
-      "item2": "Active presence on social media or strong community connections",
-      "item3": "Willingness to commit a few hours per month to ambassador activities",
-      "item4": "Positive, professional representation of Free Geek in all interactions"
+      "title": "Что мы ищем",
+      "item1": "Страсть к миссии Free Geek в области цифрового равенства и устойчивого развития",
+      "item2": "Активное присутствие в социальных сетях или крепкие связи в сообществе",
+      "item3": "Готовность уделять несколько часов в месяц деятельности амбассадора",
+      "item4": "Позитивное и профессиональное представительство Free Geek во всех взаимодействиях"
     },
     "form": {
-      "title": "Apply to be an Ambassador",
-      "description": "Tell us about yourself and why you want to join our ambassador network.",
-      "name": "Your Name",
-      "email": "Email Address",
-      "social": "Social Media Handles",
-      "socialPlaceholder": "@username on Instagram, Twitter, LinkedIn, etc.",
-      "why": "Why do you want to be an Ambassador?",
-      "ideas": "Any ideas for how you'd spread the word about Free Geek?",
-      "note": "Note: This form is not yet connected to a backend. For immediate assistance, please email us at info@freegeek.org.",
-      "submit": "Submit Application"
+      "title": "Подать заявку на амбассадора",
+      "description": "Расскажите о себе и почему вы хотите присоединиться к нашей сети амбассадоров.",
+      "name": "Ваше имя",
+      "email": "Email",
+      "social": "Аккаунты в соцсетях",
+      "socialPlaceholder": "@username в Instagram, Twitter, LinkedIn и т.д.",
+      "why": "Почему вы хотите стать амбассадором?",
+      "ideas": "Есть идеи, как вы будете распространять информацию о Free Geek?",
+      "note": "Примечание: эта форма пока не подключена к серверу. Для немедленной помощи напишите нам на info@freegeek.org.",
+      "submit": "Отправить заявку"
     },
     "cta": {
-      "title": "Not ready to be an Ambassador?",
-      "description": "There are many other ways to support Free Geek's mission.",
-      "otherWays": "Explore Volunteer Opportunities"
+      "title": "Не готовы стать амбассадором?",
+      "description": "Есть много других способов поддержать миссию Free Geek.",
+      "otherWays": "Изучить возможности волонтёрства"
     }
   },
   "ourProcess": {
     "hero": {
-      "title1": "Our Process:",
-      "title2": "From donation to distribution.",
-      "description": "Every device that comes through our doors goes through a careful process to maximize its potential while protecting your data and our planet."
+      "title1": "Наш процесс:",
+      "title2": "От пожертвования до распределения.",
+      "description": "Каждое устройство, поступающее к нам, проходит тщательный процесс для максимизации его потенциала при защите ваших данных и нашей планеты."
     },
     "intake": {
-      "title": "1. Donation Intake",
-      "description": "When you drop off your devices, our team receives and catalogs each item. Data-bearing devices are immediately flagged and routed to our secure data area."
+      "title": "1. Приём пожертвований",
+      "description": "Когда вы сдаёте устройства, наша команда принимает и каталогизирует каждый предмет. Устройства с данными немедленно отмечаются и направляются в нашу защищённую зону."
     },
     "security": {
-      "title": "2. Data Security",
-      "description": "All hard drives and storage devices undergo NIST SP800-88 compliant data sanitization. We're i-SIGMA certified, meaning your data is handled with the same care used by government agencies.",
-      "cta": "Learn About Data Security"
+      "title": "2. Безопасность данных",
+      "description": "Все жёсткие диски и устройства хранения проходят очистку данных в соответствии с NIST SP800-88. Мы имеем сертификацию i-SIGMA, что означает обращение с вашими данными с такой же тщательностью, как в государственных учреждениях.",
+      "cta": "Узнать о безопасности данных"
     },
     "assessment": {
-      "title": "3. Assessment",
-      "description": "Trained technicians evaluate each device to determine if it can be refurbished for reuse or should be recycled for materials recovery."
+      "title": "3. Оценка",
+      "description": "Обученные техники оценивают каждое устройство, чтобы определить, можно ли его восстановить для повторного использования или следует переработать для извлечения материалов."
     },
     "breakdown": {
-      "title": "Reuse vs. Recycle",
+      "title": "Повторное использование vs. Переработка",
       "refurbish": {
         "stat": "~30%",
-        "title": "Refurbished for Reuse",
-        "description": "Devices that pass assessment are cleaned, repaired, upgraded with fresh operating systems, and tested for quality assurance."
+        "title": "Восстановлено для повторного использования",
+        "description": "Устройства, прошедшие оценку, очищаются, ремонтируются, обновляются свежими операционными системами и тестируются для контроля качества."
       },
       "recycle": {
         "stat": "~70%",
-        "title": "Responsibly Recycled",
-        "description": "Devices that can't be refurbished are broken down for materials recovery through our certified recycling partners."
+        "title": "Ответственно переработано",
+        "description": "Устройства, которые нельзя восстановить, разбираются для извлечения материалов через наших сертифицированных партнёров по переработке."
       }
     },
     "departments": {
-      "title": "Our Rebuild Departments",
+      "title": "Наши отделы восстановления",
       "laptops": {
-        "title": "Laptops",
-        "description": "Our most in-demand devices. Refurbished with Linux Mint and distributed through our programs."
+        "title": "Ноутбуки",
+        "description": "Наши самые востребованные устройства. Восстанавливаются с Linux Mint и распределяются через наши программы."
       },
       "desktops": {
-        "title": "Desktops",
-        "description": "Full desktop systems rebuilt for home and office use."
+        "title": "Настольные компьютеры",
+        "description": "Полные настольные системы, восстановленные для домашнего и офисного использования."
       },
       "macland": {
         "title": "Macland",
-        "description": "Dedicated team for Apple devices—MacBooks, iMacs, and Mac Minis."
+        "description": "Специальная команда для устройств Apple — MacBook, iMac и Mac Mini."
       },
       "other": {
-        "title": "Other Devices",
-        "description": "Tablets, smartphones, monitors, and peripherals."
+        "title": "Другие устройства",
+        "description": "Планшеты, смартфоны, мониторы и периферийные устройства."
       }
     },
     "distribution": {
-      "title": "4. Distribution",
-      "description": "Refurbished devices find new homes through our community programs, hardware grants, and online shop. Each device helps bridge the digital divide.",
-      "programs": "Learn About Our Programs"
+      "title": "4. Распределение",
+      "description": "Восстановленные устройства находят новый дом через наши общественные программы, гранты на оборудование и интернет-магазин. Каждое устройство помогает сокращать цифровое неравенство.",
+      "programs": "Узнать о наших программах"
     },
     "cta": {
-      "title": "Ready to donate your tech?",
-      "description": "Your old devices can help someone in need while staying out of landfills."
+      "title": "Готовы пожертвовать вашу технику?",
+      "description": "Ваши старые устройства могут помочь нуждающемуся человеку и не попасть на свалку."
     }
   },
   "supportPage": {
     "hero": {
-      "title1": "Digital Navigation",
-      "title2": "Support",
-      "description": "Get help setting up your device, navigating the internet, and building digital skills with one-on-one support from our Digital Navigation team."
+      "title1": "Поддержка",
+      "title2": "Цифрового навигатора",
+      "description": "Получите помощь в настройке устройства, навигации в интернете и развитии цифровых навыков с индивидуальной поддержкой от нашей команды цифровых навигаторов."
     },
     "notice": {
-      "title": "Important Notice",
-      "description": "Direct tech support services were discontinued in October 2022. However, we continue to provide comprehensive support through our Digital Navigation program for eligible participants."
+      "title": "Важное уведомление",
+      "description": "Прямые услуги технической поддержки были прекращены в октябре 2022 года. Однако мы продолжаем предоставлять комплексную поддержку через нашу программу цифровой навигации для подходящих участников."
     },
     "warranty": {
-      "title": "Device Replacement Warranty",
-      "description": "If you received a computer through one of our programs, your device comes with a one-year warranty. If your device has issues during the warranty period, contact us for support.",
-      "eligible": "Eligible devices include computers received through:",
+      "title": "Гарантия замены устройства",
+      "description": "Если вы получили компьютер через одну из наших программ, ваше устройство имеет годовую гарантию. Если у вашего устройства возникнут проблемы в гарантийный период, свяжитесь с нами для получения поддержки.",
+      "eligible": "Подходящие устройства включают компьютеры, полученные через:",
       "programs": {
         "pip": "Plug Into Portland",
         "geekbox": "Gift a Geekbox",
-        "grants": "Hardware Grants Program"
+        "grants": "Программа грантов на оборудование"
       },
-      "contact": "For warranty support, contact:"
+      "contact": "Для гарантийной поддержки свяжитесь с нами:"
     },
     "navigation": {
-      "title": "1:1 Digital Navigator Support",
-      "description": "Our Digital Navigators provide personalized support to help you:",
-      "item1": "Set up and configure your new device",
-      "item2": "Get connected to the internet",
-      "item3": "Learn to use essential software and applications",
-      "item4": "Stay safe online with cybersecurity basics",
-      "item5": "Access telehealth, job applications, and essential services",
-      "cta": "Schedule an Appointment"
+      "title": "Индивидуальная поддержка цифрового навигатора",
+      "description": "Наши цифровые навигаторы предоставляют персонализированную поддержку, чтобы помочь вам:",
+      "item1": "Настроить и сконфигурировать новое устройство",
+      "item2": "Подключиться к интернету",
+      "item3": "Научиться использовать необходимое программное обеспечение и приложения",
+      "item4": "Оставаться в безопасности онлайн с основами кибербезопасности",
+      "item5": "Получить доступ к телемедицине, заявкам на работу и важным услугам",
+      "cta": "Записаться на приём"
     },
     "programs": {
-      "title": "Programs Covered",
-      "description": "Digital Navigation support is available to participants in the following programs:",
+      "title": "Охватываемые программы",
+      "description": "Поддержка цифровой навигации доступна участникам следующих программ:",
       "pip": {
         "title": "Plug Into Portland",
-        "description": "Free laptop recipients receive ongoing support from our Digital Navigation team."
+        "description": "Получатели бесплатных ноутбуков получают постоянную поддержку от нашей команды цифровой навигации."
       },
       "geekbox": {
         "title": "Gift a Geekbox",
-        "description": "Desktop computer recipients can access support services."
+        "description": "Получатели настольных компьютеров могут воспользоваться услугами поддержки."
       },
       "grants": {
-        "title": "Hardware Grants",
-        "description": "Organizations receiving hardware grants can refer their clients for support."
+        "title": "Гранты на оборудование",
+        "description": "Организации, получающие гранты на оборудование, могут направлять своих клиентов на поддержку."
       },
       "digitalNav": {
-        "title": "Digital Navigation Program",
-        "description": "Anyone enrolled in our Digital Navigation program."
+        "title": "Программа цифровой навигации",
+        "description": "Любой, кто зарегистрирован в нашей программе цифровой навигации."
       }
     },
     "contact": {
-      "title": "Contact Support",
-      "phone": "503-232-9350 ext 101",
+      "title": "Связаться с поддержкой",
+      "phone": "503-232-9350 доб. 101",
       "email": "computerfriends@freegeek.org",
-      "hours": "Wednesday - Saturday, 11 AM - 4 PM"
+      "hours": "Среда — Суббота, 11:00 — 16:00"
     },
     "cta": {
-      "title": "Need a computer first?",
-      "description": "Apply for a free laptop through our Plug Into Portland program."
+      "title": "Сначала нужен компьютер?",
+      "description": "Подайте заявку на бесплатный ноутбук через нашу программу Plug Into Portland."
     }
   },
   "location": {
     "hero": {
-      "title1": "Visit",
+      "title1": "Посетите",
       "title2": "Free Geek",
-      "description": "Drop off tech donations, pick up a computer, or just stop by to see what we do. We're located in the heart of Portland's inner Southeast."
+      "description": "Сдайте технику в дар, заберите компьютер или просто загляните посмотреть, чем мы занимаемся. Мы находимся в центре юго-восточного Портленда."
     },
     "address": {
-      "title": "Our Location",
+      "title": "Наше местоположение",
       "street": "1731 SE 10th Avenue",
       "city": "Portland, OR 97214",
-      "mapLink": "View on Google Maps"
+      "mapLink": "Смотреть на Google Maps"
     },
     "hours": {
-      "title": "Hours",
+      "title": "Часы работы",
       "days": {
-        "wed": "Wednesday",
-        "thu": "Thursday",
-        "fri": "Friday",
-        "sat": "Saturday",
-        "sunTue": "Sunday - Tuesday"
+        "wed": "Среда",
+        "thu": "Четверг",
+        "fri": "Пятница",
+        "sat": "Суббота",
+        "sunTue": "Воскресенье — Вторник"
       },
-      "open": "11 AM - 4 PM",
-      "closed": "Closed"
+      "open": "11:00 — 16:00",
+      "closed": "Закрыто"
     },
     "getting": {
-      "title": "Getting Here",
+      "title": "Как добраться",
       "transit": {
-        "title": "By Transit",
-        "description": "TriMet bus lines 2, 6, 10, 14, and 70 stop nearby. The closest MAX stop is SE Grand & Taylor on the Orange/Yellow lines."
+        "title": "Общественным транспортом",
+        "description": "Автобусные маршруты TriMet 2, 6, 10, 14 и 70 останавливаются рядом. Ближайшая остановка MAX — SE Grand & Taylor на линиях Orange/Yellow."
       },
       "bike": {
-        "title": "By Bike",
-        "description": "Bike parking is available near our entrance. We're located on the Neighborhood Greenway."
+        "title": "На велосипеде",
+        "description": "Велопарковка доступна рядом с нашим входом. Мы находимся на Neighborhood Greenway."
       },
       "car": {
-        "title": "By Car",
-        "description": "Street parking is available on SE 10th Avenue and surrounding streets. Our donation drop-off area has dedicated parking."
+        "title": "На машине",
+        "description": "Уличная парковка доступна на SE 10th Avenue и прилегающих улицах. Наша зона приёма пожертвований имеет выделенную парковку."
       }
     },
     "entrances": {
-      "title": "Building Entrances",
+      "title": "Входы в здание",
       "donations": {
-        "title": "Donations",
-        "description": "North side of building - Drive up to the outdoor parking lot on the northeast corner for tech drop-offs."
+        "title": "Пожертвования",
+        "description": "Северная сторона здания — подъезжайте к открытой парковке на северо-восточном углу для сдачи техники."
       },
       "info": {
-        "title": "Info & Volunteering",
-        "description": "Main entrance on SE 10th Avenue - Visit our front desk for information, volunteering, or general inquiries."
+        "title": "Информация и волонтёрство",
+        "description": "Главный вход на SE 10th Avenue — посетите нашу стойку регистрации для получения информации, волонтёрства или общих вопросов."
       },
       "shop": {
-        "title": "Shop Pickup",
-        "description": "South entrance - For local pickup of online store purchases."
+        "title": "Получение покупок",
+        "description": "Южный вход — для местного получения покупок из интернет-магазина."
       }
     },
     "cta": {
-      "title": "Ready to visit?",
-      "description": "We look forward to seeing you! Drop in during our open hours—no appointment needed for small donations."
+      "title": "Готовы к визиту?",
+      "description": "Мы рады будем вас видеть! Заходите в часы работы — для небольших пожертвований запись не требуется."
     }
   },
   "largeDonation": {

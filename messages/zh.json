@@ -661,93 +661,93 @@
   },
   "contact": {
     "hero": {
-      "title": "Let's talk.",
-      "description": "Have a question about donating, volunteering, or getting a computer? We're here to help."
+      "title": "联系我们",
+      "description": "关于捐赠、志愿服务或获取电脑有疑问？我们随时为您提供帮助。"
     },
     "visit": {
-      "title": "Visit Us",
+      "title": "访问我们",
       "address": "1731 SE 10th Avenue",
       "city": "Portland, OR 97214",
-      "parking": "Drop-offs accepted in the outdoor parking lot on the northeast side of our building.",
-      "dropoffNote": "Drop-offs accepted in the outdoor parking lot on the northeast side of our building.",
-      "directions": "Get Directions →"
+      "parking": "捐赠物品请送至我们大楼东北侧的室外停车场。",
+      "dropoffNote": "捐赠物品请送至我们大楼东北侧的室外停车场。",
+      "directions": "获取路线 →"
     },
     "hours": {
-      "title": "Hours",
-      "wed": "Wednesday",
-      "thu": "Thursday",
-      "fri": "Friday",
-      "sat": "Saturday",
-      "wednesday": "Wednesday",
-      "thursday": "Thursday",
-      "friday": "Friday",
-      "saturday": "Saturday",
-      "sunTue": "Sun - Tue",
-      "open": "11 AM - 4 PM",
-      "closed": "Closed"
+      "title": "营业时间",
+      "wed": "周三",
+      "thu": "周四",
+      "fri": "周五",
+      "sat": "周六",
+      "wednesday": "周三",
+      "thursday": "周四",
+      "friday": "周五",
+      "saturday": "周六",
+      "sunTue": "周日 - 周二",
+      "open": "上午11点 - 下午4点",
+      "closed": "休息"
     },
     "email": {
-      "title": "Email Us",
-      "description": "General inquiries, questions about programs, or just want to say hi."
+      "title": "电子邮件",
+      "description": "一般咨询、项目问题或只是想打个招呼。"
     },
     "questions": {
-      "title": "Common Questions",
+      "title": "常见问题",
       "donateTech": {
-        "title": "Donate Technology",
-        "description": "Drop-off hours, what we accept, and scheduling large donations."
+        "title": "捐赠科技设备",
+        "description": "送货时间、接受物品及大宗捐赠预约。"
       },
       "getComputer": {
-        "title": "Get a Computer",
-        "description": "Learn about Plug Into Portland and hardware grant programs."
+        "title": "获取电脑",
+        "description": "了解 Plug Into Portland 和硬件资助项目。"
       },
       "volunteer": {
-        "title": "Volunteer",
-        "description": "Join our team and help bridge the digital divide."
+        "title": "志愿服务",
+        "description": "加入我们的团队，帮助弥合数字鸿沟。"
       },
       "faq": {
-        "title": "FAQs",
-        "description": "Find answers to our most frequently asked questions."
+        "title": "常见问题",
+        "description": "查找我们最常见问题的答案。"
       }
     },
     "quickLinks": {
-      "title": "Common Questions",
+      "title": "常见问题",
       "donateTech": {
-        "title": "Donate Technology",
-        "description": "Drop-off hours, what we accept, and scheduling large donations."
+        "title": "捐赠科技设备",
+        "description": "送货时间、接受物品及大宗捐赠预约。"
       },
       "getComputer": {
-        "title": "Get a Computer",
-        "description": "Learn about Plug Into Portland and hardware grant programs."
+        "title": "获取电脑",
+        "description": "了解 Plug Into Portland 和硬件资助项目。"
       },
       "volunteer": {
-        "title": "Volunteer",
-        "description": "Join our team and help bridge the digital divide."
+        "title": "志愿服务",
+        "description": "加入我们的团队，帮助弥合数字鸿沟。"
       },
       "faqs": {
-        "title": "FAQs",
-        "description": "Find answers to our most frequently asked questions."
+        "title": "常见问题",
+        "description": "查找我们最常见问题的答案。"
       }
     },
     "form": {
-      "title": "Send Us a Message",
-      "description": "Fill out the form below and we'll get back to you as soon as we can.",
-      "name": "Your Name",
-      "email": "Your Email",
-      "subject": "What is your inquiry about?",
-      "selectTopic": "Select a topic...",
+      "title": "给我们留言",
+      "description": "填写下面的表格，我们会尽快回复您。",
+      "name": "您的姓名",
+      "email": "您的电子邮箱",
+      "subject": "您的咨询关于什么？",
+      "selectTopic": "选择一个主题...",
       "topics": {
-        "digitalInclusion": "Digital Inclusion Services",
-        "donation": "Recycling / Tech Donation",
-        "business": "Business Partnerships",
-        "volunteering": "Volunteering",
-        "shop": "Online Shop",
-        "fundraising": "Fundraising",
-        "press": "Press / Media",
-        "hr": "Human Resources",
-        "other": "Other"
+        "digitalInclusion": "数字包容服务",
+        "donation": "回收/科技捐赠",
+        "business": "商业合作",
+        "volunteering": "志愿服务",
+        "shop": "在线商店",
+        "fundraising": "筹款",
+        "press": "媒体/新闻",
+        "hr": "人力资源",
+        "other": "其他"
       },
-      "message": "Message",
-      "submit": "Send Message",
+      "message": "留言内容",
+      "submit": "发送消息",
       "sending": "发送中...",
       "success": "消息已发送！",
       "successDescription": "我们会尽快回复您。",
@@ -758,91 +758,91 @@
       "note": "我们通常在1-2个工作日内回复。"
     },
     "social": {
-      "title": "Follow Us",
-      "description": "Stay up to date with Free Geek news, events, and impact stories."
+      "title": "关注我们",
+      "description": "了解 Free Geek 的最新消息、活动和影响力故事。"
     },
     "cta": {
-      "title": "Ready to make a difference?",
-      "description": "Whether you're donating tech, volunteering, or supporting our mission, every contribution helps bridge the digital divide."
+      "title": "准备好做出改变了吗？",
+      "description": "无论您是捐赠科技设备、志愿服务还是支持我们的使命，每一份贡献都有助于弥合数字鸿沟。"
     }
   },
   "volunteer": {
     "hero": {
-      "title1": "Join our mission.",
-      "title2": "Make an impact.",
-      "description": "Since 2000, over 35,000 volunteers have helped Free Geek turn e-waste into opportunity. There's a place for you too."
+      "title1": "加入我们的使命。",
+      "title2": "创造影响。",
+      "description": "自2000年以来，超过35,000名志愿者帮助 Free Geek 将电子垃圾转化为机会。这里也有您的位置。"
     },
     "opportunities": {
-      "title": "Ways to Get Involved",
-      "description": "Whether you have an hour or a month, there's a way for you to contribute to digital equity in our community.",
-      "subtitle": "Whether you have an hour or a month, there's a way for you to contribute to digital equity in our community.",
+      "title": "参与方式",
+      "description": "无论您有一小时还是一个月的时间，都有方法为我们社区的数字公平做出贡献。",
+      "subtitle": "无论您有一小时还是一个月的时间，都有方法为我们社区的数字公平做出贡献。",
       "ambassador": {
-        "title": "Ambassador Program",
-        "description": "Share Free Geek's vision with your community through social media, email, fundraising, and more.",
-        "cta": "Become an Ambassador"
+        "title": "大使项目",
+        "description": "通过社交媒体、电子邮件、筹款等方式与您的社区分享 Free Geek 的愿景。",
+        "cta": "成为大使"
       },
       "techDrive": {
-        "title": "Host a Tech Drive",
-        "description": "Organize a tech collection at your workplace, school, or neighborhood to help us reach more donors.",
-        "cta": "Start a Tech Drive"
+        "title": "举办科技募捐活动",
+        "description": "在您的工作场所、学校或社区组织科技设备收集活动，帮助我们接触更多捐赠者。",
+        "cta": "发起募捐活动"
       },
       "warehouse": {
-        "title": "Warehouse Volunteering",
-        "description": "Get hands-on experience receiving, sorting, and processing donated technology in our facility.",
-        "cta": "Apply to Volunteer"
+        "title": "仓库志愿服务",
+        "description": "在我们的设施中获得接收、分类和处理捐赠科技设备的实践经验。",
+        "cta": "申请成为志愿者"
       },
       "fundraise": {
-        "title": "Fundraise for Free Geek",
-        "description": "Host a fundraiser—whether it's a Facebook campaign, community event, bake sale, or walk-a-thon.",
-        "cta": "Start a Fundraiser"
+        "title": "为 Free Geek 筹款",
+        "description": "举办筹款活动——无论是 Facebook 活动、社区活动、义卖还是步行马拉松。",
+        "cta": "发起筹款活动"
       }
     },
     "impact": {
-      "title": "Your impact adds up",
-      "volunteers": "Volunteers have contributed their time and skills to Free Geek over 25 years.",
-      "ewaste": "Pounds of e-waste diverted from landfills thanks to our collective efforts.",
-      "devices": "Devices refurbished and given to people who need them most.",
+      "title": "您的影响在累积",
+      "volunteers": "25年来，志愿者们为 Free Geek 贡献了他们的时间和技能。",
+      "ewaste": "通过我们的共同努力，从垃圾填埋场转移的电子垃圾（磅）。",
+      "devices": "翻新并赠送给最需要的人的设备数量。",
       "volunteersObj": {
         "stat": "35K+",
-        "description": "Volunteers have contributed their time and skills to Free Geek over 25 years."
+        "description": "25年来，志愿者们为 Free Geek 贡献了他们的时间和技能。"
       },
       "ewasteObj": {
         "stat": "82M",
-        "description": "Pounds of e-waste diverted from landfills thanks to our collective efforts."
+        "description": "通过我们的共同努力，从垃圾填埋场转移的电子垃圾（磅）。"
       },
       "devicesObj": {
         "stat": "75K+",
-        "description": "Devices refurbished and given to people who need them most."
+        "description": "翻新并赠送给最需要的人的设备数量。"
       }
     },
     "form": {
-      "title": "Interested in volunteering?",
-      "description": "Tell us about yourself and we'll be in touch with opportunities that match your interests.",
-      "subtitle": "Tell us about yourself and we'll be in touch with opportunities that match your interests.",
-      "name": "Your Name",
-      "email": "Email",
-      "interestsLabel": "What interests you?",
-      "interestsHint": "(select all that apply)",
-      "interestsNote": "(select all that apply)",
+      "title": "有兴趣做志愿者？",
+      "description": "告诉我们关于您的情况，我们会联系您提供符合您兴趣的机会。",
+      "subtitle": "告诉我们关于您的情况，我们会联系您提供符合您兴趣的机会。",
+      "name": "您的姓名",
+      "email": "电子邮箱",
+      "interestsLabel": "您对什么感兴趣？",
+      "interestsHint": "（可多选）",
+      "interestsNote": "（可多选）",
       "options": {
-        "ambassador": "Ambassador Program",
-        "techDrives": "Tech Drives",
-        "warehouse": "Warehouse Volunteering",
-        "fundraising": "Fundraising",
-        "internship": "Internship",
-        "other": "Other"
+        "ambassador": "大使项目",
+        "techDrives": "科技募捐活动",
+        "warehouse": "仓库志愿服务",
+        "fundraising": "筹款",
+        "internship": "实习",
+        "other": "其他"
       },
       "interests": {
-        "ambassador": "Ambassador Program",
-        "techDrives": "Tech Drives",
-        "warehouse": "Warehouse Volunteering",
-        "fundraising": "Fundraising",
-        "internship": "Internship",
-        "other": "Other"
+        "ambassador": "大使项目",
+        "techDrives": "科技募捐活动",
+        "warehouse": "仓库志愿服务",
+        "fundraising": "筹款",
+        "internship": "实习",
+        "other": "其他"
       },
-      "about": "Tell us about yourself",
-      "aboutPlaceholder": "Share any relevant experience, availability, or questions...",
-      "submit": "Submit Interest Form",
+      "about": "介绍一下您自己",
+      "aboutPlaceholder": "分享任何相关经验、可用时间或问题...",
+      "submit": "提交意向表",
       "sending": "提交中...",
       "success": "表单已提交！",
       "successDescription": "我们会尽快联系您关于志愿者机会！",
@@ -853,16 +853,16 @@
       "note": "我们会在几天内联系您关于志愿者机会。"
     },
     "internship": {
-      "title": "Looking for an internship?",
-      "description": "Free Geek offers internship opportunities for students and career-changers interested in technology, nonprofit management, and sustainability.",
-      "cta": "View Open Positions"
+      "title": "寻找实习机会？",
+      "description": "Free Geek 为对技术、非营利管理和可持续发展感兴趣的学生和职业转换者提供实习机会。",
+      "cta": "查看开放职位"
     },
     "cta": {
-      "title": "Can't volunteer right now?",
-      "description": "You can still make a difference. Donate your old tech or support our mission financially."
+      "title": "现在无法做志愿者？",
+      "description": "您仍然可以做出改变。捐赠您的旧科技设备或在经济上支持我们的使命。"
     },
     "alt": {
-      "volunteers": "Free Geek volunteers working together in the warehouse"
+      "volunteers": "Free Geek 志愿者在仓库一起工作"
     }
   },
   "hardwareGrants": {
@@ -1102,60 +1102,60 @@
   },
   "shop": {
     "hero": {
-      "title1": "Shop refurbished tech.",
-      "title2": "Support our mission.",
-      "description": "Every purchase from our online stores helps fund Free Geek's programs to bridge the digital divide and keep e-waste out of landfills."
+      "title1": "购买翻新科技产品。",
+      "title2": "支持我们的使命。",
+      "description": "您在我们在线商店的每次购买都有助于资助 Free Geek 弥合数字鸿沟和防止电子垃圾进入填埋场的项目。"
     },
     "channels": {
-      "title": "Where to Shop",
+      "title": "购物渠道",
       "ebay": {
-        "title": "eBay Store",
-        "description": "Browse our selection of quality refurbished technology, ready to ship or available for local pickup.",
-        "item1": "Refurbished laptops",
-        "item2": "Smartphones and tablets",
-        "item3": "Vintage and collectible tech",
-        "item4": "Accessories and peripherals",
-        "cta": "Shop on eBay"
+        "title": "eBay 商店",
+        "description": "浏览我们精选的优质翻新科技产品，可发货或本地自提。",
+        "item1": "翻新笔记本电脑",
+        "item2": "智能手机和平板电脑",
+        "item3": "复古和收藏科技产品",
+        "item4": "配件和外设",
+        "cta": "在 eBay 购物"
       },
       "merch": {
-        "title": "Free Geek Merchandise",
-        "description": "Show your support with official Free Geek branded gear and apparel.",
-        "item1": "T-shirts and apparel",
-        "item2": "Stickers and accessories",
-        "item3": "Limited edition items",
-        "cta": "Shop Merchandise"
+        "title": "Free Geek 周边商品",
+        "description": "购买官方 Free Geek 品牌商品和服装，展示您的支持。",
+        "item1": "T恤和服装",
+        "item2": "贴纸和配件",
+        "item3": "限量版商品",
+        "cta": "购买周边商品"
       }
     },
     "pickup": {
-      "title": "Free Local Pickup",
-      "description": "Portland-area buyers can pick up their purchases at our location for free. Just select local pickup at checkout and come by during our hours.",
-      "location": "Pickup Location",
+      "title": "免费本地自提",
+      "description": "波特兰地区的买家可以免费在我们的地点自提购买的商品。只需在结账时选择本地自提，并在营业时间内前来。",
+      "location": "自提地点",
       "address": "1731 SE 10th Avenue, Portland, OR 97214",
-      "days": "Wednesday - Saturday",
-      "times": "11:00 AM - 4:00 PM"
+      "days": "周三 - 周六",
+      "times": "上午11:00 - 下午4:00"
     },
     "policies": {
-      "title": "Shop Policies",
+      "title": "商店政策",
       "returns": {
-        "title": "30-Day Returns",
-        "description": "Not satisfied? Return your purchase within 30 days for a full refund."
+        "title": "30天退货",
+        "description": "不满意？30天内退货可获全额退款。"
       },
       "warranty": {
-        "title": "Sold As-Is",
-        "description": "Items are sold as-is without warranty. We thoroughly test all devices before listing."
+        "title": "按现状销售",
+        "description": "商品按现状销售，不提供保修。我们在上架前对所有设备进行全面测试。"
       },
       "payment": {
-        "title": "Secure Payment",
-        "description": "All transactions are processed securely through eBay or Big Cartel."
+        "title": "安全支付",
+        "description": "所有交易均通过 eBay 或 Big Cartel 安全处理。"
       }
     },
     "mission": {
-      "title": "Every Purchase Makes a Difference",
-      "description": "When you shop with Free Geek, 100% of proceeds support our nonprofit mission. Your purchase helps provide free computers to those in need and keeps technology out of landfills.",
-      "learnPrograms": "Learn About Our Programs"
+      "title": "每次购买都会带来改变",
+      "description": "当您在 Free Geek 购物时，100%的收益支持我们的非营利使命。您的购买帮助为有需要的人提供免费电脑，并防止科技产品进入填埋场。",
+      "learnPrograms": "了解我们的项目"
     },
     "alt": {
-      "location": "Free Geek building entrance in Portland, Oregon"
+      "location": "俄勒冈州波特兰市 Free Geek 大楼入口"
     }
   },
   "careers": {
@@ -1576,147 +1576,147 @@
   },
   "faq": {
     "hero": {
-      "title": "Frequently Asked Questions",
-      "description": "Find answers to common questions about donating tech, getting a computer, volunteering, and more."
+      "title": "常见问题",
+      "description": "查找关于捐赠科技设备、获取电脑、志愿服务等常见问题的答案。"
     },
     "categories": {
-      "donating": "Donating Tech",
-      "gettingComputer": "Getting a Computer",
-      "volunteering": "Volunteering",
-      "dataSecurity": "Data Security",
-      "visiting": "Visiting Us",
-      "shop": "Shop & Returns"
+      "donating": "捐赠科技设备",
+      "gettingComputer": "获取电脑",
+      "volunteering": "志愿服务",
+      "dataSecurity": "数据安全",
+      "visiting": "访问我们",
+      "shop": "购物与退货"
     },
     "donating": {
-      "title": "Donating Technology",
+      "title": "捐赠科技设备",
       "q1": {
-        "question": "What items do you accept?",
-        "answer": "We accept most electronics including laptops, desktops, smartphones, tablets, monitors, printers, keyboards, mice, cables, and accessories. We also accept servers, networking equipment, and other IT infrastructure. Items should be complete—we can't accept devices missing major components."
+        "question": "你们接受哪些物品？",
+        "answer": "我们接受大多数电子产品，包括笔记本电脑、台式机、智能手机、平板电脑、显示器、打印机、键盘、鼠标、电缆和配件。我们也接受服务器、网络设备和其他IT基础设施。物品应该完整——我们无法接受缺少主要部件的设备。"
       },
       "q2": {
-        "question": "What items do you NOT accept?",
-        "answer": "We cannot accept CRT monitors/TVs, microwaves, large appliances, smoke detectors, or items contaminated with hazardous materials. We also cannot accept broken glass or heavily damaged items. When in doubt, give us a call before visiting."
+        "question": "你们不接受哪些物品？",
+        "answer": "我们无法接受 CRT 显示器/电视、微波炉、大型家电、烟雾探测器或被危险材料污染的物品。我们也无法接受破碎的玻璃或严重损坏的物品。如有疑问，请在来访前致电我们。"
       },
       "q3": {
-        "question": "Do I need to wipe my data before donating?",
-        "answer": "You don't have to, but you can if you prefer. We securely sanitize all data-bearing devices using NIST SP800-88 compliant methods. Your data is protected from the moment you drop off until destruction is complete."
+        "question": "捐赠前需要清除我的数据吗？",
+        "answer": "不必须，但您可以选择这样做。我们使用符合 NIST SP800-88 标准的方法安全地清除所有含数据设备。从您送达的那一刻起直到销毁完成，您的数据都受到保护。"
       },
       "q4": {
-        "question": "Can I get a receipt for my donation?",
-        "answer": "Yes! As a 501(c)(3) nonprofit, we provide donation receipts for tax purposes. Just ask at drop-off and we'll provide documentation. For corporate donations, we can provide detailed itemized receipts."
+        "question": "我可以获得捐赠收据吗？",
+        "answer": "可以！作为 501(c)(3) 非营利组织，我们提供用于税务目的的捐赠收据。只需在送达时索取，我们会提供文件。对于企业捐赠，我们可以提供详细的分项收据。"
       },
       "q5": {
-        "question": "Do you offer pickup service for large donations?",
-        "answer": "Yes, we offer scheduled pickup service for large donations (20+ devices) and corporate donations in the Portland metro area. Contact us to schedule a pickup at your location."
+        "question": "你们提供大宗捐赠的上门取货服务吗？",
+        "answer": "是的，我们为波特兰都会区的大宗捐赠（20台以上设备）和企业捐赠提供预约上门取货服务。请联系我们在您的地点安排取货。"
       },
-      "cta": "Learn More About Donating"
+      "cta": "了解更多捐赠信息"
     },
     "gettingComputer": {
-      "title": "Getting a Computer",
+      "title": "获取电脑",
       "q1": {
-        "question": "How can I get a free computer?",
-        "answer": "Our Plug Into Portland program provides free laptops to individuals in need. Apply through our website to get on the waitlist. You'll receive a refurbished laptop running Linux Mint with a one-year warranty and Digital Navigation support."
+        "question": "如何获得免费电脑？",
+        "answer": "我们的 Plug Into Portland 项目为有需要的个人提供免费笔记本电脑。通过我们的网站申请加入等候名单。您将收到一台运行 Linux Mint 的翻新笔记本电脑，附带一年保修和数字导航支持。"
       },
       "q2": {
-        "question": "Who is eligible for a free computer?",
-        "answer": "Our free computer program prioritizes individuals and families experiencing financial hardship, students without access to a computer for schoolwork, seniors, and people with disabilities. Eligibility is based on demonstrated need."
+        "question": "谁有资格获得免费电脑？",
+        "answer": "我们的免费电脑项目优先考虑经济困难的个人和家庭、没有电脑完成学业的学生、老年人和残障人士。资格基于证明的需求。"
       },
       "q3": {
-        "question": "How long is the waitlist?",
-        "answer": "Wait times vary depending on inventory and demand. We process applications as quickly as possible and will contact you when your computer is ready. Sign up for our newsletter for updates on program availability."
+        "question": "等候名单要等多久？",
+        "answer": "等待时间因库存和需求而异。我们会尽快处理申请，并在您的电脑准备好时联系您。订阅我们的新闻通讯以获取项目可用性更新。"
       },
       "q4": {
-        "question": "Can my organization get computers?",
-        "answer": "Yes! We offer Hardware Grants for nonprofit organizations. This includes Organizational Hardware Grants for your staff and Community Hardware Grants for the people you serve. Contact our Digital Inclusion team to learn more."
+        "question": "我的组织可以获得电脑吗？",
+        "answer": "可以！我们为非营利组织提供硬件资助。这包括为您的员工提供的组织硬件资助和为您服务的人群提供的社区硬件资助。联系我们的数字包容团队了解更多。"
       },
       "q5": {
-        "question": "What if I need a computer but don't qualify for free programs?",
-        "answer": "You can purchase quality refurbished computers from our eBay store at affordable prices. We also have an Affordable Tech Program for organizations that need larger quantities at reduced prices."
+        "question": "如果我需要电脑但不符合免费项目资格怎么办？",
+        "answer": "您可以从我们的 eBay 商店以实惠的价格购买优质翻新电脑。我们还有经济实惠科技项目，为需要大量设备的组织提供优惠价格。"
       },
-      "cta": "Explore Our Programs"
+      "cta": "探索我们的项目"
     },
     "volunteering": {
-      "title": "Volunteering",
+      "title": "志愿服务",
       "q1": {
-        "question": "What volunteer opportunities are available?",
-        "answer": "We offer several ways to volunteer: Warehouse volunteering (processing donated tech), Ambassador Program (spreading the word about Free Geek), hosting Tech Drives, and fundraising. There's a role for everyone regardless of technical skill level."
+        "question": "有哪些志愿者机会？",
+        "answer": "我们提供多种志愿服务方式：仓库志愿服务（处理捐赠的科技设备）、大使项目（宣传 Free Geek）、举办科技募捐活动和筹款。无论技术水平如何，每个人都有适合的角色。"
       },
       "q2": {
-        "question": "Do I need technical experience to volunteer?",
-        "answer": "Not at all! While some roles involve working with technology, many don't require any technical background. We provide training for all volunteer positions. Your enthusiasm and commitment matter more than prior experience."
+        "question": "做志愿者需要技术经验吗？",
+        "answer": "完全不需要！虽然有些角色涉及技术工作，但许多角色不需要任何技术背景。我们为所有志愿者岗位提供培训。您的热情和承诺比以往经验更重要。"
       },
       "q3": {
-        "question": "What are the age requirements for volunteering?",
-        "answer": "Warehouse volunteers must be 18 or older. For other volunteer opportunities like Ambassador programs or tech drives, please contact us to discuss options for younger volunteers or family participation."
+        "question": "志愿服务的年龄要求是什么？",
+        "answer": "仓库志愿者必须年满18岁。对于其他志愿者机会如大使项目或科技募捐活动，请联系我们讨论年轻志愿者或家庭参与的选项。"
       },
       "q4": {
-        "question": "Can I complete community service hours at Free Geek?",
-        "answer": "Yes, we accept volunteers completing court-ordered community service or school service requirements. Contact us to discuss your requirements and we'll help set up an appropriate volunteer schedule."
+        "question": "我可以在 Free Geek 完成社区服务时数吗？",
+        "answer": "可以，我们接受完成法院命令的社区服务或学校服务要求的志愿者。联系我们讨论您的要求，我们会帮助安排适当的志愿者时间表。"
       },
-      "cta": "Start Volunteering"
+      "cta": "开始志愿服务"
     },
     "dataSecurity": {
-      "title": "Data Security",
+      "title": "数据安全",
       "q1": {
-        "question": "How do you protect my data?",
-        "answer": "All data-bearing devices go directly to our secure, staff-only data area. We use NIST SP800-88 compliant sanitization methods and are i-SIGMA certified. Every device is verified to ensure complete data destruction before any further processing."
+        "question": "你们如何保护我的数据？",
+        "answer": "所有含数据的设备直接送到我们安全的、仅限员工进入的数据区域。我们使用符合 NIST SP800-88 标准的清除方法，并获得 i-SIGMA 认证。每台设备都经过验证，确保在进一步处理前完全销毁数据。"
       },
       "q2": {
-        "question": "What is a Certificate of Data Destruction?",
-        "answer": "A Certificate of Data Destruction is official documentation that your device's data has been securely sanitized. It includes the device serial number, destruction method, date, and staff verification. Available for $10 per device—ideal for businesses and compliance requirements."
+        "question": "什么是数据销毁证书？",
+        "answer": "数据销毁证书是您的设备数据已被安全清除的官方文件。它包括设备序列号、销毁方法、日期和员工验证。每台设备10美元——非常适合企业和合规要求。"
       },
       "q3": {
-        "question": "Should I wipe my device before donating?",
-        "answer": "It's optional. If you prefer to wipe your own data, we recommend using DBAN (Darik's Boot and Nuke) for hard drives. Even if you wipe beforehand, we'll still run our full sanitization process for complete peace of mind."
+        "question": "捐赠前应该清除设备数据吗？",
+        "answer": "这是可选的。如果您想自己清除数据，我们建议对硬盘使用 DBAN（Darik's Boot and Nuke）。即使您提前清除，我们仍会运行完整的清除流程，让您完全放心。"
       },
       "q4": {
-        "question": "What about SSDs and phones?",
-        "answer": "We have specialized processes for SSDs, smartphones, and other modern storage devices. Our methods ensure complete data removal regardless of the storage type. Encryption keys are destroyed and storage is fully sanitized."
+        "question": "SSD 和手机呢？",
+        "answer": "我们为 SSD、智能手机和其他现代存储设备有专门的处理流程。无论存储类型如何，我们的方法都能确保完全删除数据。加密密钥被销毁，存储被完全清除。"
       },
-      "cta": "Learn About Data Security"
+      "cta": "了解数据安全"
     },
     "visiting": {
-      "title": "Visiting Free Geek",
+      "title": "访问 Free Geek",
       "q1": {
-        "question": "Where are you located?",
-        "answer": "We're located at 1731 SE 10th Avenue, Portland, OR 97214. Tech donations are accepted in the outdoor parking lot on the northeast side of our building."
+        "question": "你们在哪里？",
+        "answer": "我们位于 1731 SE 10th Avenue, Portland, OR 97214。科技捐赠在我们大楼东北侧的室外停车场接收。"
       },
       "q2": {
-        "question": "What are your hours?",
-        "answer": "We're open Wednesday through Saturday, 11:00 AM to 4:00 PM. We're closed Sunday through Tuesday and on major holidays."
+        "question": "你们的营业时间是什么？",
+        "answer": "我们周三至周六开放，上午11:00至下午4:00。周日至周二以及主要节假日休息。"
       },
       "q3": {
-        "question": "Do I need an appointment to drop off a donation?",
-        "answer": "No appointment needed for small donations (under 20 devices). Just drive up during our drop-off hours and our team will help you unload. For large donations (20+ devices), please schedule ahead so we can ensure we have space and staff ready."
+        "question": "送达捐赠需要预约吗？",
+        "answer": "小额捐赠（20台设备以下）无需预约。只需在送货时间内开车前来，我们的团队会帮助您卸货。大宗捐赠（20台以上设备）请提前预约，以确保我们有足够的空间和人员。"
       },
       "q4": {
-        "question": "Is there parking available?",
-        "answer": "Yes, we have a parking lot on the northeast side of our building where you can pull up for tech drop-offs. For visitor parking, street parking is available in the surrounding area."
+        "question": "有停车位吗？",
+        "answer": "有的，我们大楼东北侧有一个停车场，您可以开车前来送达科技设备。访客停车可在周围区域使用路边停车。"
       }
     },
     "shop": {
-      "title": "Shop & Returns",
+      "title": "购物与退货",
       "q1": {
-        "question": "Where can I buy refurbished tech from Free Geek?",
-        "answer": "We sell refurbished technology through our eBay store. You'll find laptops, smartphones, tablets, vintage tech, and accessories. We also sell Free Geek merchandise through our Big Cartel store."
+        "question": "我可以在哪里购买 Free Geek 的翻新科技产品？",
+        "answer": "我们通过 eBay 商店销售翻新科技产品。您可以找到笔记本电脑、智能手机、平板电脑、复古科技和配件。我们还通过 Big Cartel 商店销售 Free Geek 周边商品。"
       },
       "q2": {
-        "question": "What is your return policy?",
-        "answer": "We offer a 30-day return policy on purchases from our eBay store. If you're not satisfied with your purchase, you can return it within 30 days for a full refund. Items must be in the same condition as received."
+        "question": "你们的退货政策是什么？",
+        "answer": "我们对 eBay 商店的购买提供30天退货政策。如果您对购买不满意，可以在30天内退货获得全额退款。物品必须与收到时状态相同。"
       },
       "q3": {
-        "question": "Do items come with a warranty?",
-        "answer": "Items purchased through our online store are sold as-is without warranty. However, we thoroughly test all devices before listing them. For our free computer program recipients, laptops come with a one-year warranty."
+        "question": "商品有保修吗？",
+        "answer": "通过我们在线商店购买的商品按现状销售，不提供保修。但是，我们在上架前对所有设备进行全面测试。对于我们免费电脑项目的接收者，笔记本电脑附带一年保修。"
       },
       "q4": {
-        "question": "Can I pick up my online purchase locally?",
-        "answer": "Yes! Portland-area buyers can select free local pickup at checkout. Come by during our hours (Wednesday-Saturday, 11AM-4PM) to pick up your purchase at our location."
+        "question": "我可以本地自提在线购买的商品吗？",
+        "answer": "可以！波特兰地区的买家可以在结账时选择免费本地自提。在营业时间（周三至周六，上午11点至下午4点）前来我们的地点自提您的购买。"
       },
-      "cta": "Visit Our Shop"
+      "cta": "访问我们的商店"
     },
     "cta": {
-      "title": "Still have questions?",
-      "description": "Can't find what you're looking for? Reach out to our team and we'll be happy to help."
+      "title": "还有问题？",
+      "description": "找不到您想要的答案？联系我们的团队，我们很乐意为您提供帮助。"
     }
   },
   "techDrive": {
