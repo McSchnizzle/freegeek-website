@@ -753,6 +753,8 @@
       "successDescription": "We'll get back to you as soon as possible.",
       "sendAnother": "Send another message",
       "error": "Failed to send message",
+      "failedToSend": "Failed to send message",
+      "genericError": "An error occurred",
       "note": "We typically respond within 1-2 business days."
     },
     "social": {
@@ -846,6 +848,8 @@
       "successDescription": "We'll be in touch soon about volunteer opportunities!",
       "submitAnother": "Submit another interest form",
       "error": "Failed to submit form",
+      "failedToSubmit": "Failed to submit form",
+      "genericError": "An error occurred",
       "note": "We'll reach out within a few days about volunteer opportunities."
     },
     "internship": {

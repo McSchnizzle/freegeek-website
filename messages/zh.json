@@ -748,12 +748,14 @@
       },
       "message": "Message",
       "submit": "Send Message",
-      "sending": "Sending...",
-      "success": "Message Sent!",
-      "successDescription": "We'll get back to you as soon as possible.",
-      "sendAnother": "Send another message",
-      "error": "Failed to send message",
-      "note": "We typically respond within 1-2 business days."
+      "sending": "发送中...",
+      "success": "消息已发送！",
+      "successDescription": "我们会尽快回复您。",
+      "sendAnother": "发送另一条消息",
+      "error": "发送失败",
+      "failedToSend": "发送失败",
+      "genericError": "发生错误",
+      "note": "我们通常在1-2个工作日内回复。"
     },
     "social": {
       "title": "Follow Us",
@@ -841,12 +843,14 @@
       "about": "Tell us about yourself",
       "aboutPlaceholder": "Share any relevant experience, availability, or questions...",
       "submit": "Submit Interest Form",
-      "sending": "Submitting...",
-      "success": "Interest Form Submitted!",
-      "successDescription": "We'll be in touch soon about volunteer opportunities!",
-      "submitAnother": "Submit another interest form",
-      "error": "Failed to submit form",
-      "note": "We'll reach out within a few days about volunteer opportunities."
+      "sending": "提交中...",
+      "success": "表单已提交！",
+      "successDescription": "我们会尽快联系您关于志愿者机会！",
+      "submitAnother": "提交另一份表单",
+      "error": "提交失败",
+      "failedToSubmit": "提交失败",
+      "genericError": "发生错误",
+      "note": "我们会在几天内联系您关于志愿者机会。"
     },
     "internship": {
       "title": "Looking for an internship?",

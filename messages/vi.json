@@ -753,6 +753,8 @@
       "successDescription": "Chúng tôi sẽ phản hồi sớm nhất có thể.",
       "sendAnother": "Gửi tin nhắn khác",
       "error": "Không thể gửi tin nhắn",
+      "failedToSend": "Không thể gửi tin nhắn",
+      "genericError": "Đã xảy ra lỗi",
       "note": "Chúng tôi thường phản hồi trong 1-2 ngày làm việc."
     },
     "social": {
@@ -846,6 +848,8 @@
       "successDescription": "Chúng tôi sẽ liên hệ sớm về cơ hội tình nguyện!",
       "submitAnother": "Gửi mẫu quan tâm khác",
       "error": "Không thể gửi mẫu",
+      "failedToSubmit": "Không thể gửi mẫu",
+      "genericError": "Đã xảy ra lỗi",
       "note": "Chúng tôi sẽ liên hệ trong vài ngày về cơ hội tình nguyện."
     },
     "internship": {

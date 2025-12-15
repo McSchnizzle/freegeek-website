@@ -753,6 +753,8 @@
       "successDescription": "Te responderemos lo antes posible.",
       "sendAnother": "Enviar otro mensaje",
       "error": "Error al enviar el mensaje",
+      "failedToSend": "Error al enviar el mensaje",
+      "genericError": "Ocurrió un error",
       "note": "Normalmente respondemos en 1-2 días hábiles."
     },
     "social": {
@@ -846,6 +848,8 @@
       "successDescription": "¡Nos pondremos en contacto pronto sobre oportunidades de voluntariado!",
       "submitAnother": "Enviar otro formulario de interés",
       "error": "Error al enviar el formulario",
+      "failedToSubmit": "Error al enviar el formulario",
+      "genericError": "Ocurrió un error",
       "note": "Nos comunicaremos contigo en unos días sobre oportunidades de voluntariado."
     },
     "internship": {

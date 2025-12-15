@@ -27,6 +27,8 @@ interface ContactFormProps {
     successDescription: string;
     sendAnother: string;
     error: string;
+    failedToSend: string;
+    genericError: string;
   };
 }
 
@@ -58,14 +60,14 @@ export function ContactForm({ translations: t }: ContactFormProps) {
       const result = await response.json();
 
       if (!response.ok) {
-        throw new Error(result.error || 'Failed to send message');
+        throw new Error(result.error || t.failedToSend);
       }
 
       setStatus('success');
       (e.target as HTMLFormElement).reset();
     } catch (err) {
       setStatus('error');
-      setErrorMessage(err instanceof Error ? err.message : 'An error occurred');
+      setErrorMessage(err instanceof Error ? err.message : t.genericError);
     }
   }
 

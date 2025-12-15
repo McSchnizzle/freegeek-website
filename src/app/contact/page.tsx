@@ -182,6 +182,8 @@ export default async function ContactPage() {
               successDescription: t('form.successDescription'),
               sendAnother: t('form.sendAnother'),
               error: t('form.error'),
+              failedToSend: t('form.failedToSend'),
+              genericError: t('form.genericError'),
             }}
           />
           <p className="text-sm text-gray-500 text-center mt-6">

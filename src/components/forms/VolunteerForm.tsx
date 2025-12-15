@@ -18,6 +18,8 @@ interface VolunteerFormProps {
     successDescription: string;
     submitAnother: string;
     error: string;
+    failedToSubmit: string;
+    genericError: string;
   };
 }
 
@@ -51,14 +53,14 @@ export function VolunteerForm({ interests, translations: t }: VolunteerFormProps
       const result = await response.json();
 
       if (!response.ok) {
-        throw new Error(result.error || 'Failed to submit form');
+        throw new Error(result.error || t.failedToSubmit);
       }
 
       setStatus('success');
       (e.target as HTMLFormElement).reset();
     } catch (err) {
       setStatus('error');
-      setErrorMessage(err instanceof Error ? err.message : 'An error occurred');
+      setErrorMessage(err instanceof Error ? err.message : t.genericError);
     }
   }
 

@@ -166,6 +166,8 @@ export default async function VolunteerPage() {
               successDescription: t('form.successDescription'),
               submitAnother: t('form.submitAnother'),
               error: t('form.error'),
+              failedToSubmit: t('form.failedToSubmit'),
+              genericError: t('form.genericError'),
             }}
           />
           <p className="text-sm text-gray-500 text-center mt-6">
