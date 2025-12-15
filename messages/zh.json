@@ -1,662 +1,662 @@
 {
   "common": {
-    "learnMore": "Learn More",
-    "contactUs": "Contact Us",
-    "donateTech": "Donate Tech",
-    "getComputer": "Get a Computer",
-    "volunteer": "Volunteer",
-    "donate": "Donate",
-    "about": "About",
-    "programs": "Programs",
-    "shop": "Shop",
-    "contact": "Contact",
-    "opensNewTab": "(opens in new tab)",
-    "email": "Email",
-    "phone": "Phone",
-    "address": "Address",
-    "hours": "Hours",
-    "explorePrograms": "Explore Our Programs",
-    "donateNow": "Donate Now",
-    "volunteerWithUs": "Volunteer With Us",
-    "viewAllPrograms": "View All Programs",
-    "getStarted": "Get Started",
-    "applyNow": "Apply Now",
-    "schedulePickup": "Schedule a Pickup",
-    "dropOffAnytime": "Drop Off Anytime",
-    "scheduleDropOff": "Schedule Drop-Off",
-    "makeFinancialDonation": "Make a Financial Donation",
-    "getDirections": "Get Directions"
+    "learnMore": "了解更多",
+    "contactUs": "联系我们",
+    "donateTech": "捐赠科技设备",
+    "getComputer": "获取电脑",
+    "volunteer": "志愿者",
+    "donate": "捐赠",
+    "about": "关于我们",
+    "programs": "项目",
+    "shop": "商店",
+    "contact": "联系",
+    "opensNewTab": "（在新标签页中打开）",
+    "email": "电子邮件",
+    "phone": "电话",
+    "address": "地址",
+    "hours": "营业时间",
+    "explorePrograms": "探索我们的项目",
+    "donateNow": "立即捐赠",
+    "volunteerWithUs": "加入我们的志愿者团队",
+    "viewAllPrograms": "查看所有项目",
+    "getStarted": "开始",
+    "applyNow": "立即申请",
+    "schedulePickup": "预约上门取件",
+    "dropOffAnytime": "随时送达",
+    "scheduleDropOff": "预约送达",
+    "makeFinancialDonation": "进行财务捐赠",
+    "getDirections": "获取路线"
   },
   "nav": {
-    "skipToContent": "Skip to main content",
-    "openMenu": "Open menu",
-    "closeMenu": "Close menu",
-    "mainNav": "Main navigation",
-    "mobileNav": "Mobile navigation",
-    "about": "About",
-    "programs": "Programs",
-    "donateTech": "Donate Tech",
-    "shop": "Shop",
-    "contact": "Contact"
+    "skipToContent": "跳至主要内容",
+    "openMenu": "打开菜单",
+    "closeMenu": "关闭菜单",
+    "mainNav": "主导航",
+    "mobileNav": "移动导航",
+    "about": "关于我们",
+    "programs": "项目",
+    "donateTech": "捐赠科技设备",
+    "shop": "商店",
+    "contact": "联系"
   },
   "footer": {
     "newsletter": {
-      "title": "Stay in the loop",
-      "description": "Get news, impact stories, and volunteer opportunities delivered to your inbox.",
-      "emailLabel": "Email address",
-      "placeholder": "Enter your email",
-      "subscribe": "Subscribe",
-      "subscribing": "Subscribing...",
-      "success": "Thanks for subscribing!",
-      "error": "An error occurred",
-      "note": "Note: Newsletter signup is not yet connected. For updates, follow us on social media."
+      "title": "保持联系",
+      "description": "获取新闻、影响力故事和志愿者机会，直接发送到您的收件箱。",
+      "emailLabel": "电子邮件地址",
+      "placeholder": "输入您的电子邮件",
+      "subscribe": "订阅",
+      "subscribing": "订阅中……",
+      "success": "感谢订阅！",
+      "error": "发生错误",
+      "note": "注意：新闻通讯注册功能尚未连接。如需了解最新动态，请在社交媒体上关注我们。"
     },
-    "tagline": "Sustainably reusing technology, enabling digital access, and empowering communities since 2000.",
-    "logoAlt": "Free Geek logo - return to home",
-    "copyright": "Free Geek. 501(c)(3) Nonprofit Organization.",
+    "tagline": "自2000年以来，可持续地重复利用技术、促进数字访问并赋能社区。",
+    "logoAlt": "Free Geek 标志 - 返回首页",
+    "copyright": "Free Geek。501(c)(3) 非营利组织。",
     "ein": "EIN: 93-1292010",
     "support": {
-      "title": "Support",
+      "title": "支持",
       "phone": "503-232-9350 ext 101",
       "email": "computerfriends@freegeek.org"
     },
-    "since": "Turning e-waste into opportunity since Earth Day, 2000.",
+    "since": "自2000年地球日以来，将电子垃圾转化为机会。",
     "sections": {
-      "programs": "Programs",
-      "getInvolved": "Get Involved",
-      "about": "About",
-      "connect": "Connect"
+      "programs": "项目",
+      "getInvolved": "参与其中",
+      "about": "关于我们",
+      "connect": "联系"
     },
     "links": {
-      "getComputer": "Get a Computer",
-      "hardwareGrants": "Hardware Grants",
-      "digitalSkills": "Digital Skills",
-      "donateTech": "Donate Tech",
-      "volunteer": "Volunteer",
-      "donateMoney": "Donate Money",
-      "bridgeGiving": "BRIDGE Monthly Giving",
-      "ourStory": "Our Story",
-      "ourTeam": "Our Team",
-      "ourImpact": "Our Impact",
-      "careers": "Careers",
-      "contact": "Contact",
+      "getComputer": "获取电脑",
+      "hardwareGrants": "硬件资助",
+      "digitalSkills": "数字技能",
+      "donateTech": "捐赠科技设备",
+      "volunteer": "志愿者",
+      "donateMoney": "捐款",
+      "bridgeGiving": "THE BRIDGE 月度捐赠",
+      "ourStory": "我们的故事",
+      "ourTeam": "我们的团队",
+      "ourImpact": "我们的影响",
+      "careers": "职业机会",
+      "contact": "联系",
       "instagram": "Instagram",
       "linkedin": "LinkedIn",
       "twitter": "Twitter",
       "github": "GitHub"
     },
     "recognition": {
-      "title": "Memberships & Recognition",
+      "title": "会员资格与荣誉",
       "isigma": {
-        "name": "i-SIGMA Member",
-        "description": "Certified member of the International Secure Information Governance & Management Association"
+        "name": "i-SIGMA 成员",
+        "description": "国际安全信息治理与管理协会认证成员"
       },
       "ndia": {
-        "name": "NDIA Affiliate",
-        "description": "National Digital Inclusion Alliance affiliate organization"
+        "name": "NDIA 附属机构",
+        "description": "国家数字包容联盟附属组织"
       },
       "bestNonprofits": {
-        "name": "100 Best Nonprofits",
-        "description": "Oregon Business 100 Best Nonprofits to Work For"
+        "name": "100家最佳非营利组织",
+        "description": "俄勒冈商业杂志评选的100家最佳非营利工作机构"
       },
       "greenWorkplaces": {
-        "name": "100 Best Green Workplaces",
-        "description": "Oregon Business 100 Best Green Workplaces in Oregon 2024"
+        "name": "100家最佳绿色工作场所",
+        "description": "俄勒冈商业杂志评选的2024年俄勒冈州100家最佳绿色工作场所"
       },
       "mostAdmiredTech": {
-        "name": "#4 Most Admired Tech Company",
-        "description": "Portland Business Journal Oregon's Most Admired Companies 2024"
+        "name": "#4最受尊敬的科技公司",
+        "description": "波特兰商业期刊评选的2024年俄勒冈州最受尊敬的公司"
       }
     }
   },
   "home": {
     "hero": {
-      "badge": "New Website Coming Soon",
-      "title1": "Your old tech.",
-      "title2": "Someone's new future.",
-      "description": "We turn e-waste into opportunity. For 25 years, we've been keeping tech out of landfills and putting it into the hands of people who need it most."
+      "badge": "新网站即将推出",
+      "title1": "您的旧设备。",
+      "title2": "他人的新未来。",
+      "description": "我们将电子垃圾转化为机会。25年来，我们一直在将科技设备从垃圾填埋场中拯救出来，并将其交到最需要的人手中。"
     },
     "stats": {
-      "ewaste": "Pounds of e-waste saved from landfills",
-      "devices": "Devices given to people in need",
-      "community": "Community members connected",
-      "years": "Years bridging the digital divide"
+      "ewaste": "从垃圾填埋场拯救的电子垃圾磅数",
+      "devices": "提供给有需要的人的设备数量",
+      "community": "连接的社区成员",
+      "years": "弥合数字鸿沟的年数"
     },
     "problem": {
-      "title": "Two crises. One solution.",
+      "title": "两个危机。一个解决方案。",
       "stat1": "70%",
-      "stat1Text": "E-waste is just 2% of America's trash—but 70% of its toxic waste. Most ends up in landfills, poisoning soil and water.",
-      "stat2": "1 in 5",
-      "stat2Text": "American households don't have a computer. No computer means no job applications, no homework, no telehealth, no connection.",
-      "solution": "We take devices people no longer need and give them to people who do. It's not charity—it's common sense."
+      "stat1Text": "电子垃圾仅占美国垃圾的2%，却占其有毒废物的70%。大部分最终进入垃圾填埋场，污染土壤和水源。",
+      "stat2": "五分之一",
+      "stat2Text": "美国家庭没有电脑。没有电脑意味着无法求职、无法做作业、无法远程医疗、无法保持联系。",
+      "solution": "我们将人们不再需要的设备提供给需要的人。这不是慈善——这是常识。"
     },
     "howItWorks": {
-      "title": "Here's how it works",
+      "title": "运作方式",
       "donate": {
-        "title": "You donate",
-        "description": "Drop off laptops, desktops, phones—anything with a plug. We wipe your data securely."
+        "title": "您捐赠",
+        "description": "送来笔记本电脑、台式电脑、手机——任何带插头的设备。我们会安全地清除您的数据。"
       },
       "refurbish": {
-        "title": "We refurbish",
-        "description": "Our team rebuilds what can be saved (~30%). What can't gets responsibly recycled for materials recovery (~70%)."
+        "title": "我们翻新",
+        "description": "我们的团队修复可以保存的设备（约30%）。无法修复的设备会负责任地回收以恢复材料（约70%）。"
       },
       "distribute": {
-        "title": "They thrive",
-        "description": "A student gets a laptop for school. A job seeker sends their first resume. A grandma video-calls her family."
+        "title": "他们蓬勃发展",
+        "description": "学生获得用于上学的笔记本电脑。求职者发送他们的第一份简历。祖母与家人视频通话。"
       }
     },
     "community": {
-      "title": "Digital inclusion is a social justice issue",
-      "p1": "Without technology access, full participation in American society is impossible. Jobs, education, healthcare, civic engagement—all require being connected.",
-      "p2": "The digital divide hits hardest for low-income families, immigrants, seniors, people with disabilities, and communities of color. We're here to change that."
+      "title": "数字包容是社会正义问题",
+      "p1": "没有技术访问权限，就无法充分参与美国社会。工作、教育、医疗保健、公民参与——所有这些都需要联网。",
+      "p2": "数字鸿沟对低收入家庭、移民、老年人、残疾人和有色人种社区影响最大。我们在这里改变这一状况。"
     },
     "cta": {
-      "title": "Got old tech collecting dust?",
-      "description": "That laptop in your closet could change someone's life. Drop it off, and we'll handle the rest.",
-      "donateYourTech": "Donate Your Tech",
-      "getAComputer": "Get a Computer",
-      "donateNow": "Donate Now",
-      "volunteerWithUs": "Volunteer With Us",
-      "explorePrograms": "Explore Our Programs"
+      "title": "有闲置的旧设备吗？",
+      "description": "您壁橱里的那台笔记本电脑可能会改变某人的生活。送来吧，剩下的交给我们。",
+      "donateYourTech": "捐赠您的科技设备",
+      "getAComputer": "获取电脑",
+      "donateNow": "立即捐赠",
+      "volunteerWithUs": "加入我们的志愿者团队",
+      "explorePrograms": "探索我们的项目"
     },
     "visit": {
-      "title": "Visit Us",
+      "title": "访问我们",
       "address": "1731 SE 10th Avenue, Portland, OR 97214",
-      "hours": "Wednesday - Saturday, 11 AM - 4 PM"
+      "hours": "周三至周六，上午11点至下午4点"
     },
     "alt": {
-      "heroDonate": "Diverse community members donating technology",
-      "digitalDivide": "Bridging the digital divide - people connected through technology",
-      "community": "Diverse community members connected through technology",
-      "iconDonate": "Donate icon",
-      "iconRefurbish": "Refurbish icon",
-      "iconDistribute": "Distribute icon"
+      "heroDonate": "多元化社区成员捐赠技术设备",
+      "digitalDivide": "弥合数字鸿沟 - 通过技术连接的人们",
+      "community": "通过技术连接的多元化社区成员",
+      "iconDonate": "捐赠图标",
+      "iconRefurbish": "翻新图标",
+      "iconDistribute": "分发图标"
     }
   },
   "about": {
     "hero": {
-      "title1": "We believe technology",
-      "title2": "should be for everyone.",
-      "description": "Since Earth Day 2000, we've been turning e-waste into opportunity—keeping tech out of landfills and putting it into the hands of people who need it most."
+      "title1": "我们相信技术",
+      "title2": "应该为所有人服务。",
+      "description": "自2000年地球日以来，我们一直在将电子垃圾转化为机会——将科技设备从垃圾填埋场中拯救出来，并将其交到最需要的人手中。"
     },
     "origin": {
-      "title": "Our Origin Story",
-      "p1": "Free Geek launched at Pioneer Courthouse Square on Earth Day 2000. That September, we opened our doors on SE 10th Avenue as a drop-off for electronic waste—salvaging technology before it hit landfills.",
-      "p2": "Over 25 years, we've evolved from a recycling center into a digital inclusion powerhouse. Our reuse and recycling programs still form our backbone, providing the refurbished devices we put back into the community.",
-      "p3": "But today, our core mission is narrowing the digital divide—ensuring everyone has access to technology and the skills to use it."
+      "title": "我们的起源故事",
+      "p1": "Free Geek于2000年地球日在先锋法院广场启动。当年九月，我们在东南第十大道开设了电子废物回收点——在科技设备进入垃圾填埋场之前进行抢救。",
+      "p2": "在25年的时间里，我们从一个回收中心发展成为数字包容的强大力量。我们的再利用和回收计划仍然是我们的支柱，为我们重新投入社区的翻新设备提供支持。",
+      "p3": "但如今，我们的核心使命是缩小数字鸿沟——确保每个人都能获得技术和使用技术的技能。"
     },
     "mission": {
-      "title": "Our Mission",
-      "text": "To sustainably reuse technology, enable digital access, and provide education to create a community that empowers people to realize their potential.",
-      "statement": "To sustainably reuse technology, enable digital access, and provide education to create a community that empowers people to realize their potential."
+      "title": "我们的使命",
+      "text": "可持续地重复利用技术、促进数字访问并提供教育，以创建一个赋能人们实现潜力的社区。",
+      "statement": "可持续地重复利用技术、促进数字访问并提供教育，以创建一个赋能人们实现潜力的社区。"
     },
     "problems": {
-      "title": "Two Problems. One Solution.",
+      "title": "两个问题。一个解决方案。",
       "digitalDivide": {
         "stat": "27%",
-        "title": "The Digital Divide",
-        "p1": "27% of Americans don't own a computer. One in ten families lack home internet. This gap falls hardest on low-income families, immigrants, seniors, and communities of color.",
-        "p2": "Without technology access, full participation in American society—jobs, education, healthcare, civic engagement—is compromised. This is a social justice issue."
+        "title": "数字鸿沟",
+        "p1": "27%的美国人没有电脑。十分之一的家庭缺乏家庭互联网。这一差距对低收入家庭、移民、老年人和有色人种社区的影响最大。",
+        "p2": "没有技术访问权限，就无法充分参与美国社会——工作、教育、医疗保健、公民参与都会受到影响。这是一个社会正义问题。"
       },
       "ewaste": {
         "stat": "70%",
-        "title": "The E-Waste Crisis",
-        "p1": "Only 27% of e-waste gets recycled nationally. E-waste is just 2% of America's landfill trash—but 70% of its toxic waste.",
-        "p2": "Most \"e-waste\" isn't waste at all. It's perfectly good equipment that can be repaired, refurbished, and given new life."
+        "title": "电子垃圾危机",
+        "p1": "全国只有27%的电子垃圾得到回收。电子垃圾仅占美国垃圾填埋场垃圾的2%，却占其有毒废物的70%。",
+        "p2": "大多数「电子垃圾」根本不是垃圾。它们是完全可以修复、翻新并赋予新生命的优质设备。"
       }
     },
     "circular": {
-      "title": "The Circular Model",
-      "description": "We point these two problems at each other. The computers we grant to Digital Inclusion participants are saved from landfills and go on to help our community's most vulnerable populations build the digital skills they need to thrive."
+      "title": "循环模式",
+      "description": "我们将这两个问题相互对准。我们授予数字包容参与者的电脑从垃圾填埋场中拯救出来，继续帮助我们社区中最脆弱的人群建立他们蓬勃发展所需的数字技能。"
     },
     "impact": {
-      "title": "Our Impact",
-      "years": "Years of service",
-      "diverted": "Pounds diverted from landfills",
-      "devices": "Devices granted",
-      "granted": "Devices granted",
-      "served": "Community members served",
-      "community": "Community members served"
+      "title": "我们的影响",
+      "years": "服务年数",
+      "diverted": "从垃圾填埋场转移的磅数",
+      "devices": "授予的设备",
+      "granted": "授予的设备",
+      "served": "服务的社区成员",
+      "community": "服务的社区成员"
     },
     "cta": {
-      "title": "Ready to get involved?",
-      "description": "Whether you donate tech, volunteer your time, or support us financially, you're helping bridge the digital divide."
+      "title": "准备好参与了吗？",
+      "description": "无论您是捐赠科技设备、贡献时间还是财务支持，您都在帮助弥合数字鸿沟。"
     },
     "alt": {
-      "community": "Free Geek community members working with technology",
-      "digitalDivide": "Bridging the digital divide - people connected through technology"
+      "community": "Free Geek 社区成员使用技术",
+      "digitalDivide": "弥合数字鸿沟 - 通过技术连接的人们"
     }
   },
   "programs": {
     "hero": {
-      "title1": "Need a computer?",
-      "title2": "We've got you.",
-      "description": "27% of Americans don't own a computer. We're working to change that with free and low-cost technology for individuals and organizations."
+      "title1": "需要电脑吗？",
+      "title2": "我们可以帮您。",
+      "description": "27%的美国人没有电脑。我们正在努力改变这一状况，为个人和组织提供免费和低成本的技术设备。"
     },
     "individuals": {
-      "badge": "For Individuals",
-      "title": "Get a Free Computer",
-      "description": "Free Geek has multiple programs for individuals to receive free computers. See the options below to find the right fit for you.",
-      "stats": "Currently, 75,000 Oregon students don't have a personal computer to complete their assignments. We're here to close that gap.",
+      "badge": "面向个人",
+      "title": "获取免费电脑",
+      "description": "Free Geek 为个人提供多个免费电脑项目。查看以下选项，找到适合您的方案。",
+      "stats": "目前，俄勒冈州有75,000名学生没有个人电脑来完成作业。我们在这里缩小这一差距。",
       "plugIntoPdx": {
-        "title": "Plug Into Portland (Laptop Waitlist)",
-        "description": "Apply to get on the waitlist for a free laptop running Linux Mint, with a one-year warranty and Digital Navigation Support."
+        "title": "Plug Into Portland（笔记本电脑等候名单）",
+        "description": "申请加入等候名单，获取运行 Linux Mint 的免费笔记本电脑，配有一年保修和数字导航支持。"
       },
       "giftAGeekbox": {
         "title": "Gift a Geekbox",
-        "description": "Desktop computer program for individuals ages 18+.",
-        "badge": "Currently Closed"
+        "description": "面向18岁以上个人的台式电脑项目。",
+        "badge": "当前已关闭"
       },
       "shop": {
-        "title": "Low-Cost Shop Option",
-        "description": "Can't wait for the waitlist? Purchase quality refurbished computers at affordable prices."
+        "title": "低成本商店选项",
+        "description": "等不及等候名单？以实惠的价格购买优质翻新电脑。"
       },
-      "cta": "Apply for a Free Laptop",
-      "questions": "Questions? Email us at"
+      "cta": "申请免费笔记本电脑",
+      "questions": "有疑问？请发送电子邮件至"
     },
     "receive": {
-      "title": "What you'll receive",
+      "title": "您将获得什么",
       "laptop": {
-        "title": "Refurbished Laptop",
-        "description": "A quality refurbished laptop running Linux Mint, ready to use"
+        "title": "翻新笔记本电脑",
+        "description": "一台运行 Linux Mint 的优质翻新笔记本电脑，随时可用"
       },
       "warranty": {
-        "title": "One-Year Warranty",
-        "description": "Full warranty coverage so you can use your device with confidence"
+        "title": "一年保修",
+        "description": "全面保修，让您放心使用设备"
       },
       "support": {
-        "title": "Digital Navigation Support",
-        "description": "Help getting set up and learning to use your new computer"
+        "title": "数字导航支持",
+        "description": "帮助您设置和学习使用新电脑"
       }
     },
     "organizations": {
-      "badge": "For Organizations",
-      "title": "Hardware Grants & Affordable Tech",
-      "description": "Free Geek supports nonprofits and community organizations with technology. Whether you need devices for your staff or the communities you serve, we have programs to help.",
+      "badge": "面向组织",
+      "title": "硬件资助与实惠技术",
+      "description": "Free Geek 为非营利组织和社区组织提供技术支持。无论您需要为员工还是为您服务的社区提供设备，我们都有项目可以帮助。",
       "orgGrants": {
-        "title": "Organizational Hardware Grants",
-        "description": "Free refurbished technology for nonprofit organizational use"
+        "title": "组织硬件资助",
+        "description": "供非营利组织使用的免费翻新技术设备"
       },
       "communityGrants": {
-        "title": "Community Hardware Grants",
-        "description": "Free technology for the community members your nonprofit serves"
+        "title": "社区硬件资助",
+        "description": "为您的非营利组织服务的社区成员提供免费技术设备"
       },
       "affordable": {
-        "title": "Affordable Tech Program",
-        "description": "Partnership opportunities for larger-scale technology needs at affordable prices",
-        "badge": "Inquire for Availability"
+        "title": "实惠技术项目",
+        "description": "以实惠价格满足大规模技术需求的合作机会",
+        "badge": "咨询可用性"
       },
-      "cta": "Learn More & Apply"
+      "cta": "了解更多并申请"
     },
     "shop": {
-      "title": "Need a computer now?",
-      "description": "If you're not eligible for our free programs or can't wait for the waitlist, you can purchase quality refurbished computers from our online shop at affordable prices.",
-      "cta": "Visit Our Shop"
+      "title": "现在需要电脑吗？",
+      "description": "如果您不符合我们免费项目的条件或无法等待等候名单，您可以以实惠的价格从我们的在线商店购买优质翻新电脑。",
+      "cta": "访问我们的商店"
     },
     "gap": {
-      "title": "The homework gap is real",
-      "p1": "The \"homework gap\" describes the difficulty students face completing assignments without access to a device or internet at home. In Oregon alone, 75,000 students lack a personal computer for schoolwork.",
-      "p2": "When we put a computer in a student's hands, we're not just giving them a device—we're giving them the ability to do their homework, apply for jobs, connect with family, and participate fully in our digital world.",
-      "cta": "Help Us Close the Gap"
+      "title": "作业差距是真实存在的",
+      "p1": "「作业差距」描述了学生在家中无法访问设备或互联网时完成作业的困难。仅在俄勒冈州，就有75,000名学生缺乏用于学业的个人电脑。",
+      "p2": "当我们将电脑交到学生手中时，我们不仅仅是给他们一台设备——我们给他们做作业、申请工作、与家人联系以及充分参与我们数字世界的能力。",
+      "cta": "帮助我们缩小差距"
     },
     "homeworkGap": {
-      "title": "The homework gap is real",
-      "p1": "The \"homework gap\" describes the difficulty students face completing assignments without access to a device or internet at home. In Oregon alone, 75,000 students lack a personal computer for schoolwork.",
-      "p2": "When we put a computer in a student's hands, we're not just giving them a device—we're giving them the ability to do their homework, apply for jobs, connect with family, and participate fully in our digital world.",
-      "cta": "Help Us Close the Gap"
+      "title": "作业差距是真实存在的",
+      "p1": "「作业差距」描述了学生在家中无法访问设备或互联网时完成作业的困难。仅在俄勒冈州，就有75,000名学生缺乏用于学业的个人电脑。",
+      "p2": "当我们将电脑交到学生手中时，我们不仅仅是给他们一台设备——我们给他们做作业、申请工作、与家人联系以及充分参与我们数字世界的能力。",
+      "cta": "帮助我们缩小差距"
     },
     "cta": {
-      "title": "Not sure which program is right for you?",
-      "description": "Reach out and we'll help you find the best path to getting connected."
+      "title": "不确定哪个项目适合您？",
+      "description": "联系我们，我们将帮助您找到最佳的连接途径。"
     },
     "finalCta": {
-      "title": "Not sure which program is right for you?",
-      "description": "Reach out and we'll help you find the best path to getting connected."
+      "title": "不确定哪个项目适合您？",
+      "description": "联系我们，我们将帮助您找到最佳的连接途径。"
     },
     "alt": {
-      "personReceiving": "Person receiving a computer",
-      "organizations": "Organizations receiving computers"
+      "personReceiving": "接收电脑的人",
+      "organizations": "接收电脑的组织"
     }
   },
   "plugIntoPdx": {
     "hero": {
       "title1": "Plug Into Portland",
-      "title2": "Application",
-      "description": "Apply for a free refurbished laptop through our flagship digital inclusion program. We provide computers to individuals and families in need throughout the Portland metro area."
+      "title2": "申请",
+      "description": "通过我们的旗舰数字包容项目申请免费翻新笔记本电脑。我们为整个波特兰都市区有需要的个人和家庭提供电脑。"
     },
     "eligibility": {
-      "title": "Who Can Apply",
-      "description": "The Plug Into Portland program is designed for individuals and families who:",
-      "item1": "Reside in the Portland metro area",
-      "item2": "Currently do not have access to a working computer at home",
-      "item3": "Are experiencing financial hardship",
-      "item4": "Need a computer for education, employment, or essential services"
+      "title": "谁可以申请",
+      "description": "Plug Into Portland 项目面向以下个人和家庭：",
+      "item1": "居住在波特兰都市区",
+      "item2": "目前家中无法使用可正常工作的电脑",
+      "item3": "正在经历经济困难",
+      "item4": "需要电脑用于教育、就业或基本服务"
     },
     "receive": {
-      "title": "What You'll Receive",
+      "title": "您将获得什么",
       "laptop": {
-        "title": "Refurbished Laptop",
-        "description": "A quality refurbished laptop running Linux Mint, ready to use for school, work, and staying connected."
+        "title": "翻新笔记本电脑",
+        "description": "一台运行 Linux Mint 的优质翻新笔记本电脑，可用于上学、工作和保持联系。"
       },
       "warranty": {
-        "title": "One-Year Warranty",
-        "description": "Full warranty coverage so you can use your device with confidence. If something goes wrong, we'll help."
+        "title": "一年保修",
+        "description": "全面保修，让您放心使用设备。如果出现问题，我们会提供帮助。"
       },
       "support": {
-        "title": "Digital Navigation Support",
-        "description": "Free support to help you get set up, learn to use your new computer, and troubleshoot any issues."
+        "title": "数字导航支持",
+        "description": "免费支持帮助您设置、学习使用新电脑并解决任何问题。"
       }
     },
     "process": {
-      "title": "Application Process",
+      "title": "申请流程",
       "step1": {
-        "title": "Submit Application",
-        "description": "Fill out the application form below with your contact information and needs."
+        "title": "提交申请",
+        "description": "填写下面的申请表格，提供您的联系信息和需求。"
       },
       "step2": {
-        "title": "Wait for Contact",
-        "description": "We'll review your application and contact you when a computer becomes available."
+        "title": "等待联系",
+        "description": "我们会审核您的申请，并在电脑可用时与您联系。"
       },
       "step3": {
-        "title": "Pick Up Your Computer",
-        "description": "Visit our location to pick up your computer and receive a brief orientation."
+        "title": "领取您的电脑",
+        "description": "访问我们的地点领取电脑并接受简短的介绍。"
       }
     },
     "form": {
-      "title": "Apply Now",
-      "description": "Complete the form below to apply for a free computer. We typically respond within 2-4 weeks depending on availability.",
-      "firstName": "First Name",
-      "lastName": "Last Name",
-      "email": "Email Address",
-      "phone": "Phone Number",
-      "address": "Street Address",
-      "city": "City",
-      "state": "State",
-      "zip": "ZIP Code",
-      "householdSize": "Household Size",
-      "needReason": "Why do you need a computer?",
-      "needReasonPlaceholder": "Please describe your situation and how a computer would help you...",
-      "referral": "How did you hear about us?",
+      "title": "立即申请",
+      "description": "填写下面的表格申请免费电脑。根据可用性，我们通常会在2-4周内回复。",
+      "firstName": "名字",
+      "lastName": "姓氏",
+      "email": "电子邮件地址",
+      "phone": "电话号码",
+      "address": "街道地址",
+      "city": "城市",
+      "state": "州",
+      "zip": "邮政编码",
+      "householdSize": "家庭人数",
+      "needReason": "您为什么需要电脑？",
+      "needReasonPlaceholder": "请描述您的情况以及电脑如何帮助您……",
+      "referral": "您是如何了解我们的？",
       "referralOptions": {
-        "friend": "Friend or Family",
-        "socialMedia": "Social Media",
-        "communityOrg": "Community Organization",
-        "school": "School",
-        "other": "Other"
+        "friend": "朋友或家人",
+        "socialMedia": "社交媒体",
+        "communityOrg": "社区组织",
+        "school": "学校",
+        "other": "其他"
       },
-      "submit": "Submit Application",
-      "submitting": "Submitting...",
-      "success": "Application Submitted!",
-      "successMessage": "Thank you for applying! We'll review your application and contact you when a computer becomes available.",
-      "error": "Failed to submit application"
+      "submit": "提交申请",
+      "submitting": "提交中……",
+      "success": "申请已提交！",
+      "successMessage": "感谢您的申请！我们会审核您的申请，并在电脑可用时与您联系。",
+      "error": "提交申请失败"
     },
     "note": {
-      "title": "Important Information",
-      "waitlist": "Due to high demand, there may be a waitlist. We process applications in the order received and prioritize based on need.",
-      "pickup": "Computers must be picked up in person at our Portland location.",
-      "contact": "Questions? Contact us at"
+      "title": "重要信息",
+      "waitlist": "由于需求量大，可能需要排队等候。我们按收到的顺序处理申请，并根据需求确定优先级。",
+      "pickup": "必须亲自到我们的波特兰地点领取电脑。",
+      "contact": "有疑问？请联系我们"
     },
     "cta": {
-      "title": "Can't wait for the waitlist?",
-      "description": "You can also purchase affordable refurbished computers from our online shop."
+      "title": "等不及等候名单？",
+      "description": "您也可以从我们的在线商店购买实惠的翻新电脑。"
     }
   },
   "digitalEquity": {
     "hero": {
-      "title1": "Digital Equity",
-      "title2": "Enrollment",
-      "description": "Enroll in our Digital Equity program to access digital skills training, one-on-one support, and resources to help you thrive in the digital world."
+      "title1": "数字公平",
+      "title2": "注册",
+      "description": "注册我们的数字公平项目，获取数字技能培训、一对一支持和资源，帮助您在数字世界中蓬勃发展。"
     },
     "services": {
-      "title": "Program Services",
-      "description": "Our Digital Equity program provides comprehensive support to help you build confidence with technology.",
+      "title": "项目服务",
+      "description": "我们的数字公平项目提供全面支持，帮助您建立对技术的信心。",
       "navigation": {
-        "title": "Digital Navigation",
-        "description": "Work one-on-one with a Digital Navigator who can help you set up devices, navigate online services, and build essential digital skills."
+        "title": "数字导航",
+        "description": "与数字导航员一对一合作，他们可以帮助您设置设备、浏览在线服务并建立基本的数字技能。"
       },
       "training": {
-        "title": "Skills Training",
-        "description": "Access free classes and curriculum covering computer basics, internet safety, email, video conferencing, and productivity tools."
+        "title": "技能培训",
+        "description": "访问免费课程和课程内容，涵盖电脑基础、互联网安全、电子邮件、视频会议和生产力工具。"
       },
       "connectivity": {
-        "title": "Connectivity Resources",
-        "description": "Learn about affordable internet programs and get help applying for discounted connectivity services."
+        "title": "连接资源",
+        "description": "了解实惠的互联网项目，并获得申请折扣连接服务的帮助。"
       },
       "ongoing": {
-        "title": "Ongoing Support",
-        "description": "Get continued support as you grow your digital skills. We're here to help whenever you have questions."
+        "title": "持续支持",
+        "description": "随着您数字技能的提高，获得持续支持。无论何时有问题，我们都会提供帮助。"
       }
     },
     "eligibility": {
-      "title": "Who Can Enroll",
-      "description": "Our Digital Equity program is open to anyone who wants to improve their digital skills, with priority given to:",
-      "item1": "Seniors and older adults",
-      "item2": "Individuals with limited technology experience",
-      "item3": "Job seekers needing digital skills for employment",
-      "item4": "Community members facing barriers to technology access"
+      "title": "谁可以注册",
+      "description": "我们的数字公平项目向任何想要提高数字技能的人开放，优先考虑：",
+      "item1": "老年人和年长者",
+      "item2": "技术经验有限的个人",
+      "item3": "需要数字技能以便就业的求职者",
+      "item4": "面临技术访问障碍的社区成员"
     },
     "form": {
-      "title": "Enroll in Digital Equity",
-      "description": "Fill out the form below to enroll in our Digital Equity program. A Digital Navigator will contact you to schedule your first session.",
-      "firstName": "First Name",
-      "lastName": "Last Name",
-      "email": "Email Address",
-      "phone": "Phone Number",
-      "preferredContact": "Preferred Contact Method",
+      "title": "注册数字公平项目",
+      "description": "填写下面的表格注册我们的数字公平项目。数字导航员将与您联系，安排您的第一次会话。",
+      "firstName": "名字",
+      "lastName": "姓氏",
+      "email": "电子邮件地址",
+      "phone": "电话号码",
+      "preferredContact": "首选联系方式",
       "contactOptions": {
-        "email": "Email",
-        "phone": "Phone",
-        "either": "Either"
+        "email": "电子邮件",
+        "phone": "电话",
+        "either": "任一"
       },
-      "interests": "What would you like help with?",
+      "interests": "您需要什么帮助？",
       "interestOptions": {
-        "basics": "Computer Basics",
-        "internet": "Internet & Email",
-        "safety": "Online Safety",
-        "productivity": "Productivity Tools (Word, Excel, etc.)",
-        "connectivity": "Finding Affordable Internet",
-        "other": "Other"
+        "basics": "电脑基础",
+        "internet": "互联网与电子邮件",
+        "safety": "在线安全",
+        "productivity": "生产力工具（Word、Excel等）",
+        "connectivity": "寻找实惠的互联网",
+        "other": "其他"
       },
-      "experience": "Current Technology Experience",
+      "experience": "当前技术经验",
       "experienceOptions": {
-        "none": "No experience",
-        "beginner": "Beginner - I can turn on a computer",
-        "intermediate": "Intermediate - I can browse the web and send email",
-        "advanced": "Advanced - I'm comfortable but want to learn more"
+        "none": "无经验",
+        "beginner": "初学者 - 我可以打开电脑",
+        "intermediate": "中级 - 我可以浏览网页和发送电子邮件",
+        "advanced": "高级 - 我感觉自如但想学习更多"
       },
-      "goals": "What are your goals?",
-      "goalsPlaceholder": "Tell us what you hope to accomplish with improved digital skills...",
-      "submit": "Enroll Now",
-      "submitting": "Submitting...",
-      "success": "Enrollment Submitted!",
-      "successMessage": "Thank you for enrolling! A Digital Navigator will contact you within 5 business days to schedule your first session.",
-      "error": "Failed to submit enrollment"
+      "goals": "您的目标是什么？",
+      "goalsPlaceholder": "告诉我们您希望通过提高数字技能实现什么……",
+      "submit": "立即注册",
+      "submitting": "提交中……",
+      "success": "注册已提交！",
+      "successMessage": "感谢您的注册！数字导航员将在5个工作日内与您联系，安排您的第一次会话。",
+      "error": "提交注册失败"
     },
     "cta": {
-      "title": "Need a computer first?",
-      "description": "If you don't have a computer, apply for our Plug Into Portland program to get a free refurbished laptop."
+      "title": "首先需要一台电脑吗？",
+      "description": "如果您没有电脑，请申请我们的 Plug Into Portland 项目以获取免费翻新笔记本电脑。"
     }
   },
   "donateTech": {
     "hero": {
-      "title1": "Your old tech",
-      "title2": "deserves a second life.",
-      "description": "That laptop collecting dust in your closet? It could help a student do their homework, a job seeker land an interview, or a senior connect with family.",
-      "dropOff": "Drop Off In Person",
-      "schedulePickup": "Schedule a Pickup"
+      "title1": "您的旧设备",
+      "title2": "值得第二次生命。",
+      "description": "您壁橱里落灰的那台笔记本电脑？它可以帮助学生做作业、求职者获得面试机会，或者让老年人与家人保持联系。",
+      "dropOff": "亲自送达",
+      "schedulePickup": "预约上门取件"
     },
     "dropOff": {
-      "title": "Drop off your donation",
-      "location": "Location",
+      "title": "送达您的捐赠",
+      "location": "地点",
       "address": "1731 SE 10th Avenue, Portland, OR 97214",
-      "parking": "Outdoor parking lot on the northeast side of our building",
-      "locationNote": "Outdoor parking lot on the northeast side of our building",
-      "hours": "11:00 AM - 4:00 PM",
-      "days": "Wednesday - Saturday",
-      "times": "11:00 AM - 4:00 PM",
-      "noAppointment": "No appointment needed for small donations. Just drive up during our drop-off hours and our team will help you unload."
+      "parking": "我们建筑东北侧的室外停车场",
+      "locationNote": "我们建筑东北侧的室外停车场",
+      "hours": "上午11:00 - 下午4:00",
+      "days": "周三至周六",
+      "times": "上午11:00 - 下午4:00",
+      "noAppointment": "小额捐赠无需预约。只需在我们的送达时间开车过来，我们的团队将帮助您卸载。"
     },
     "types": {
-      "title": "Donation options",
+      "title": "捐赠选项",
       "small": {
-        "title": "Small",
-        "subtitle": "Under 20 devices",
-        "description": "Perfect for personal donations. Just drive up during our drop-off hours—no appointment needed."
+        "title": "小额",
+        "subtitle": "20台以下设备",
+        "description": "非常适合个人捐赠。只需在我们的送达时间开车过来——无需预约。"
       },
       "large": {
-        "title": "Large",
-        "subtitle": "20+ devices",
-        "description": "Have a bigger donation? Schedule ahead so we can make sure we have space and staff ready for you."
+        "title": "大额",
+        "subtitle": "20台以上设备",
+        "description": "有更大的捐赠？请提前预约，以便我们确保有足够的空间和工作人员为您准备。"
       },
       "corporate": {
-        "title": "Corporate",
-        "subtitle": "Business donations",
-        "description": "Retiring IT equipment? We offer pickup services and can provide documentation for your records."
+        "title": "企业",
+        "subtitle": "企业捐赠",
+        "description": "淘汰IT设备？我们提供上门取件服务，并可为您的记录提供文档。"
       }
     },
     "options": {
-      "title": "Donation options",
+      "title": "捐赠选项",
       "small": {
-        "title": "Small",
-        "subtitle": "Under 20 devices",
-        "description": "Perfect for personal donations. Just drive up during our drop-off hours—no appointment needed.",
-        "cta": "Drop Off Anytime"
+        "title": "小额",
+        "subtitle": "20台以下设备",
+        "description": "非常适合个人捐赠。只需在我们的送达时间开车过来——无需预约。",
+        "cta": "随时送达"
       },
       "large": {
-        "title": "Large",
-        "subtitle": "20+ devices",
-        "description": "Have a bigger donation? Schedule ahead so we can make sure we have space and staff ready for you.",
-        "cta": "Schedule Drop-Off"
+        "title": "大额",
+        "subtitle": "20台以上设备",
+        "description": "有更大的捐赠？请提前预约，以便我们确保有足够的空间和工作人员为您准备。",
+        "cta": "预约送达"
       },
       "corporate": {
-        "title": "Corporate",
-        "subtitle": "Business donations",
-        "description": "Retiring IT equipment? We offer pickup services and can provide documentation for your records.",
-        "cta": "Contact Us"
+        "title": "企业",
+        "subtitle": "企业捐赠",
+        "description": "淘汰IT设备？我们提供上门取件服务，并可为您的记录提供文档。",
+        "cta": "联系我们"
       }
     },
     "security": {
-      "title": "Your data is safe with us",
-      "description": "We take data security seriously. Every data-bearing device goes directly to our secure, staff-only area for proper sanitization.",
-      "nist": "NIST SP800-88 compliant data sanitization",
-      "sigma": "i-SIGMA certified processes",
-      "isigma": "i-SIGMA certified processes",
-      "certificate": "Certificate of Data Destruction available ($10/device)",
-      "cta": "Learn More About Data Security"
+      "title": "您的数据对我们来说是安全的",
+      "description": "我们认真对待数据安全。每个含数据的设备都会直接送到我们安全的、仅限员工进入的区域进行适当的清理。",
+      "nist": "NIST SP800-88 合规数据清理",
+      "sigma": "i-SIGMA 认证流程",
+      "isigma": "i-SIGMA 认证流程",
+      "certificate": "可提供数据销毁证书（$10/设备）",
+      "cta": "了解更多关于数据安全的信息"
     },
     "accept": {
-      "title": "What can you donate?",
+      "title": "您可以捐赠什么？",
       "items": {
-        "laptops": "Laptops",
-        "desktops": "Desktops",
-        "smartphones": "Smartphones",
-        "tablets": "Tablets",
-        "monitors": "Monitors",
-        "printers": "Printers",
-        "keyboards": "Keyboards",
-        "cables": "Cables & Accessories"
+        "laptops": "笔记本电脑",
+        "desktops": "台式电脑",
+        "smartphones": "智能手机",
+        "tablets": "平板电脑",
+        "monitors": "显示器",
+        "printers": "打印机",
+        "keyboards": "键盘",
+        "cables": "线缆与配件"
       },
-      "laptops": "Laptops",
-      "desktops": "Desktops",
-      "smartphones": "Smartphones",
-      "tablets": "Tablets",
-      "monitors": "Monitors",
-      "printers": "Printers",
-      "keyboards": "Keyboards",
-      "cables": "Cables & Accessories",
-      "notSure": "Not sure if we accept your item? Check our",
-      "faq": "FAQ",
-      "orContact": "or contact us at"
+      "laptops": "笔记本电脑",
+      "desktops": "台式电脑",
+      "smartphones": "智能手机",
+      "tablets": "平板电脑",
+      "monitors": "显示器",
+      "printers": "打印机",
+      "keyboards": "键盘",
+      "cables": "线缆与配件",
+      "notSure": "不确定我们是否接受您的物品？查看我们的",
+      "faq": "常见问题",
+      "orContact": "或联系我们"
     },
     "cta": {
-      "title": "Ready to make a difference?",
-      "description": "Every device you donate helps bridge the digital divide in our community."
+      "title": "准备好做出改变了吗？",
+      "description": "您捐赠的每台设备都有助于弥合我们社区的数字鸿沟。"
     },
     "alt": {
-      "donating": "Person donating technology at Free Geek",
-      "security": "Data security and protection"
+      "donating": "在 Free Geek 捐赠技术设备的人",
+      "security": "数据安全与保护"
     }
   },
   "donate": {
     "hero": {
-      "title1": "Fuel the mission.",
-      "title2": "Bridge the divide.",
-      "description": "Your financial support helps us put technology into the hands of those who need it most while keeping e-waste out of landfills."
+      "title1": "推动使命。",
+      "title2": "弥合鸿沟。",
+      "description": "您的财务支持帮助我们将技术交到最需要的人手中，同时将电子垃圾挡在垃圾填埋场之外。"
     },
     "ways": {
-      "title": "Ways to Give",
-      "description": "Every dollar helps us refurbish computers, provide digital skills training, and connect community members to opportunity.",
+      "title": "捐赠方式",
+      "description": "每一美元都帮助我们翻新电脑、提供数字技能培训，并将社区成员与机会连接起来。",
       "oneTime": {
-        "title": "One-Time Gift",
-        "description": "Make an immediate impact with a single donation of any amount.",
-        "cta": "Donate Now"
+        "title": "一次性捐赠",
+        "description": "通过任何金额的一次性捐赠立即产生影响。",
+        "cta": "立即捐赠"
       },
       "monthly": {
-        "title": "Monthly Giving",
-        "description": "Become a sustaining supporter with a recurring monthly gift.",
-        "cta": "Give Monthly"
+        "title": "月度捐赠",
+        "description": "通过每月定期捐赠成为持续支持者。",
+        "cta": "每月捐赠"
       },
       "legacy": {
-        "title": "Corporate & Legacy",
-        "description": "Partner with us or include Free Geek in your estate planning.",
-        "cta": "Contact Us"
+        "title": "企业与遗产",
+        "description": "与我们合作或将 Free Geek 纳入您的遗产规划。",
+        "cta": "联系我们"
       }
     },
     "impact": {
-      "title": "Your Impact",
-      "amount25": "Covers data sanitization and refurbishment supplies for one device",
-      "amount100": "Provides digital skills training for one community member",
-      "amount250": "Fully funds one refurbished computer for a student or job seeker",
-      "level1": "Covers data sanitization and refurbishment supplies for one device",
-      "level2": "Provides digital skills training for one community member",
-      "level3": "Fully funds one refurbished computer for a student or job seeker"
+      "title": "您的影响",
+      "amount25": "为一台设备提供数据清理和翻新用品",
+      "amount100": "为一名社区成员提供数字技能培训",
+      "amount250": "全额资助一台翻新电脑给学生或求职者",
+      "level1": "为一台设备提供数据清理和翻新用品",
+      "level2": "为一名社区成员提供数字技能培训",
+      "level3": "全额资助一台翻新电脑给学生或求职者"
     },
     "otherWays": {
-      "title": "Other Ways to Support",
+      "title": "其他支持方式",
       "donateTech": {
-        "title": "Donate Technology",
-        "description": "Have old devices? We'll refurbish them for community members in need."
+        "title": "捐赠技术设备",
+        "description": "有旧设备？我们将为有需要的社区成员翻新它们。"
       },
       "volunteer": {
-        "title": "Volunteer Your Time",
-        "description": "Join our team and help bridge the digital divide hands-on."
+        "title": "贡献您的时间",
+        "description": "加入我们的团队，亲身帮助弥合数字鸿沟。"
       },
       "techDrive": {
-        "title": "Host a Tech Drive",
-        "description": "Organize a collection at your workplace, school, or community."
+        "title": "举办技术设备募集活动",
+        "description": "在您的工作场所、学校或社区组织募集活动。"
       },
       "ambassador": {
-        "title": "Become an Ambassador",
-        "description": "Spread the word about Free Geek in your community and networks."
+        "title": "成为大使",
+        "description": "在您的社区和网络中传播 Free Geek 的信息。"
       }
     },
     "other": {
-      "title": "Other Ways to Support",
+      "title": "其他支持方式",
       "donateTech": {
-        "title": "Donate Technology",
-        "description": "Have old devices? We'll refurbish them for community members in need."
+        "title": "捐赠技术设备",
+        "description": "有旧设备？我们将为有需要的社区成员翻新它们。"
       },
       "volunteer": {
-        "title": "Volunteer Your Time",
-        "description": "Join our team and help bridge the digital divide hands-on."
+        "title": "贡献您的时间",
+        "description": "加入我们的团队，亲身帮助弥合数字鸿沟。"
       },
       "techDrive": {
-        "title": "Host a Tech Drive",
-        "description": "Organize a collection at your workplace, school, or community."
+        "title": "举办技术设备募集活动",
+        "description": "在您的工作场所、学校或社区组织募集活动。"
       },
       "ambassador": {
-        "title": "Become an Ambassador",
-        "description": "Spread the word about Free Geek in your community and networks."
+        "title": "成为大使",
+        "description": "在您的社区和网络中传播 Free Geek 的信息。"
       }
     },
     "tax": {
-      "title": "Tax-Deductible Giving",
-      "description": "Free Geek is a 501(c)(3) nonprofit organization. Your donation is tax-deductible to the fullest extent allowed by law.",
+      "title": "可抵税捐赠",
+      "description": "Free Geek 是一个501(c)(3)非营利组织。您的捐赠可在法律允许的最大范围内抵税。",
       "ein": "EIN: 93-1292010"
     },
     "cta": {
-      "title": "Ready to make a difference?",
-      "description": "Join thousands of supporters who believe technology should be accessible to everyone."
+      "title": "准备好做出改变了吗？",
+      "description": "加入数千名相信技术应该让每个人都能使用的支持者。"
     }
   },
   "contact": {

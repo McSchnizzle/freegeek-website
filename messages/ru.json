@@ -1,1200 +1,1200 @@
 {
   "common": {
-    "learnMore": "Learn More",
-    "contactUs": "Contact Us",
-    "donateTech": "Donate Tech",
-    "getComputer": "Get a Computer",
-    "volunteer": "Volunteer",
-    "donate": "Donate",
-    "about": "About",
-    "programs": "Programs",
-    "shop": "Shop",
-    "contact": "Contact",
-    "opensNewTab": "(opens in new tab)",
+    "learnMore": "Узнать больше",
+    "contactUs": "Связаться с нами",
+    "donateTech": "Пожертвовать технику",
+    "getComputer": "Получить компьютер",
+    "volunteer": "Стать волонтёром",
+    "donate": "Пожертвовать",
+    "about": "О нас",
+    "programs": "Программы",
+    "shop": "Магазин",
+    "contact": "Контакты",
+    "opensNewTab": "(откроется в новой вкладке)",
     "email": "Email",
-    "phone": "Phone",
-    "address": "Address",
-    "hours": "Hours",
-    "explorePrograms": "Explore Our Programs",
-    "donateNow": "Donate Now",
-    "volunteerWithUs": "Volunteer With Us",
-    "viewAllPrograms": "View All Programs",
-    "getStarted": "Get Started",
-    "applyNow": "Apply Now",
-    "schedulePickup": "Schedule a Pickup",
-    "dropOffAnytime": "Drop Off Anytime",
-    "scheduleDropOff": "Schedule Drop-Off",
-    "makeFinancialDonation": "Make a Financial Donation",
-    "getDirections": "Get Directions"
+    "phone": "Телефон",
+    "address": "Адрес",
+    "hours": "Часы работы",
+    "explorePrograms": "Изучить наши программы",
+    "donateNow": "Пожертвовать сейчас",
+    "volunteerWithUs": "Стать волонтёром",
+    "viewAllPrograms": "Смотреть все программы",
+    "getStarted": "Начать",
+    "applyNow": "Подать заявку",
+    "schedulePickup": "Запланировать самовывоз",
+    "dropOffAnytime": "Доставка в любое время",
+    "scheduleDropOff": "Запланировать доставку",
+    "makeFinancialDonation": "Сделать финансовое пожертвование",
+    "getDirections": "Получить маршрут"
   },
   "nav": {
-    "skipToContent": "Skip to main content",
-    "openMenu": "Open menu",
-    "closeMenu": "Close menu",
-    "mainNav": "Main navigation",
-    "mobileNav": "Mobile navigation",
-    "about": "About",
-    "programs": "Programs",
-    "donateTech": "Donate Tech",
-    "shop": "Shop",
-    "contact": "Contact"
+    "skipToContent": "Перейти к основному содержанию",
+    "openMenu": "Открыть меню",
+    "closeMenu": "Закрыть меню",
+    "mainNav": "Главное меню",
+    "mobileNav": "Мобильное меню",
+    "about": "О нас",
+    "programs": "Программы",
+    "donateTech": "Пожертвовать технику",
+    "shop": "Магазин",
+    "contact": "Контакты"
   },
   "footer": {
     "newsletter": {
-      "title": "Stay in the loop",
-      "description": "Get news, impact stories, and volunteer opportunities delivered to your inbox.",
-      "emailLabel": "Email address",
-      "placeholder": "Enter your email",
-      "subscribe": "Subscribe",
-      "subscribing": "Subscribing...",
-      "success": "Thanks for subscribing!",
-      "error": "An error occurred",
-      "note": "Note: Newsletter signup is not yet connected. For updates, follow us on social media."
+      "title": "Будьте в курсе",
+      "description": "Получайте новости, истории о нашем влиянии и возможности для волонтёров прямо на вашу почту.",
+      "emailLabel": "Адрес электронной почты",
+      "placeholder": "Введите ваш email",
+      "subscribe": "Подписаться",
+      "subscribing": "Подписываемся...",
+      "success": "Спасибо за подписку!",
+      "error": "Произошла ошибка",
+      "note": "Примечание: Подписка на рассылку пока не подключена. Чтобы быть в курсе, следите за нами в социальных сетях."
     },
-    "tagline": "Sustainably reusing technology, enabling digital access, and empowering communities since 2000.",
-    "logoAlt": "Free Geek logo - return to home",
-    "copyright": "Free Geek. 501(c)(3) Nonprofit Organization.",
+    "tagline": "Устойчиво используем технологии, обеспечиваем цифровой доступ и расширяем возможности сообществ с 2000 года.",
+    "logoAlt": "Логотип Free Geek — вернуться на главную",
+    "copyright": "Free Geek. Некоммерческая организация 501(c)(3).",
     "ein": "EIN: 93-1292010",
     "support": {
-      "title": "Support",
+      "title": "Поддержка",
       "phone": "503-232-9350 ext 101",
       "email": "computerfriends@freegeek.org"
     },
-    "since": "Turning e-waste into opportunity since Earth Day, 2000.",
+    "since": "Превращаем электронные отходы в возможности с Дня Земли 2000 года.",
     "sections": {
-      "programs": "Programs",
-      "getInvolved": "Get Involved",
-      "about": "About",
-      "connect": "Connect"
+      "programs": "Программы",
+      "getInvolved": "Присоединяйтесь",
+      "about": "О нас",
+      "connect": "Связь"
     },
     "links": {
-      "getComputer": "Get a Computer",
-      "hardwareGrants": "Hardware Grants",
-      "digitalSkills": "Digital Skills",
-      "donateTech": "Donate Tech",
-      "volunteer": "Volunteer",
-      "donateMoney": "Donate Money",
-      "bridgeGiving": "BRIDGE Monthly Giving",
-      "ourStory": "Our Story",
-      "ourTeam": "Our Team",
-      "ourImpact": "Our Impact",
-      "careers": "Careers",
-      "contact": "Contact",
+      "getComputer": "Получить компьютер",
+      "hardwareGrants": "Гранты на оборудование",
+      "digitalSkills": "Цифровые навыки",
+      "donateTech": "Пожертвовать технику",
+      "volunteer": "Волонтёрство",
+      "donateMoney": "Денежное пожертвование",
+      "bridgeGiving": "THE BRIDGE — Ежемесячное пожертвование",
+      "ourStory": "Наша история",
+      "ourTeam": "Наша команда",
+      "ourImpact": "Наше влияние",
+      "careers": "Вакансии",
+      "contact": "Контакты",
       "instagram": "Instagram",
       "linkedin": "LinkedIn",
       "twitter": "Twitter",
       "github": "GitHub"
     },
     "recognition": {
-      "title": "Memberships & Recognition",
+      "title": "Членство и признание",
       "isigma": {
-        "name": "i-SIGMA Member",
-        "description": "Certified member of the International Secure Information Governance & Management Association"
+        "name": "Член i-SIGMA",
+        "description": "Сертифицированный член Международной ассоциации безопасного управления информацией"
       },
       "ndia": {
-        "name": "NDIA Affiliate",
-        "description": "National Digital Inclusion Alliance affiliate organization"
+        "name": "Партнёр NDIA",
+        "description": "Партнёрская организация Национального альянса цифровой инклюзии"
       },
       "bestNonprofits": {
-        "name": "100 Best Nonprofits",
-        "description": "Oregon Business 100 Best Nonprofits to Work For"
+        "name": "100 лучших некоммерческих организаций",
+        "description": "Oregon Business: 100 лучших некоммерческих организаций для работы"
       },
       "greenWorkplaces": {
-        "name": "100 Best Green Workplaces",
-        "description": "Oregon Business 100 Best Green Workplaces in Oregon 2024"
+        "name": "100 лучших экологичных рабочих мест",
+        "description": "Oregon Business: 100 лучших экологичных рабочих мест в Орегоне 2024"
       },
       "mostAdmiredTech": {
-        "name": "#4 Most Admired Tech Company",
-        "description": "Portland Business Journal Oregon's Most Admired Companies 2024"
+        "name": "#4 Самая уважаемая технологическая компания",
+        "description": "Portland Business Journal: Самые уважаемые компании Орегона 2024"
       }
     }
   },
   "home": {
     "hero": {
-      "badge": "New Website Coming Soon",
-      "title1": "Your old tech.",
-      "title2": "Someone's new future.",
-      "description": "We turn e-waste into opportunity. For 25 years, we've been keeping tech out of landfills and putting it into the hands of people who need it most."
+      "badge": "Скоро новый сайт",
+      "title1": "Ваша старая техника.",
+      "title2": "Чьё-то новое будущее.",
+      "description": "Мы превращаем электронные отходы в возможности. 25 лет мы не даём технике попасть на свалку и передаём её тем, кто нуждается в ней больше всего."
     },
     "stats": {
-      "ewaste": "Pounds of e-waste saved from landfills",
-      "devices": "Devices given to people in need",
-      "community": "Community members connected",
-      "years": "Years bridging the digital divide"
+      "ewaste": "Фунтов электронных отходов спасено от свалок",
+      "devices": "Устройств передано нуждающимся",
+      "community": "Членов сообщества подключено",
+      "years": "Лет сокращаем цифровое неравенство"
     },
     "problem": {
-      "title": "Two crises. One solution.",
+      "title": "Два кризиса. Одно решение.",
       "stat1": "70%",
-      "stat1Text": "E-waste is just 2% of America's trash—but 70% of its toxic waste. Most ends up in landfills, poisoning soil and water.",
-      "stat2": "1 in 5",
-      "stat2Text": "American households don't have a computer. No computer means no job applications, no homework, no telehealth, no connection.",
-      "solution": "We take devices people no longer need and give them to people who do. It's not charity—it's common sense."
+      "stat1Text": "Электронные отходы составляют всего 2% мусора Америки — но 70% её токсичных отходов. Большая часть попадает на свалки, отравляя почву и воду.",
+      "stat2": "1 из 5",
+      "stat2Text": "Американских домохозяйств не имеют компьютера. Без компьютера нет заявок на работу, домашних заданий, телемедицины, связи.",
+      "solution": "Мы берём устройства, которые больше не нужны одним людям, и отдаём их тем, кому они нужны. Это не благотворительность — это здравый смысл."
     },
     "howItWorks": {
-      "title": "Here's how it works",
+      "title": "Вот как это работает",
       "donate": {
-        "title": "You donate",
-        "description": "Drop off laptops, desktops, phones—anything with a plug. We wipe your data securely."
+        "title": "Вы жертвуете",
+        "description": "Привозите ноутбуки, настольные компьютеры, телефоны — всё, что подключается к розетке. Мы безопасно удалим ваши данные."
       },
       "refurbish": {
-        "title": "We refurbish",
-        "description": "Our team rebuilds what can be saved (~30%). What can't gets responsibly recycled for materials recovery (~70%)."
+        "title": "Мы восстанавливаем",
+        "description": "Наша команда восстанавливает то, что можно спасти (~30%). То, что нельзя, ответственно перерабатывается для восстановления материалов (~70%)."
       },
       "distribute": {
-        "title": "They thrive",
-        "description": "A student gets a laptop for school. A job seeker sends their first resume. A grandma video-calls her family."
+        "title": "Они процветают",
+        "description": "Студент получает ноутбук для учёбы. Соискатель отправляет своё первое резюме. Бабушка созванивается с семьёй по видео."
       }
     },
     "community": {
-      "title": "Digital inclusion is a social justice issue",
-      "p1": "Without technology access, full participation in American society is impossible. Jobs, education, healthcare, civic engagement—all require being connected.",
-      "p2": "The digital divide hits hardest for low-income families, immigrants, seniors, people with disabilities, and communities of color. We're here to change that."
+      "title": "Цифровая инклюзия — это вопрос социальной справедливости",
+      "p1": "Без доступа к технологиям полноценное участие в жизни американского общества невозможно. Работа, образование, здравоохранение, гражданская активность — всё это требует подключения к интернету.",
+      "p2": "Цифровое неравенство сильнее всего бьёт по семьям с низким доходом, иммигрантам, пожилым людям, людям с ограниченными возможностями и цветным сообществам. Мы здесь, чтобы это изменить."
     },
     "cta": {
-      "title": "Got old tech collecting dust?",
-      "description": "That laptop in your closet could change someone's life. Drop it off, and we'll handle the rest.",
-      "donateYourTech": "Donate Your Tech",
-      "getAComputer": "Get a Computer",
-      "donateNow": "Donate Now",
-      "volunteerWithUs": "Volunteer With Us",
-      "explorePrograms": "Explore Our Programs"
+      "title": "Есть старая техника, которая пылится?",
+      "description": "Тот ноутбук в вашем шкафу может изменить чью-то жизнь. Привезите его, а мы позаботимся об остальном.",
+      "donateYourTech": "Пожертвуйте свою технику",
+      "getAComputer": "Получить компьютер",
+      "donateNow": "Пожертвовать сейчас",
+      "volunteerWithUs": "Стать волонтёром",
+      "explorePrograms": "Изучить наши программы"
     },
     "visit": {
-      "title": "Visit Us",
+      "title": "Посетите нас",
       "address": "1731 SE 10th Avenue, Portland, OR 97214",
-      "hours": "Wednesday - Saturday, 11 AM - 4 PM"
+      "hours": "Среда — Суббота, 11:00 — 16:00"
     },
     "alt": {
-      "heroDonate": "Diverse community members donating technology",
-      "digitalDivide": "Bridging the digital divide - people connected through technology",
-      "community": "Diverse community members connected through technology",
-      "iconDonate": "Donate icon",
-      "iconRefurbish": "Refurbish icon",
-      "iconDistribute": "Distribute icon"
+      "heroDonate": "Разнообразные члены сообщества жертвуют технику",
+      "digitalDivide": "Сокращаем цифровое неравенство — люди, связанные через технологии",
+      "community": "Разнообразные члены сообщества, связанные через технологии",
+      "iconDonate": "Иконка пожертвования",
+      "iconRefurbish": "Иконка восстановления",
+      "iconDistribute": "Иконка распределения"
     }
   },
   "about": {
     "hero": {
-      "title1": "We believe technology",
-      "title2": "should be for everyone.",
-      "description": "Since Earth Day 2000, we've been turning e-waste into opportunity—keeping tech out of landfills and putting it into the hands of people who need it most."
+      "title1": "Мы верим, что технологии",
+      "title2": "должны быть доступны каждому.",
+      "description": "С Дня Земли 2000 года мы превращаем электронные отходы в возможности — не даём технике попасть на свалку и передаём её тем, кто нуждается в ней больше всего."
     },
     "origin": {
-      "title": "Our Origin Story",
-      "p1": "Free Geek launched at Pioneer Courthouse Square on Earth Day 2000. That September, we opened our doors on SE 10th Avenue as a drop-off for electronic waste—salvaging technology before it hit landfills.",
-      "p2": "Over 25 years, we've evolved from a recycling center into a digital inclusion powerhouse. Our reuse and recycling programs still form our backbone, providing the refurbished devices we put back into the community.",
-      "p3": "But today, our core mission is narrowing the digital divide—ensuring everyone has access to technology and the skills to use it."
+      "title": "История нашего основания",
+      "p1": "Free Geek был запущен на площади Pioneer Courthouse в День Земли 2000 года. В сентябре того же года мы открыли двери на SE 10th Avenue как пункт приёма электронных отходов — спасая технологии до того, как они попадут на свалку.",
+      "p2": "За 25 лет мы превратились из центра переработки в центр цифровой инклюзии. Наши программы повторного использования и переработки по-прежнему составляют основу нашей работы, обеспечивая восстановленные устройства, которые мы возвращаем в сообщество.",
+      "p3": "Но сегодня наша главная миссия — сокращать цифровое неравенство, обеспечивая всем доступ к технологиям и навыкам для их использования."
     },
     "mission": {
-      "title": "Our Mission",
-      "text": "To sustainably reuse technology, enable digital access, and provide education to create a community that empowers people to realize their potential.",
-      "statement": "To sustainably reuse technology, enable digital access, and provide education to create a community that empowers people to realize their potential."
+      "title": "Наша миссия",
+      "text": "Устойчиво использовать технологии, обеспечивать цифровой доступ и предоставлять образование для создания сообщества, которое расширяет возможности людей реализовать свой потенциал.",
+      "statement": "Устойчиво использовать технологии, обеспечивать цифровой доступ и предоставлять образование для создания сообщества, которое расширяет возможности людей реализовать свой потенциал."
     },
     "problems": {
-      "title": "Two Problems. One Solution.",
+      "title": "Две проблемы. Одно решение.",
       "digitalDivide": {
         "stat": "27%",
-        "title": "The Digital Divide",
-        "p1": "27% of Americans don't own a computer. One in ten families lack home internet. This gap falls hardest on low-income families, immigrants, seniors, and communities of color.",
-        "p2": "Without technology access, full participation in American society—jobs, education, healthcare, civic engagement—is compromised. This is a social justice issue."
+        "title": "Цифровое неравенство",
+        "p1": "27% американцев не имеют компьютера. Одна из десяти семей не имеет домашнего интернета. Этот разрыв сильнее всего бьёт по семьям с низким доходом, иммигрантам, пожилым людям и цветным сообществам.",
+        "p2": "Без доступа к технологиям полноценное участие в жизни американского общества — работа, образование, здравоохранение, гражданская активность — невозможно. Это вопрос социальной справедливости."
       },
       "ewaste": {
         "stat": "70%",
-        "title": "The E-Waste Crisis",
-        "p1": "Only 27% of e-waste gets recycled nationally. E-waste is just 2% of America's landfill trash—but 70% of its toxic waste.",
-        "p2": "Most \"e-waste\" isn't waste at all. It's perfectly good equipment that can be repaired, refurbished, and given new life."
+        "title": "Кризис электронных отходов",
+        "p1": "Только 27% электронных отходов перерабатывается на национальном уровне. Электронные отходы составляют всего 2% мусора на свалках Америки — но 70% её токсичных отходов.",
+        "p2": "Большая часть «электронных отходов» вовсе не является отходами. Это вполне хорошее оборудование, которое можно отремонтировать, восстановить и дать ему новую жизнь."
       }
     },
     "circular": {
-      "title": "The Circular Model",
-      "description": "We point these two problems at each other. The computers we grant to Digital Inclusion participants are saved from landfills and go on to help our community's most vulnerable populations build the digital skills they need to thrive."
+      "title": "Циклическая модель",
+      "description": "Мы направляем эти две проблемы друг на друга. Компьютеры, которые мы предоставляем участникам программ цифровой инклюзии, спасены от свалок и помогают наиболее уязвимым группам нашего сообщества развивать цифровые навыки, необходимые для процветания."
     },
     "impact": {
-      "title": "Our Impact",
-      "years": "Years of service",
-      "diverted": "Pounds diverted from landfills",
-      "devices": "Devices granted",
-      "granted": "Devices granted",
-      "served": "Community members served",
-      "community": "Community members served"
+      "title": "Наше влияние",
+      "years": "Лет служения",
+      "diverted": "Фунтов спасено от свалок",
+      "devices": "Устройств передано",
+      "granted": "Устройств передано",
+      "served": "Членов сообщества обслужено",
+      "community": "Членов сообщества обслужено"
     },
     "cta": {
-      "title": "Ready to get involved?",
-      "description": "Whether you donate tech, volunteer your time, or support us financially, you're helping bridge the digital divide."
+      "title": "Готовы присоединиться?",
+      "description": "Жертвуете ли вы технику, волонтёрите своё время или поддерживаете нас финансово — вы помогаете сокращать цифровое неравенство."
     },
     "alt": {
-      "community": "Free Geek community members working with technology",
-      "digitalDivide": "Bridging the digital divide - people connected through technology"
+      "community": "Члены сообщества Free Geek работают с технологиями",
+      "digitalDivide": "Сокращаем цифровое неравенство — люди, связанные через технологии"
     }
   },
   "programs": {
     "hero": {
-      "title1": "Need a computer?",
-      "title2": "We've got you.",
-      "description": "27% of Americans don't own a computer. We're working to change that with free and low-cost technology for individuals and organizations."
+      "title1": "Нужен компьютер?",
+      "title2": "Мы поможем.",
+      "description": "27% американцев не имеют компьютера. Мы работаем над тем, чтобы это изменить, предоставляя бесплатные и недорогие технологии для частных лиц и организаций."
     },
     "individuals": {
-      "badge": "For Individuals",
-      "title": "Get a Free Computer",
-      "description": "Free Geek has multiple programs for individuals to receive free computers. See the options below to find the right fit for you.",
-      "stats": "Currently, 75,000 Oregon students don't have a personal computer to complete their assignments. We're here to close that gap.",
+      "badge": "Для частных лиц",
+      "title": "Получите бесплатный компьютер",
+      "description": "Free Geek предлагает несколько программ для получения бесплатных компьютеров частными лицами. Ознакомьтесь с вариантами ниже, чтобы найти подходящий для вас.",
+      "stats": "В настоящее время 75 000 студентов Орегона не имеют личного компьютера для выполнения заданий. Мы здесь, чтобы закрыть этот разрыв.",
       "plugIntoPdx": {
-        "title": "Plug Into Portland (Laptop Waitlist)",
-        "description": "Apply to get on the waitlist for a free laptop running Linux Mint, with a one-year warranty and Digital Navigation Support."
+        "title": "Plug Into Portland (Список ожидания на ноутбук)",
+        "description": "Подайте заявку, чтобы попасть в список ожидания на бесплатный ноутбук с Linux Mint, годовой гарантией и поддержкой цифрового навигатора."
       },
       "giftAGeekbox": {
         "title": "Gift a Geekbox",
-        "description": "Desktop computer program for individuals ages 18+.",
-        "badge": "Currently Closed"
+        "description": "Программа настольных компьютеров для лиц от 18 лет.",
+        "badge": "Временно закрыта"
       },
       "shop": {
-        "title": "Low-Cost Shop Option",
-        "description": "Can't wait for the waitlist? Purchase quality refurbished computers at affordable prices."
+        "title": "Недорогой вариант в магазине",
+        "description": "Не можете ждать в списке ожидания? Приобретите качественные восстановленные компьютеры по доступным ценам."
       },
-      "cta": "Apply for a Free Laptop",
-      "questions": "Questions? Email us at"
+      "cta": "Подать заявку на бесплатный ноутбук",
+      "questions": "Вопросы? Напишите нам на"
     },
     "receive": {
-      "title": "What you'll receive",
+      "title": "Что вы получите",
       "laptop": {
-        "title": "Refurbished Laptop",
-        "description": "A quality refurbished laptop running Linux Mint, ready to use"
+        "title": "Восстановленный ноутбук",
+        "description": "Качественный восстановленный ноутбук с Linux Mint, готовый к использованию"
       },
       "warranty": {
-        "title": "One-Year Warranty",
-        "description": "Full warranty coverage so you can use your device with confidence"
+        "title": "Годовая гарантия",
+        "description": "Полное гарантийное покрытие, чтобы вы могли пользоваться устройством с уверенностью"
       },
       "support": {
-        "title": "Digital Navigation Support",
-        "description": "Help getting set up and learning to use your new computer"
+        "title": "Поддержка цифрового навигатора",
+        "description": "Помощь в настройке и освоении вашего нового компьютера"
       }
     },
     "organizations": {
-      "badge": "For Organizations",
-      "title": "Hardware Grants & Affordable Tech",
-      "description": "Free Geek supports nonprofits and community organizations with technology. Whether you need devices for your staff or the communities you serve, we have programs to help.",
+      "badge": "Для организаций",
+      "title": "Гранты на оборудование и доступные технологии",
+      "description": "Free Geek поддерживает некоммерческие и общественные организации технологиями. Нужны ли вам устройства для вашего персонала или для сообществ, которым вы служите, у нас есть программы, которые помогут.",
       "orgGrants": {
-        "title": "Organizational Hardware Grants",
-        "description": "Free refurbished technology for nonprofit organizational use"
+        "title": "Организационные гранты на оборудование",
+        "description": "Бесплатные восстановленные технологии для использования некоммерческой организацией"
       },
       "communityGrants": {
-        "title": "Community Hardware Grants",
-        "description": "Free technology for the community members your nonprofit serves"
+        "title": "Общественные гранты на оборудование",
+        "description": "Бесплатные технологии для членов сообщества, которым служит ваша некоммерческая организация"
       },
       "affordable": {
-        "title": "Affordable Tech Program",
-        "description": "Partnership opportunities for larger-scale technology needs at affordable prices",
-        "badge": "Inquire for Availability"
+        "title": "Программа доступных технологий",
+        "description": "Возможности партнёрства для крупномасштабных технологических потребностей по доступным ценам",
+        "badge": "Уточните наличие"
       },
-      "cta": "Learn More & Apply"
+      "cta": "Узнать больше и подать заявку"
     },
     "shop": {
-      "title": "Need a computer now?",
-      "description": "If you're not eligible for our free programs or can't wait for the waitlist, you can purchase quality refurbished computers from our online shop at affordable prices.",
-      "cta": "Visit Our Shop"
+      "title": "Нужен компьютер прямо сейчас?",
+      "description": "Если вы не подходите для наших бесплатных программ или не можете ждать в списке ожидания, вы можете приобрести качественные восстановленные компьютеры в нашем интернет-магазине по доступным ценам.",
+      "cta": "Посетить наш магазин"
     },
     "gap": {
-      "title": "The homework gap is real",
-      "p1": "The \"homework gap\" describes the difficulty students face completing assignments without access to a device or internet at home. In Oregon alone, 75,000 students lack a personal computer for schoolwork.",
-      "p2": "When we put a computer in a student's hands, we're not just giving them a device—we're giving them the ability to do their homework, apply for jobs, connect with family, and participate fully in our digital world.",
-      "cta": "Help Us Close the Gap"
+      "title": "Разрыв в домашних заданиях реален",
+      "p1": "«Разрыв в домашних заданиях» описывает трудности, с которыми сталкиваются студенты при выполнении заданий без доступа к устройству или интернету дома. Только в Орегоне 75 000 студентов не имеют личного компьютера для учёбы.",
+      "p2": "Когда мы даём студенту компьютер, мы не просто даём ему устройство — мы даём ему возможность делать домашние задания, подавать заявки на работу, общаться с семьёй и полноценно участвовать в нашем цифровом мире.",
+      "cta": "Помогите нам закрыть разрыв"
     },
     "homeworkGap": {
-      "title": "The homework gap is real",
-      "p1": "The \"homework gap\" describes the difficulty students face completing assignments without access to a device or internet at home. In Oregon alone, 75,000 students lack a personal computer for schoolwork.",
-      "p2": "When we put a computer in a student's hands, we're not just giving them a device—we're giving them the ability to do their homework, apply for jobs, connect with family, and participate fully in our digital world.",
-      "cta": "Help Us Close the Gap"
+      "title": "Разрыв в домашних заданиях реален",
+      "p1": "«Разрыв в домашних заданиях» описывает трудности, с которыми сталкиваются студенты при выполнении заданий без доступа к устройству или интернету дома. Только в Орегоне 75 000 студентов не имеют личного компьютера для учёбы.",
+      "p2": "Когда мы даём студенту компьютер, мы не просто даём ему устройство — мы даём ему возможность делать домашние задания, подавать заявки на работу, общаться с семьёй и полноценно участвовать в нашем цифровом мире.",
+      "cta": "Помогите нам закрыть разрыв"
     },
     "cta": {
-      "title": "Not sure which program is right for you?",
-      "description": "Reach out and we'll help you find the best path to getting connected."
+      "title": "Не уверены, какая программа подходит именно вам?",
+      "description": "Свяжитесь с нами, и мы поможем найти лучший путь к подключению."
     },
     "finalCta": {
-      "title": "Not sure which program is right for you?",
-      "description": "Reach out and we'll help you find the best path to getting connected."
+      "title": "Не уверены, какая программа подходит именно вам?",
+      "description": "Свяжитесь с нами, и мы поможем найти лучший путь к подключению."
     },
     "alt": {
-      "personReceiving": "Person receiving a computer",
-      "organizations": "Organizations receiving computers"
+      "personReceiving": "Человек получает компьютер",
+      "organizations": "Организации получают компьютеры"
     }
   },
   "plugIntoPdx": {
     "hero": {
       "title1": "Plug Into Portland",
-      "title2": "Application",
-      "description": "Apply for a free refurbished laptop through our flagship digital inclusion program. We provide computers to individuals and families in need throughout the Portland metro area."
+      "title2": "Заявка",
+      "description": "Подайте заявку на бесплатный восстановленный ноутбук через нашу флагманскую программу цифровой инклюзии. Мы предоставляем компьютеры нуждающимся людям и семьям по всему Портленду."
     },
     "eligibility": {
-      "title": "Who Can Apply",
-      "description": "The Plug Into Portland program is designed for individuals and families who:",
-      "item1": "Reside in the Portland metro area",
-      "item2": "Currently do not have access to a working computer at home",
-      "item3": "Are experiencing financial hardship",
-      "item4": "Need a computer for education, employment, or essential services"
+      "title": "Кто может подать заявку",
+      "description": "Программа Plug Into Portland предназначена для частных лиц и семей, которые:",
+      "item1": "Проживают в районе Портленда",
+      "item2": "В настоящее время не имеют доступа к работающему компьютеру дома",
+      "item3": "Испытывают финансовые трудности",
+      "item4": "Нуждаются в компьютере для образования, работы или основных услуг"
     },
     "receive": {
-      "title": "What You'll Receive",
+      "title": "Что вы получите",
       "laptop": {
-        "title": "Refurbished Laptop",
-        "description": "A quality refurbished laptop running Linux Mint, ready to use for school, work, and staying connected."
+        "title": "Восстановленный ноутбук",
+        "description": "Качественный восстановленный ноутбук с Linux Mint, готовый к использованию для учёбы, работы и связи."
       },
       "warranty": {
-        "title": "One-Year Warranty",
-        "description": "Full warranty coverage so you can use your device with confidence. If something goes wrong, we'll help."
+        "title": "Годовая гарантия",
+        "description": "Полное гарантийное покрытие, чтобы вы могли пользоваться устройством с уверенностью. Если что-то пойдёт не так, мы поможем."
       },
       "support": {
-        "title": "Digital Navigation Support",
-        "description": "Free support to help you get set up, learn to use your new computer, and troubleshoot any issues."
+        "title": "Поддержка цифрового навигатора",
+        "description": "Бесплатная поддержка, которая поможет вам настроиться, научиться пользоваться новым компьютером и решить любые проблемы."
       }
     },
     "process": {
-      "title": "Application Process",
+      "title": "Процесс подачи заявки",
       "step1": {
-        "title": "Submit Application",
-        "description": "Fill out the application form below with your contact information and needs."
+        "title": "Подайте заявку",
+        "description": "Заполните форму заявки ниже, указав контактную информацию и ваши потребности."
       },
       "step2": {
-        "title": "Wait for Contact",
-        "description": "We'll review your application and contact you when a computer becomes available."
+        "title": "Дождитесь связи",
+        "description": "Мы рассмотрим вашу заявку и свяжемся с вами, когда компьютер станет доступен."
       },
       "step3": {
-        "title": "Pick Up Your Computer",
-        "description": "Visit our location to pick up your computer and receive a brief orientation."
+        "title": "Заберите свой компьютер",
+        "description": "Посетите наше местоположение, чтобы забрать компьютер и получить краткий инструктаж."
       }
     },
     "form": {
-      "title": "Apply Now",
-      "description": "Complete the form below to apply for a free computer. We typically respond within 2-4 weeks depending on availability.",
-      "firstName": "First Name",
-      "lastName": "Last Name",
-      "email": "Email Address",
-      "phone": "Phone Number",
-      "address": "Street Address",
-      "city": "City",
-      "state": "State",
-      "zip": "ZIP Code",
-      "householdSize": "Household Size",
-      "needReason": "Why do you need a computer?",
-      "needReasonPlaceholder": "Please describe your situation and how a computer would help you...",
-      "referral": "How did you hear about us?",
+      "title": "Подать заявку сейчас",
+      "description": "Заполните форму ниже, чтобы подать заявку на бесплатный компьютер. Обычно мы отвечаем в течение 2-4 недель в зависимости от наличия.",
+      "firstName": "Имя",
+      "lastName": "Фамилия",
+      "email": "Адрес электронной почты",
+      "phone": "Номер телефона",
+      "address": "Улица и номер дома",
+      "city": "Город",
+      "state": "Штат",
+      "zip": "Почтовый индекс",
+      "householdSize": "Размер домохозяйства",
+      "needReason": "Почему вам нужен компьютер?",
+      "needReasonPlaceholder": "Пожалуйста, опишите вашу ситуацию и как компьютер вам поможет...",
+      "referral": "Как вы о нас узнали?",
       "referralOptions": {
-        "friend": "Friend or Family",
-        "socialMedia": "Social Media",
-        "communityOrg": "Community Organization",
-        "school": "School",
-        "other": "Other"
+        "friend": "Друг или семья",
+        "socialMedia": "Социальные сети",
+        "communityOrg": "Общественная организация",
+        "school": "Школа",
+        "other": "Другое"
       },
-      "submit": "Submit Application",
-      "submitting": "Submitting...",
-      "success": "Application Submitted!",
-      "successMessage": "Thank you for applying! We'll review your application and contact you when a computer becomes available.",
-      "error": "Failed to submit application"
+      "submit": "Отправить заявку",
+      "submitting": "Отправляем...",
+      "success": "Заявка отправлена!",
+      "successMessage": "Спасибо за вашу заявку! Мы рассмотрим её и свяжемся с вами, когда компьютер станет доступен.",
+      "error": "Не удалось отправить заявку"
     },
     "note": {
-      "title": "Important Information",
-      "waitlist": "Due to high demand, there may be a waitlist. We process applications in the order received and prioritize based on need.",
-      "pickup": "Computers must be picked up in person at our Portland location.",
-      "contact": "Questions? Contact us at"
+      "title": "Важная информация",
+      "waitlist": "Из-за высокого спроса может быть список ожидания. Мы обрабатываем заявки в порядке получения и расставляем приоритеты по степени необходимости.",
+      "pickup": "Компьютеры необходимо забирать лично в нашем офисе в Портленде.",
+      "contact": "Вопросы? Свяжитесь с нами по адресу"
     },
     "cta": {
-      "title": "Can't wait for the waitlist?",
-      "description": "You can also purchase affordable refurbished computers from our online shop."
+      "title": "Не можете ждать в списке ожидания?",
+      "description": "Вы также можете приобрести доступные восстановленные компьютеры в нашем интернет-магазине."
     }
   },
   "digitalEquity": {
     "hero": {
-      "title1": "Digital Equity",
-      "title2": "Enrollment",
-      "description": "Enroll in our Digital Equity program to access digital skills training, one-on-one support, and resources to help you thrive in the digital world."
+      "title1": "Цифровое равенство",
+      "title2": "Регистрация",
+      "description": "Запишитесь в нашу программу цифрового равенства, чтобы получить доступ к обучению цифровым навыкам, индивидуальной поддержке и ресурсам, которые помогут вам процветать в цифровом мире."
     },
     "services": {
-      "title": "Program Services",
-      "description": "Our Digital Equity program provides comprehensive support to help you build confidence with technology.",
+      "title": "Услуги программы",
+      "description": "Наша программа цифрового равенства предоставляет всестороннюю поддержку, чтобы помочь вам обрести уверенность в работе с технологиями.",
       "navigation": {
-        "title": "Digital Navigation",
-        "description": "Work one-on-one with a Digital Navigator who can help you set up devices, navigate online services, and build essential digital skills."
+        "title": "Цифровой навигатор",
+        "description": "Работайте один на один с цифровым навигатором, который может помочь вам настроить устройства, освоить онлайн-сервисы и развить основные цифровые навыки."
       },
       "training": {
-        "title": "Skills Training",
-        "description": "Access free classes and curriculum covering computer basics, internet safety, email, video conferencing, and productivity tools."
+        "title": "Обучение навыкам",
+        "description": "Получите доступ к бесплатным занятиям и программам, охватывающим основы работы с компьютером, безопасность в интернете, электронную почту, видеоконференции и инструменты повышения продуктивности."
       },
       "connectivity": {
-        "title": "Connectivity Resources",
-        "description": "Learn about affordable internet programs and get help applying for discounted connectivity services."
+        "title": "Ресурсы подключения",
+        "description": "Узнайте о доступных программах интернет-доступа и получите помощь в подаче заявки на льготные услуги подключения."
       },
       "ongoing": {
-        "title": "Ongoing Support",
-        "description": "Get continued support as you grow your digital skills. We're here to help whenever you have questions."
+        "title": "Постоянная поддержка",
+        "description": "Получайте постоянную поддержку по мере развития ваших цифровых навыков. Мы здесь, чтобы помочь, когда у вас возникнут вопросы."
       }
     },
     "eligibility": {
-      "title": "Who Can Enroll",
-      "description": "Our Digital Equity program is open to anyone who wants to improve their digital skills, with priority given to:",
-      "item1": "Seniors and older adults",
-      "item2": "Individuals with limited technology experience",
-      "item3": "Job seekers needing digital skills for employment",
-      "item4": "Community members facing barriers to technology access"
+      "title": "Кто может записаться",
+      "description": "Наша программа цифрового равенства открыта для всех, кто хочет улучшить свои цифровые навыки, приоритет отдаётся:",
+      "item1": "Пожилым людям",
+      "item2": "Людям с ограниченным опытом работы с технологиями",
+      "item3": "Соискателям, нуждающимся в цифровых навыках для трудоустройства",
+      "item4": "Членам сообщества, сталкивающимся с барьерами в доступе к технологиям"
     },
     "form": {
-      "title": "Enroll in Digital Equity",
-      "description": "Fill out the form below to enroll in our Digital Equity program. A Digital Navigator will contact you to schedule your first session.",
-      "firstName": "First Name",
-      "lastName": "Last Name",
-      "email": "Email Address",
-      "phone": "Phone Number",
-      "preferredContact": "Preferred Contact Method",
+      "title": "Записаться в программу цифрового равенства",
+      "description": "Заполните форму ниже, чтобы записаться в нашу программу цифрового равенства. Цифровой навигатор свяжется с вами, чтобы запланировать первую сессию.",
+      "firstName": "Имя",
+      "lastName": "Фамилия",
+      "email": "Адрес электронной почты",
+      "phone": "Номер телефона",
+      "preferredContact": "Предпочтительный способ связи",
       "contactOptions": {
         "email": "Email",
-        "phone": "Phone",
-        "either": "Either"
+        "phone": "Телефон",
+        "either": "Любой"
       },
-      "interests": "What would you like help with?",
+      "interests": "С чем вам нужна помощь?",
       "interestOptions": {
-        "basics": "Computer Basics",
-        "internet": "Internet & Email",
-        "safety": "Online Safety",
-        "productivity": "Productivity Tools (Word, Excel, etc.)",
-        "connectivity": "Finding Affordable Internet",
-        "other": "Other"
+        "basics": "Основы работы с компьютером",
+        "internet": "Интернет и электронная почта",
+        "safety": "Безопасность в интернете",
+        "productivity": "Инструменты продуктивности (Word, Excel и т.д.)",
+        "connectivity": "Поиск доступного интернета",
+        "other": "Другое"
       },
-      "experience": "Current Technology Experience",
+      "experience": "Текущий опыт работы с технологиями",
       "experienceOptions": {
-        "none": "No experience",
-        "beginner": "Beginner - I can turn on a computer",
-        "intermediate": "Intermediate - I can browse the web and send email",
-        "advanced": "Advanced - I'm comfortable but want to learn more"
+        "none": "Без опыта",
+        "beginner": "Начинающий — я могу включить компьютер",
+        "intermediate": "Средний — я могу пользоваться интернетом и отправлять email",
+        "advanced": "Продвинутый — мне комфортно, но хочу узнать больше"
       },
-      "goals": "What are your goals?",
-      "goalsPlaceholder": "Tell us what you hope to accomplish with improved digital skills...",
-      "submit": "Enroll Now",
-      "submitting": "Submitting...",
-      "success": "Enrollment Submitted!",
-      "successMessage": "Thank you for enrolling! A Digital Navigator will contact you within 5 business days to schedule your first session.",
-      "error": "Failed to submit enrollment"
+      "goals": "Каковы ваши цели?",
+      "goalsPlaceholder": "Расскажите нам, чего вы надеетесь достичь с улучшенными цифровыми навыками...",
+      "submit": "Записаться сейчас",
+      "submitting": "Отправляем...",
+      "success": "Регистрация отправлена!",
+      "successMessage": "Спасибо за регистрацию! Цифровой навигатор свяжется с вами в течение 5 рабочих дней, чтобы запланировать первую сессию.",
+      "error": "Не удалось отправить регистрацию"
     },
     "cta": {
-      "title": "Need a computer first?",
-      "description": "If you don't have a computer, apply for our Plug Into Portland program to get a free refurbished laptop."
+      "title": "Сначала нужен компьютер?",
+      "description": "Если у вас нет компьютера, подайте заявку в нашу программу Plug Into Portland, чтобы получить бесплатный восстановленный ноутбук."
     }
   },
   "donateTech": {
     "hero": {
-      "title1": "Your old tech",
-      "title2": "deserves a second life.",
-      "description": "That laptop collecting dust in your closet? It could help a student do their homework, a job seeker land an interview, or a senior connect with family.",
-      "dropOff": "Drop Off In Person",
-      "schedulePickup": "Schedule a Pickup"
+      "title1": "Ваша старая техника",
+      "title2": "заслуживает второй жизни.",
+      "description": "Тот ноутбук, который пылится в вашем шкафу? Он может помочь студенту сделать домашнее задание, соискателю получить приглашение на собеседование или бабушке связаться с семьёй.",
+      "dropOff": "Привезти лично",
+      "schedulePickup": "Запланировать самовывоз"
     },
     "dropOff": {
-      "title": "Drop off your donation",
-      "location": "Location",
+      "title": "Привезите своё пожертвование",
+      "location": "Местоположение",
       "address": "1731 SE 10th Avenue, Portland, OR 97214",
-      "parking": "Outdoor parking lot on the northeast side of our building",
-      "locationNote": "Outdoor parking lot on the northeast side of our building",
-      "hours": "11:00 AM - 4:00 PM",
-      "days": "Wednesday - Saturday",
-      "times": "11:00 AM - 4:00 PM",
-      "noAppointment": "No appointment needed for small donations. Just drive up during our drop-off hours and our team will help you unload."
+      "parking": "Открытая парковка на северо-восточной стороне нашего здания",
+      "locationNote": "Открытая парковка на северо-восточной стороне нашего здания",
+      "hours": "11:00 — 16:00",
+      "days": "Среда — Суббота",
+      "times": "11:00 — 16:00",
+      "noAppointment": "Запись не нужна для небольших пожертвований. Просто приезжайте в часы приёма, и наша команда поможет вам разгрузить."
     },
     "types": {
-      "title": "Donation options",
+      "title": "Варианты пожертвования",
       "small": {
-        "title": "Small",
-        "subtitle": "Under 20 devices",
-        "description": "Perfect for personal donations. Just drive up during our drop-off hours—no appointment needed."
+        "title": "Небольшое",
+        "subtitle": "Меньше 20 устройств",
+        "description": "Идеально для личных пожертвований. Просто приезжайте в часы приёма — запись не нужна."
       },
       "large": {
-        "title": "Large",
-        "subtitle": "20+ devices",
-        "description": "Have a bigger donation? Schedule ahead so we can make sure we have space and staff ready for you."
+        "title": "Большое",
+        "subtitle": "20+ устройств",
+        "description": "Есть более крупное пожертвование? Запланируйте заранее, чтобы мы могли убедиться, что у нас есть место и персонал."
       },
       "corporate": {
-        "title": "Corporate",
-        "subtitle": "Business donations",
-        "description": "Retiring IT equipment? We offer pickup services and can provide documentation for your records."
+        "title": "Корпоративное",
+        "subtitle": "Бизнес-пожертвования",
+        "description": "Списываете IT-оборудование? Мы предлагаем услуги самовывоза и можем предоставить документацию для ваших записей."
       }
     },
     "options": {
-      "title": "Donation options",
+      "title": "Варианты пожертвования",
       "small": {
-        "title": "Small",
-        "subtitle": "Under 20 devices",
-        "description": "Perfect for personal donations. Just drive up during our drop-off hours—no appointment needed.",
-        "cta": "Drop Off Anytime"
+        "title": "Небольшое",
+        "subtitle": "Меньше 20 устройств",
+        "description": "Идеально для личных пожертвований. Просто приезжайте в часы приёма — запись не нужна.",
+        "cta": "Привезти в любое время"
       },
       "large": {
-        "title": "Large",
-        "subtitle": "20+ devices",
-        "description": "Have a bigger donation? Schedule ahead so we can make sure we have space and staff ready for you.",
-        "cta": "Schedule Drop-Off"
+        "title": "Большое",
+        "subtitle": "20+ устройств",
+        "description": "Есть более крупное пожертвование? Запланируйте заранее, чтобы мы могли убедиться, что у нас есть место и персонал.",
+        "cta": "Запланировать доставку"
       },
       "corporate": {
-        "title": "Corporate",
-        "subtitle": "Business donations",
-        "description": "Retiring IT equipment? We offer pickup services and can provide documentation for your records.",
-        "cta": "Contact Us"
+        "title": "Корпоративное",
+        "subtitle": "Бизнес-пожертвования",
+        "description": "Списываете IT-оборудование? Мы предлагаем услуги самовывоза и можем предоставить документацию для ваших записей.",
+        "cta": "Связаться с нами"
       }
     },
     "security": {
-      "title": "Your data is safe with us",
-      "description": "We take data security seriously. Every data-bearing device goes directly to our secure, staff-only area for proper sanitization.",
-      "nist": "NIST SP800-88 compliant data sanitization",
-      "sigma": "i-SIGMA certified processes",
-      "isigma": "i-SIGMA certified processes",
-      "certificate": "Certificate of Data Destruction available ($10/device)",
-      "cta": "Learn More About Data Security"
+      "title": "Ваши данные в безопасности с нами",
+      "description": "Мы серьёзно относимся к безопасности данных. Каждое устройство с данными сразу попадает в нашу безопасную зону только для персонала для надлежащей очистки.",
+      "nist": "Очистка данных, соответствующая NIST SP800-88",
+      "sigma": "Процессы, сертифицированные i-SIGMA",
+      "isigma": "Процессы, сертифицированные i-SIGMA",
+      "certificate": "Сертификат уничтожения данных доступен (10 долларов за устройство)",
+      "cta": "Узнать больше о безопасности данных"
     },
     "accept": {
-      "title": "What can you donate?",
+      "title": "Что можно пожертвовать?",
       "items": {
-        "laptops": "Laptops",
-        "desktops": "Desktops",
-        "smartphones": "Smartphones",
-        "tablets": "Tablets",
-        "monitors": "Monitors",
-        "printers": "Printers",
-        "keyboards": "Keyboards",
-        "cables": "Cables & Accessories"
+        "laptops": "Ноутбуки",
+        "desktops": "Настольные компьютеры",
+        "smartphones": "Смартфоны",
+        "tablets": "Планшеты",
+        "monitors": "Мониторы",
+        "printers": "Принтеры",
+        "keyboards": "Клавиатуры",
+        "cables": "Кабели и аксессуары"
       },
-      "laptops": "Laptops",
-      "desktops": "Desktops",
-      "smartphones": "Smartphones",
-      "tablets": "Tablets",
-      "monitors": "Monitors",
-      "printers": "Printers",
-      "keyboards": "Keyboards",
-      "cables": "Cables & Accessories",
-      "notSure": "Not sure if we accept your item? Check our",
+      "laptops": "Ноутбуки",
+      "desktops": "Настольные компьютеры",
+      "smartphones": "Смартфоны",
+      "tablets": "Планшеты",
+      "monitors": "Мониторы",
+      "printers": "Принтеры",
+      "keyboards": "Клавиатуры",
+      "cables": "Кабели и аксессуары",
+      "notSure": "Не уверены, принимаем ли мы ваш предмет? Проверьте наш",
       "faq": "FAQ",
-      "orContact": "or contact us at"
+      "orContact": "или свяжитесь с нами по адресу"
     },
     "cta": {
-      "title": "Ready to make a difference?",
-      "description": "Every device you donate helps bridge the digital divide in our community."
+      "title": "Готовы изменить мир?",
+      "description": "Каждое пожертвованное устройство помогает сокращать цифровое неравенство в нашем сообществе."
     },
     "alt": {
-      "donating": "Person donating technology at Free Geek",
-      "security": "Data security and protection"
+      "donating": "Человек жертвует технику в Free Geek",
+      "security": "Безопасность и защита данных"
     }
   },
   "donate": {
     "hero": {
-      "title1": "Fuel the mission.",
-      "title2": "Bridge the divide.",
-      "description": "Your financial support helps us put technology into the hands of those who need it most while keeping e-waste out of landfills."
+      "title1": "Поддержите миссию.",
+      "title2": "Сократите разрыв.",
+      "description": "Ваша финансовая поддержка помогает нам передавать технологии тем, кто нуждается в них больше всего, не допуская попадания электронных отходов на свалки."
     },
     "ways": {
-      "title": "Ways to Give",
-      "description": "Every dollar helps us refurbish computers, provide digital skills training, and connect community members to opportunity.",
+      "title": "Способы помочь",
+      "description": "Каждый доллар помогает нам восстанавливать компьютеры, обучать цифровым навыкам и предоставлять членам сообщества возможности.",
       "oneTime": {
-        "title": "One-Time Gift",
-        "description": "Make an immediate impact with a single donation of any amount.",
-        "cta": "Donate Now"
+        "title": "Разовое пожертвование",
+        "description": "Окажите немедленное влияние с помощью разового пожертвования любой суммы.",
+        "cta": "Пожертвовать сейчас"
       },
       "monthly": {
-        "title": "Monthly Giving",
-        "description": "Become a sustaining supporter with a recurring monthly gift.",
-        "cta": "Give Monthly"
+        "title": "Ежемесячное пожертвование",
+        "description": "Станьте постоянным сторонником с регулярным ежемесячным пожертвованием.",
+        "cta": "Жертвовать ежемесячно"
       },
       "legacy": {
-        "title": "Corporate & Legacy",
-        "description": "Partner with us or include Free Geek in your estate planning.",
-        "cta": "Contact Us"
+        "title": "Корпоративное и наследие",
+        "description": "Станьте нашим партнёром или включите Free Geek в своё завещание.",
+        "cta": "Связаться с нами"
       }
     },
     "impact": {
-      "title": "Your Impact",
-      "amount25": "Covers data sanitization and refurbishment supplies for one device",
-      "amount100": "Provides digital skills training for one community member",
-      "amount250": "Fully funds one refurbished computer for a student or job seeker",
-      "level1": "Covers data sanitization and refurbishment supplies for one device",
-      "level2": "Provides digital skills training for one community member",
-      "level3": "Fully funds one refurbished computer for a student or job seeker"
+      "title": "Ваше влияние",
+      "amount25": "Покрывает очистку данных и материалы для восстановления одного устройства",
+      "amount100": "Обеспечивает обучение цифровым навыкам для одного члена сообщества",
+      "amount250": "Полностью финансирует один восстановленный компьютер для студента или соискателя",
+      "level1": "Покрывает очистку данных и материалы для восстановления одного устройства",
+      "level2": "Обеспечивает обучение цифровым навыкам для одного члена сообщества",
+      "level3": "Полностью финансирует один восстановленный компьютер для студента или соискателя"
     },
     "otherWays": {
-      "title": "Other Ways to Support",
+      "title": "Другие способы поддержки",
       "donateTech": {
-        "title": "Donate Technology",
-        "description": "Have old devices? We'll refurbish them for community members in need."
+        "title": "Пожертвовать технику",
+        "description": "Есть старые устройства? Мы восстановим их для нуждающихся членов сообщества."
       },
       "volunteer": {
-        "title": "Volunteer Your Time",
-        "description": "Join our team and help bridge the digital divide hands-on."
+        "title": "Стать волонтёром",
+        "description": "Присоединяйтесь к нашей команде и помогайте сокращать цифровое неравенство на практике."
       },
       "techDrive": {
-        "title": "Host a Tech Drive",
-        "description": "Organize a collection at your workplace, school, or community."
+        "title": "Организовать сбор техники",
+        "description": "Организуйте сбор на своём рабочем месте, в школе или в сообществе."
       },
       "ambassador": {
-        "title": "Become an Ambassador",
-        "description": "Spread the word about Free Geek in your community and networks."
+        "title": "Стать амбассадором",
+        "description": "Расскажите о Free Geek в своём сообществе и сетях."
       }
     },
     "other": {
-      "title": "Other Ways to Support",
+      "title": "Другие способы поддержки",
       "donateTech": {
-        "title": "Donate Technology",
-        "description": "Have old devices? We'll refurbish them for community members in need."
+        "title": "Пожертвовать технику",
+        "description": "Есть старые устройства? Мы восстановим их для нуждающихся членов сообщества."
       },
       "volunteer": {
-        "title": "Volunteer Your Time",
-        "description": "Join our team and help bridge the digital divide hands-on."
+        "title": "Стать волонтёром",
+        "description": "Присоединяйтесь к нашей команде и помогайте сокращать цифровое неравенство на практике."
       },
       "techDrive": {
-        "title": "Host a Tech Drive",
-        "description": "Organize a collection at your workplace, school, or community."
+        "title": "Организовать сбор техники",
+        "description": "Организуйте сбор на своём рабочем месте, в школе или в сообществе."
       },
       "ambassador": {
-        "title": "Become an Ambassador",
-        "description": "Spread the word about Free Geek in your community and networks."
+        "title": "Стать амбассадором",
+        "description": "Расскажите о Free Geek в своём сообществе и сетях."
       }
     },
     "tax": {
-      "title": "Tax-Deductible Giving",
-      "description": "Free Geek is a 501(c)(3) nonprofit organization. Your donation is tax-deductible to the fullest extent allowed by law.",
+      "title": "Налоговый вычет за пожертвование",
+      "description": "Free Geek — это некоммерческая организация 501(c)(3). Ваше пожертвование подлежит налоговому вычету в полном объёме, разрешённом законом.",
       "ein": "EIN: 93-1292010"
     },
     "cta": {
-      "title": "Ready to make a difference?",
-      "description": "Join thousands of supporters who believe technology should be accessible to everyone."
+      "title": "Готовы изменить мир?",
+      "description": "Присоединяйтесь к тысячам сторонников, которые верят, что технологии должны быть доступны каждому."
     }
   },
   "contact": {
     "hero": {
-      "title": "Let's talk.",
-      "description": "Have a question about donating, volunteering, or getting a computer? We're here to help."
+      "title": "Давайте поговорим.",
+      "description": "Есть вопрос о пожертвовании, волонтёрстве или получении компьютера? Мы здесь, чтобы помочь."
     },
     "visit": {
-      "title": "Visit Us",
+      "title": "Посетите нас",
       "address": "1731 SE 10th Avenue",
       "city": "Portland, OR 97214",
-      "parking": "Drop-offs accepted in the outdoor parking lot on the northeast side of our building.",
-      "dropoffNote": "Drop-offs accepted in the outdoor parking lot on the northeast side of our building.",
-      "directions": "Get Directions →"
+      "parking": "Пожертвования принимаются на открытой парковке на северо-восточной стороне нашего здания.",
+      "dropoffNote": "Пожертвования принимаются на открытой парковке на северо-восточной стороне нашего здания.",
+      "directions": "Получить маршрут →"
     },
     "hours": {
-      "title": "Hours",
-      "wed": "Wednesday",
-      "thu": "Thursday",
-      "fri": "Friday",
-      "sat": "Saturday",
-      "wednesday": "Wednesday",
-      "thursday": "Thursday",
-      "friday": "Friday",
-      "saturday": "Saturday",
-      "sunTue": "Sun - Tue",
-      "open": "11 AM - 4 PM",
-      "closed": "Closed"
+      "title": "Часы работы",
+      "wed": "Среда",
+      "thu": "Четверг",
+      "fri": "Пятница",
+      "sat": "Суббота",
+      "wednesday": "Среда",
+      "thursday": "Четверг",
+      "friday": "Пятница",
+      "saturday": "Суббота",
+      "sunTue": "Вс — Вт",
+      "open": "11:00 — 16:00",
+      "closed": "Закрыто"
     },
     "email": {
-      "title": "Email Us",
-      "description": "General inquiries, questions about programs, or just want to say hi."
+      "title": "Напишите нам",
+      "description": "Общие вопросы, вопросы о программах или просто хотите поздороваться."
     },
     "questions": {
-      "title": "Common Questions",
+      "title": "Частые вопросы",
       "donateTech": {
-        "title": "Donate Technology",
-        "description": "Drop-off hours, what we accept, and scheduling large donations."
+        "title": "Пожертвовать технику",
+        "description": "Часы приёма, что мы принимаем и планирование крупных пожертвований."
       },
       "getComputer": {
-        "title": "Get a Computer",
-        "description": "Learn about Plug Into Portland and hardware grant programs."
+        "title": "Получить компьютер",
+        "description": "Узнайте о Plug Into Portland и программах грантов на оборудование."
       },
       "volunteer": {
-        "title": "Volunteer",
-        "description": "Join our team and help bridge the digital divide."
+        "title": "Волонтёрство",
+        "description": "Присоединяйтесь к нашей команде и помогайте сокращать цифровое неравенство."
       },
       "faq": {
-        "title": "FAQs",
-        "description": "Find answers to our most frequently asked questions."
+        "title": "FAQ",
+        "description": "Найдите ответы на самые часто задаваемые вопросы."
       }
     },
     "quickLinks": {
-      "title": "Common Questions",
+      "title": "Частые вопросы",
       "donateTech": {
-        "title": "Donate Technology",
-        "description": "Drop-off hours, what we accept, and scheduling large donations."
+        "title": "Пожертвовать технику",
+        "description": "Часы приёма, что мы принимаем и планирование крупных пожертвований."
       },
       "getComputer": {
-        "title": "Get a Computer",
-        "description": "Learn about Plug Into Portland and hardware grant programs."
+        "title": "Получить компьютер",
+        "description": "Узнайте о Plug Into Portland и программах грантов на оборудование."
       },
       "volunteer": {
-        "title": "Volunteer",
-        "description": "Join our team and help bridge the digital divide."
+        "title": "Волонтёрство",
+        "description": "Присоединяйтесь к нашей команде и помогайте сокращать цифровое неравенство."
       },
       "faqs": {
-        "title": "FAQs",
-        "description": "Find answers to our most frequently asked questions."
+        "title": "FAQ",
+        "description": "Найдите ответы на самые часто задаваемые вопросы."
       }
     },
     "form": {
-      "title": "Send Us a Message",
-      "description": "Fill out the form below and we'll get back to you as soon as we can.",
-      "name": "Your Name",
-      "email": "Your Email",
-      "subject": "What is your inquiry about?",
-      "selectTopic": "Select a topic...",
+      "title": "Отправьте нам сообщение",
+      "description": "Заполните форму ниже, и мы свяжемся с вами как можно скорее.",
+      "name": "Ваше имя",
+      "email": "Ваш email",
+      "subject": "О чём ваш вопрос?",
+      "selectTopic": "Выберите тему...",
       "topics": {
-        "digitalInclusion": "Digital Inclusion Services",
-        "donation": "Recycling / Tech Donation",
-        "business": "Business Partnerships",
-        "volunteering": "Volunteering",
-        "shop": "Online Shop",
-        "fundraising": "Fundraising",
-        "press": "Press / Media",
-        "hr": "Human Resources",
-        "other": "Other"
+        "digitalInclusion": "Услуги цифровой инклюзии",
+        "donation": "Переработка / Пожертвование техники",
+        "business": "Бизнес-партнёрство",
+        "volunteering": "Волонтёрство",
+        "shop": "Интернет-магазин",
+        "fundraising": "Сбор средств",
+        "press": "Пресса / СМИ",
+        "hr": "Кадры",
+        "other": "Другое"
       },
-      "message": "Message",
-      "submit": "Send Message",
-      "sending": "Sending...",
-      "success": "Message Sent!",
-      "successDescription": "We'll get back to you as soon as possible.",
-      "sendAnother": "Send another message",
-      "error": "Failed to send message",
-      "note": "We typically respond within 1-2 business days."
+      "message": "Сообщение",
+      "submit": "Отправить сообщение",
+      "sending": "Отправляем...",
+      "success": "Сообщение отправлено!",
+      "successDescription": "Мы свяжемся с вами как можно скорее.",
+      "sendAnother": "Отправить ещё одно сообщение",
+      "error": "Не удалось отправить сообщение",
+      "note": "Обычно мы отвечаем в течение 1-2 рабочих дней."
     },
     "social": {
-      "title": "Follow Us",
-      "description": "Stay up to date with Free Geek news, events, and impact stories."
+      "title": "Следите за нами",
+      "description": "Будьте в курсе новостей Free Geek, событий и историй влияния."
     },
     "cta": {
-      "title": "Ready to make a difference?",
-      "description": "Whether you're donating tech, volunteering, or supporting our mission, every contribution helps bridge the digital divide."
+      "title": "Готовы изменить мир?",
+      "description": "Жертвуете ли вы технику, волонтёрите или поддерживаете нашу миссию — каждый вклад помогает сокращать цифровое неравенство."
     }
   },
   "volunteer": {
     "hero": {
-      "title1": "Join our mission.",
-      "title2": "Make an impact.",
-      "description": "Since 2000, over 35,000 volunteers have helped Free Geek turn e-waste into opportunity. There's a place for you too."
+      "title1": "Присоединяйтесь к нашей миссии.",
+      "title2": "Окажите влияние.",
+      "description": "С 2000 года более 35 000 волонтёров помогли Free Geek превратить электронные отходы в возможности. Есть место и для вас."
     },
     "opportunities": {
-      "title": "Ways to Get Involved",
-      "description": "Whether you have an hour or a month, there's a way for you to contribute to digital equity in our community.",
-      "subtitle": "Whether you have an hour or a month, there's a way for you to contribute to digital equity in our community.",
+      "title": "Способы участия",
+      "description": "Есть ли у вас час или месяц, есть способ внести свой вклад в цифровое равенство в нашем сообществе.",
+      "subtitle": "Есть ли у вас час или месяц, есть способ внести свой вклад в цифровое равенство в нашем сообществе.",
       "ambassador": {
-        "title": "Ambassador Program",
-        "description": "Share Free Geek's vision with your community through social media, email, fundraising, and more.",
-        "cta": "Become an Ambassador"
+        "title": "Программа амбассадоров",
+        "description": "Делитесь видением Free Geek с вашим сообществом через социальные сети, email, сбор средств и многое другое.",
+        "cta": "Стать амбассадором"
       },
       "techDrive": {
-        "title": "Host a Tech Drive",
-        "description": "Organize a tech collection at your workplace, school, or neighborhood to help us reach more donors.",
-        "cta": "Start a Tech Drive"
+        "title": "Организовать сбор техники",
+        "description": "Организуйте сбор техники на рабочем месте, в школе или в районе, чтобы помочь нам охватить больше доноров.",
+        "cta": "Начать сбор техники"
       },
       "warehouse": {
-        "title": "Warehouse Volunteering",
-        "description": "Get hands-on experience receiving, sorting, and processing donated technology in our facility.",
-        "cta": "Apply to Volunteer"
+        "title": "Волонтёрство на складе",
+        "description": "Получите практический опыт приёма, сортировки и обработки пожертвованных технологий в нашем центре.",
+        "cta": "Подать заявку на волонтёрство"
       },
       "fundraise": {
-        "title": "Fundraise for Free Geek",
-        "description": "Host a fundraiser—whether it's a Facebook campaign, community event, bake sale, or walk-a-thon.",
-        "cta": "Start a Fundraiser"
+        "title": "Соберите средства для Free Geek",
+        "description": "Организуйте сбор средств — будь то кампания в Facebook, общественное мероприятие, благотворительная ярмарка или марафон.",
+        "cta": "Начать сбор средств"
       }
     },
     "impact": {
-      "title": "Your impact adds up",
-      "volunteers": "Volunteers have contributed their time and skills to Free Geek over 25 years.",
-      "ewaste": "Pounds of e-waste diverted from landfills thanks to our collective efforts.",
-      "devices": "Devices refurbished and given to people who need them most.",
+      "title": "Ваше влияние накапливается",
+      "volunteers": "Волонтёров внесли свой вклад в Free Geek за 25 лет.",
+      "ewaste": "Фунтов электронных отходов спасено от свалок благодаря нашим коллективным усилиям.",
+      "devices": "Устройств восстановлено и передано тем, кто нуждается в них больше всего.",
       "volunteersObj": {
-        "stat": "35K+",
-        "description": "Volunteers have contributed their time and skills to Free Geek over 25 years."
+        "stat": "35 000+",
+        "description": "Волонтёров внесли свой вклад в Free Geek за 25 лет."
       },
       "ewasteObj": {
-        "stat": "82M",
-        "description": "Pounds of e-waste diverted from landfills thanks to our collective efforts."
+        "stat": "82 млн",
+        "description": "Фунтов электронных отходов спасено от свалок благодаря нашим коллективным усилиям."
       },
       "devicesObj": {
-        "stat": "75K+",
-        "description": "Devices refurbished and given to people who need them most."
+        "stat": "75 000+",
+        "description": "Устройств восстановлено и передано тем, кто нуждается в них больше всего."
       }
     },
     "form": {
-      "title": "Interested in volunteering?",
-      "description": "Tell us about yourself and we'll be in touch with opportunities that match your interests.",
-      "subtitle": "Tell us about yourself and we'll be in touch with opportunities that match your interests.",
-      "name": "Your Name",
+      "title": "Заинтересованы в волонтёрстве?",
+      "description": "Расскажите нам о себе, и мы свяжемся с вами с возможностями, соответствующими вашим интересам.",
+      "subtitle": "Расскажите нам о себе, и мы свяжемся с вами с возможностями, соответствующими вашим интересам.",
+      "name": "Ваше имя",
       "email": "Email",
-      "interestsLabel": "What interests you?",
-      "interestsHint": "(select all that apply)",
-      "interestsNote": "(select all that apply)",
+      "interestsLabel": "Что вас интересует?",
+      "interestsHint": "(выберите все подходящие)",
+      "interestsNote": "(выберите все подходящие)",
       "options": {
-        "ambassador": "Ambassador Program",
-        "techDrives": "Tech Drives",
-        "warehouse": "Warehouse Volunteering",
-        "fundraising": "Fundraising",
-        "internship": "Internship",
-        "other": "Other"
+        "ambassador": "Программа амбассадоров",
+        "techDrives": "Сбор техники",
+        "warehouse": "Волонтёрство на складе",
+        "fundraising": "Сбор средств",
+        "internship": "Стажировка",
+        "other": "Другое"
       },
       "interests": {
-        "ambassador": "Ambassador Program",
-        "techDrives": "Tech Drives",
-        "warehouse": "Warehouse Volunteering",
-        "fundraising": "Fundraising",
-        "internship": "Internship",
-        "other": "Other"
+        "ambassador": "Программа амбассадоров",
+        "techDrives": "Сбор техники",
+        "warehouse": "Волонтёрство на складе",
+        "fundraising": "Сбор средств",
+        "internship": "Стажировка",
+        "other": "Другое"
       },
-      "about": "Tell us about yourself",
-      "aboutPlaceholder": "Share any relevant experience, availability, or questions...",
-      "submit": "Submit Interest Form",
-      "sending": "Submitting...",
-      "success": "Interest Form Submitted!",
-      "successDescription": "We'll be in touch soon about volunteer opportunities!",
-      "submitAnother": "Submit another interest form",
-      "error": "Failed to submit form",
-      "note": "We'll reach out within a few days about volunteer opportunities."
+      "about": "Расскажите о себе",
+      "aboutPlaceholder": "Поделитесь любым релевантным опытом, доступностью или вопросами...",
+      "submit": "Отправить форму интереса",
+      "sending": "Отправляем...",
+      "success": "Форма интереса отправлена!",
+      "successDescription": "Мы скоро свяжемся с вами о возможностях волонтёрства!",
+      "submitAnother": "Отправить ещё одну форму интереса",
+      "error": "Не удалось отправить форму",
+      "note": "Мы свяжемся с вами в течение нескольких дней о возможностях волонтёрства."
     },
     "internship": {
-      "title": "Looking for an internship?",
-      "description": "Free Geek offers internship opportunities for students and career-changers interested in technology, nonprofit management, and sustainability.",
-      "cta": "View Open Positions"
+      "title": "Ищете стажировку?",
+      "description": "Free Geek предлагает возможности стажировки для студентов и тех, кто меняет карьеру, интересующихся технологиями, управлением некоммерческими организациями и устойчивым развитием.",
+      "cta": "Смотреть открытые позиции"
     },
     "cta": {
-      "title": "Can't volunteer right now?",
-      "description": "You can still make a difference. Donate your old tech or support our mission financially."
+      "title": "Не можете стать волонтёром прямо сейчас?",
+      "description": "Вы всё ещё можете изменить мир. Пожертвуйте свою старую технику или поддержите нашу миссию финансово."
     },
     "alt": {
-      "volunteers": "Free Geek volunteers working together in the warehouse"
+      "volunteers": "Волонтёры Free Geek работают вместе на складе"
     }
   },
   "hardwareGrants": {
     "hero": {
-      "title1": "Hardware Grants",
-      "title2": "for Organizations",
-      "description": "Free and low-cost refurbished technology for nonprofits and community organizations serving those in need."
+      "title1": "Гранты на оборудование",
+      "title2": "для организаций",
+      "description": "Бесплатные и недорогие восстановленные технологии для некоммерческих и общественных организаций, обслуживающих нуждающихся."
     },
     "status": {
-      "title": "Application Status",
-      "description": "The Hardware Grants program is periodically open and closed based on inventory availability. Please contact us to check current status and availability.",
-      "cta": "Contact Digital Inclusion Team"
+      "title": "Статус заявок",
+      "description": "Программа грантов на оборудование периодически открывается и закрывается в зависимости от наличия инвентаря. Пожалуйста, свяжитесь с нами, чтобы проверить текущий статус и доступность.",
+      "cta": "Связаться с командой цифровой инклюзии"
     },
     "grants": {
-      "title": "Grant Programs",
+      "title": "Программы грантов",
       "organizational": {
-        "title": "Organizational Hardware Grants",
-        "description": "Free and low-cost refurbished technology for nonprofit organizational use—equipping your staff and volunteers with the tools they need.",
-        "item1": "Desktop and laptop computers",
-        "item2": "Monitors and peripherals",
-        "item3": "Networking equipment"
+        "title": "Организационные гранты на оборудование",
+        "description": "Бесплатные и недорогие восстановленные технологии для использования некоммерческой организацией — оснащение вашего персонала и волонтёров необходимыми инструментами.",
+        "item1": "Настольные и портативные компьютеры",
+        "item2": "Мониторы и периферийные устройства",
+        "item3": "Сетевое оборудование"
       },
       "community": {
-        "title": "Community Hardware Grants",
-        "description": "Free technology for the community members your nonprofit serves—helping you extend digital access to those who need it most.",
-        "item1": "Laptops for clients and program participants",
-        "item2": "Distribution through your existing programs",
-        "item3": "Support for digital inclusion initiatives"
+        "title": "Общественные гранты на оборудование",
+        "description": "Бесплатные технологии для членов сообщества, которым служит ваша некоммерческая организация — помощь в расширении цифрового доступа для тех, кто нуждается в нём больше всего.",
+        "item1": "Ноутбуки для клиентов и участников программ",
+        "item2": "Распространение через ваши существующие программы",
+        "item3": "Поддержка инициатив цифровой инклюзии"
       }
     },
     "types": {
-      "title": "Grant Programs",
+      "title": "Программы грантов",
       "organizational": {
-        "title": "Organizational Hardware Grants",
-        "description": "Free and low-cost refurbished technology for nonprofit organizational use—equipping your staff and volunteers with the tools they need.",
-        "item1": "Desktop and laptop computers",
-        "item2": "Monitors and peripherals",
-        "item3": "Networking equipment"
+        "title": "Организационные гранты на оборудование",
+        "description": "Бесплатные и недорогие восстановленные технологии для использования некоммерческой организацией — оснащение вашего персонала и волонтёров необходимыми инструментами.",
+        "item1": "Настольные и портативные компьютеры",
+        "item2": "Мониторы и периферийные устройства",
+        "item3": "Сетевое оборудование"
       },
       "community": {
-        "title": "Community Hardware Grants",
-        "description": "Free technology for the community members your nonprofit serves—helping you extend digital access to those who need it most.",
-        "item1": "Laptops for clients and program participants",
-        "item2": "Distribution through your existing programs",
-        "item3": "Support for digital inclusion initiatives"
+        "title": "Общественные гранты на оборудование",
+        "description": "Бесплатные технологии для членов сообщества, которым служит ваша некоммерческая организация — помощь в расширении цифрового доступа для тех, кто нуждается в нём больше всего.",
+        "item1": "Ноутбуки для клиентов и участников программ",
+        "item2": "Распространение через ваши существующие программы",
+        "item3": "Поддержка инициатив цифровой инклюзии"
       }
     },
     "eligibility": {
-      "title": "Eligibility",
-      "intro": "To qualify for Hardware Grants, organizations must:",
-      "req1": "Be a registered 501(c)(3) nonprofit organization",
-      "req2": "Serve communities in the Portland metro area",
-      "req3": "Demonstrate need for technology to fulfill your mission"
+      "title": "Требования",
+      "intro": "Чтобы претендовать на гранты на оборудование, организации должны:",
+      "req1": "Быть зарегистрированной некоммерческой организацией 501(c)(3)",
+      "req2": "Обслуживать сообщества в районе Портленда",
+      "req3": "Продемонстрировать потребность в технологиях для выполнения вашей миссии"
     },
     "testimonial": {
-      "quote": "We at A Family for Every Child unconditionally support Free Geek; they serve an irreplaceable role in our community. Were it not for the generous past donations of Free Geek, we would neither be able to function during this health crisis, nor serve our mission as a whole.",
-      "author": "Andrew Hampton, A Family for Every Child"
+      "quote": "Мы в A Family for Every Child безоговорочно поддерживаем Free Geek; они играют незаменимую роль в нашем сообществе. Если бы не щедрые прошлые пожертвования Free Geek, мы не смогли бы ни функционировать во время этого кризиса здравоохранения, ни выполнять нашу миссию в целом.",
+      "author": "Эндрю Хэмптон, A Family for Every Child"
     },
     "impact": {
-      "title": "Our Impact",
-      "orgs": "Organizations served annually",
-      "organizations": "Organizations served annually",
-      "devices": "Total devices granted",
-      "years": "Years of community service"
+      "title": "Наше влияние",
+      "orgs": "Организаций обслуживается ежегодно",
+      "organizations": "Организаций обслуживается ежегодно",
+      "devices": "Всего устройств предоставлено",
+      "years": "Лет служения сообществу"
     },
     "cta": {
-      "title": "Interested in a Hardware Grant?",
-      "description": "Contact our Digital Inclusion team to learn about current availability and eligibility requirements."
+      "title": "Заинтересованы в гранте на оборудование?",
+      "description": "Свяжитесь с нашей командой цифровой инклюзии, чтобы узнать о текущей доступности и требованиях."
     }
   },
   "digitalSkills": {
     "hero": {
-      "title1": "Digital Skills",
-      "title2": "for Everyone",
-      "description": "Build confidence with technology through our free digital skills training and one-on-one digital navigation support."
+      "title1": "Цифровые навыки",
+      "title2": "для каждого",
+      "description": "Обретите уверенность в работе с технологиями благодаря нашему бесплатному обучению цифровым навыкам и индивидуальной поддержке цифрового навигатора."
     },
     "services": {
-      "title": "Our Services",
+      "title": "Наши услуги",
       "navigation": {
-        "title": "Digital Navigation",
-        "description": "Get personalized, one-on-one support from a Digital Navigator who can help you with:",
-        "item1": "Setting up and using your device",
-        "item2": "Navigating the internet safely",
-        "item3": "Finding affordable connectivity services",
-        "item4": "Building essential digital skills",
-        "cta": "Schedule an Appointment"
+        "title": "Цифровой навигатор",
+        "description": "Получите персонализированную индивидуальную поддержку от цифрового навигатора, который может помочь вам:",
+        "item1": "Настроить и использовать ваше устройство",
+        "item2": "Безопасно пользоваться интернетом",
+        "item3": "Найти доступные услуги подключения",
+        "item4": "Развить основные цифровые навыки",
+        "cta": "Запланировать встречу"
       },
       "skills": {
-        "title": "Digital Skills Building",
-        "description": "Free curriculum and classes to help you effectively use technology. Our foundational courses include:",
-        "item1": "Computer Basics",
-        "item2": "Internet Basics",
-        "item3": "Keyboard Basics",
-        "item4": "Internet Safety",
-        "item5": "G-Suite Training",
-        "cta": "View Curriculum"
+        "title": "Развитие цифровых навыков",
+        "description": "Бесплатная программа и занятия, которые помогут вам эффективно использовать технологии. Наши базовые курсы включают:",
+        "item1": "Основы работы с компьютером",
+        "item2": "Основы интернета",
+        "item3": "Основы работы с клавиатурой",
+        "item4": "Безопасность в интернете",
+        "item5": "Обучение G-Suite",
+        "cta": "Смотреть программу"
       }
     },
     "programs": {
-      "title": "Education Programs",
-      "description": "Our comprehensive curriculum helps you build practical technology skills through hands-on learning.",
+      "title": "Образовательные программы",
+      "description": "Наша всесторонняя программа помогает вам развивать практические технологические навыки через практическое обучение.",
       "computerBasics": {
-        "title": "Computer Basics",
-        "description": "Learn to navigate operating systems, manage files, and use essential software applications."
+        "title": "Основы работы с компьютером",
+        "description": "Научитесь ориентироваться в операционных системах, управлять файлами и использовать основные программные приложения."
       },
       "internetSafety": {
-        "title": "Internet Safety",
-        "description": "Protect yourself online with cybersecurity awareness, password management, and safe browsing habits."
+        "title": "Безопасность в интернете",
+        "description": "Защитите себя в интернете с помощью осведомлённости о кибербезопасности, управления паролями и безопасного просмотра."
       },
       "email": {
-        "title": "Email & Communication",
-        "description": "Master email basics, video conferencing, and digital communication etiquette."
+        "title": "Электронная почта и коммуникация",
+        "description": "Освойте основы электронной почты, видеоконференций и этикета цифрового общения."
       },
       "productivity": {
-        "title": "Productivity Tools",
-        "description": "Get hands-on with Google Workspace, Microsoft Office, and other essential work tools."
+        "title": "Инструменты продуктивности",
+        "description": "Получите практический опыт работы с Google Workspace, Microsoft Office и другими основными рабочими инструментами."
       }
     },
     "schedule": {
-      "title": "Class Schedule",
-      "description": "Join us for in-person workshops at our Portland location or participate in virtual sessions from anywhere.",
+      "title": "Расписание занятий",
+      "description": "Присоединяйтесь к нашим очным семинарам в Портленде или участвуйте в виртуальных сессиях из любого места.",
       "inPerson": {
-        "title": "In-Person Classes",
-        "dropIn": "Drop-in Help",
-        "dropInTime": "Tuesdays & Thursdays, 10am - 12pm",
-        "workshops": "Group Workshops",
-        "workshopsTime": "Saturdays, 1pm - 3pm",
-        "oneOnOne": "1-on-1 Sessions",
-        "oneOnOneTime": "By appointment"
+        "title": "Очные занятия",
+        "dropIn": "Помощь без записи",
+        "dropInTime": "Вторник и четверг, 10:00 — 12:00",
+        "workshops": "Групповые семинары",
+        "workshopsTime": "Суббота, 13:00 — 15:00",
+        "oneOnOne": "Индивидуальные сессии",
+        "oneOnOneTime": "По записи"
       },
       "virtual": {
-        "title": "Virtual Options",
-        "webinars": "Live Webinars",
-        "webinarsTime": "Wednesdays, 6pm - 7pm",
-        "selfPaced": "Self-Paced Courses",
-        "selfPacedTime": "Available 24/7"
+        "title": "Виртуальные варианты",
+        "webinars": "Живые вебинары",
+        "webinarsTime": "Среда, 18:00 — 19:00",
+        "selfPaced": "Курсы в собственном темпе",
+        "selfPacedTime": "Доступно 24/7"
       },
-      "cta": "View Full Schedule"
+      "cta": "Смотреть полное расписание"
     },
     "impact": {
-      "title": "Our Impact",
-      "learners": "Learners trained annually",
-      "workshops": "Workshops per year",
-      "satisfaction": "Satisfaction rate",
-      "partners": "Community partners"
+      "title": "Наше влияние",
+      "learners": "Обучающихся ежегодно",
+      "workshops": "Семинаров в год",
+      "satisfaction": "Уровень удовлетворённости",
+      "partners": "Партнёров сообщества"
     },
     "equity": {
-      "title": "What is Digital Equity?",
-      "description": "Digital equity is a condition in which all individuals and communities have the information technology capacity needed for full participation in our society, democracy, and economy. It is necessary for civic and cultural participation, employment, lifelong learning, and access to essential services."
+      "title": "Что такое цифровое равенство?",
+      "description": "Цифровое равенство — это состояние, при котором все люди и сообщества обладают возможностями информационных технологий, необходимыми для полноценного участия в нашем обществе, демократии и экономике. Это необходимо для гражданского и культурного участия, трудоустройства, непрерывного обучения и доступа к основным услугам."
     },
     "educationPlatforms": {
-      "title": "Free Learning Resources",
+      "title": "Бесплатные учебные ресурсы",
       "stat": "82%",
-      "statDescription": "of middle-skill positions require digital skills—yet only 55% of Oregon suburban high schools teach Computer Science at all.",
-      "description": "That's why we created no-experience-necessary learning resources. Explore our educational platform and video tutorials below.",
+      "statDescription": "позиций среднего уровня требуют цифровых навыков — однако только 55% пригородных средних школ Орегона вообще преподают информатику.",
+      "description": "Вот почему мы создали учебные ресурсы, не требующие опыта. Изучите нашу образовательную платформу и видеоуроки ниже.",
       "platform": {
-        "title": "Educational Platform",
-        "description": "Step-by-step guides and courses on Google Sites",
-        "cta": "Start Learning"
+        "title": "Образовательная платформа",
+        "description": "Пошаговые руководства и курсы на Google Sites",
+        "cta": "Начать обучение"
       },
       "youtube": {
-        "title": "Video Tutorials",
-        "description": "Watch tutorials on our YouTube channel",
-        "cta": "Watch Videos"
+        "title": "Видеоуроки",
+        "description": "Смотрите уроки на нашем канале YouTube",
+        "cta": "Смотреть видео"
       }
     },
     "resources": {
-      "title": "Community Resources",
-      "description": "We partner with organizations across Portland to expand digital access and build digital skills in our community.",
+      "title": "Ресурсы сообщества",
+      "description": "Мы сотрудничаем с организациями по всему Портленду, чтобы расширить цифровой доступ и развить цифровые навыки в нашем сообществе.",
       "communityTech": {
-        "title": "Community Technology Group",
-        "org": "Portland Bureau of Planning & Sustainability",
-        "description": "Portland Bureau of Planning & Sustainability"
+        "title": "Группа общественных технологий",
+        "org": "Бюро планирования и устойчивого развития Портленда",
+        "description": "Бюро планирования и устойчивого развития Портленда"
       },
       "library": {
-        "title": "Multnomah County Library",
-        "description": "Free computer access and digital resources"
+        "title": "Библиотека округа Малтнома",
+        "description": "Бесплатный доступ к компьютерам и цифровым ресурсам"
       },
       "digitunity": {
         "title": "Digitunity",
-        "description": "National device access programs"
+        "description": "Национальные программы доступа к устройствам"
       },
       "ndia": {
         "title": "National Digital Inclusion Alliance",
-        "description": "Digital equity advocacy and resources"
+        "description": "Защита интересов и ресурсы цифрового равенства"
       },
       "xfinity": {
         "title": "Xfinity Internet Essentials",
-        "description": "Low-cost internet for eligible households"
+        "description": "Недорогой интернет для подходящих домохозяйств"
       },
       "pcs": {
         "title": "PCs for People",
-        "description": "Affordable computers and internet"
+        "description": "Доступные компьютеры и интернет"
       }
     },
     "cta": {
-      "title": "Ready to build your digital skills?",
-      "description": "Schedule an appointment with a Digital Navigator or explore our free curriculum to get started."
+      "title": "Готовы развивать свои цифровые навыки?",
+      "description": "Запланируйте встречу с цифровым навигатором или изучите нашу бесплатную программу, чтобы начать."
     }
   },
   "language": {
     "en": "English",
-    "es": "Spanish",
-    "vi": "Vietnamese",
-    "switchTo": "Switch language"
+    "es": "Español",
+    "vi": "Tiếng Việt",
+    "switchTo": "Сменить язык"
   },
   "shop": {
     "hero": {
-      "title1": "Shop refurbished tech.",
-      "title2": "Support our mission.",
-      "description": "Every purchase from our online stores helps fund Free Geek's programs to bridge the digital divide and keep e-waste out of landfills."
+      "title1": "Покупайте восстановленную технику.",
+      "title2": "Поддержите нашу миссию.",
+      "description": "Каждая покупка в наших интернет-магазинах помогает финансировать программы Free Geek по сокращению цифрового неравенства и предотвращению попадания электронных отходов на свалки."
     },
     "channels": {
-      "title": "Where to Shop",
+      "title": "Где совершать покупки",
       "ebay": {
-        "title": "eBay Store",
-        "description": "Browse our selection of quality refurbished technology, ready to ship or available for local pickup.",
-        "item1": "Refurbished laptops",
-        "item2": "Smartphones and tablets",
-        "item3": "Vintage and collectible tech",
-        "item4": "Accessories and peripherals",
-        "cta": "Shop on eBay"
+        "title": "Магазин на eBay",
+        "description": "Просмотрите наш выбор качественных восстановленных технологий, готовых к отправке или доступных для местного самовывоза.",
+        "item1": "Восстановленные ноутбуки",
+        "item2": "Смартфоны и планшеты",
+        "item3": "Винтажная и коллекционная техника",
+        "item4": "Аксессуары и периферийные устройства",
+        "cta": "Покупать на eBay"
       },
       "merch": {
-        "title": "Free Geek Merchandise",
-        "description": "Show your support with official Free Geek branded gear and apparel.",
-        "item1": "T-shirts and apparel",
-        "item2": "Stickers and accessories",
-        "item3": "Limited edition items",
-        "cta": "Shop Merchandise"
+        "title": "Товары Free Geek",
+        "description": "Покажите свою поддержку с помощью официальной брендированной продукции и одежды Free Geek.",
+        "item1": "Футболки и одежда",
+        "item2": "Наклейки и аксессуары",
+        "item3": "Товары ограниченного тиража",
+        "cta": "Купить товары"
       }
     },
     "pickup": {
-      "title": "Free Local Pickup",
-      "description": "Portland-area buyers can pick up their purchases at our location for free. Just select local pickup at checkout and come by during our hours.",
-      "location": "Pickup Location",
+      "title": "Бесплатный местный самовывоз",
+      "description": "Покупатели из Портленда могут забрать свои покупки в нашем офисе бесплатно. Просто выберите местный самовывоз при оформлении заказа и приезжайте в наши часы работы.",
+      "location": "Место самовывоза",
       "address": "1731 SE 10th Avenue, Portland, OR 97214",
-      "days": "Wednesday - Saturday",
-      "times": "11:00 AM - 4:00 PM"
+      "days": "Среда — Суббота",
+      "times": "11:00 — 16:00"
     },
     "policies": {
-      "title": "Shop Policies",
+      "title": "Правила магазина",
       "returns": {
-        "title": "30-Day Returns",
-        "description": "Not satisfied? Return your purchase within 30 days for a full refund."
+        "title": "30-дневный возврат",
+        "description": "Не удовлетворены? Верните покупку в течение 30 дней для полного возврата средств."
       },
       "warranty": {
-        "title": "Sold As-Is",
-        "description": "Items are sold as-is without warranty. We thoroughly test all devices before listing."
+        "title": "Продаётся как есть",
+        "description": "Товары продаются как есть без гарантии. Мы тщательно тестируем все устройства перед размещением."
       },
       "payment": {
-        "title": "Secure Payment",
-        "description": "All transactions are processed securely through eBay or Big Cartel."
+        "title": "Безопасная оплата",
+        "description": "Все транзакции обрабатываются безопасно через eBay или Big Cartel."
       }
     },
     "mission": {
-      "title": "Every Purchase Makes a Difference",
-      "description": "When you shop with Free Geek, 100% of proceeds support our nonprofit mission. Your purchase helps provide free computers to those in need and keeps technology out of landfills.",
-      "learnPrograms": "Learn About Our Programs"
+      "title": "Каждая покупка имеет значение",
+      "description": "Когда вы покупаете в Free Geek, 100% доходов поддерживают нашу некоммерческую миссию. Ваша покупка помогает предоставлять бесплатные компьютеры нуждающимся и не допускает попадания техники на свалки.",
+      "learnPrograms": "Узнать о наших программах"
     },
     "alt": {
-      "location": "Free Geek building entrance in Portland, Oregon"
+      "location": "Вход в здание Free Geek в Портленде, Орегон"
     }
   },
   "careers": {
     "hero": {
-      "title1": "Work with purpose.",
-      "title2": "Join our team.",
-      "description": "At Free Geek, we're bridging the digital divide while keeping technology out of landfills. If you're passionate about technology, sustainability, and social justice, you might be a great fit."
+      "title1": "Работайте с целью.",
+      "title2": "Присоединяйтесь к нашей команде.",
+      "description": "В Free Geek мы сокращаем цифровое неравенство, не допуская попадания технологий на свалки. Если вы увлечены технологиями, устойчивым развитием и социальной справедливостью, вы можете отлично подойти."
     },
     "culture": {
-      "title": "Our Workplace Culture",
-      "p1": "Free Geek is more than a workplace—it's a community of people committed to making technology accessible to everyone. We value collaboration, creativity, and a shared commitment to our mission.",
-      "p2": "Our team includes people from diverse backgrounds—tech enthusiasts, sustainability advocates, educators, and social justice champions—all working together to create positive change in our community."
+      "title": "Культура нашего рабочего места",
+      "p1": "Free Geek — это больше, чем рабочее место, это сообщество людей, стремящихся сделать технологии доступными для всех. Мы ценим сотрудничество, креативность и общую приверженность нашей миссии.",
+      "p2": "Наша команда включает людей из разных слоёв общества — энтузиастов технологий, защитников устойчивого развития, преподавателей и борцов за социальную справедливость — все вместе мы создаём позитивные изменения в нашем сообществе."
     },
     "jedi": {
-      "title": "Our JEDI Values",
-      "description": "Justice, Equity, Diversity, and Inclusion guide everything we do at Free Geek.",
+      "title": "Наши ценности JEDI",
+      "description": "Справедливость, равенство, разнообразие и инклюзия направляют всё, что мы делаем в Free Geek.",
       "justice": {
-        "title": "Justice",
-        "description": "We advocate for systemic change to ensure technology access is a right, not a privilege."
+        "title": "Справедливость",
+        "description": "Мы выступаем за системные изменения, чтобы обеспечить доступ к технологиям как право, а не привилегию."
       },
       "equity": {
-        "title": "Equity",
-        "description": "We prioritize resources for communities historically excluded from technology access."
+        "title": "Равенство",
+        "description": "Мы приоритизируем ресурсы для сообществ, исторически исключённых из доступа к технологиям."
       },
       "diversity": {
-        "title": "Diversity",
-        "description": "We celebrate the different perspectives, experiences, and backgrounds of our team and community."
+        "title": "Разнообразие",
+        "description": "Мы приветствуем различные перспективы, опыт и происхождение нашей команды и сообщества."
       },
       "inclusion": {
-        "title": "Inclusion",
-        "description": "We create spaces where everyone feels welcome, valued, and empowered to contribute."
+        "title": "Инклюзия",
+        "description": "Мы создаём пространства, где каждый чувствует себя желанным, ценным и способным внести свой вклад."
       }
     },
     "benefits": {
-      "title": "Benefits & Perks",
+      "title": "Льготы и привилегии",
       "health": {
-        "title": "Health Insurance",
-        "description": "Comprehensive medical, dental, and vision coverage for full-time employees."
+        "title": "Медицинская страховка",
+        "description": "Полное медицинское, стоматологическое и офтальмологическое покрытие для штатных сотрудников."
       },
       "pto": {
-        "title": "Paid Time Off",
-        "description": "Generous PTO policy including vacation, sick leave, and holidays."
+        "title": "Оплачиваемый отпуск",
+        "description": "Щедрая политика оплачиваемых отпусков, включая отпуск, больничный и праздники."
       },
       "retirement": {
-        "title": "Retirement Plan",
-        "description": "403(b) retirement plan to help you plan for the future."
+        "title": "Пенсионный план",
+        "description": "Пенсионный план 403(b), который поможет вам планировать будущее."
       },
       "development": {
-        "title": "Professional Development",
-        "description": "Opportunities for training, conferences, and skill building."
+        "title": "Профессиональное развитие",
+        "description": "Возможности для обучения, конференций и развития навыков."
       },
       "tech": {
-        "title": "Tech Benefits",
-        "description": "Access to refurbished technology and equipment discounts."
+        "title": "Технологические льготы",
+        "description": "Доступ к восстановленным технологиям и скидки на оборудование."
       },
       "mission": {
-        "title": "Mission-Driven Work",
-        "description": "Make a real difference in your community every day."
+        "title": "Работа с миссией",
+        "description": "Каждый день вносите реальный вклад в ваше сообщество."
       }
     },
     "openings": {
-      "title": "Current Openings",
+      "title": "Текущие вакансии",
       "none": {
-        "title": "No Open Positions",
-        "description": "We're not currently hiring, but we're always looking for talented people who share our mission.",
-        "checkBack": "Check back regularly or follow us on social media to be notified when new positions open up."
+        "title": "Нет открытых позиций",
+        "description": "В настоящее время мы не нанимаем, но мы всегда ищем талантливых людей, разделяющих нашу миссию.",
+        "checkBack": "Проверяйте регулярно или следите за нами в социальных сетях, чтобы узнать о новых вакансиях."
       }
     },
     "cta": {
-      "title": "Want to get involved now?",
-      "description": "Even if we're not currently hiring, there are many ways to contribute to our mission. Volunteer with us or reach out to learn more."
+      "title": "Хотите участвовать прямо сейчас?",
+      "description": "Даже если мы не нанимаем в данный момент, есть много способов внести свой вклад в нашу миссию. Станьте волонтёром или свяжитесь с нами, чтобы узнать больше."
     },
     "alt": {
-      "team": "Free Geek team members working together"
+      "team": "Члены команды Free Geek работают вместе"
     }
   },
   "impact": {
