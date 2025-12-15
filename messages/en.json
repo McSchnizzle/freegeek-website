@@ -1071,6 +1071,11 @@
         "description": "Vietnamese interpretation available for digital navigation sessions",
         "cta": "Tìm Hiểu Thêm"
       },
+      "chinese": {
+        "title": "中文",
+        "description": "Chinese interpretation available for digital navigation sessions",
+        "cta": "了解更多"
+      },
       "other": {
         "title": "Other Languages",
         "description": "Need support in another language? Contact us and we'll do our best to accommodate you.",
@@ -1086,6 +1091,7 @@
     "en": "English",
     "es": "Spanish",
     "vi": "Vietnamese",
+    "zh": "Chinese",
     "switchTo": "Switch language"
   },
   "shop": {

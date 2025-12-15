@@ -386,12 +386,12 @@ export default async function DigitalSkillsPage() {
 
       {/* Language Support */}
       <Section background="white">
-        <div className="max-w-4xl mx-auto">
+        <div className="max-w-5xl mx-auto">
           <h2 className="text-3xl font-bold mb-4 text-center">{t('languageSupport.title')}</h2>
           <p className="text-gray-600 text-center mb-12 max-w-2xl mx-auto">
             {t('languageSupport.description')}
           </p>
-          <div className="grid md:grid-cols-3 gap-6">
+          <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-6">
             <div className="bg-gray-50 rounded-2xl p-6 text-center">
               <div className="w-14 h-14 bg-green-100 rounded-full flex items-center justify-center mx-auto mb-4">
                 <span className="text-2xl">🇪🇸</span>
@@ -410,6 +410,16 @@ export default async function DigitalSkillsPage() {
               <p className="text-gray-600 mb-4">{t('languageSupport.vietnamese.description')}</p>
               <Button href="/programs/digital-equity" variant="primary" size="sm">
                 {t('languageSupport.vietnamese.cta')}
+              </Button>
+            </div>
+            <div className="bg-gray-50 rounded-2xl p-6 text-center">
+              <div className="w-14 h-14 bg-red-100 rounded-full flex items-center justify-center mx-auto mb-4">
+                <span className="text-2xl">🇨🇳</span>
+              </div>
+              <h3 className="text-xl font-bold mb-2">{t('languageSupport.chinese.title')}</h3>
+              <p className="text-gray-600 mb-4">{t('languageSupport.chinese.description')}</p>
+              <Button href="/programs/digital-equity" variant="primary" size="sm">
+                {t('languageSupport.chinese.cta')}
               </Button>
             </div>
             <div className="bg-gray-50 rounded-2xl p-6 text-center">

@@ -935,139 +935,164 @@
   },
   "digitalSkills": {
     "hero": {
-      "title1": "Digital Skills",
-      "title2": "for Everyone",
-      "description": "Build confidence with technology through our free digital skills training and one-on-one digital navigation support."
+      "title1": "数字技能",
+      "title2": "人人可学",
+      "description": "通过我们免费的数字技能培训和一对一数字导航支持，增强您对技术的信心。"
     },
     "services": {
-      "title": "Our Services",
+      "title": "我们的服务",
       "navigation": {
-        "title": "Digital Navigation",
-        "description": "Get personalized, one-on-one support from a Digital Navigator who can help you with:",
-        "item1": "Setting up and using your device",
-        "item2": "Navigating the internet safely",
-        "item3": "Finding affordable connectivity services",
-        "item4": "Building essential digital skills",
-        "cta": "Schedule an Appointment"
+        "title": "数字导航",
+        "description": "获得数字导航员的个性化一对一支持，帮助您：",
+        "item1": "设置和使用您的设备",
+        "item2": "安全上网",
+        "item3": "寻找实惠的网络服务",
+        "item4": "培养基本数字技能",
+        "cta": "预约咨询"
       },
       "skills": {
-        "title": "Digital Skills Building",
-        "description": "Free curriculum and classes to help you effectively use technology. Our foundational courses include:",
-        "item1": "Computer Basics",
-        "item2": "Internet Basics",
-        "item3": "Keyboard Basics",
-        "item4": "Internet Safety",
-        "item5": "G-Suite Training",
-        "cta": "View Curriculum"
+        "title": "数字技能培养",
+        "description": "免费课程和培训，帮助您有效使用技术。我们的基础课程包括：",
+        "item1": "电脑基础",
+        "item2": "互联网基础",
+        "item3": "键盘基础",
+        "item4": "网络安全",
+        "item5": "G-Suite 培训",
+        "cta": "查看课程"
       }
     },
     "programs": {
-      "title": "Education Programs",
-      "description": "Our comprehensive curriculum helps you build practical technology skills through hands-on learning.",
+      "title": "教育项目",
+      "description": "我们全面的课程通过实践学习帮助您培养实用的技术技能。",
       "computerBasics": {
-        "title": "Computer Basics",
-        "description": "Learn to navigate operating systems, manage files, and use essential software applications."
+        "title": "电脑基础",
+        "description": "学习操作系统导航、文件管理和使用基本软件应用程序。"
       },
       "internetSafety": {
-        "title": "Internet Safety",
-        "description": "Protect yourself online with cybersecurity awareness, password management, and safe browsing habits."
+        "title": "网络安全",
+        "description": "通过网络安全意识、密码管理和安全浏览习惯保护自己。"
       },
       "email": {
-        "title": "Email & Communication",
-        "description": "Master email basics, video conferencing, and digital communication etiquette."
+        "title": "电子邮件和通讯",
+        "description": "掌握电子邮件基础、视频会议和数字通讯礼仪。"
       },
       "productivity": {
-        "title": "Productivity Tools",
-        "description": "Get hands-on with Google Workspace, Microsoft Office, and other essential work tools."
+        "title": "生产力工具",
+        "description": "实践操作 Google Workspace、Microsoft Office 和其他必要的工作工具。"
       }
     },
     "schedule": {
-      "title": "Class Schedule",
-      "description": "Join us for in-person workshops at our Portland location or participate in virtual sessions from anywhere.",
+      "title": "课程时间表",
+      "description": "参加我们波特兰地点的面对面工作坊，或在任何地方参加虚拟课程。",
       "inPerson": {
-        "title": "In-Person Classes",
-        "dropIn": "Drop-in Help",
-        "dropInTime": "Tuesdays & Thursdays, 10am - 12pm",
-        "workshops": "Group Workshops",
-        "workshopsTime": "Saturdays, 1pm - 3pm",
-        "oneOnOne": "1-on-1 Sessions",
-        "oneOnOneTime": "By appointment"
+        "title": "面对面课程",
+        "dropIn": "随到随学",
+        "dropInTime": "周二和周四，上午10点 - 中午12点",
+        "workshops": "小组工作坊",
+        "workshopsTime": "周六，下午1点 - 3点",
+        "oneOnOne": "一对一课程",
+        "oneOnOneTime": "需预约"
       },
       "virtual": {
-        "title": "Virtual Options",
-        "webinars": "Live Webinars",
-        "webinarsTime": "Wednesdays, 6pm - 7pm",
-        "selfPaced": "Self-Paced Courses",
-        "selfPacedTime": "Available 24/7"
+        "title": "在线选项",
+        "webinars": "在线研讨会",
+        "webinarsTime": "周三，下午6点 - 7点",
+        "selfPaced": "自学课程",
+        "selfPacedTime": "全天候可用"
       },
-      "cta": "View Full Schedule"
+      "cta": "查看完整时间表"
     },
     "impact": {
-      "title": "Our Impact",
-      "learners": "Learners trained annually",
-      "workshops": "Workshops per year",
-      "satisfaction": "Satisfaction rate",
-      "partners": "Community partners"
+      "title": "我们的影响",
+      "learners": "每年培训的学员",
+      "workshops": "每年举办的工作坊",
+      "satisfaction": "满意度",
+      "partners": "社区合作伙伴"
     },
     "equity": {
-      "title": "What is Digital Equity?",
-      "description": "Digital equity is a condition in which all individuals and communities have the information technology capacity needed for full participation in our society, democracy, and economy. It is necessary for civic and cultural participation, employment, lifelong learning, and access to essential services."
+      "title": "什么是数字公平？",
+      "description": "数字公平是指所有个人和社区都拥有充分参与我们的社会、民主和经济所需的信息技术能力。这对于公民和文化参与、就业、终身学习以及获取基本服务都是必要的。"
     },
     "educationPlatforms": {
-      "title": "Free Learning Resources",
+      "title": "免费学习资源",
       "stat": "82%",
-      "statDescription": "of middle-skill positions require digital skills—yet only 55% of Oregon suburban high schools teach Computer Science at all.",
-      "description": "That's why we created no-experience-necessary learning resources. Explore our educational platform and video tutorials below.",
+      "statDescription": "的中等技能职位需要数字技能——但俄勒冈州郊区高中只有55%开设计算机科学课程。",
+      "description": "这就是为什么我们创建了无需经验的学习资源。探索我们下面的教育平台和视频教程。",
       "platform": {
-        "title": "Educational Platform",
-        "description": "Step-by-step guides and courses on Google Sites",
-        "cta": "Start Learning"
+        "title": "教育平台",
+        "description": "Google Sites 上的分步指南和课程",
+        "cta": "开始学习"
       },
       "youtube": {
-        "title": "Video Tutorials",
-        "description": "Watch tutorials on our YouTube channel",
-        "cta": "Watch Videos"
+        "title": "视频教程",
+        "description": "在我们的 YouTube 频道观看教程",
+        "cta": "观看视频"
       }
     },
     "resources": {
-      "title": "Community Resources",
-      "description": "We partner with organizations across Portland to expand digital access and build digital skills in our community.",
+      "title": "社区资源",
+      "description": "我们与波特兰各地的组织合作，扩大数字访问并在社区中培养数字技能。",
       "communityTech": {
-        "title": "Community Technology Group",
-        "org": "Portland Bureau of Planning & Sustainability",
-        "description": "Portland Bureau of Planning & Sustainability"
+        "title": "社区技术团体",
+        "org": "波特兰规划与可持续发展局",
+        "description": "波特兰规划与可持续发展局"
       },
       "library": {
-        "title": "Multnomah County Library",
-        "description": "Free computer access and digital resources"
+        "title": "马尔特诺玛县图书馆",
+        "description": "免费电脑使用和数字资源"
       },
       "digitunity": {
         "title": "Digitunity",
-        "description": "National device access programs"
+        "description": "全国设备获取项目"
       },
       "ndia": {
-        "title": "National Digital Inclusion Alliance",
-        "description": "Digital equity advocacy and resources"
+        "title": "全国数字包容联盟",
+        "description": "数字公平倡导和资源"
       },
       "xfinity": {
-        "title": "Xfinity Internet Essentials",
-        "description": "Low-cost internet for eligible households"
+        "title": "Xfinity 基础互联网",
+        "description": "符合条件家庭的低价互联网"
       },
       "pcs": {
         "title": "PCs for People",
-        "description": "Affordable computers and internet"
+        "description": "实惠的电脑和互联网"
+      }
+    },
+    "languageSupport": {
+      "title": "您语言的培训",
+      "description": "我们致力于服务波特兰多元化的社区。数字技能培训和支持提供多种语言服务。",
+      "spanish": {
+        "title": "Español",
+        "description": "提供西班牙语课程和一对一支持",
+        "cta": "Más Información"
+      },
+      "vietnamese": {
+        "title": "Tiếng Việt",
+        "description": "数字导航课程提供越南语口译",
+        "cta": "Tìm Hiểu Thêm"
+      },
+      "chinese": {
+        "title": "中文",
+        "description": "数字导航课程提供中文口译",
+        "cta": "了解更多"
+      },
+      "other": {
+        "title": "其他语言",
+        "description": "需要其他语言的支持？请联系我们，我们会尽力满足您的需求。",
+        "cta": "联系我们"
       }
     },
     "cta": {
-      "title": "Ready to build your digital skills?",
-      "description": "Schedule an appointment with a Digital Navigator or explore our free curriculum to get started."
+      "title": "准备好提升您的数字技能了吗？",
+      "description": "预约数字导航员或探索我们的免费课程开始学习。"
     }
   },
   "language": {
-    "en": "English",
-    "es": "Spanish",
-    "vi": "Vietnamese",
-    "switchTo": "Switch language"
+    "en": "英语",
+    "es": "西班牙语",
+    "vi": "越南语",
+    "zh": "中文",
+    "switchTo": "切换语言"
   },
   "shop": {
     "hero": {

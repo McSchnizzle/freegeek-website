@@ -1071,6 +1071,11 @@
         "description": "Interpretación en vietnamita disponible para sesiones de navegación digital",
         "cta": "Tìm Hiểu Thêm"
       },
+      "chinese": {
+        "title": "中文",
+        "description": "Interpretación en chino disponible para sesiones de navegación digital",
+        "cta": "了解更多"
+      },
       "other": {
         "title": "Otros Idiomas",
         "description": "¿Necesitas apoyo en otro idioma? Contáctanos y haremos lo posible para ayudarte.",
@@ -1086,6 +1091,7 @@
     "en": "Inglés",
     "es": "Español",
     "vi": "Vietnamita",
+    "zh": "Chino",
     "switchTo": "Cambiar idioma"
   },
   "shop": {

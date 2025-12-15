@@ -1071,6 +1071,11 @@
         "description": "Có phiên dịch tiếng Việt cho các buổi hướng dẫn kỹ thuật số",
         "cta": "Tìm Hiểu Thêm"
       },
+      "chinese": {
+        "title": "中文",
+        "description": "Có phiên dịch tiếng Trung cho các buổi hướng dẫn kỹ thuật số",
+        "cta": "了解更多"
+      },
       "other": {
         "title": "Ngôn Ngữ Khác",
         "description": "Cần hỗ trợ bằng ngôn ngữ khác? Liên hệ với chúng tôi và chúng tôi sẽ cố gắng hỗ trợ bạn.",
@@ -1086,6 +1091,7 @@
     "en": "Tiếng Anh",
     "es": "Tiếng Tây Ban Nha",
     "vi": "Tiếng Việt",
+    "zh": "Tiếng Trung",
     "switchTo": "Chuyển ngôn ngữ"
   },
   "shop": {
