@@ -1076,6 +1076,11 @@
         "description": "数字导航课程提供中文口译",
         "cta": "了解更多"
       },
+      "russian": {
+        "title": "Русский",
+        "description": "数字导航课程提供俄语口译",
+        "cta": "Узнать больше"
+      },
       "other": {
         "title": "其他语言",
         "description": "需要其他语言的支持？请联系我们，我们会尽力满足您的需求。",
@@ -1092,6 +1097,7 @@
     "es": "西班牙语",
     "vi": "越南语",
     "zh": "中文",
+    "ru": "俄语",
     "switchTo": "切换语言"
   },
   "shop": {
@@ -2078,56 +2084,56 @@
   },
   "largeDonation": {
     "hero": {
-      "title1": "Schedule a",
-      "title2": "Large Donation",
-      "description": "Have 20+ devices to donate? Schedule ahead so we can ensure we have space and staff ready to receive your donation efficiently."
+      "title1": "预约",
+      "title2": "大宗捐赠",
+      "description": "要捐赠20台以上设备？请提前预约，以便我们确保有足够的空间和工作人员高效接收您的捐赠。"
     },
     "what": {
-      "title": "What Counts as a Large Donation?",
-      "description": "If you have 20 or more devices to donate, we ask that you schedule ahead. This includes:",
-      "item1": "Office cleanouts and IT refreshes",
-      "item2": "School and library donations",
-      "item3": "Estate donations",
-      "item4": "Community collection drives"
+      "title": "什么算作大宗捐赠？",
+      "description": "如果您要捐赠20台或更多设备，我们请求您提前预约。这包括：",
+      "item1": "办公室清理和IT设备更新",
+      "item2": "学校和图书馆捐赠",
+      "item3": "遗产捐赠",
+      "item4": "社区收集活动"
     },
     "pickup": {
-      "title": "Pickup Service",
-      "description": "For very large donations (100+ devices) or donors who cannot transport items, we offer pickup service in the Portland metro area.",
-      "note": "Pickup availability depends on our schedule and resources. Contact us to discuss options."
+      "title": "上门取货服务",
+      "description": "对于超大宗捐赠（100台以上设备）或无法运输物品的捐赠者，我们在波特兰都会区提供上门取货服务。",
+      "note": "取货服务取决于我们的时间安排和资源。请联系我们讨论选项。"
     },
     "form": {
-      "title": "Schedule Your Donation",
-      "description": "Tell us about your donation and we'll contact you to schedule a time.",
-      "name": "Your Name",
-      "email": "Email Address",
-      "phone": "Phone Number",
-      "organization": "Organization (if applicable)",
-      "deviceCount": "Estimated Number of Devices",
-      "deviceTypes": "Types of Devices",
-      "deviceTypesPlaceholder": "e.g., 15 laptops, 10 desktops, 5 monitors...",
-      "preferredDate": "Preferred Date(s)",
-      "preferredDatePlaceholder": "e.g., Week of January 15, or specific dates...",
-      "needPickup": "Do you need pickup service?",
-      "pickupYes": "Yes, I need pickup",
-      "pickupNo": "No, I can drop off",
-      "pickupAddress": "Pickup Address",
-      "notes": "Additional Notes",
-      "notesPlaceholder": "Any other details about your donation...",
-      "submit": "Request Scheduling",
-      "submitting": "Submitting...",
-      "success": "Request Submitted!",
-      "successMessage": "Thank you! We'll contact you within 2 business days to confirm your donation appointment.",
-      "error": "Failed to submit request"
+      "title": "预约您的捐赠",
+      "description": "告诉我们您的捐赠情况，我们会联系您安排时间。",
+      "name": "您的姓名",
+      "email": "电子邮箱",
+      "phone": "电话号码",
+      "organization": "组织机构（如适用）",
+      "deviceCount": "预计设备数量",
+      "deviceTypes": "设备类型",
+      "deviceTypesPlaceholder": "例如：15台笔记本电脑、10台台式机、5台显示器...",
+      "preferredDate": "首选日期",
+      "preferredDatePlaceholder": "例如：1月15日那周，或具体日期...",
+      "needPickup": "您需要上门取货服务吗？",
+      "pickupYes": "是的，我需要上门取货",
+      "pickupNo": "不需要，我可以自己送来",
+      "pickupAddress": "取货地址",
+      "notes": "备注",
+      "notesPlaceholder": "关于您捐赠的其他详情...",
+      "submit": "提交预约请求",
+      "submitting": "提交中...",
+      "success": "请求已提交！",
+      "successMessage": "谢谢！我们将在2个工作日内联系您确认捐赠预约。",
+      "error": "提交请求失败"
     },
     "dropOff": {
-      "title": "Drop-Off Information",
+      "title": "送达信息",
       "address": "1731 SE 10th Avenue, Portland, OR 97214",
-      "hours": "Wednesday - Saturday, 11 AM - 4 PM",
-      "note": "Please bring donations to the outdoor parking lot on the northeast side of our building."
+      "hours": "周三至周六，上午11点 - 下午4点",
+      "note": "请将捐赠物品送至我们大楼东北侧的室外停车场。"
     },
     "cta": {
-      "title": "Have a smaller donation?",
-      "description": "For under 20 devices, no appointment needed. Just drive up during our drop-off hours."
+      "title": "捐赠数量较少？",
+      "description": "20台设备以下无需预约。只需在我们的开放时间开车前来即可。"
     }
   }
 }

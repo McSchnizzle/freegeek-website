@@ -1076,6 +1076,11 @@
         "description": "Có phiên dịch tiếng Trung cho các buổi hướng dẫn kỹ thuật số",
         "cta": "了解更多"
       },
+      "russian": {
+        "title": "Русский",
+        "description": "Có phiên dịch tiếng Nga cho các buổi hướng dẫn kỹ thuật số",
+        "cta": "Узнать больше"
+      },
       "other": {
         "title": "Ngôn Ngữ Khác",
         "description": "Cần hỗ trợ bằng ngôn ngữ khác? Liên hệ với chúng tôi và chúng tôi sẽ cố gắng hỗ trợ bạn.",
@@ -1092,6 +1097,7 @@
     "es": "Tiếng Tây Ban Nha",
     "vi": "Tiếng Việt",
     "zh": "Tiếng Trung",
+    "ru": "Tiếng Nga",
     "switchTo": "Chuyển ngôn ngữ"
   },
   "shop": {

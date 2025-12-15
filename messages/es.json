@@ -1076,6 +1076,11 @@
         "description": "Interpretación en chino disponible para sesiones de navegación digital",
         "cta": "了解更多"
       },
+      "russian": {
+        "title": "Русский",
+        "description": "Interpretación en ruso disponible para sesiones de navegación digital",
+        "cta": "Узнать больше"
+      },
       "other": {
         "title": "Otros Idiomas",
         "description": "¿Necesitas apoyo en otro idioma? Contáctanos y haremos lo posible para ayudarte.",
@@ -1092,6 +1097,7 @@
     "es": "Español",
     "vi": "Vietnamita",
     "zh": "Chino",
+    "ru": "Ruso",
     "switchTo": "Cambiar idioma"
   },
   "shop": {

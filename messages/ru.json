@@ -1058,15 +1058,46 @@
         "description": "Доступные компьютеры и интернет"
       }
     },
+    "languageSupport": {
+      "title": "Обучение на вашем языке",
+      "description": "Мы стремимся обслуживать разнообразные сообщества Портленда. Обучение цифровым навыкам и поддержка доступны на нескольких языках.",
+      "spanish": {
+        "title": "Español",
+        "description": "Занятия и индивидуальная поддержка на испанском языке",
+        "cta": "Más Información"
+      },
+      "vietnamese": {
+        "title": "Tiếng Việt",
+        "description": "Перевод на вьетнамский язык для сессий цифрового навигатора",
+        "cta": "Tìm Hiểu Thêm"
+      },
+      "chinese": {
+        "title": "中文",
+        "description": "Перевод на китайский язык для сессий цифрового навигатора",
+        "cta": "了解更多"
+      },
+      "russian": {
+        "title": "Русский",
+        "description": "Перевод на русский язык для сессий цифрового навигатора",
+        "cta": "Узнать больше"
+      },
+      "other": {
+        "title": "Другие языки",
+        "description": "Нужна поддержка на другом языке? Свяжитесь с нами, и мы сделаем всё возможное, чтобы помочь вам.",
+        "cta": "Связаться с нами"
+      }
+    },
     "cta": {
       "title": "Готовы развивать свои цифровые навыки?",
       "description": "Запланируйте встречу с цифровым навигатором или изучите нашу бесплатную программу, чтобы начать."
     }
   },
   "language": {
-    "en": "English",
-    "es": "Español",
-    "vi": "Tiếng Việt",
+    "en": "Английский",
+    "es": "Испанский",
+    "vi": "Вьетнамский",
+    "zh": "Китайский",
+    "ru": "Русский",
     "switchTo": "Сменить язык"
   },
   "shop": {
@@ -2053,56 +2084,56 @@
   },
   "largeDonation": {
     "hero": {
-      "title1": "Schedule a",
-      "title2": "Large Donation",
-      "description": "Have 20+ devices to donate? Schedule ahead so we can ensure we have space and staff ready to receive your donation efficiently."
+      "title1": "Запланируйте",
+      "title2": "крупное пожертвование",
+      "description": "Хотите пожертвовать более 20 устройств? Запланируйте заранее, чтобы мы могли подготовить место и персонал для эффективного приёма вашего пожертвования."
     },
     "what": {
-      "title": "What Counts as a Large Donation?",
-      "description": "If you have 20 or more devices to donate, we ask that you schedule ahead. This includes:",
-      "item1": "Office cleanouts and IT refreshes",
-      "item2": "School and library donations",
-      "item3": "Estate donations",
-      "item4": "Community collection drives"
+      "title": "Что считается крупным пожертвованием?",
+      "description": "Если вы хотите пожертвовать 20 или более устройств, мы просим вас записаться заранее. Это включает:",
+      "item1": "Уборка офисов и обновление IT-оборудования",
+      "item2": "Пожертвования от школ и библиотек",
+      "item3": "Пожертвования из наследства",
+      "item4": "Общественные акции по сбору техники"
     },
     "pickup": {
-      "title": "Pickup Service",
-      "description": "For very large donations (100+ devices) or donors who cannot transport items, we offer pickup service in the Portland metro area.",
-      "note": "Pickup availability depends on our schedule and resources. Contact us to discuss options."
+      "title": "Услуга самовывоза",
+      "description": "Для очень крупных пожертвований (100+ устройств) или доноров, которые не могут доставить предметы, мы предлагаем услугу самовывоза в районе Портленда.",
+      "note": "Доступность самовывоза зависит от нашего расписания и ресурсов. Свяжитесь с нами для обсуждения вариантов."
     },
     "form": {
-      "title": "Schedule Your Donation",
-      "description": "Tell us about your donation and we'll contact you to schedule a time.",
-      "name": "Your Name",
-      "email": "Email Address",
-      "phone": "Phone Number",
-      "organization": "Organization (if applicable)",
-      "deviceCount": "Estimated Number of Devices",
-      "deviceTypes": "Types of Devices",
-      "deviceTypesPlaceholder": "e.g., 15 laptops, 10 desktops, 5 monitors...",
-      "preferredDate": "Preferred Date(s)",
-      "preferredDatePlaceholder": "e.g., Week of January 15, or specific dates...",
-      "needPickup": "Do you need pickup service?",
-      "pickupYes": "Yes, I need pickup",
-      "pickupNo": "No, I can drop off",
-      "pickupAddress": "Pickup Address",
-      "notes": "Additional Notes",
-      "notesPlaceholder": "Any other details about your donation...",
-      "submit": "Request Scheduling",
-      "submitting": "Submitting...",
-      "success": "Request Submitted!",
-      "successMessage": "Thank you! We'll contact you within 2 business days to confirm your donation appointment.",
-      "error": "Failed to submit request"
+      "title": "Запланируйте ваше пожертвование",
+      "description": "Расскажите нам о вашем пожертвовании, и мы свяжемся с вами для назначения времени.",
+      "name": "Ваше имя",
+      "email": "Электронная почта",
+      "phone": "Номер телефона",
+      "organization": "Организация (если применимо)",
+      "deviceCount": "Примерное количество устройств",
+      "deviceTypes": "Типы устройств",
+      "deviceTypesPlaceholder": "например, 15 ноутбуков, 10 настольных компьютеров, 5 мониторов...",
+      "preferredDate": "Предпочтительная дата(ы)",
+      "preferredDatePlaceholder": "например, неделя 15 января или конкретные даты...",
+      "needPickup": "Вам нужна услуга самовывоза?",
+      "pickupYes": "Да, мне нужен самовывоз",
+      "pickupNo": "Нет, я могу привезти сам",
+      "pickupAddress": "Адрес для самовывоза",
+      "notes": "Дополнительные примечания",
+      "notesPlaceholder": "Любые другие детали о вашем пожертвовании...",
+      "submit": "Отправить запрос",
+      "submitting": "Отправка...",
+      "success": "Запрос отправлен!",
+      "successMessage": "Спасибо! Мы свяжемся с вами в течение 2 рабочих дней для подтверждения вашей записи.",
+      "error": "Не удалось отправить запрос"
     },
     "dropOff": {
-      "title": "Drop-Off Information",
+      "title": "Информация о доставке",
       "address": "1731 SE 10th Avenue, Portland, OR 97214",
-      "hours": "Wednesday - Saturday, 11 AM - 4 PM",
-      "note": "Please bring donations to the outdoor parking lot on the northeast side of our building."
+      "hours": "Среда — суббота, 11:00 — 16:00",
+      "note": "Пожалуйста, привозите пожертвования на открытую парковку с северо-восточной стороны нашего здания."
     },
     "cta": {
-      "title": "Have a smaller donation?",
-      "description": "For under 20 devices, no appointment needed. Just drive up during our drop-off hours."
+      "title": "У вас небольшое пожертвование?",
+      "description": "Для менее 20 устройств запись не требуется. Просто приезжайте в часы приёма."
     }
   }
 }
